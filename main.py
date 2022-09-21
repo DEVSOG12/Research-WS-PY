@@ -47,13 +47,11 @@ with open("./data/ChildrensRights.csv", 'r') as file:
             try:
                 html = urlopen(req).read()
             except HTTPError:
-                print("HTTP Error in ", k, "th", "\n", "link: ", paa["3"]["URL"])
+                print("HTTP Error in ", k, "th", "\n", "link: ", paa[str(k+1)]["URL"])
                 bad[str(k+1)] = paa[str(k+1)]
                 print("Done Request and Writing but Failed: ", k, "Time Taken: ", "--- %s seconds ---" % (time.time() - startReqT))
             except Exception as e:
                 print(e, "Done Request and Writing but Failed to Save: ", k, "Time Taken: ", "--- %s seconds ---" % (time.time() - startReqT))
-            # else: print("Error in ", k, "th", "\n", "link: ", paa["3"]["URL"]) print("Done Request and Writing but
-            # Failed: ", k, "Time Taken: ", "--- %s seconds ---" % (time.time() - startReqT))
             header = "<h1>" + paa[str(k+1)]["Organization Name"] + "</h1>"
             header2 = "<h1>" + paa[str(k+1)]["Topic area"] + "</h1>"
             header3 = "<h1>" + paa[str(k+1)]["URL"] + "</h1>"
@@ -64,8 +62,8 @@ with open("./data/ChildrensRights.csv", 'r') as file:
                 total = total + " " + str(i)
             total = header + header2 + header3 + header4 + total
             total = str(total.encode('ascii', errors='ignore').decode("utf-8"))
-            nameoffile = paa["3"]["Organization Name"] + "_" + paa["3"]["Topic area"] + "_" + paa["3"][
-                "type"] + "_" + str(k + 1)
+            nameoffile = paa[str(k+1)]["Organization Name"] + "_" + paa[str(k+1)]["Topic area"] + "_" + paa[str(k+1)][
+                "type"] + "_" + str(k + 1) + ".pdf"
 
             try:
                 pdfkit.from_string(total, "./Children/" + nameoffile)
@@ -83,14 +81,15 @@ with open("./data/ChildrensRights.csv", 'r') as file:
                 headers={'User-Agent': 'Mozilla/5.0'},
             )
 
-            nameoffile = paa["3"]["Organization Name"] + "_" + paa["3"]["Topic area"] + "_" + paa["3"][
-                "type"] + "_" + str(k + 1)
+            nameoffile = paa[str(k + 1)]["Organization Name"] + "_" + paa[str(k + 1)]["Topic area"] + "_" + \
+                         paa[str(k + 1)][
+                             "type"] + "_" + str(k + 1) + ".pdf"
 
             try:
                 response = urlopen(req)
 
             except HTTPError:
-                print("HTTP Error in ", k, "th", "\n", "link: ", paa["3"]["URL"])
+                print("HTTP Error in ", k, "th", "\n", "link: ", paa[str(k+1)]["URL"])
                 print("Done Request and Writing but Failed: ", k, "Time Taken: ",
                       "--- %s seconds ---" % (time.time() - startReqT))
 
