@@ -1,14 +1,27 @@
+import os
 from urllib.error import HTTPError
 import time
 from bs4 import BeautifulSoup
 import csv
 from urllib.request import Request, urlopen
 import pdfkit
+import sys, threading
+
+sys.setrecursionlimit(10**7) # max depth of recursion
+threading.stack_size(2**27)  # new thread will get stack of such size
 
 
 def text_from_html(body):
-    soup = BeautifulSoup(body, 'html.parser')
-    texts = soup.findAll('p')
+    try:
+        soup = BeautifulSoup(body, 'html.parser')
+        texts = soup.findAll('p')
+        for x in texts:
+            if x.name == 'img':
+                x.decompose()
+
+    except Exception as ex:
+        texts = ""
+        print("Error", ex)
     # visible_texts = filter(tag_visible, texts)
     return texts
 
@@ -38,6 +51,12 @@ with open("./data/ChildrensRights.csv", 'r') as file:
     print("Done Reading: ", "Time Taken: ", "--- %s seconds ---" % (time.time() - readerTimeS))
 
     for k in range(len(paa)):
+        nameoffile = "{0}_{1}_{2}_{3}.pdf".format(paa[str(k + 1)]["Organization Name"],
+                                                  paa[str(k + 1)]["Topic area"], paa[str(k + 1)][
+                                                      "type"], str(k + 1))
+        if not os.path.exists("./ChildrensRights"):
+            os.makedirs("./ChildrensRights")
+
         if not (str(paa[str(k + 1)]["URL"]).__contains__('.pdf') or not str(paa[str(k + 1)]["URL"])):
             startReqT = time.time()
             req = Request(
@@ -59,14 +78,17 @@ with open("./data/ChildrensRights.csv", 'r') as file:
             total = ""
 
             for i in text_from_html(html):
-                total = total + " " + str(i)
+                ksi = ""
+                try:
+                    ksi = str(i)
+                except Exception as ex:
+                    print("Can't parse string", ex, "<-- the error")
+                total = total + " " + ksi
             total = header + header2 + header3 + header4 + total
             total = str(total.encode('ascii', errors='ignore').decode("utf-8"))
-            nameoffile = paa[str(k+1)]["Organization Name"] + "_" + paa[str(k+1)]["Topic area"] + "_" + paa[str(k+1)][
-                "type"] + "_" + str(k + 1) + ".pdf"
 
             try:
-                pdfkit.from_string(total, "./Children/" + nameoffile)
+                pdfkit.from_string(total, "./ChildrensRights/" + nameoffile)
                 print("Done Request and Writing: ", k, "Time Taken: ", "--- %s seconds ---" % (time.time() - startReqT))
 
             except Exception as e:
@@ -81,10 +103,6 @@ with open("./data/ChildrensRights.csv", 'r') as file:
                 headers={'User-Agent': 'Mozilla/5.0'},
             )
 
-            nameoffile = paa[str(k + 1)]["Organization Name"] + "_" + paa[str(k + 1)]["Topic area"] + "_" + \
-                         paa[str(k + 1)][
-                             "type"] + "_" + str(k + 1) + ".pdf"
-
             try:
                 response = urlopen(req)
 
@@ -93,7 +111,7 @@ with open("./data/ChildrensRights.csv", 'r') as file:
                 print("Done Request and Writing but Failed: ", k, "Time Taken: ",
                       "--- %s seconds ---" % (time.time() - startReqT))
 
-            file = open("./Children/" + nameoffile, 'wb')
+            file = open("./ChildrensRights/" + nameoffile, 'wb')
 
             file.write(response.read())
 
