@@ -1,13 +1,17 @@
-import os
-from urllib.error import HTTPError
-import time
-from bs4 import BeautifulSoup
 import csv
+import os
+import sys
+import threading
+import time
+from os import listdir
+from os.path import isfile, join
+from urllib.error import HTTPError
 from urllib.request import Request, urlopen
-import pdfkit
-import sys, threading
 
-sys.setrecursionlimit(10**7) # max depth of recursion
+import pdfkit
+from bs4 import BeautifulSoup
+
+sys.setrecursionlimit(10**7)  # max depth of recursion
 threading.stack_size(2**27)  # new thread will get stack of such size
 
 
@@ -29,97 +33,110 @@ def text_from_html(body):
 datt = []
 paa = {}
 bad = {}
-with open("./data/ChildrensRights.csv", 'r') as file:
-    readerTimeS = time.time()
-    csvreader = csv.reader(file)
-    for row in csvreader:
-        datt.append(row)
-    for i in range(len(datt)):
-        if i != 0:
-            paa[str(i)] = {
-                datt[0][0]: datt[i][0],
-                datt[0][1]: datt[i][1],
-                datt[0][2]: datt[i][2],
-                "type": datt[0][3] if datt[i][3] == "1" else datt[0][4] if datt[i][4] == "1" else datt[0][5] if datt[i][
-                                                                                                                    5] == "1" else
-                datt[0][6] if datt[i][6] == "1" else datt[0][7] if datt[i][7] == "1" else datt[0][8] if datt[i][
-                                                                                                            8] == "1" else
-                datt[0][9] if datt[i][9] == "1" else datt[0][10],
 
-            }
-    # csv.clo
-    print("Done Reading: ", "Time Taken: ", "--- %s seconds ---" % (time.time() - readerTimeS))
 
-    for k in range(len(paa)):
-        nameoffile = "{0}_{1}_{2}_{3}.pdf".format(paa[str(k + 1)]["Organization Name"],
-                                                  paa[str(k + 1)]["Topic area"], paa[str(k + 1)][
-                                                      "type"], str(k + 1))
-        if not os.path.exists("./ChildrensRights"):
-            os.makedirs("./ChildrensRights")
+onlyFiles = [f for f in listdir("./data") if isfile(join("./data", f))]
 
-        if not (str(paa[str(k + 1)]["URL"]).__contains__('.pdf') or not str(paa[str(k + 1)]["URL"])):
-            startReqT = time.time()
-            req = Request(
-                url=paa[str(k + 1)]["URL"],
-                headers={'User-Agent': 'Mozilla/5.0'},
-            )
-            try:
-                html = urlopen(req).read()
-            except HTTPError:
-                print("HTTP Error in ", k, "th", "\n", "link: ", paa[str(k+1)]["URL"])
-                bad[str(k+1)] = paa[str(k+1)]
-                print("Done Request and Writing but Failed: ", k, "Time Taken: ", "--- %s seconds ---" % (time.time() - startReqT))
-            except Exception as e:
-                print(e, "Done Request and Writing but Failed to Save: ", k, "Time Taken: ", "--- %s seconds ---" % (time.time() - startReqT))
-            header = "<h1>" + paa[str(k+1)]["Organization Name"] + "</h1>"
-            header2 = "<h1>" + paa[str(k+1)]["Topic area"] + "</h1>"
-            header3 = "<h1>" + paa[str(k+1)]["URL"] + "</h1>"
-            header4 = "<h1>" + paa[str(k+1)]["type"] + "</h1>"
-            total = ""
+for i in onlyFiles:
+    if not i.__contains__(".csv"):
+        onlyFiles.remove(i)
 
-            for i in text_from_html(html):
-                ksi = ""
+for mrm in onlyFiles:
+    name = "./data/" + mrm
+    with open(name, 'r') as file:
+        readerTimeS = time.time()
+        csvreader = csv.reader(file)
+        for row in csvreader:
+            datt.append(row)
+        for i in range(len(datt)):
+            if i != 0:
+                paa[str(i)] = {
+                    datt[0][0]: datt[i][0],
+                    datt[0][1]: datt[i][1],
+                    datt[0][2]: datt[i][2],
+                    "type": datt[0][3] if datt[i][3] == "1" else datt[0][4] if datt[i][4] == "1" else datt[0][5] if datt[i][
+                                                                                                                        5] == "1" else
+                    datt[0][6] if datt[i][6] == "1" else datt[0][7] if datt[i][7] == "1" else datt[0][8] if datt[i][
+                                                                                                                8] == "1" else
+                    datt[0][9] if datt[i][9] == "1" else datt[0][10],
+
+                }
+        # csv.clo
+        print("Done Reading: ", "Time Taken: ", "--- %s seconds ---" % (time.time() - readerTimeS))
+        # print(paa)
+        # break
+        # print()
+        for k in list(paa.keys()):
+            nameoffile = "{0}_{1}_{2}_{3}.pdf".format(paa[str(k)]["Organization Name"],
+                                                      paa[str(k)]["Topic area"], paa[str(k)][
+                                                          "type"], str(k))
+            namer = "./outputs/" + mrm
+            if not os.path.exists(namer):
+                os.makedirs(namer)
+
+            if not (str(paa[str(k)]["URL"]).__contains__('.pdf') or not str(paa[str(k)]["URL"])):
+                startReqT = time.time()
+                req = Request(
+                    url=paa[str(k)]["URL"],
+                    headers={'User-Agent': 'Mozilla/5.0'},
+                )
                 try:
-                    ksi = str(i)
-                except Exception as ex:
-                    print("Can't parse string", ex, "<-- the error")
-                total = total + " " + ksi
-            total = header + header2 + header3 + header4 + total
-            total = str(total.encode('ascii', errors='ignore').decode("utf-8"))
+                    html = urlopen(req).read()
+                except HTTPError:
+                    print("HTTP Error in ", k, "th", "\n", "link: ", paa[str(k)]["URL"])
+                    bad[str(k)] = paa[str(k)]
+                    print("Done Request and Writing but Failed: ", k, "Time Taken: ", "--- %s seconds ---" % (time.time() - startReqT))
+                except Exception as e:
+                    print(e, "Done Request and Writing but Failed to Save: ", k, "Time Taken: ", "--- %s seconds ---" % (time.time() - startReqT))
+                header = "<h1>" + paa[str(k)]["Organization Name"] + "</h1>"
+                header2 = "<h1>" + paa[str(k)]["Topic area"] + "</h1>"
+                header3 = "<h1>" + paa[str(k)]["URL"] + "</h1>"
+                header4 = "<h1>" + paa[str(k)]["type"] + "</h1>"
+                total = ""
 
-            try:
-                pdfkit.from_string(total, "./ChildrensRights/" + nameoffile)
-                print("Done Request and Writing: ", k, "Time Taken: ", "--- %s seconds ---" % (time.time() - startReqT))
+                for i in text_from_html(html):
+                    ksi = ""
+                    try:
+                        ksi = str(i)
+                    except Exception as ex:
+                        print("Can't parse string", ex, "<-- the error")
+                    total = total + " " + ksi
+                total = header + header2 + header3 + header4 + total
+                total = str(total.encode('ascii', errors='ignore').decode("utf-8"))
 
-            except Exception as e:
-                print(e, "Done Request and Writing but Failed to Save: ", k, "Time Taken: ", "--- %s seconds ---" % (time.time() - startReqT))
-                bad[str(k+1)] = paa[str(k+1)]
+                try:
+                    pdfkit.from_string(total, namer + "/" + nameoffile)
+                    print("Done Request and Writing: ", k, "Time Taken: ", "--- %s seconds ---" % (time.time() - startReqT))
 
-        if str(paa[str(k + 1)]["URL"]).__contains__('.pdf'):
-            startReqT = time.time()
+                except Exception as e:
+                    print(e, "Done Request and Writing but Failed to Save: ", k, "Time Taken: ", "--- %s seconds ---" % (time.time() - startReqT))
+                    bad[str(k)] = paa[str(k)]
 
-            req = Request(
-                url=paa[str(k + 1)]["URL"],
-                headers={'User-Agent': 'Mozilla/5.0'},
-            )
+            if str(paa[str(k)]["URL"]).__contains__('.pdf'):
+                startReqT = time.time()
 
-            try:
-                response = urlopen(req)
+                req = Request(
+                    url=paa[str(k)]["URL"],
+                    headers={'User-Agent': 'Mozilla/5.0'},
+                )
 
-            except HTTPError:
-                print("HTTP Error in ", k, "th", "\n", "link: ", paa[str(k+1)]["URL"])
-                print("Done Request and Writing but Failed: ", k, "Time Taken: ",
-                      "--- %s seconds ---" % (time.time() - startReqT))
+                try:
+                    response = urlopen(req)
 
-            file = open("./ChildrensRights/" + nameoffile, 'wb')
+                except HTTPError:
+                    print("HTTP Error in ", k, "th", "\n", "link: ", paa[str(k)]["URL"])
+                    print("Done Request and Writing but Failed: ", k, "Time Taken: ",
+                          "--- %s seconds ---" % (time.time() - startReqT))
 
-            file.write(response.read())
+                file = open(namer + "/" + nameoffile, 'wb')
 
-            file.close()
+                file.write(response.read())
 
-            print("Done Request and Writing: ", k,  "Time Taken: ", "--- %s seconds ---" % (time.time() - startReqT))
+                file.close()
 
-    print(bad)
+                print("Done Request and Writing: ", k,  "Time Taken: ", "--- %s seconds ---" % (time.time() - startReqT))
+
+        print(bad)
 
 
 def tests():
