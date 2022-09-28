@@ -1,18 +1,19 @@
 import csv
+import logging
 import os
 import sys
 import threading
 import time
 from os import listdir
 from os.path import isfile, join
-from urllib.error import HTTPError
+from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
-
+import socket
 import pdfkit
 from bs4 import BeautifulSoup
 
-sys.setrecursionlimit(10**7)  # max depth of recursion
-threading.stack_size(2**27)  # new thread will get stack of such size
+sys.setrecursionlimit(10 ** 7)  # max depth of recursion
+threading.stack_size(2 ** 27)  # new thread will get stack of such size
 
 
 def text_from_html(body):
@@ -34,7 +35,6 @@ datt = []
 paa = {}
 bad = {}
 
-
 onlyFiles = [f for f in listdir("./data") if isfile(join("./data", f))]
 
 for i in onlyFiles:
@@ -54,8 +54,9 @@ for mrm in onlyFiles:
                     datt[0][0]: datt[i][0],
                     datt[0][1]: datt[i][1],
                     datt[0][2]: datt[i][2],
-                    "type": datt[0][3] if datt[i][3] == "1" else datt[0][4] if datt[i][4] == "1" else datt[0][5] if datt[i][
-                                                                                                                        5] == "1" else
+                    "type": datt[0][3] if datt[i][3] == "1" else datt[0][4] if datt[i][4] == "1" else datt[0][5] if
+                    datt[i][
+                        5] == "1" else
                     datt[0][6] if datt[i][6] == "1" else datt[0][7] if datt[i][7] == "1" else datt[0][8] if datt[i][
                                                                                                                 8] == "1" else
                     datt[0][9] if datt[i][9] == "1" else datt[0][10],
@@ -81,13 +82,15 @@ for mrm in onlyFiles:
                     headers={'User-Agent': 'Mozilla/5.0'},
                 )
                 try:
-                    html = urlopen(req).read()
+                    html = urlopen(req, timeout=10).read()
                 except HTTPError:
                     print("HTTP Error in ", k, "th", "\n", "link: ", paa[str(k)]["URL"])
                     bad[str(k)] = paa[str(k)]
-                    print("Done Request and Writing but Failed: ", k, "Time Taken: ", "--- %s seconds ---" % (time.time() - startReqT))
+                    print("Done Request and Writing but Failed: ", k, "Time Taken: ",
+                          "--- %s seconds ---" % (time.time() - startReqT))
                 except Exception as e:
-                    print(e, "Done Request and Writing but Failed to Save: ", k, "Time Taken: ", "--- %s seconds ---" % (time.time() - startReqT))
+                    print(e, "Done Request and Writing but Failed to Save: ", k, "Time Taken: ",
+                          "--- %s seconds ---" % (time.time() - startReqT))
                 header = "<h1>" + paa[str(k)]["Organization Name"] + "</h1>"
                 header2 = "<h1>" + paa[str(k)]["Topic area"] + "</h1>"
                 header3 = "<h1>" + paa[str(k)]["URL"] + "</h1>"
@@ -106,10 +109,12 @@ for mrm in onlyFiles:
 
                 try:
                     pdfkit.from_string(total, namer + "/" + nameoffile)
-                    print("Done Request and Writing: ", k, "Time Taken: ", "--- %s seconds ---" % (time.time() - startReqT))
+                    print("Done Request and Writing: ", k, "Time Taken: ",
+                          "--- %s seconds ---" % (time.time() - startReqT))
 
                 except Exception as e:
-                    print(e, "Done Request and Writing but Failed to Save: ", k, "Time Taken: ", "--- %s seconds ---" % (time.time() - startReqT))
+                    print(e, "Done Request and Writing but Failed to Save: ", k, "Time Taken: ",
+                          "--- %s seconds ---" % (time.time() - startReqT))
                     bad[str(k)] = paa[str(k)]
 
             if str(paa[str(k)]["URL"]).__contains__('.pdf'):
@@ -121,12 +126,22 @@ for mrm in onlyFiles:
                 )
 
                 try:
-                    response = urlopen(req)
+                    response = urlopen(req, timeout=0)
 
-                except HTTPError:
-                    print("HTTP Error in ", k, "th", "\n", "link: ", paa[str(k)]["URL"])
-                    print("Done Request and Writing but Failed: ", k, "Time Taken: ",
-                          "--- %s seconds ---" % (time.time() - startReqT))
+
+                except HTTPError as error:
+                    logging.error('Data not retrieved because %s\nURL: %s', error, paa[str(k)]["URL"])
+
+                except URLError as error:
+
+                    if isinstance(error.reason, socket.timeout):
+
+                        logging.error('socket timed out - URL %s', paa[str(k)]["URL"])
+
+                    else:
+                        logging.error('some other error happened')
+                else:
+                    logging.info('Access successful.')
 
                 file = open(namer + "/" + nameoffile, 'wb')
 
@@ -134,7 +149,7 @@ for mrm in onlyFiles:
 
                 file.close()
 
-                print("Done Request and Writing: ", k,  "Time Taken: ", "--- %s seconds ---" % (time.time() - startReqT))
+                print("Done Request and Writing: ", k, "Time Taken: ", "--- %s seconds ---" % (time.time() - startReqT))
 
         print(bad)
 
