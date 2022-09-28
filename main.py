@@ -126,22 +126,14 @@ for mrm in onlyFiles:
                 )
 
                 try:
-                    response = urlopen(req, timeout=0)
-
-
+                    response = urlopen(req, timeout=10)
                 except HTTPError as error:
                     logging.error('Data not retrieved because %s\nURL: %s', error, paa[str(k)]["URL"])
-
                 except URLError as error:
-
                     if isinstance(error.reason, socket.timeout):
-
                         logging.error('socket timed out - URL %s', paa[str(k)]["URL"])
-
                     else:
                         logging.error('some other error happened')
-                else:
-                    logging.info('Access successful.')
 
                 file = open(namer + "/" + nameoffile, 'wb')
 
