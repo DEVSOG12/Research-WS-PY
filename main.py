@@ -15,6 +15,8 @@ from bs4 import BeautifulSoup
 sys.setrecursionlimit(10 ** 7)  # max depth of recursion
 threading.stack_size(2 ** 27)  # new thread will get stack of such size
 
+DEV = True
+
 
 def text_from_html(body):
     try:
@@ -144,7 +146,7 @@ for mrm in onlyFiles:
                 print("Done Request and Writing: ", k, "Time Taken: ", "--- %s seconds ---" % (time.time() - startReqT))
                 # print('The k val', k)
 
-            if int(k) == 10:
+            if int(k) == 50 and DEV:
                 break
         print(bad)
 
