@@ -79,7 +79,7 @@ for mrm in onlyFiles:
                 startReqT = time.time()
                 req = Request(
                     url=paa[str(k)]["URL"],
-                    headers={'User-Agent': 'Mozilla/5.0'},
+                    headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'},
                 )
                 try:
                     html = urlopen(req, timeout=10).read()
@@ -122,7 +122,7 @@ for mrm in onlyFiles:
 
                 req = Request(
                     url=paa[str(k)]["URL"],
-                    headers={'User-Agent': 'Mozilla/5.0'},
+                    headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'},
                 )
 
                 try:
@@ -133,7 +133,7 @@ for mrm in onlyFiles:
                     if isinstance(error.reason, socket.timeout):
                         logging.error('socket timed out - URL %s', paa[str(k)]["URL"])
                     else:
-                        logging.error('some other error happened')
+                        logging.error('some other error happened', paa[str(k)]["URL"])
 
                 file = open(namer + "/" + nameoffile, 'wb')
 
@@ -142,7 +142,10 @@ for mrm in onlyFiles:
                 file.close()
 
                 print("Done Request and Writing: ", k, "Time Taken: ", "--- %s seconds ---" % (time.time() - startReqT))
+                # print('The k val', k)
 
+            if int(k) == 10:
+                break
         print(bad)
 
 
