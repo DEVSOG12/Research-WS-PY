@@ -1,3 +1,4 @@
 *.pdf
 ./*.pdf
 **/*.pdf
+src/client_secrets.json
