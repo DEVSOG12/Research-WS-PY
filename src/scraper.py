@@ -18,8 +18,6 @@ sys.setrecursionlimit(10 ** 7)  # max depth of recursion
 threading.stack_size(2 ** 27)  # new thread will get stack of such size
 
 
-
-
 def text_from_html(body):
     try:
         soup = BeautifulSoup(body, 'html.parser')
@@ -88,13 +86,19 @@ def main(self, dev, test):
                 if not os.path.exists(namer):
                     os.makedirs(namer)
                 if not os.path.exists(namer + "/" + paa[str(k)]["Organization Name"].replace(" ", "_")):
-                    os.makedirs(namer + "/" + paa[str(k)]["Topic area"].replace(" ", "_"))
+                    try:
+                        os.makedirs(namer + "/" + paa[str(k)]["Topic area"].replace(" ", "_"))
+                    except Exception as e:
+                        print(e)
                 if not os.path.exists(
                         namer + "/" + paa[str(k)]["Organization Name"].replace(" ", "_") + "/" + paa[str(k)][
                             "type"].replace(" ", "_")):
-                    os.makedirs(
-                        namer + "/" + paa[str(k)]["Organization Name"].replace(" ", "_") + "/" + paa[str(k)][
-                            "type"].replace(" ", "_"))
+                    try:
+                        os.makedirs(
+                            namer + "/" + paa[str(k)]["Organization Name"].replace(" ", "_") + "/" + paa[str(k)][
+                                "type"].replace(" ", "_"))
+                    except Exception as e:
+                        print(e)
 
                 if not (str(paa[str(k)]["URL"]).__contains__('.pdf') or not str(paa[str(k)]["URL"])):
                     start_re_t = time.time()
@@ -120,7 +124,6 @@ def main(self, dev, test):
                     header4 = "<h1>" + paa[str(k)]["type"] + "</h1>"
                     total = ""
 
-
                     for i in text_from_html(html):
                         ksi = ""
                         try:
@@ -133,7 +136,8 @@ def main(self, dev, test):
 
                     try:
                         pdfkit.from_string(total, namer + "/" +
-                                           paa[str(k)]["Organization Name"].replace(" ", "_") + "/" + paa[str(k)]["type"].replace(" ", "_") + "/" + name_of_file)
+                                           paa[str(k)]["Organization Name"].replace(" ", "_") + "/" + paa[str(k)][
+                                               "type"].replace(" ", "_") + "/" + name_of_file)
                         if not TEST:
                             print("Done Request and Writing: ", k, "Time Taken: ",
                                   "--- %s seconds ---" % (time.time() - start_re_t))
@@ -162,7 +166,8 @@ def main(self, dev, test):
                             logging.error('socket timed out - URL %s', paa[str(k)]["URL"])
                         else:
                             logging.error('some other error happened', paa[str(k)]["URL"])
-                    file = open(namer + "/" + paa[str(k)]["Organization Name"].replace(" ", "_") + "/" + paa[str(k)]["type"].replace(" ", "_") + "/" + name_of_file, 'wb')
+                    file = open(namer + "/" + paa[str(k)]["Organization Name"].replace(" ", "_") + "/" + paa[str(k)][
+                        "type"].replace(" ", "_") + "/" + name_of_file, 'wb')
 
                     file.write(response.read())
 
