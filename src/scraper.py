@@ -10,6 +10,7 @@ from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 import socket
 import pdfkit
+
 from bs4 import BeautifulSoup
 
 from src.tests.tests import Test
@@ -105,11 +106,11 @@ def main(self, dev, test):
                     req = Request(
                         url=paa[str(k)]["URL"],
                         headers={
-                            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, '
-                                          'like Gecko) Chrome/58.0.3029.110 Safari/537.36'},
+                            'User-Agent': 'Mozilla/5.0'},
                     )
                     try:
                         html = urlopen(req, timeout=10).read()
+                        print(html)
                     except HTTPError:
                         print("HTTP Error in ", k, "th", "\n", "link: ", paa[str(k)]["URL"])
                         bad[str(k)] = paa[str(k)]
@@ -123,7 +124,10 @@ def main(self, dev, test):
                     header3 = "<h1>" + paa[str(k)]["URL"] + "</h1>"
                     header4 = "<h1>" + paa[str(k)]["type"] + "</h1>"
                     total = ""
-
+                    with open(namer + "/" +
+                              paa[str(k)]["Organization Name"].replace(" ", "_") + "/" + paa[str(k)][
+                                  "type"].replace(" ", "_") + "/" + name_of_file + '.txt', "w") as text_file:
+                        text_file.write("html")
                     for i in text_from_html(html):
                         ksi = ""
                         try:
