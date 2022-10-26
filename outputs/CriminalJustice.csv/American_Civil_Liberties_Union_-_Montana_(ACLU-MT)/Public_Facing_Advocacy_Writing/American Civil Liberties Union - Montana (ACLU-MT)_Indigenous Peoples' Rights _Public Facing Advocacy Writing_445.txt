@@ -1,0 +1,788 @@
+ 
+ No. 17-532 
+In the 
+Supreme Court of the United States 
+––––––––––––––– 
+CLAYVIN HERRERA, 
+PETITIONER , 
+v. 
+WYOMING, 
+RESPONDENT . 
+––––––––––––––– 
+On Writ of Certiorari to the 
+District Court of Wyoming, Sheridan County 
+––––––––––––––– 
+BRIEF FOR TIMOTHY P. MCCLEARY, 
+JANINE PEASE, ELIZABETH SWANK, 
+ESTHER WYNNE, SARA BENJAMIN-NEELON, 
+CAITLIN BORGMANN, MEGAN SINGER, 
+AND SAMUEL ENEMY-HUNTER AS 
+AMICI CURIAE  IN SUPPORT OF PETITIONER 
+––––––––––––––– 
+ALEX RATE 
+ACLU OF MONTANA 
+Post Office Box 9138 
+Missoula, MT 59807 ASHLEY C. PARRISH  
+  Counsel of Record 
+JEREMY M. BYLUND  
+KING & SPALDING  LLP   
+1700 Pennsylvania Ave., NW Washington, DC  20006 aparrish@kslaw.com (202) 737-0500 
+Counsel for Amici Curiae 
+September 11, 2018 
+ 
+ i 
+ TABLE OF CONTENTS 
+TABLE OF AUTH ORITIES ....................................... ii  
+INTEREST OF AMICI CURIAE ................................. 1  
+SUMMARY OF ARGUMENT ..................................... 4  
+ARGUMENT ................................................................ 5  
+I. The Crow Tribe’s Right To Hunt Is 
+Protected In Treaties With The United 
+States . ................................................................... 5  
+II. Retracting The Right To Hunt Threatens Public Health On The Crow Reservation. ......... 11
+ 
+CONCLUSION  .......................................................... 20 
+APPENDIX 
+Appendix A 
+Dry Meat Stew Re cipe Card ............................... 1a 
+Appendix B 
+Elk Sausage Reci pe Card ................................... 2a 
+Appendix C 
+Choke Cherry X-masballs Recipe Card .............. 3a 
+Appendix D 
+Elk Soup Recipe Card ......................................... 4a ii 
+ TABLE OF AUTHORITIES 
+Cases 
+Confederated Tribes of U matilla Indian Reservation 
+v. Maison ,  
+262 F. Supp. 871 (D . Or. 1966) ........................... 10 
+Crow Tribe of Indians v. Repsis ,  
+866 F. Supp. 520 (D . Wyo. 1994),  
+aff’d 73 F.3d 982 (10th Cir. 1995) ........ 8, 9, 10, 11 
+Holcomb v. Confederated Tribes of Umatilla  
+Indian Reservation ,  
+382 F.2d 1013 (9th Cir. 1967)  ............................ 10 
+Mille Lacs Band of Chippe wa Indians v. Minnesota ,  
+124 F.3d 904 (8th Cir. 1997) ................................ 9 
+Minnesota v. Mille Lacs Ba nd of Chippewa Indians ,  
+526 U.S. 172 (1999) .............................................. 9 
+Montana v. United States ,  
+450 U.S. 544 (1981) ................................ 5, 6, 7, 13 
+United States v. Backlund ,  
+689 F.3d 986 (9th Cir. 2012)  .............................. 10 
+United States v. Finch ,  
+395 F. Supp. 205 (D. Mont. 1975),  
+rev’d , 548 F.2d 822 (9th Cir. 1976), 
+vacated and remanded, 433 U.S. 676 (1977) ... 6, 7 
+United States v. N. Pac. Ry. Co. ,  
+311 U.S. 317 (1940) .............................................. 7 
+United States v. Winans ,  
+198 U.S. 371 ( 1905) ........................................ 5,  18 
+Ward v. Race Horse ,  
+163 U.S. 504 ( 1896) .......................................... 8, 9 iii 
+ Statutes, Regulations, and Treaties  
+16 U.S.C. § 475 .......................................................... 10 
+16 U.S.C. § 551 .......................................................... 10 
+16 U.S.C. § 1604( i) ..................................................... 10 
+36 C.F.R. § 261.10 ...................................................... 10 
+Crow Tribal Legislature, Joint Action  
+Resolution No. 13-09 (M ay 7, 2013) ................. 4, 9 
+Proclamation No. 30,  
+29 Stat. 909 (Feb. 22, 1897)  ........................... 7, 10 
+Treaty of Fort Laramie, Sept. 17, 1851,  
+11 Stat. 749, 1851 WL 7655, reprinted in  
+2 CHARLES J. KAPPLER , INDIAN AFFAIRS : 
+LAWS AND TREATIES  (1904) ................................... 6 
+Treaty with the Crow Tribe,  
+U.S.-Crow, Aug. 4, 1825,  
+7 Stat. 266, 1825 WL 3194 ................................... 5 
+Treaty with the Crow Tribe,  
+U.S.-Crow, May 7, 1868,  
+15 Stat. 649, 1868 WL 24283  ............................... 7 
+Other Authorities  
+Katherine W. Bauer, et al.,  
+High Food Insecurity and its Correlates Among 
+Families Living on a Ru ral American Indian 
+Reservation ,  
+102 A M. J. OF PUB. HEALTH  1346 (2012) ............ 16 iv 
+ Judith Berman,  
+“Some Mysterious Means of Fortune”:  
+A look at North Pacific Coast Oral History , in 
+COMING TO SHORE : NORTHWEST COAST 
+ETHNOLOGY , TRADITIONS , AND VISIONS   
+(Marie Mauze, Michael E. Harkin, & Sergei Kane eds., 2004) ................................................. 12 
+Kelly Berryhill, et al.,  
+Food Security and Diet Among American  
+Indians in the Midwest , J.
+ OF CMTY. HEALTH ,  
+43 (5): 901–907 (Oct. 2018)  ................................. 15 
+Nicholas J. Bishop & Kaipeng Wang,  
+Food Insecurity, Comorbidity, and Mobility 
+Limitations Among Older U.S. Adults: Findings 
+from the Health and Retirement Study and Health Care and Nutrition Study ,  
+114 P
+REVENTIVE MED. 180 (2018)  ...................... 17 
+Brief of National Congress of American 
+Indians, et al. as Amici Curiae Supporting 
+Respondents, Minnesota v. Mille Lacs Band of 
+Chippewa Indians , No. 97-1337,  
+1998 WL 664966 (U.S. Se pt. 25, 1998) ................ 9 
+Brief of the United States as Amicus Curiae, 
+Herrera v. Wyoming , (No. 17-534) ..................... 11 
+CDC Office for State, Tribal, Local & Territorial 
+Support, American Indian and Alaska  
+Native Hunting and Fishing Rights  .................. 18 
+Charlene Compher,  
+The Nutrition Transition in American Indians ,  
+17 J. OF TRANSCULTURAL NURSING  217 (2006) .. 17 v 
+ Crow Tribe Exhibit 75, Joint Appendix, 
+Montana v. United States ,  
+450 U.S. 544 (1981) (No. 79-1128),  
+1980 U.S. S. Ct. Brie fs LEXIS 1901 .................. 13 
+Crow Tribe of Indians,  
+Culture and History , in CROW INDIAN 
+RESERVATION NATURAL , SOCIO -ECONOMIC AND 
+CULTURAL RESOURCES ASSESSMENT AND 
+CONDITIONS  REPORT  (2002) ................................ 12 
+Anne Gordon & Vanessa Oddo,  
+Addressing Child Hunger and Obesity  
+in Indian Country: Report to Congress   
+(Jan. 12, 2012) .............................................. 15, 17 
+Craig Gundersen & James P Ziliak,  
+Food Insecurity and Health Outcomes,   
+34 H EALTH AFFAIRS  1830 (2015)  ........................ 16 
+James Hagengruber,  
+Elk-Teeth Dress is Epit ome of Crow Status  
+and Style , BILLINGS GAZETTE , Apr. 13, 2002 ..... 11 
+Peggy Halpern,  
+Obesity and American Indians /Alaska Natives  
+(Apr. 1, 2007) ...................................................... 14 
+Frederick E. Hoxie,  
+PARADING THROUGH HISTORY :  
+THE MAKING OF THE CROW NATION IN  
+AMERICA , 1805–1935 (1995)  ............................... 14 
+Robert H. Lowie,  
+THE CROW INDIANS  (2d ed. 1958) ....................... 11 vi 
+ Neil Mann,  
+Dietary Lean Red Meat and Human Evolution ,  
+39 E UROPEAN JOURNAL OF NUTRITION  71  
+(2000) .................................................................. 17 
+Bruce Miller,  
+ORAL HISTORY ON TRIAL: RECOGNIZING 
+ABORIGINAL NARRATIVES IN THE COURTS   
+(2011) .................................................................. 12 
+Diana Redwood, et al.,  
+Physical Activity Patterns of American Indian 
+and Alaskan Native People  Living in Alaska  
+and the Southwestern United States , 
+23 A M. J. HEALTH PROMOT . 388 (2009) .............. 18 
+Alma Hogan Snell,  
+A TASTE OF HERITAGE : CROW INDIAN RECIPES  
+& HERBAL MEDICINES  (2006) .............................. 11 
+Mary Story, et al.,  
+Nutritional Concerns in American Indian  and Alaska Native Children: Transitions  and Future Directions ,  
+98 J.
+ OF THE AM. DIETETIC ASS’N 170 (1998) ...... 17 
+Andrew M. Subica, et al.,  
+Obesity and Associated Health Disparities Among Understudied Multiracial, Pacific 
+Islander, and American Indian Adults ,  
+25 O
+BESITY  2128 (2017)  ...................................... 17 
+Emily J. Tomayko, et al.,  
+Household Food Insecurity and Dietary Patterns 
+in Rural and Urban American Indian families 
+with Young Children ,  
+17 BMC P UB. HEALTH 611 (2017) ...................... 16 vii 
+ Joy Yellowtail Toineeta,  
+Absarog-Issawua (from the Land of the  
+Crow Indians) (Aug. 1970)  ................................. 14 
+USDA Economic Research Service, 
+Food Access Research Atlas, 
+https://www.ers.usda.gov/dataproducts/food-
+access-research-atlas/go-to-the-atlas/ ................ 15 
+Thomas Yellowtail,  
+YELLOWTAIL : CROW MEDICINE MAN AND SUN 
+DANCE CHIEF, AN AUTOBIOGRAPHY  
+(Michael Oren Fitzgerald ed. 1991) ....... 11, 13, 14 
+ 
+  1 
+ INTEREST OF AMICI CURIAE1 
+Amici curiae are experts in their respective fields 
+of anthropology, education, law, and public health.  
+Many of them have devoted their careers to studying, 
+representing, educating, and treating the Crow Tribe 
+of Indians.  Because the decision below imperils 
+public health by trampling the Tribe’s treaty-
+protected right to hunt, amici file this brief in 
+support of petitioner.  The signatories to the brief, 
+with affiliations provided for identification purposes only, are as follows: 
+Timothy P. McCleary, Ph.D. , is an anthropology 
+professor at Little Big Horn College in Crow Agency, 
+Montana.  He speaks and reads the Crow language 
+and has spent much of his career researching, 
+teaching, and writing about the origins, history, and 
+contemporary beliefs and practices of the Crow people. 
+Janine Pease, D.Ed. , is the founding president 
+of Little Big Horn College, a recipient of the MacArthur “genius grant,” and a former trustee of 
+the Smithsonian’s National Museum of the American Indian.  She now teaches Crow Studies and other 
+disciplines at Little Big Horn College.  A member of 
+the Crow Tribe, she is the great-granddaughter of 
+White Man Runs Him, one of the Crow scouts who 
+served with Lieutenant Colonel George Armstrong 
+Custer at the Battle of the Little Bighorn. 
+                                                 
+1 Petitioner’s and respondent’s letters giving blanket consent to 
+amicus briefs are on file with the Clerk of Court.  No counsel for 
+a party authored this brief in whole or in part, and no person other than amici or their counsel made a monetary contribution 
+to this brief’s preparation or submission. 2 
+ Elizabeth Swank  serves as the Public Health 
+Emergency Preparedness Coordinator for the Public 
+Health Department of Big Horn County, Montana, much of which is covered by the Crow reservation.  
+As the spouse of a Crow hunter, she has firsthand 
+knowledge of the dietary importance of keeping a 
+freezer stocked with fresh elk meat throughout the long Montana winters. 
+Esther Wynne, R.N., B.S.N., P.H.N. , serves as 
+the Public Health Nurse for the Public Health Department of Big Horn County, Montana.  After a 
+quarter-century in that role, she has in-depth 
+experience and understanding regarding the cultural 
+and nutritional aspects of  subsistence hunting, the 
+importance of elk meat in the Crow way of life, the 
+persistence of hunger on the Crow reservation, and 
+the prevalence of obesity and type 2 diabetes among 
+native peoples who have abandoned the traditional 
+game-based diet. 
+Sara Benjamin-Neelon , Ph.D., M.P.H., J.D., 
+R.D. , is an Associate Professor in the Department of 
+Health, Behavior and Society and Director of the Lerner Center for Public Health Promotion at Johns Hopkins Bloomberg School of Public Health.  She is 
+also a faculty fellow in the Centre for Diet and 
+Activity Research at the University of Cambridge in 
+England.  As a public health researcher, her work 
+focuses on policy and environmental approaches to 
+chronic disease prevention in children and their 
+families.    
+Caitlin Borgmann, J.D. , is the Executive 
+Director of the ACLU of Montana.  The ACLU of Montana has adopted Indigenous Justice as the 3 
+ organization’s top priority, and Ms. Borgmann is 
+responsible for implementing that strategic vision.  
+Fundamental to the organization’s work are 
+principles of tribal sovereignty and treaty rights, 
+including the right to hunt and fish outside 
+reservation boundaries. 
+Megan Singer is the ACLU of Montana’s 
+Indigenous Justice Program Manager.  Ms. Singer is 
+an expert on the history of interactions between the 
+United States Government and Indigenous peoples.  Ms. Singer spends the vast majority of her time 
+working with Indigenous communities to deepen 
+understanding of issues related to public health, 
+education equity, and tribal sovereignty. 
+Samuel Enemy-Hunter  is an Indigenous 
+Justice Organizer for the ACLU of Montana.  An 
+enrolled member of the Apsaalooke (Crow) Tribe, Mr. 
+Enemy-Hunter works on and off the Reservation to 
+advocate for the civil rights and civil liberties of Indigenous peoples.  Mr. Enemy-Hunter is an 
+Apsaalooke cultural and traditional leader and 
+educator and an avid hunter.  He advocates for treaty 
+rights to hunt and fish as a form of vindicating tribal sovereignty. 
+  4 
+ SUMMARY OF ARGUMENT 
+The Apsaalooke people, known in English as the 
+Crow Tribe of Indians, have “always valued hunting 
+and gathering in Crow Country as an activity of the 
+highest cultural importance and the means for 
+survival.”  Crow Tribal Legislature, Joint Action 
+Resolution No. 13-09 (May 7, 2013), available at 
+https://goo.gl/sbo1Gj.  In various treaties with the United States, the Tribe has protected its right to 
+hunt in exchange for ceding traditional tribal lands to the United States.  In this case, the Court is asked 
+to interpret one of those treaties and to decide 
+whether the Tribe’s members may “maintain a 
+traditional practice of subsistence hunting that is 
+foundational to their identity and well-being.”  Pet. 
+Br. 41.   
+Amici are concerned that the decision below 
+harms the many members of the Crow Tribe who rely on traditional subsistence hunting to feed and 
+nourish their families during the winter.  Given the 
+scarcity and expense of healthy foods on the Crow 
+reservation, the need for subsistence hunting is 
+pronounced.  Without access to a regular supply of 
+fresh meat, the health of the Crow Tribe’s members will suffer.  To avoid these unnecessary public-health 
+consequences, this Court should reverse the decision 
+below and restore the Crow Tribe’s usufructuary 
+rights.  The United States has enjoyed the benefits of 
+the Second Treaty of Fort Laramie for 150 years, and 
+this Court should prohibit the State of Wyoming from destroying the rights of the Crow Tribe secured under the treaty.   5 
+ ARGUMENT 
+I. The Crow Tribe’s Right To Hunt Is 
+Protected In Treaties With The United 
+States. 
+This case turns on the continued viability of the 
+last of a series of treaties between the Crow Tribe 
+and the United States, called the Second Treaty of 
+Fort Laramie, signed in 1868.  The Tribe agreed to cede a significant amount of territory under the 
+treaty, but took care to preserve its right to continue 
+hunting on unoccupied lands.  That right remains 
+vitally important to the Crow way of life and to the 
+health of the Crow Tribe’s members. 
+1. The Crow Tribe migrated to what is now 
+southern Montana and northern Wyoming centuries ago.  See Montana v. United States , 450 U.S. 544, 547 
+(1981).  In 1825, “[t]he Unit ed States agree[d] to 
+receive the Crow tribe of Indians into their friendship 
+[and] protection.”  Treaty with the Crow Tribe, U.S.-
+Crow, art. 2, Aug. 4, 1825, 7 Stat. 266, 1825 WL 
+3194.  The United States undertook to regulate trade 
+with the Tribe, see id. arts. 3–4, and to punish 
+private violence against its members, see id.  art. 5.  
+In return, the Tribe acknowledged the supremacy of 
+the United States, see id. art. 1, promised not to 
+supply weapons to enemies of the United States, see 
+id. art. 6, and committed to protect traders and 
+others “authorized by the United States to pass through their country,” see id.  art. 4.  This first treaty 
+did not purport to define “the limits of [the Tribe’s] district of country,” id., or to constrain tribal hunting.  
+Cf. United States v. Winans, 198 U.S. 371, 381 (1905) 
+(“[T]he treaty was not a grant of rights to the 6 
+ Indians, but a grant of right[s] from them,—a 
+reservation of those not granted.”). 
+In 1851, “warfare between the Crows and several 
+other tribes led the tribes and the United States to 
+sign the First Treaty of Fort Laramie.”  Montana, 450 
+U.S. at 547.  The signatory tribes agreed “to make an effective and lasting peace” among themselves, to 
+give safe passage to settlers heading for California, 
+and to “acknowledge [designated] tracts of country 
+. . . as their respective territories.”  Treaty of Fort Laramie, arts. 1, 4, 5, Sept. 17, 1851, 11 Stat. 749, 
+1851 WL 7655, reprinted in  2 C
+HARLES J. KAPPLER , 
+INDIAN AFFAIRS : LAWS AND TREATIES  594–96 (1904); 
+see also id. arts. 2, 3, 7, 8 (assigning rights and 
+obligations to the United States).  Reflecting the 
+long-settled priorities of its people, the Crow Tribe 
+refused to “surrender the privilege of hunting, 
+fishing, or passing over” the territory that was 
+designated for the other tribes.  See id.  a r t .  5 .   T h e  
+designated Crow territory, confined to roughly 38.5 million acres in present-day Montana and Wyoming, was likewise subject to the usufructuary rights of the 
+other tribes.  See id.; Montana , 450 U.S. at 548; 
+United States v. Finch , 395 F. Supp. 205, 215 (D. 
+Mont. 1975), rev’d , 548 F.2d 822 (9th Cir. 1976), 
+vacated and remanded , 433 U.S. 676 (1977) (mapping 
+Crow territory circa 1851). 
+By 1867, continuing bloodshed in the West 
+prompted the United States to create the Great 
+Peace Commission, which negotiated nine separate 
+peace treaties with various tribes.  The Crow Tribe 
+signed one of those peace treaties in 1868, known as 
+the Second Treaty of Fort Laramie.  See Treaty with 7 
+ the Crow Tribe, U.S.-Crow,  art. I, May 7, 1868, 15 
+Stat. 649, 1868 WL 24283.  The treaty established a 
+reservation on roughly 8 million acres in present-day 
+Montana that would be “set apart for the absolute 
+and undisturbed use and occupation of” the Crow 
+Tribe, and on which the Unit ed States was to build a 
+school and other buildings.  See id. arts. II, III.  The 
+other 30 million or so acres of Crow territory were 
+ceded to the United States.  See id. art. II; Montana, 
+450 U.S. at 548; United States v. N. Pac. Ry. Co. , 311 
+U.S. 317, 354 (1940); Finch , 395 F. Supp. at 216 
+(mapping the Crow reservation circa 1868).  A portion of the ceded lands would later become the 
+Bighorn National Forest.  See Proclamation No. 30, 
+29 Stat. 909 (Feb. 22, 1897). 
+Crucially for purposes of this case, the Second 
+Treaty of Fort Laramie “addressed hunting rights 
+specifically” with respect to the “lands outside the 
+reservation boundaries.”  Montana , 450 U.S. at 559 
+n.7.  The Crow Tribe agreed to make a permanent home on the much smaller reservation in exchange 
+for the continuing “right to hunt on the unoccupied 
+lands of the United States so long as game may be found thereon, and as long as peace subsists among 
+the whites and Indians on the borders of the hunting 
+districts.”  Treaty with th e Crow Tribe, U.S.-Crow, 
+art. IV, May 7, 1868, 15 Stat. 649, 1868 WL 24283.  
+The United States was willing to exchange hunting 
+rights for peace and millions  of acres of land .   
+The Crow Tribe zealously guarded its preexisting 
+usufructuary rights in the treaties that shrank its 
+territory down to 38.5 million acres, and then down 
+to 8 million acres.  Given the central importance of 8 
+ hunting on the ceded lands to the Crow way of life, it 
+is hardly surprising that the Tribe insisted that the 
+right to hunt be expressly protected in both the First 
+and Second Treaties of Fort Laramie.  As Justice 
+Brown wrote of the Bannock Tribe: 
+The right to hunt was not one secured to [the Indians] for sporting purposes, but as a 
+means of subsistence.  . . .  [T]heir chief reliance for food has been upon the chase.  
+The right to hunt on the unoccupied lands of 
+the United States was a matter of supreme 
+importance to them, and, as a result of being 
+deprived of it, they can hardly escape 
+becoming a burden upon the public. 
+Ward v. Race Horse , 163 U.S. 504, 518 (1896) (Brown, 
+J., dissenting).  In fact, members of the Crow Tribe 
+were so determined to retain their treaty rights, they agreed to serve as scouts for the United States Army 
+in the Plains Indian Wars, including at the Battle of 
+the Little Bighorn.  Having sacrificed so much to 
+protect the right to hunt, members of the tribe 
+greatly value off-reservation hunting on the ceded 
+lands, particularly in the Bighorn Mountains. 
+2. The Crow Tribe should not be stripped of its 
+usufructuary hunting rights, which the United States recognized in the Second Treaty of Fort Laramie and 
+for which the Crow fought alongside Custer to 
+preserve.  Contrary to the decision below, and as 
+petitioner explains, no justification for clawing back 
+this treaty right can be found in Crow Tribe of 
+Indians v. Repsis , 866 F. Supp. 520 (D. Wyo. 1994), 
+aff’d 73 F.3d 982 (10th Cir. 1995).  That case held 
+that under Race Horse ’s equal-footing doctrine, 9 
+ Wyoming’s admission to the Union in 1890 repealed 
+the Crow Tribe’s right to hunt under the Second 
+Treaty of Fort Laramie.  See 866 F. Supp. at 524 
+(relying on Ward v. Race Horse , 163 U.S. 504 (1896)); 
+73 F.3d at 987–93 (same).  A circuit split over this 
+vital issue quickly emerged, leading to a grant of 
+certiorari within three short years.  See Mille Lacs 
+Band of Chippewa I ndians v. Minnesota , 124 F.3d 
+904, 926–29 (8th Cir. 1997), cert. granted , 524 U.S. 
+915 (1998) (No. 97-1337).  The Crow Tribe, which had 
+been shocked by Repsis , joined an amicus brief 
+arguing that Race Horse  should be overruled.  See 
+Brief of National Congress of American Indians, et al. 
+as Amici Curiae Supporting Respondents, Minnesota 
+v. Mille Lacs Band of Chippewa Indians , No. 97-
+1337, 1998 WL 664966 (U.S. Sept. 25, 1998). 
+This Court agreed with the Crow Tribe, broadly 
+holding that Race Horse  “rested on a false premise” 
+and that “[t]reaty rights are not impliedly terminated 
+upon statehood.”  See Minnesota v. Mille Lacs Band 
+of Chippewa Indians, 526 U.S. 172, 202–08 (1999); 
+see also id. at 219–20 (Rehnquist, C.J., dissenting) 
+(lamenting that the majority “effectively overrules Race Horse sub silentio ”).  Because the Supreme 
+Court fatally undermined Repsis , the Crow Tribe 
+advised federal and state officials that its “policy . . . 
+shall be to exercise fully its treaty right to hunt on all 
+unoccupied lands of the United States . . . located within the traditional Crow homeland,” under the 
+Second Treaty of Fort Laramie.  See Crow Tribal 
+Legislature, Joint Action Resolution No. 13-09 (May 7, 2013), available at https://goo.gl/sbo1Gj (observing 
+that Mille Lacs  “squarely rejected” Repsis ). 10 
+ To be sure, in the Repsis  case the Tenth Circuit 
+offered an alternative basis for extinguishing the 
+Crow Tribe’s right to hunt that was not addressed by 
+the district court, but this Court should also reject 
+that position.  The Tenth Circuit wrongly stated that 
+the Bighorn National Forest is not “unoccupied” 
+within the meaning of the Second Treaty of Fort 
+Laramie.  See Repsis , 73 F.3d at 993.  That 
+conclusion was erroneous because the United States explicitly restricts occupancy of national forest lands.  See, e.g. , 16 U.S.C. §§ 475, 551, 1604( i); 36 C.F.R. 
+§ 261.10; Proclamation No. 30, 29 Stat. 909–10 (Feb. 22, 1897); United States v. Backlund , 689 F.3d 986, 
+990 (9th Cir. 2012).  Little wonder, then, that no other court besides the Tenth Circuit in Repsis  and 
+the courts below in this case have held that creation of a national forest abrogates Indian treaty rights.  
+See, e.g. , Confederated Tribes of Umatilla Indian 
+Reservation v. Maison , 262 F. Supp. 871, 873 (D. Or. 
+1966), aff’d sub nom. Holcomb v. Confederated Tribes 
+of Umatilla Indian Reservation , 382 F.2d 1013 (9th 
+Cir. 1967) (holding that national forest lands are “not 
+occupied by white settlers,” and thus are “unclaimed” 
+within the meaning of a treaty that reserved 
+usufructuary rights); Pet. 24–27 (collecting additional 
+cases).  It makes no sense to say that “creation of the 
+Big Horn National Forest resulted in the ‘occupation’ of the land”—unless perhaps the elk are the 
+occupants.  Repsis , 73 F.3d at 993.  This fact was 
+recognized by United States in its certiorari-stage brief in this litigation, noting that “the fact that an 
+area has been designated as  a National Forest does 
+not render that area occupied.  Quite the opposite, the creation of the Bighorn National Forest meant 11 
+ that those ‘lands were no longer available for 
+settlement.’”  Brief of the United States as Amicus 
+Curiae at 5, Herrera v. Wyoming , (No. 17-534) 
+(quoting Repsis , 73 F.3d at 993).  Accordingly, the 
+opinion below should be reversed. 
+II. Retracting The Right To Hunt Threatens 
+Public Health On The Crow Reservation. 
+The decision below poses a dire threat to the 
+health of the members of the Crow Tribe by 
+curtailing their longstanding right to hunt outside the reservation protected under the Second Treaty of 
+Fort Laramie.  The Crow Tribe continues to rely on 
+“the off-reservation hunting right reserved in the 
+1868 Treaty” to feed their families.  Pet. Br. 45. 
+1. For centuries, the Crow Tribe has enjoyed a 
+heavily meat-based diet that includes bison, elk, 
+deer, antelope, and other wild game.  Robert H. 
+Lowie, T
+HE CROW INDIANS  at xiv, 72 (2d ed. 1958); 
+Thomas Yellowtail, Y ELLOWTAIL : CROW MEDICINE 
+MAN AND SUN DANCE CHIEF, AN AUTOBIOGRAPHY 45 
+(Michael Oren Fitzgerald ed. 1991).  Without these 
+traditional food sources, “the Crow people would 
+never have survived life on the plains.”  Alma Hogan 
+Snell, A  TASTE OF HERITAGE : CROW INDIAN RECIPES & 
+HERBAL MEDICINES  67 (2006).  “Without it they 
+would [have] quickly perish[ed].”  Yellowtail, supra  at 
+45.  Elk became particularly important as bison 
+herds dwindled, offering a steady source of fresh 
+meat, hides, and the eponymous component of the 
+prized elk-teeth dress.  See, e.g. , James Hagengruber, 
+Elk-Teeth Dress is Epitome of Crow Status and Style , 
+BILLINGS GAZETTE , Apr. 13, 2002, https://goo.gl/
+iyVc34.  The Bighorn Mountains of Wyoming, located 12 
+ within the Bighorn National Forest that was made 
+with a portion of the Tribe’s ceded lands, are 
+particularly important to the Crow Tribe because 
+they are the sacred hunting grounds according to 
+Crow oral tradition.2  It was in these mountains, at a 
+place known to the Crow Tribe hunters as Aashawua 
+(Round Valley), that petitioner killed the elk. 
+2. The sacred nature of the Bighorn Mountains 
+for the Crow Tribe dates back to the Crow migration to Wyoming and Montana.  Sacred tobacco was found 
+by the first leader of the Crow Tribe at the base of 
+Cloud Peak in what is now the Wyoming Bighorn 
+Mountains.  See Crow Tribe of Indians, Culture and 
+History , in C
+ROW INDIAN RESERVATION NATURAL , 
+SOCIO -ECONOMIC AND CULTURAL RESOURCES 
+ASSESSMENT AND CONDITIONS  REPORT  43 (2002), 
+available at  https://deq.mt.gov/Portals/112/Energy/ 
+CoalbedMethane/Documents/C rowNarrative.pdf.  The 
+                                                 
+2 Oral histories are an important repository of cultural 
+information “both as a form of  history and as [a] form of 
+traditional literature.”  Bruce Miller, O RAL HISTORY ON TRIAL: 
+RECOGNIZING ABORIGINAL NARRATIVES IN THE COURTS  137 
+(2011) (quoting Judith Berman, “Some Mysterious Means of 
+Fortune”: A look at North Pacific Coast Oral History , in COMING 
+TO SHORE : NORTHWEST COAST ETHNOLOGY , TRADITIONS , AND 
+VISIONS  129 (Marie Mauze, Michael E. Harkin, & Sergei Kane 
+eds., 2004).  “[T]he narratives often contain a great deal of what 
+would, from a Western standpoint, be considered accurate 
+historical information.”  Id. (quoting Berman, supra  at 130).  
+These histories are passed down “based on protocols of respect 
+and connection to persons of authority” in their society.  Id. at 
+137. 13 
+ Bighorns were thereafter considered sacred and 
+became the center of the historic Crow territory. 
+The Bighorn Mountains, Bighorn Canyon, and 
+Bighorn River received their names from the story of 
+Big Metal.  Crow Tribe Exhibit 75, Joint Appendix, 
+Montana v. United States , 450 U.S. 544 (1981) (No. 
+79-1128), 1980 U.S. S. Ct. Briefs LEXIS 1901, at *90–101.  According to oral tr adition, a Crow boy was 
+stranded in the mountains and seven bighorn rams rescued him.  Id. at *91–96.  The bighorn rams 
+shared their powers with the boy, and the leader of 
+the rams, gave the boy his own name (Big Metal).  Id. 
+at *96–97.  The boy grew up to become a powerful chief among the Crow people.  Id. at *101.  The rams 
+promised that the Crow people would continue as long as the names of the Bighorn Mountains, the 
+Bighorn Canyon, and the Bighorn River remained 
+unchanged.  Id. at *97.  The rams also promised that 
+hunters from the Tribe would always find plentiful game by visiting the Bighorn Mountains and 
+thinking about the rams who saved Big Metal.  Id.  at 
+*99.  
+Consistent with oral tradition, the Crow Tribe 
+has protected the Bighorn name.  After Yellowtail 
+Dam was built in Bighorn Canyon, the United States 
+government planned to name the reservoir Yellowtail 
+Reservoir.  Id.  at *102–03.  The Crow Tribe lobbied 
+the government to ensure that the waters would continue to bear the name of Bighorn.  Id.  Today, the 
+reservoir is known as Bighorn Lake. See https://www. 
+nps.gov/bica/planyourvisit/bighorn-lake-in-wyoming-and-
+montana.htm. 14 
+ 3. Members of the Crow Tribe continue to hunt 
+as they “still need meat, because it is difficult to 
+afford the basic things [they] need to survive.”  
+Yellowtail, supra at 45.  Members of the tribe hunt 
+elk in the Bighorn Mountains and beyond to put “food on [their] table during unforgiving Big Sky 
+winters.”  Pet. Br. 45; see also  Frederick E. Hoxie, 
+P
+ARADING THROUGH HISTORY : THE MAKING OF THE 
+CROW NATION IN AMERICA , 1805–1935 at 300–01 
+(1995) (noting the Crow Tribe’s practice of venturing 
+into the Bighorn Mountains to hunt and to gather 
+berries).  Traditionally, elk is served to respected 
+guests as the main ingredient in “dry meat stew” or 
+“elk soup.”  See App. A & D, infra  at a1, a4.  Amici 
+also use elk to make sausage and choke cherry Christmas balls.  See App. B & C, infra  at a2, a3.  All 
+parts of the animal are utilized, and there are traditional Crow recipes for the loin, flank, brisket, 
+shoulder, liver, kidneys, he art, neck, ribs, entrails, 
+and tongue.  Joy Yellowtail Toineeta, Absarog-Issawua (from the Land of the Crow Indians) 64–78 (Aug. 1970) (unpublished M.Ed. thesis, Montana 
+State University), available at  https://scholarworks. 
+montana.edu/xmlui/handle/1/11101.  Any way you slice it, elk meat is good, wholesome, and traditional 
+food, packed with healthy lean protein.  See, e.g. , 
+Peggy Halpern, Obesity and American Indians / 
+Alaska Natives  17 (Apr. 1, 2007), available at  https://
+goo.gl/za6k71 (noting that “traditional foods are high in protein and low in fat and sugar”).   
+Losing access to off-reservation elk and other 
+game will be especially  harmful on the Crow 
+reservation, which is located in a “food desert.”  The U.S. Department of Agriculture (“USDA”) defines 15 
+ “food deserts” as areas that are low income and 
+where there is low access to healthy food.  See https://
+www.ers.usda.gov/data-products/food-access-research-atlas/documentation/#definitions.  According to 
+USDA data, the Crow reservation is located in one of 
+the most severe food deserts, where many residents 
+are located more than twenty miles from a 
+supermarket and where access to motor vehicles is 
+low.  See https://www.ers.usda.gov/data-products/fo
+od-access-research-atlas/go-to-the-atlas/ (enter “Crow 
+Agency, MT, USA” in search box and select “LI and 
+LA at 1 and 20 miles” and “LI and LA using vehicle 
+access”).  Even members of the Tribe with money to 
+spend, then, have a hard time obtaining fresh meat 
+and vegetables at a well-stocked grocery store within 
+easy traveling distance.   
+The Crow reservation is not unique in this 
+regard:  “In Indian Country, access to food can be a 
+challenge.  Many reservations have significant food deserts . . . [and] significantly higher levels of food 
+insecurity than the rest of the population . . .”  Anne 
+Gordon & Vanessa Oddo, Addressing Child Hunger 
+and Obesity in Indian Country: Report to Congress  5 
+(Jan. 12, 2012), available at https://goo.gl/iVZPLa.  
+The USDA defines food insecurity as a lack of access “at all times to enough food for an active, healthy 
+life.”  See https://www.ers.usda.gov/topics/food-nut
+rition-assistance/food-securit y-in-the-us.  Researchers 
+have found that rates of food insecurity among 
+American Indians are twice as high as other populations in the United St ates.  Kelly Berryhill, et 
+al., Food Security and Diet Among American Indians 
+in the Midwest , J.
+ OF CMTY. HEALTH , 43(5):901-907 
+(Oct. 2018).  Studies suggest prevalence rates of food 16 
+ insecurity ranging from ne arly 40 percent on one 
+reservation, Katherine W. Bauer, et al., High Food 
+Insecurity and its Correlates Among Families Living 
+on a Rural American Indian Reservation , 102 A M. J. 
+OF PUB. HEALTH  1346, 1346–52 (2012), to as high as 
+61 percent across a group of  five American Indian 
+communities, Emily J. Tomayko, et al., Household 
+Food Insecurity and Dietary Patterns in Rural and 
+Urban American Indian families with Young 
+Children , 17 BMC P UB. HEALTH 611 (2017).   
+4. Food insecurity is correlated with a number of 
+public health and medical problems.  Children, 
+especially young children, who are food insecure 
+display increased incidence of acute illness, iron deficiency, behavioral and developmental problems, 
+impaired language and motor skills, poor school 
+performance, and lower education attainment.  Craig 
+Gundersen & James P Ziliak, Food Insecurity and 
+Health Outcomes, 34 H
+EALTH AFFAIRS  1830, 1830–39 
+(2015).  Children experiencing food insecurity are 
+more likely to eat meals from convenience stores, 
+Bauer supra  at 1346–52, and are more likely to drink 
+soda, consume sports drinks, and eat fried potatoes.  Tomayko,  supra at 611.  These unhealthy foods are 
+often less expensive and more accessible on the reservations than healthier options. 
+Food insecurity is also associated with adverse 
+health outcomes in adults.  Food insecurity increases the risk of chronic diseases, including obesity, type 2 
+diabetes, and hypertension.  Nicholas J. Bishop & 
+Kaipeng Wang, Food Insecurity, Comorbidity, and 
+Mobility Limitations Among Older U.S. Adults: Findings from the Health and Retirement Study and 17 
+ Health Care and Nutrition Study , 114 P REVENTIVE 
+MED. 180, 180–87 (2018).  Researchers have found 
+that American Indians are 2.4 times more likely to 
+have diabetes, 1.9 times more likely to be obese, and 
+1.7 times more likely to be in poor or fair health, 
+compared to the non-Hispanic white population.  
+Andrew M. Subica, et al., Obesity and Associated 
+Health Disparities Among Understudied Multiracial, 
+Pacific Islander, and American Indian Adults , 25 
+OBESITY  2128, 2128–36 (2017).   
+A contributing factor to an increase in diabetes 
+and obesity is that “there has been a shift in Indian 
+Country, whereby American Indians are eating less 
+traditional food and more food that is commercially 
+prepared and processed.” Gordon, supra at 9.  
+American Indians historically have supplemented 
+their diets through hunting and fishing and growing 
+their own fruits and vegetables.  Mary Story, et al., 
+Nutritional Concerns in American Indian and Alaska 
+Native Children: Transition s and Future Directions , 
+98 J.  OF THE AM. DIETETIC ASS’N 170, 170–76 (1998).  
+Traditional foods like wild game are slowly being 
+replaced by less healthy processed and convenience foods.  Charlene Compher, The Nutrition Transition 
+in American Indians, 17 J. 
+OF TRANSCULTURAL 
+NURSING  217, 217–23 (2006).  Lean meat obtained 
+from hunting provides a healthy supply of protein and does not convey the sa me risk for obesity and 
+cardiovascular disease associated with meat from modern domesticated animals that are high in 
+saturated fat.  Neil Mann, Dietary Lean Red Meat 
+and Human Evolution, 39 E
+UROPEAN JOURNAL OF 
+NUTRITION  71, 71–79 (2000).   18 
+ Moreover, the subsistence lifestyle is grueling, 
+with extensive physical activity requirements.  
+Research has shown that hunting on foot has a high 
+metabolic equivalent value beneficial to cardiovascular 
+health.  Diana Redwood, et al., Physical Activity 
+Patterns of American Indian and Alaskan Native People Living in Alaska and the Southwestern United 
+States, 23 A
+M. J. HEALTH PROMOT . 388, 388–95 
+(2009).  “The physical activity involved in traditional activities, including food harvesting, combined with the high nutritional value of Native foods may 
+provide a double benefit to decreasing the risks for 
+chronic disease.”  Id.  This principle is recognized by 
+a leading federal agency: 
+The Centers for Disease Control and 
+Prevention (CDC) is committed to endorsing 
+traditional foods as an effective approach for 
+health promotion and diabetes prevention in 
+American Indian and Alaska Natives … Hunting and fishing rights are significant in 
+a public health context because many tribal 
+communities rely on these traditional foods 
+for subsistence. 
+CDC Office for State, Tribal, Local & Territorial Support, American Indian and Alaska Native 
+Hunting and Fishing Rights , available at http://
+goo.gl/LxSYv9.  More than a century ago, the Court 
+wrote that usufructuary rights “were not much less 
+necessary to the existence of the Indians than the 
+atmosphere they breathed.”  Winans,  198 U.S. at 381.  
+As the CDC attests, those rights remain important to 
+the health and well-being of native populations.   19 
+ *   *   * 
+The Second Treaty of Fort Laramie, now 
+celebrating its sesquicentennial, has been a boon for 
+the United States, which received peace in the 
+aftermath of the Civil War along with 30 million 
+acres of Crow territory, a sm all part of which became 
+what is now the Bighorn National Forest.  Wyoming seeks to deprive the Crow Tribe of its rights under that federal treaty.  That is wrong.  The Crow Tribe 
+should be allowed to continue subsistence hunting in 
+the forest lands it ceded away.  Notwithstanding the 
+decision below and Repsis , there is no basis in 
+precedent, policy, or common sense for depriving the Tribe of its essential treaty rights.   
+  20 
+ CONCLUSION 
+The opinion below from the District Court of 
+Wyoming should be reversed. 
+ 
+Respectfully submitted,  
+ALEX RATE 
+ACLU OF MONTANA 
+Post Office Box 9138 
+MISSOULA , MT 59807 ASHLEY C. PARRISH  
+Counsel of Record 
+JEREMY M. BYLUND  
+KING & SPALDING LLP  
+1700 Pennsylvania Ave., NW 
+Washington, DC  20006 
+aparrish@kslaw.com 
+(202) 737-0500 
+Counsel for Amici Curiae  
+September 11, 2018    
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+APPENDICES  1a 
+ Appendix A  
+ 
+ 
+ 
+  
+2a 
+ Appendix B 
+ 
+ 
+  
+3a 
+ Appendix C 
+ 
+ 
+  
+4a 
+ Appendix D* 
+ 
+ 
+                                                 
+* This recipe for elk soup is a wr itten version of a recipe passed 
+down to amici  through oral tradition.   

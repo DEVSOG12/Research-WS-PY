@@ -1,0 +1,1303 @@
+July 2019 
+Preventing Suicide and 
+Self-Harm in Jail:
+A Sentinel Events Approach
+Jason Tan de Bibiana, Therese Todd, and Leah PopeFrom the Director 
+Suicide is the leading cause of death in jails across 
+the country. Each year, more than 300 people take 
+their lives while incarcerated in America’s jails, 
+accounting for roughly one-third of all deaths in 
+custody. Approximately one-quarter of these deaths 
+occur within 24 hours of confinement and half occur 
+within the first two weeks. This data paints a bleak 
+portrait of the acute health risks of incarceration, 
+demonstrating that even short stays in jail can have 
+deadly consequences. At a time when the public is 
+paying closer attention to local jails and their primary 
+role in mass incarceration, it is critical to shine light on the persistent problem of jail suicide and the actionable 
+steps jails can take to prevent future deaths. 
+This report is the second from V era that frames 
+suicide and self-harm in correctional facilities as 
+“sentinel events” that signal a breakdown in underlying 
+systems of care. Sentinel event reviews have been 
+used successfully in the field of medicine for decades and have much to offer the corrections community. 
+Based on principles of transparency, inclusiveness, 
+and systemwide accountability, sentinel event reviews 
+acknowledge that bad outcomes are rarely the result 
+of an individual mistake and embrace a forward-
+looking approach to safety. Put into practice in jails, 
+they are one important step toward implementing a 
+comprehensive suicide prevention plan.
+V era’s first report provided practical guidance on how 
+to conduct a sentinel event review in the aftermath of 
+a suicide in custody. Here, we share lessons learned from an in-depth study of four jails across the country 
+that are trying to innovate in their responses to 
+suicide and self-harm. By sharing the practical barriers 
+and facilitators to implementing comprehensive, 
+nonblaming review processes, jurisdictions can 
+learn important lessons about how to improve their 
+responses to jail suicide and self-harm and, in turn, 
+better protect the people in their care. 
+Jim Parsons
+Vice President and Research Director
+V era Institute of Justice
+This study was supported by Award Number 2014-IJ-CX-0030, awarded 
+by the National Institute of Justice, Office of Justice Programs, U.S. 
+Department of Justice. The opinions, findings, and conclusions or 
+recommendations expressed in this publication are those of the authors 
+and do not necessarily reflect those of the U.S. Department of Justice. 
+Additional support was provided in part by a grant from the Clifford 
+Chance Foundation, Inc.Contents
+1 Introduction
+4 Methodology
+ 4 Study sites
+ 4 Study activities
+6 Jails’ current responses to suicide and self-harm
+9 Creating the conditions for sentinel event reviews
+ 9 Health care delivery model 
+ 12 Collaboration and communication
+ 15 Organizational culture
+ 21 Legal landscape
+27 Conclusion
+29 Appendix
+32 EndnotesPreventing Suicide and Self-Harm in Jail: A Sentinel Events Approach1
+Introduction
+Suicide is the leading cause of death for people incarcerated in jail in the 
+United States, accounting for more than 30 percent of deaths in custody.1 
+In 2014, the rate of suicide in local jails (50 per 100,000 people) was 
+the highest observed since 2000 and remained more than three times higher than rates of suicide in either prison (16 per 100,000) or in the community (13 
+per 100,000).
+2 Although the rate of jail suicide dropped dramatically between 
+1986 and its low point in 2008 (from 107 to 29 per 100,000 people), the rate has since fluctuated between 40 per 100,000 and 50 per 100,000.
+3 Mortality 
+rates in jail are highest for men and white people, and this is even more pronounced for jail suicide: men incarcerated in jail are 57 percent more likely 
+to die by suicide than women, and white people who are incarcerated are 5.25 
+and 3.5 times more likely to die by suicide than black or Latino people.
+4 These 
+deaths do not account for the incidence of nonsuicidal self-harm in jails, a phenomenon that is less well researched but also a significant health concern 
+and an ongoing challenge in correctional facilities. Although there is little data 
+on self-harm in jails, there is good reason to believe it is common. A national 
+survey of U.S. prisons found that 2 percent of people who are incarcerated 
+engaged in self-injurious behavior each year and that 85 percent of prisons 
+reported that it happened at least weekly.
+5 
+There are multiple reasons for elevated rates of suicide and self-harm 
+in jails. People incarcerated in jail may face facility-level risk factors such as overcrowding; situational risk factors such as the stress and isolation of 
+incarceration; and individual risk factors such as mental illness, substance 
+use, a history of trauma, or a history of engaging in self-harm or suicide 
+attempts. Although suicide is not in itself a mental illness, it may be the 
+result of undiagnosed or untreated mental health disorders, and decades 
+of research show that correctional systems in the United States are ill-
+equipped to meet the underlying needs of people with mental illnesses.
+6 
+A 2017 survey from the Bureau of Justice Statistics found that 26 percent 
+of people incarcerated in jail met the threshold for serious psychological 
+distress in the past 30 days (compared to 5 percent in the general 
+population), yet only one-third (35 percent) of them had received mental 
+health treatment since admission to jail.7 Vera Institute of Justice2This complex interplay of risk factors makes suicide prevention in jails 
+exceedingly challenging. Despite progress since the 1980s, the relatively 
+stable rate of jail suicide across the last 20 years suggests that progress in 
+prevention has stalled.8 Experts note that the approach to suicide prevention 
+adopted by most jails includes a narrow focus on managing people when 
+they are on suicide precautions and that suicide rates will only be reduced 
+when facilities adopt a comprehensive suicide prevention program.9 It is 
+thus critical that jails receive guidance in developing and implementing such 
+a prevention program and that criminal justice stakeholders continue to 
+innovate in their responses to suicide and self-harm.
+In 2016, the V era Institute of Justice (V era) reported on the potential 
+for addressing the problem of jail suicide and self-harm through “sentinel 
+event reviews.”10 Recognizing that failures to prevent jail suicide or 
+self-harm are rarely the result of a single event or the actions of an individual staff member, V era explored the potential of understanding 
+jail suicide as a sentinel event: a significant negative outcome that signals 
+underlying system weaknesses, is likely the result of compound errors, 
+and may provide, if properly analyzed and addressed, important keys to strengthening the system and preventing future harm.
+11 Many high-risk 
+fields like aviation and medicine have long responded to known errors 
+by implementing review processes characterized by an all-stakeholder, 
+nonblaming, and forward-looking examination of the error.12 These sentinel 
+event reviews move away from a view of error as solely the product of 
+individual negligence and instead encourage an institutionalized approach 
+that identifies root causes and underlying system failures.13 
+V era is part of an expanding group of researchers and practitioners 
+supported by the National Institute of Justice that seeks to understand the feasibility, impact, and sustainability of adopting sentinel event reviews in 
+the criminal justice system. In an earlier report, V era provided justification 
+for why the problem of jail suicide and self-harm is well-suited to a 
+sentinel events approach and offered a step-by-step guide for conducting 
+such a review and moving jails beyond their all-too-common adversarial 
+approach to reviewing suicide deaths in custody.
+14 (See “Conducting a 
+sentinel event review” at page 2.) Since the publication of that report, V era’s researchers have studied how four county jail systems review and respond 
+to incidents of suicide and self-harm and have explored the feasibility 
+of integrating sentinel event reviews into those jails’ regular practices. 
+Although best practices for suicide prevention and response exist, the 
+majority of jails in the United States (63 percent) do not conduct mortality 
+reviews following a jail suicide and few institutionalized responses exist Preventing Suicide and Self-Harm in Jail: A Sentinel Events Approach3
+to respond to instances of self-harm.15 Research such as this is therefore 
+critical. Not only does this study build the evidence base for the feasibility 
+of sentinel event reviews in the justice system, but it also provides rich 
+data on why the problem of jail suicide remains such an intractable 
+systems issue in the United States and how some jurisdictions are trying to 
+innovate their responses. 
+For expert guidance on how to conduct a sentinel event 
+review, see Vera’s report Creating a Culture of Safety: 
+Sentinel Event Reviews for Suicide and Self-Harm in 
+Correctional Facilities and guidance from the Sentinel Events Initiative at the National Institute of Justice.
+a Sentinel event 
+reviews take a “root-cause analysis” approach, guiding 
+practitioners through the following eight steps:
+1. identify the sentinel event;
+2. gather a multidisciplinary team;3. describe the event/create a timeline;
+4. identify contributing factors;
+5. identify the root cause(s);
+6. develop an action plan;
+7. share lessons learned; and
+8. measure the success of corrective actions.Conducting a sentinel event review
+a  Leah Pope and Ayesha Delany-Brumsey, Creating a Culture of Safety: Sentinel Event Reviews for Suicide and Self-Harm in Correctional Facilities (New York: Vera 
+Institute of Justice, 2016), https://perma.cc/FF7Q-VT43; and National Institute of Justice (NIJ), “NIJ’s Sentinel Events Initiative,” https://perma.cc/UM2W-WZSG.
+This report presents the findings from V era’s recent study. V era 
+collaborated with leadership and staff in four geographically diverse jail 
+systems over 18 months: the Middlesex Office of Adult Corrections and 
+Y outh Services (MCDOC) in Middlesex County, New Jersey; the Middlesex 
+Sheriff’s Office (MSO) in Middlesex County, Massachusetts; the Pinellas 
+County Sheriff’s Office (PCSO) in Pinellas County, Florida; and Spokane 
+County Detention Services (SCDS) in Spokane County, Washington. This 
+report first presents data on the jails’ current responses to suicide and 
+self-harm and then describes the barriers and facilitators to implementing 
+sentinel event reviews. Recommendations are provided throughout for 
+jurisdictions looking to improve their responses to jail suicide and self-
+harm through the incorporation of sentinel event reviews.  Vera Institute of Justice4Methodology
+Vera’s study included four jail systems. For each system, V era 
+researchers undertook an administrative document and policy 
+review and then conducted site visits and interviews with jail and 
+health leadership and staff. In addition, V era worked with the law firm Clifford Chance to analyze the legal landscape of liability, discovery, and 
+public record requests in each jurisdiction and to understand the potential 
+implications for jails and sentinel event reviews.
+Study sites
+V era selected four jail systems after outreach to 16 sites about the study and 
+conversations with six sites. The four systems were selected due to their 
+diversity in geographic location, size, and model of health care delivery. Each 
+of the jails had experienced at least one suicide in custody in the two years 
+leading up to the study, and two of the jails experienced a suicide during the 
+study period. Figure 1 below describes basic site characteristics.16 
+Study activities
+V era’s researchers engaged in the following activities while completing  this study.
+ › Administrative document and policy review. Researchers 
+requested and reviewed a variety of administrative documents 
+to better understand the jails’ responses to suicide and self-harm. 
+These included policies related to suicide prevention and response, 
+staff training, staff support, and review processes; training 
+materials; and anonymized investigative reports and mortality 
+reviews for the most recent suicide in custody. In total, V era 
+reviewed 85 documents. Policies were compared to review-process 
+standards recommended by the American Correctional Association 
+(ACA) and the National Commission on Correctional Health Care 
+(NCCHC).17 Preventing Suicide and Self-Harm in Jail: A Sentinel Events Approach5
+ › Site visits and interviews with jail leadership and staff. Between 
+April and June 2018, V era visited each study site and conducted a 
+total of 42 interviews with 56 people, including leadership (n = 32), 
+staff from health care (n = 26) and corrections/custody (n = 20), 
+legal counsel (n = 3), and internal affairs and investigation team 
+members (n = 7). (A complete list of interview participants can be 
+found in the Appendix on page 29.) Interviewee recruitment and 
+scheduling was facilitated by corrections leadership at each jail. 
+Interviews were conducted by one or two V era researchers using a 
+semi-structured interview guide with questions exploring the issue 
+of suicide and self-harm at the jail, the types of review processes 
+currently in place to respond to suicide and self-harm, staff training, relationships between corrections and health care staff, 
+staff support, and perspectives on the feasibility of implementing 
+sentinel event reviews.
+18  
+      A team of four V era researchers analyzed the interview 
+transcripts using Dedoose, an application that allows researchers 
+to organize, analyze, and identify major themes in qualitative data.19 
+The team reviewed transcripts and, through an iterative process 
+during regular team meetings, defined a set of codes to capture the 
+themes of the interviews. Once a complete code list was developed, 
+researchers coded all interviews, with 10 percent of the interviews 
+double coded by a second researcher to ensure reliability; coding 
+discrepancies were subsequently resolved through consensus 
+discussions. Researchers then reviewed the coded interviews to 
+develop consensus around the key themes and findings from the 
+interview data.  
+ › Legal landscape analysis. With  pro bono assistance from attorneys 
+at the law firm Clifford Chance, V era researchers conducted a 
+legal review of the four study jurisdictions, identifying potential 
+facilitators or barriers to conducting sentinel event reviews. 
+Specifically, V era researchers analyzed the legal landscape of 
+liability, discovery, and public record requests in each jurisdiction.Vera Institute of Justice6Jails’ current responses 
+to suicide and self-harm 
+Jails are constitutionally required to provide adequate health care to 
+people in their custody. The Supreme Court has held that evidence of 
+“deliberate indifference” to the serious medical needs of a person who 
+is incarcerated constitutes a violation of the cruel and unusual punishment clause of the Eighth Amendment.
+20 In light of this mandate, accrediting 
+bodies such as the NCCHC and the ACA have developed minimum health care standards for people who are incarcerated in the United States. These standards are voluntary and not tied to funding, but they remain the most 
+widely used guidelines for ensuring quality health care delivery. Three of the 
+four jails in the study were accredited by the NCCHC and/or ACA.
+21 (See 
+“National standards on suicide prevention in jail” at page 7.)
+The four jails in this study are notable for their suicide prevention 
+efforts. Each of the jails has a suicide prevention plan detailed in its policies, as well as other written policies that, taken together, address 
+the areas consistent with NCCHC standards for a suicide prevention 
+program. In particular, it is notable that all of the jails studied conduct 
+clinical mortality reviews following deaths from suicide, something that 
+the majority of jails (63 percent) in the United States do not do following Figure 1
+Characteristics of sentinel event study sites
+Site Region2015 jail
+population2015 jail
+admissions2015 county 
+incarceration rate  
+(per 100,000)
+MCDOC Mid-Atlantic 803 7 ,933 141
+MSO Northeast 1,183 5,634 109
+PCSO South 2,528 37 ,931 427
+SCDS Northwest 834 19,521 259
+Source: Vera Institute of Justice, “Incarceration Trends,” https://perma.cc/WS5A-DRUP (accessed March 12, 2019).Preventing Suicide and Self-Harm in Jail: A Sentinel Events Approach7
+suicides in custody. (See “National standards on suicide prevention in jail” 
+at page 7 for key questions asked and answered in a clinical mortality 
+review.) These mortality reviews exist on top of other review processes 
+that are in place—some related to specific incidents and some focused 
+on ongoing quality improvement. MSO, for example, has established a 
+monthly, multidisciplinary suicide review committee. The committee 
+reviews suicides, suicide attempts, and self-harm every month whether 
+or not there is a specific incident to discuss. At MCDOC, administrative 
+staff, including corrections leadership and the mental health director, meet 
+weekly to review incidents of suicide and self-harm, if any, as well as other 
+incidents related to custody, housing, or health. Other sites also convene 
+staff for quality improvement meetings on a monthly or quarterly basis.
+As noted above, however, the NCCHC and ACA offer little practical 
+guidance on how to implement the various aspects of a comprehensive suicide prevention program. The result is that not only do policies and 
+practices differ widely across sites, but also that jails lack direction on what NCCHC standards are the most widely used guidelines for health 
+care delivery in jails. These standards include both clinical and 
+nonclinical practices to identify people who are at risk of suicide, 
+develop treatment plans, and identify process improvements. NCCHC standards explicitly delineate 11 key components 
+necessary for a comprehensive suicide prevention program: 
+1. training; 
+2. identification;
+3. referral;
+4. evaluation;
+5. treatment;
+6. housing and monitoring;
+7. communication;
+8. intervention;
+9. notification;
+10. review (see below); and
+11. debriefing.Recommended review processes. NCCHC’s standards 
+recommend three distinct reviews following each death in 
+custody in order to identify areas where facility operations, 
+policies, and procedures can be improved. These reviews are:
+ › an administrative review assessing the correctional 
+and emergency response; 
+ › a clinical mortality review answering three questions: 
+(1) could the medical response at the time of death 
+be improved?; (2) is there any way to improve patient 
+care?; and (3) was an earlier intervention possible?; and
+ › a psychological autopsy if the death is by suicide 
+(a reconstruction of the individual’s life and factors 
+that may have contributed to death, conducted by a 
+qualified mental health professional).a
+Even with such standards in place, the NCCHC provides little guidance on how to implement the various aspects 
+of a suicide prevention program. Policies and practices 
+therefore look markedly different across the jails and, in fact, research suggests that only 20 percent of jails have a suicide 
+prevention program that covers all key components.
+bNational standards on suicide prevention in jail
+a NCCHC, Standards for Health Services in Jails (Chicago: NCCHC, 2014).
+b  Lindsay M. Hayes, “Suicide Prevention in Correctional Facilities: Reflections and Next Steps,” International Journal of Law and Psychiatry 36, no. 3-4 (2013), 188-
+194; and Lindsay M. Hayes, National Study of Jail Suicide: 20 Years Later (Washington, DC: U.S. Department of Justice, National Institute of Corrections, 2010), https://perma.cc/9GXD-LMCY .Vera Institute of Justice8
+robust practice looks like. V era’s policy review and interviews revealed, for 
+example, that the jails did not include stakeholders from all staffing levels 
+in their review processes, had limited mechanisms for communicating 
+the findings of reviews back to staff, and did not consistently review 
+incidents of nonlethal self-harm. Some of the reasons for these gaps will 
+be discussed in the following sections of the report. They point to the 
+challenges as well as the potential for an all-stakeholder, nonblaming, and 
+forward-looking examination of the errors that occur when a person dies 
+from suicide in jail.
+a  Pope and Delany-Brumsey, Creating a Culture of Safety, 2016; James M. Doyle, “Learning from Error in the Criminal Justice 
+System: Sentinel Event Reviews,” in Mending Justice: Sentinel Event Reviews (Washington, DC: U.S. Department of Justice, National Institute of Justice, 2014), 3-19, https://perma.cc/B5VT-G76W ; The Joint Commission, Root Cause Analysis in Health 
+Care: Tools and Techniques, Fifth Edition (Oak Brook, IL: The Joint Commission, 2015); and Katharine Browning, Thomas Feucht, Nancy Ritter et al., Paving the Way: Lessons Learned in Sentinel Event Reviews (Washington, DC: National Institute of Justice, 2015), https://perma.cc/Q8HK-CFYH. Also see guidance from expert Lindsay M. Hayes collected at https://perma.cc/D49E-ZB3R.Key recommendations: Responses to suicide and self-harm
+ › Develop suicide prevention plans consistent 
+with national standards. Even jails that are not 
+accredited can follow guidance available from the NCCHC or the ACA to develop suicide prevention plans that address the 11 key components of robust 
+suicide prevention programs. 
+ › Seek out guidance on conducting robust 
+reviews. The health care and criminal justice 
+fields have helpful guidance on how to implement 
+an all-stakeholder, nonblaming review process in 
+the aftermath of a death.
+a This practical guidance provides concrete steps to take and information on how to overcome implementation challenges.
+ › Consistently review incidents of nonlethal 
+self-harm. Most reviews focus on suicide, and 
+sometimes suicide attempts, with less clear criteria on when cases of self-harm warrant 
+a review. Given the prevalence of self-harm 
+compared to less frequent incidents of suicide, this may be a missed opportunity to strengthen 
+practices and policies to prevent suicide and self-
+harm on a more regular basis. Preventing Suicide and Self-Harm in Jail: A Sentinel Events Approach9
+Creating the conditions for 
+sentinel event reviews
+At the time of this study, each of the four jails was already taking 
+important steps to prevent incidents of suicide and self-harm from 
+occurring and to respond comprehensively when an incident did 
+occur. At the same time, V era found variability across the sites in terms of readiness to mobilize the “routine, culture-changing practice” that is at 
+the heart of the sentinel event review process.
+22 Four key themes emerged 
+in the interviews as being critical to the success of future sentinel event 
+reviews around jail suicide and self-harm: the model of health care delivery, 
+the nature of collaboration and communication, the organizational culture, 
+and the legal landscape. 
+Health care delivery model
+Although all jails share the same constitutional requirement to provide 
+health care to people in their custody, they can do so in different ways. 
+Indeed, since jails are located within counties that have wide variation 
+in size and resources, there are also significant differences in how  the 
+government decides to deliver health care in a county jail and what services it provides. An increasing number of jails contract with vendors to 
+provide at least some health care services. In New Y ork State, for example, 
+only 16 percent of jails use a public provider such as a county hospital or 
+department of health to provide health services, while the remaining 84 
+percent contract with either private local providers or a correctional health 
+care firm.
+23 In Virginia, 89 percent of jails use vendors to provide at least 
+some health care, while the remaining 11 percent of jails deliver services through directly employed staff (i.e., “in-house”).
+24 The jails in this study 
+have a variety of organizational models, as demonstrated in Figure 2 at page 10. Further, with the exception of MSO, each of the jails has recently 
+experienced a transition in its health care arrangements.Vera Institute of Justice10
+It was clear from this study that the choices these agencies make around 
+health care have implications for institutional practices and working relationships. 
+These, in turn, can impact the feasibility of bringing stakeholders together in a 
+nonblaming review process. 
+There are multiple reasons a county may decide to outsource health care. 
+Private vendors can provide access to greater expertise, allow for greater budget 
+predictability and financial risk sharing, and free up jail administrators from the 
+routine activities of running a health system.25 SCDS, for example, had been unable 
+to provide 24-hour medical coverage at the jail until it started contracting with a private vendor. In talking with administrators about the rationale behind their 
+decision to procure an outside vendor, a health services administrator noted that 
+they had been unsatisfied with the quality of care being provided through the sheriff’s office and that “it became very evident that corrections people could not run 
+a health care organization.” Changing to a private vendor, he reported, had improved 
+the quality of care in the jail and allowed the agency to move from being primarily 
+“reactive” to “proactive.” Leadership at MCDOC also noted improvements as a result 
+of finding a different private vendor—better, more accessible care, and electronic 
+medical records that allow for improved continuity of care across providers in the 
+jail (and across jail stays for people who recidivate).  Figure 2
+Health care organizational models
+Site Organizational model Explanation Recent transition
+MCDOC Contracted out Jail procures all health services (physical 
+and mental health) from  
+a single, private vendor.Changed contracted 
+providers (2016).
+MSO Hybrid of in-house and contract providersJail provides the majority of health care services through a private vendor. 
+However, some mental health staff are employed through the sheriff’s office.N/A
+PCSO In-house Jail provides all services using staff 
+employed by the sheriff’s office.Brought services in-house after a period of contracting 
+them out to a private vendor (2014).
+SCDS Hybrid of in-house and 
+contract providersJail provides physical health care through a contracted private vendor. 
+Mental health services are provided through a private vendor in collaboration 
+with in-house positions, funded by a 
+partnering county agency (the regional behavioral health organization). Contracted with a private 
+vendor for the first time after 
+a history of providing services in-house (2015).Preventing Suicide and Self-Harm in Jail: A Sentinel Events Approach11
+Even as private vendors can create more efficiencies in medical care, it is also 
+true that this arrangement adds complexity when thinking about sentinel event 
+reviews and responses to suicide and self-harm. This complexity occurs on at 
+least three levels, by potentially introducing different systems of accountability, 
+different training requirements, and different review processes. 
+For the three jails in this study that have a hybrid or fully contracted out 
+model of health care delivery, the county jail has to manage relationships with 
+outside organizations and integrate employees with different management 
+structures. In one case, the process of building these relationships has been 
+especially fraught because of a widely held perception that the incoming private 
+vendor led to the elimination of union positions; this created a “very difficult 
+transition” that was still in process at the time of this study, according to a jail administrator. But even in two sites where relationships were perceived as being 
+quite good between the jail administration and the health care vendor, leadership 
+and staff noted challenges. Staff at one site described how they had worked 
+hard to create balanced and collaborative working relationships. Even so, the administrator of that jail noted it remained complicated: 
+I struggle with it because I would like it to be one or the other [i.e., all sheriff’s office employees or all contracted out]. . . . Y ou would hope it 
+would be tightly organized or the messaging would be the same and I 
+think that having that two different kinds of operations can be a challenge 
+sometimes. . . . At the end of the day it works out okay, it’s just the 
+bifurcated approach sometimes can be challenging. 
+These challenges were not reported at PCSO, where all staff are employees in the 
+sheriff’s office. Instead, interview participants discussed the benefits of having a 
+single hierarchy and point of accountability. “We do a pretty good job,” a PCSO 
+health care staff member reflected. “I think a lot of it is the fact that we’re sheriff’s office employees. . . . We all have the same resources as far as care and self-care go. 
+We also have a camaraderie that you wouldn’t have perhaps with an agency staff 
+for medical or even detention. . . . We’re all a big family here. And there’s not a lot 
+of issues with that.”
+26 
+Different systems of accountability can also result in different training 
+requirements (around suicide and self-harm or more generally) for health and 
+corrections staff. For example, MCDOC and SCDS contract with the same large 
+correctional health care provider that has developed its own set of training 
+materials that health care staff complete independently, online. This goes against 
+expert guidance recommending that health and corrections staff should receive 
+training on suicide prevention together. As jail suicide expert Lindsay Hayes notes, Vera Institute of Justice12“the topic of suicide prevention is one that is best provided in a live, interactive 
+environment amongst correctional, mental health, and medical personnel. Suicide 
+prevention is all about collaboration. . . .”27 
+Finally, when at least part of a jail’s health care delivery is outsourced, the review 
+processes undertaken by agencies and vendors after critical incidents might occur 
+entirely independent of each other. This is the case in MCDOC and SCDS, where 
+health care is contracted out and the private vendor conducts independent mortality 
+reviews at the corporate level, but does not share the results back to the jail. These 
+issues in and of themselves do not mean that quality training and review processes 
+are not in place. But it is clear that multiple strands of management and the presence 
+of different reporting structures can create added complexity for developing robust 
+review processes when incidents of suicide and self-harm occur in the jail.
+Key recommendations: Responses to suicide and self-harm
+ › Training on suicide and self-harm prevention 
+should include corrections and health staff 
+together—in person—to foster collaboration and 
+learning across disciplines. › Particularly for jails that contract out their 
+health care delivery or have multiple agencies 
+providing health care, review processes should 
+be consolidated and outcomes should be communicated to both corrections and health 
+leadership and staff.
+Collaboration and communication
+Strong collaboration and effective communication are vital to create the 
+conditions that prevent incidents of suicide and self-harm and can also foster 
+space for sentinel event reviews and corrective action when an event occurs.28 
+At the same time, collaboration and communication within a jail are not easily written as policy directives. Two themes emerged through V era’s study as 
+especially relevant in this regard: (1) the relationship between corrections staff 
+and health staff; and (2) the extent to which information is communicated across 
+disciplines, as well as both up and down the chain of command.
+Health care staff and leadership at each of the jails described being reliant on 
+corrections staff for suicide prevention, as corrections officers have the most regular 
+contact with people incarcerated in the facility. Multiple clinical staff described 
+corrections officers as “our eyes and ears,” noting that corrections officers’ close 
+proximity and more frequent contact allows them to “pick up any subtle changes that 
+are happening” with people in their custody. One nurse reflected:Preventing Suicide and Self-Harm in Jail: A Sentinel Events Approach13
+We rely on them. They rely on us. That is the only way to function 
+within a correction facility. Because they’re the ones with eyes on. 
+They see the behavior day after day after day. The report to us if 
+they have any concerns. They watch them if they don’t eat. They 
+report to us. That relationship between detention and medical staff 
+is essential. . . . It’s like a symbiotic relationship. 
+The necessary collaboration across corrections and health does not 
+mean that such collaboration is always easy. Staff from both corrections and health were cognizant that they had different roles, different training 
+and experience, and different professional cultures that sometimes put 
+them at odds with each other. As one corrections official remarked: 
+There is always going to be challenges because you have two populations here of employees. Y ou have more of the human 
+services piece. . . . And then there are the more conservative 
+paramilitary corrections piece. There have been times when they were brought close together and sort of their philosophy was sort 
+of brought close together, to the middle. There are times when they 
+are very far apart, and that can be a challenge. 
+These different subcultures can create conflict at times, particularly when 
+there is a sense that one side is not pulling its weight. Even so, staff largely 
+described a relationship of respect, recognizing they are, as scholars 
+have described it, “united in mutual dependence” as they work across the 
+treatment and custody divide.
+29 This interdependence is at once basic to jails 
+and crucial to prevent and respond to incidents of suicide and self-harm. 
+The nature and extent of communication—both across disciplines and 
+within the hierarchy of the jail—emerged as a key theme in thinking about 
+the necessary conditions for a nonblaming, all-stakeholder review process. 
+Much of the communication occurs through the formal chain of command, 
+with information and directives pushed down and feedback provided back 
+up through the existing hierarchy. The jails in this study use a wide range of 
+approaches to communicate information in verbal or written from, including 
+through informal conversations, roll calls, shift reports, regular team 
+meetings, and formal review processes. This wide range of communications 
+strategies is necessary given the practicalities of working in a jail, including 
+shiftwork and the lack of electronic communication for corrections officers 
+in many jails. For the most part, the strategies being used prove effective and Vera Institute of Justice14
+are in line with the spirit of collaboration discussed above. At the same time, 
+the traditional default to a top-down communication style presents particular 
+challenges in the context of more formal review processes for critical 
+incidents. The primary theme reflected across sites when discussing existing 
+review processes was that line staff are generally not included in the reviews 
+and that there are few or no mechanisms for communicating the outcomes 
+or plans for corrective action. 
+Staff from different jails and across disciplines (corrections, mental 
+health, nursing) informed V era that they did not receive information 
+about what was found through review processes. A charge nurse at 
+one jail relayed how the details she received were “just through the 
+grapevine . . . there’s no formal dissemination that I’m aware of, of any of that information.” At another jail, a mental health clinician reflected 
+on a specific death from suicide and recalled how the conclusions 
+from the mortality review and other review processes had never been 
+communicated to the clinicians. “We didn’t get anything. . . . I think 
+it’s fantastic that there’s so many multidisciplinary teams involved in 
+everything that happens in here, but then information gets lost all the time. 
+. . . We have people who are doing the groundwork and not being included, 
+which can be frustrating.” The lack of review processes that include all 
+stakeholders and the absence of a feedback loop is related at least in part 
+to the fear of litigation. (See “Legal landscape” at page 21.) From V era’s 
+interviews, it is clear that jails struggle with communicating the results of review processes and that there is room for improvement around 
+developing truly collaborative reviews. Preventing Suicide and Self-Harm in Jail: A Sentinel Events Approach15
+Key recommendations: Communication and collaboration 
+ › Corrections and health leadership should work 
+together to institute review processes that include 
+stakeholders from all disciplines and levels, 
+with a focus on disseminating findings and recommendations to staff who are in the position 
+to implement corrective actions. Including line 
+staff who work directly with people who are incarcerated, such as nurses, mental health and 
+social workers, and corrections officers, may help 
+identify system weaknesses that would otherwise be overlooked. › Review processes for suicide and self-harm must 
+establish clear feedback loops to communicate 
+findings and recommendations to all staff. 
+Increasing transparency in the review process can also facilitate understanding of the full 
+purpose of the reviews, which in turn can 
+encourage candor during the information-gathering phase.
+Organizational culture 
+Beyond everyday mechanisms for collaboration and communication 
+within a jail, the broader organizational culture of the jail itself plays a 
+critical role in the success of sentinel event reviews. At their core, sentinel 
+event reviews require a culture that is committed to addressing system 
+weaknesses in order to prevent future adverse outcomes, instead of a 
+culture of blame that is fixated on identifying bad apples. 
+Organizational culture is a multidimensional concept that has been 
+described and understood in diverse ways, but is widely believed to be 
+linked to organizational successes and failures.30 It includes attributes 
+such as the nature of, and people’s confidence in, leadership; qualities of relationships and collaboration; core values and beliefs among staff; capacity 
+for and orientation towards individual and organizational learning; and 
+more.
+31 Three aspects of organizational culture emerged as particularly 
+relevant to creating the conditions for sentinel event reviews of jail suicide and self-harm: the way blame operates, openness or resistance to change, and 
+attitudes around mental health and suicide prevention efforts.Vera Institute of Justice16A critical, but sometimes overlooked, component of jail suicide 
+and self-harm is the impact of these incidents on frontline 
+corrections and health staff. Corrections officers often 
+experience intense stress while on duty, which places them at increased risk for poor psychological and physical well-
+being; studies have found that rates of suicide for corrections 
+officers exceed those of the general public and police officers by more than two times.
+a Supporting staff wellness in jail and 
+correctional settings does not only benefit individual staff 
+members, but should also be considered as an organizational 
+goal to improve safety for people who are incarcerated and for staff as a whole to prevent burnout and reduce turnover. In 
+Vera’s study, site visits and interviews revealed some common 
+approaches to promoting staff wellness and providing support to staff involved in corrections deaths, suicides, and 
+other critical incidents. 
+ › Debriefing meetings. Following critical incidents 
+such as a suicide, the majority of the study sites 
+held debriefings to ensure the well-being of all staff 
+involved by processing thoughts and feelings.b 
+However, in some cases not all staff who may be 
+emotionally affected are included in debriefings and 
+debriefs were described as “minimal.” Other mental health resources may be provided to staff after such 
+a debriefing for anyone still in need of assistance.
+ › Employee Assistance Programs (EAPs). All study 
+sites had EAPs available for their employees, which 
+can be utilized for counseling services (e.g., six free 
+therapy sessions) following a traumatic event at work. EAPs can also facilitate paid time off for staff 
+after they are involved in a traumatic incident. 
+ › Critical Incident Stress Management (CISM) 
+and peer support teams. CISM is a multifaceted 
+approach to offer short-term support, debriefing, 
+counseling, and referrals to individuals following critical incidents that has been adapted and implemented in many different settings.
+c A key 
+element of CISM is having a trained team, usually 
+composed primarily of peers, deliver these supports. 
+Three of the four study sites had a CISM team or a similar peer support initiative on site. The fourth 
+made corrections officers aware of a peer support 
+phone line for all law enforcement and corrections officers in the state.
+However, although jails can make supportive resources 
+available, staff may not be utilizing them. This was noted by 
+staff at the jails Vera studied. Others expressed feelings that, although resources may be available, institutions could still 
+do more to support staff. Vera’s interviews with staff revealed 
+common explanations for why resources go underutilized: (1) often staff are unaware of available resources; (2) staff 
+are hesitant and uncomfortable reaching out for help; (3) 
+staff lack faith in resources; (4) staff claim to be unaffected by critical events because deaths in jails are somewhat 
+commonplace; (5) staff feel the institution and culture is 
+quick to move on; and (6) staff turn to alternative supports. 
+It is clear that there is a need for institutions to promote 
+utilization of resources and ensure that staff have the time and space they need to process distressing emotions 
+following critical incidents. Leadership in some of the sites 
+made a concerted effort to normalize emotional responses to critical incidents and attempted to foster a supportive 
+environment by promoting destigmatizing attitudes toward 
+seeking help. These positive messages can be effective, starting from the top down, in helping staff at all levels 
+feel comfortable seeking support. Further, institutions may 
+consider implementing policies that require all staff involved in critical incidents—both scene responders and treatment 
+team members—to see a provided external counselor for an 
+initial processing and evaluation session. Doing so could  help reduce shame associated with seeking help, ensure 
+all staff have a personal space to process any emotional 
+reactions, and provide an avenue to further follow-up treatment if needed. Promoting wellness for corrections and health staff in jails
+a New Jersey Police Suicide Task Force, New Jersey Police Suicide Task Force Report (Trenton, NJ: New Jersey Police Suicide Task Force, 2009), https://perma.cc/
+LT5S-6KV3; and Steven J. Stack and Olga Tsoudis, “Suicide Risk among Correctional Officers: A Logistic Regression Analysis,” Archives of Suicide Research 3, no. 3 
+(1997), 183-186.
+b Debriefing is one of the NCCHC’s key components of a suicide prevention plan. Under these standards, debriefings should include the opportunity for staff to ex -
+press their thoughts and feelings, develop an understanding of stress response symptoms to critical incidents, and develop effective coping strategies. Debriefings 
+are not intended to feel forced or confrontational. 
+c George S. Everly, Raymond B. Flannery, and Jeffrey T. Mitchell, “Critical Incident Stress Management (CISM): A Statistical Review of the Literature,” Aggression 
+and Violent Behavior 5, no. 1 (2000), 23-40; Richard L. Levenson Jr., “Prevention of Traumatic Stress in Law Enforcement Personnel: A Cursory Look at the Roles of 
+Peer Support and Critical Incident Stress Management,” Forensic Examiner 16, no. 3 (2007), 16-19; and Abigail S. Malcolm, Jessica Seaton, Aimee Perera et al., 
+“Critical Incident Stress Debriefing and Law Enforcement: An Evaluative Review,” Brief Treatment and Crisis Intervention 5, no. 3 (2005), 261-278.Preventing Suicide and Self-Harm in Jail: A Sentinel Events Approach17
+Culture of blame
+In the four jails V era studied, many staff described a culture of passing 
+around and placing blame on individual people. Corrections officers in one 
+jail explained that because all their activities are subject to investigation 
+and scrutiny, they are careful to document all their checks and rounds 
+and to involve health staff to pass off responsibility. This was summarized 
+colloquially as the “cover your ass” mentality: 
+I think that there’s just a fear of, “Oh, I should have done this check. 
+I missed a check, and this happened, you know, so I’m afraid to 
+lose my job now.” So, it’s the, you talked about blame earlier, I think 
+that’s a lot of the apprehension of people to say this is what I actually 
+did, as opposed to what maybe I should have done. 
+In another jail, corrections officers were characterized as wanting to 
+keep their heads down, complete their shifts, and get out:
+That’s usually how most of the officers go about their day. And so, 
+when their name comes up, they’re like, “Well, wait, why?” When I’ve 
+asked people to come in for a debrief for, you know, peer support, 
+they are like “Why? What did I do?” I’m like, “Y ou didn’t do anything. 
+Y ou are just a part of the incident the other night.” He’s like, “Oh, 
+well, I’m—” you know, the first thing he says is, “I’m good. I’m fine.” 
+Across all four jails, the culture of blame was identified as a key barrier 
+to the implementation of truly nonblaming review processes. Many 
+staff described that they would be very skeptical if they were invited or 
+instructed to participate in a review. As one lieutenant remarked:
+I think it would be tough. It would be very tough. The nonblaming 
+part would be tough because it would feel like someone would 
+always be trying to justify their actions the whole time. 
+This was elaborated on by his colleague: 
+I think they are going to go into it with a certain mindset of not saying anything at all, because even if it were a completely, you 
+know, we’ll call it a “consequence free environment” or “safe place” Vera Institute of Justice18or whatever you want to call it, where this information could be 
+said without disciplinary action, there aren’t many people that 
+would believe that. They would still see it as . . . you can tell them, 
+you can put it in writing, you can do anything, and they are still 
+going to be like, they’re not going to take the risk. 
+However, some staff were more optimistic about the feasibility of 
+sentinel event reviews and felt that if leadership could actually demonstrate  
+to line staff that the review process is not designed to single out and 
+discipline individual staff, as opposed to just telling them this, it might 
+be possible to overcome the prevailing expectation of blame and fear of 
+disciplinary action. As one said:
+In my mind you have to do it and then we have to prove it to them. . . .  Telling our staff . . . “Nobody’s going to get in trouble, we need 
+you to be honest”. . . . If you offered this up to most staff [they 
+would say], “I’m good, I’m out,” because, because of that culture . . . 
+you have to get it in there and you have to demonstrate it before. 
+At PCSO, one interviewee described how the participation, buy-in, and 
+discussions in their existing review processes had improved over the years and attributed this to leadership setting the tone:
+I think the current sheriff is very much about just open and honest communication, I think him, as the leader, is what makes 
+everybody comfortable doing that. He understands that, you 
+know, there are such things as human error and mistakes and he 
+also is big on if it wasn’t a mistake and it’s some sort of policy and 
+procedure that it has to be corrected and the way to do that is to 
+acknowledge it, to accept what happened and why it happened, and 
+then make sure it doesn’t happen again. 
+Attitudes toward change 
+Attitudes toward change emerged as another important aspect of 
+organizational culture when considering the implementation of sentinel 
+event reviews. Many staff across the four jails characterized their colleagues 
+and workplace as resistant to change. Jail leadership at one jail expressed: Preventing Suicide and Self-Harm in Jail: A Sentinel Events Approach19
+I have a lot of more senior officers who are okay with the 
+monotony of day to day. They don’t like change. Y ou know, if you 
+were to tell them they had to . . . start using a blue pen instead of 
+a black pen they might . . . they might quit or retire. So change 
+definitely does not go over well in this environment. 
+And a corrections official at a different jail elaborated further:
+Change here is brutal. It’s just . . . nobody likes change in the 
+real world, but here especially, it is very difficult, change. So, it’s 
+a challenge. When, you know, when the administration comes 
+and says, “Okay. We’re going to do something different and we’re going to, you know, use a vendor or use an outside [provider],” the 
+immediate response is going to be difficult because people feel like 
+their job is in jeopardy.
+Despite the widespread aversion to change, some staff were still able to 
+cite a few specific examples of corrective actions taken to prevent suicide and self-harm within their jails. Most of these were tangible, observable 
+aspects of suicide prevention, such as physical changes to cells or increased 
+staffing devoted to mental health screening, assessment, or substance 
+withdrawal management. Many of these corrective actions were direct 
+outcomes of an institutional review process, suicide review, or mortality review. At MSO, for example, a standing suicide review committee that 
+meets monthly has allowed staff and leadership to take a more preventive 
+approach to suicide and self-harm rather than reacting only when someone 
+dies by suicide; for example, as a result of these monthly meetings they 
+have made changes to increase visibility into cells. Corrective action and 
+culture change can stem from internal changes—such as new leadership 
+or transitions in health care delivery—as well as the introduction of 
+external supports. These could include bringing back new ideas and good 
+practices from conferences or professional networks, or securing technical 
+assistance in the form of suicide prevention experts or NCCHC reviews. 
+For MCDOC, a recent change in corrections leadership brought fresh eyes to identifying and addressing gaps in suicide prevention. This led 
+to a transition to a new health care provider; the allocation of resources 
+to suicide prevention training, staffing, and physical cell improvements; 
+and proactive engagement with staff around changes. Regardless of their 
+source and approach, these examples demonstrate the possibilities for Vera Institute of Justice20shifting staff and organizations from deeply ingrained resistance to change to 
+a position of readiness.
+Beliefs around mental health 
+Another important aspect of organizational culture within jails that is especially relevant to sentinel event reviews pertains to beliefs around 
+mental health, suicide, and self-harm. Beliefs and attitudes about—as well as 
+approaches to and resources for mental health—have shifted in significant 
+ways within the corrections field and these specific jails. Staff with long 
+careers in corrections have been able to observe these changes over time. The 
+mental health director at one jail remarked, “It’s so different now. It used to 
+be mental health, really, didn’t have much of a seat at the table, and now I feel 
+like we have, like, the biggest seat at the table.” This growing recognition of the 
+mental health needs of people in jail was commented on by many other staff, 
+who also noted their jail’s efforts to improve mental health care. 
+Despite this progress, V era found that some staff still believe that not all 
+instances of suicide in jails are preventable. For example, although leadership at one jail put out a call to action for their staff to “collectively work together to 
+figure out how to prevent this, because it’s preventable,” a corrections officer at 
+the same jail held the belief that, “If somebody wants to kill themselves, they’re 
+going to find a way to do it.” At another jail, staff also felt that a recent suicide 
+couldn’t have been predicted and thus couldn’t have been prevented:
+Y ou just never know. Now, unfortunately, I would think that a lot of 
+people that truly want to commit suicide, they won’t tell you about it. 
+They’ll seem as normal as you or I, and then they’ll just do it. And, in 
+those cases, you just can’t prevent it . . . [when the] person gives you no warning whatsoever. There’s no way to improve that. 
+The fact that suicide is the leading cause of death in jails is a challenging 
+reality for both line staff and leadership. For suicide prevention efforts to be effective, staff must feel confident they have the necessary knowledge and 
+resources to identify and intervene in cases of potential suicide. Attitudes 
+regarding the preventability of suicide may also determine whether jails 
+consider sentinel event reviews to be a useful tool. 
+Because jails are often large organizations, shaped by strict command and 
+control structures and containing multiple subcultures among health and 
+corrections staff, the question of how to influence organizational culture within them is complex. Leadership at one jail remarked, “it takes a couple years for Preventing Suicide and Self-Harm in Jail: A Sentinel Events Approach21
+you to kind of make cultural changes.” Across the four jails that V era studied, 
+attitudes toward blame, change, and mental health and suicide prevention 
+emerged as a few of the key aspects of organizational culture that will 
+impact the feasibility of more robust review processes for suicide and serious 
+incidents of self-harm. Encouragingly, the highest levels of corrections 
+leadership recognized how important their role is in fostering change and 
+agreed that a proactive approach is critical to shifting attitudes, obtaining buy-
+in, and successfully implementing changes to improve practice around suicide 
+and self-harm.
+Legal landscape 
+The barriers and facilitators to sentinel event reviews described above 
+operate largely within the jail itself. But the feasibility of conducting 
+sentinel event reviews also depends on the complex legal landscape in 
+each jurisdiction. Discussions about confidentiality and calculations 
+around risk and liability are omnipresent in the criminal justice system 
+and likely heightened when thinking about incidents of suicide and self-
+harm. V era’s analysis of the legal landscape—as well as the interviews at 
+each jail with health and corrections staff, internal investigations, and 
+legal stakeholders—focused on four key issues that jurisdictions will have 
+to grapple with as they consider implementing sentinel event reviews: 
+liability, discovery, public records requests, and confidentiality. 
+Liability
+Incidents of suicide and serious self-harm in jails may give rise to legal 
+liability for jails and may draw particular scrutiny because courts have Key recommendations: Organizational culture 
+ › Encourage leadership to actively demonstrate its 
+commitment to focusing on system weaknesses 
+and addressing root causes, not individual errors 
+and staff; this will foster trust and candor during review processes.
+ › During the review process, build in opportunities 
+for review team members to express their 
+misgivings about the process and work through conflicts.
+ a › Use trainings on mental health, suicide, and 
+self-harm to develop capacity among staff and 
+overcome the belief that some suicides are not 
+preventable.
+ › Highlight positive changes that result from review 
+processes to encourage openness to change.
+a  Katharine Browning, Thomas Feucht, Nancy Ritter et al., Paving the Way: Lessons Learned in Sentinel Event Reviews (Washington, DC: 
+National Institute of Justice, 2015), https://perma.cc/Q8HK-CFYH.Vera Institute of Justice22already established liability under certain circumstances.32 Lawsuits related 
+to incidents of suicide and serious self-harm may be based on allegations 
+that the jail or a specific staff member deprived an incarcerated person of 
+his or her constitutional or statutory rights or that the jail failed to act with 
+reasonable care toward the people in its custody.33 
+It is important to note that conducting a sentinel event review does not 
+give rise to additional liability itself, but the review process could increase 
+litigation exposure by aggregating details about the incident into documents 
+that could ultimately be obtained either by plaintiffs (through discovery 
+during litigation) or the public (through freedom of information requests). 
+In the jails V era studied, the fear of liability and litigation was intense for 
+many staff, who felt that litigation was inevitable in the event of a death in 
+custody. This emerged as a potential barrier for robust review processes. When 
+asked about current review processes and the possibility for sentinel event 
+reviews, an internal affairs and investigations team member revealed he is 
+reluctant to name names and identify areas for improvement in writing: 
+I’m totally with you and I think we should do that and I get the nonblaming, but when we say, “Hey,” and somewhere in writing, 
+“This policy says 30-minute rounds but it wasn’t done for 45 
+minutes,” we’re just opening ourselves up. Y ou don’t have to have a 
+name associated with it. The report doesn’t have to be critical. It can 
+be, “Hey, we need to do this better,” and as soon as we say that in 
+writing somewhere, it costs us a lot of money. 
+For corrections leadership who are responsible for implementing 
+review processes in their jails, concerns about liability and litigation factor 
+into their hesitation to widen the circle of participants involved in reviews 
+and contribute to gaps in communicating the findings from reviews 
+to facilitate corrective action. A legal counsel at one jail noted it was a 
+“tremendous challenge” to balance sharing and protecting information. One 
+top official explained that he tries to “find that sweet spot” where they can 
+“cover what the lawyers are concerned about but also get information off 
+to the appropriate people to make the right changes.”
+Discovery
+As discussed above, although sentinel event reviews do not themselves give rise to liability against a jail or individual employees, documents Preventing Suicide and Self-Harm in Jail: A Sentinel Events Approach23
+produced from a sentinel event review could be obtained by plaintiffs 
+through discovery during litigation unless they are deemed to be 
+privileged in some way. Two common privileges are likely inapplicable: 
+attorney-client privilege only protects communications between lawyers 
+and clients made in confidence to obtain legal advice (and does not protect 
+the underlying facts gathered in the communication) and work-product 
+privilege only protects information prepared by or for an attorney in 
+anticipation of litigation.34 Some states, however, have enacted privileges 
+that protect from discovery records pertaining to confidential internal 
+investigations (known as the “self-critical analysis privilege”) and/or 
+documents produced to inform the development of new policies (i.e., 
+documents that are “pre-decisional” or related to the processes by which 
+policies are formed).35 Depending on the specific state statute, these types 
+of privileges for internal policy making may protect documents produced 
+during sentinel event reviews for suicide and self-harm in jails.36 In one of 
+the four states V era studied (Washington), records, proceedings, and reports from formal medical review boards and hospital quality improvement 
+committees—spaces and processes similar to those occurring in jails—
+are considered to be privileged.
+37 Similarly, Massachusetts has codified a 
+medical peer review privilege, which protects the proceedings, reports, and records of eligible committees that function to evaluate or improve the 
+quality of health care rendered by health care providers.
+38 Those interested 
+in protecting information collected by sentinel event review boards in 
+Washington, Massachusetts, and states with similar protections could 
+advocate to extend these statutory privileges to medical and health policy 
+review in jails. 
+In the other two states V era studied, there are no such statutory privileges 
+that might be extended to protect the records of sentinel event reviews. The 
+New Jersey Supreme Court has held that the confidential investigative records 
+of a professional licensing board’s inquiry may be discoverable in a medical 
+malpractice case involving the physician at issue. The court set forth a three-
+part balancing test that takes into account whether the plaintiff could obtain 
+the information from other sources, the degree of harm plaintiff would suffer without access to the records, and the potential for prejudice to the board’s 
+investigation.
+39 In Florida, medical committee meeting minutes and similar 
+review reports are now discoverable after a 2017 Florida Supreme Court decision construing a voter-approved amendment to the state constitution to 
+allow patients a broad right of access to records relating to adverse medical 
+incidents.
+40 For PCSO in Florida, minutes from meetings held by its death and Vera Institute of Justice24
+serious injury board have been subpoenaed in previous lawsuits. However, 
+PCSO’s legal counsel believes that continuing with their existing review 
+process or, preferably, an even more robust sentinel event review process, is the 
+right thing to do from a liability perspective: 
+The advice I give all the time is the only wrong answer here is to 
+do nothing. Y ou find a problem and you just identify it and then 
+do nothing, then you know it would be discoverable, it would be 
+admissible and, quite frankly, you know I kind of think it should 
+be. . . . As long as you do something in an attempt to address it and 
+identify it, then [it shows] . . . this is why we’re not deliberately 
+indifferent, we’re trying and this is what we uncovered and this is what we did and you know we’re sorry yours was the guy that you 
+know brought this to light. 
+This sentiment encapsulates a key finding highlighted in V era’s previous 
+analysis of the law in New Y ork: the risks related to a sentinel event review 
+should be considered in proportion to the potentially greater “risks that 
+come with leaving problems undiscovered and unaddressed.”
+41 Indeed, 
+New Jersey and Massachusetts have similar laws to New Y ork. In these 
+states, an agency violates its duty of care when there is foreseeable risk and 
+the agency fails to take reasonable steps to prevent the harm from coming 
+to pass.42 It can thus make good sense to proactively engage in sentinel 
+event reviews as a way to both avoid harm and contain liability.
+Public records requests
+Freedom of information laws provide the public with access to 
+government records and information, creating an important channel to 
+hold governments accountable. It should be expected that any information 
+pertaining to suicide and self-harm in jails, such as the outcomes of a 
+sentinel event review, will be of interest to the media and the general 
+public, and these laws are another way that internal documents from a 
+review could be made available. 
+At the state level, the provisions of freedom of information laws can 
+vary widely. Some states have enacted specific statutory exemption for 
+interagency or intra-agency communications pertaining to policymaking 
+within the government, so that frank and honest discourse about options is 
+not stifled by the threat of public disclosure.43 In Florida and Washington, Preventing Suicide and Self-Harm in Jail: A Sentinel Events Approach25
+however, no such exemptions exist, and SCDS staff expressed frustration 
+about public records requests. Internal affairs and investigations staff felt 
+“really reluctant” to put anything in writing about “what we could do better 
+in a suicide.” A health administrator shared:
+[W]hen you go and say, “Hey, we could have done this better or we 
+could have done that better,” you are just opening yourself up for [a]  
+newspaper article, for claims filed over risk management lawsuits.  
+It really is not an environment that is conducive to being honest 
+about your performance.
+Additional public scrutiny of a suicide or incident of serious self-harm is, understandably, a potential concern for jail officials. However, the same 
+rationale used by PCSO in describing the tradeoff between having review 
+documents subpoenaed and not doing reviews arguably applies in the case 
+of public records requests: that is, demonstrating evidence of a thoughtful 
+and regular review process through engagement in sentinel event reviews 
+may lead to practices and protocols that prevent “deliberate indifference” to 
+the care of people who are incarcerated.
+44
+Confidentiality
+Finally, jails undertaking sentinel event reviews must consider issues that arise around sharing confidential health information during the review 
+process. Sentinel event reviews usually aim to bring together stakeholders 
+of different disciplines and, sometimes, different agencies. However, 
+depending on how jails administer their health care and how sentinel event 
+review boards are organized, health information privacy laws may limit 
+access to personal health information—including information pertaining to 
+incidents of suicide and self-harm—for some review team members. 
+The Health Insurance Portability and Accountability Act of 1996 (HIPAA) 
+governs how health care providers, health care plans, and health care clearing 
+houses (“covered entities”) use and disclose people’s identifiable protected 
+health information (PHI) and applies for 50 years following the date of a person’s death.
+45 The HIPAA Privacy Rule provides safeguards to protect 
+the privacy of individuals’ personal health information, including that 
+covered entities cannot share PHI except as explicitly permitted or required 
+by the law.46 Additional federal or state laws and regulations providing 
+more stringent privacy protection also apply, especially related to mental Vera Institute of Justice26
+illness and substance use.47 With respect to HIPAA, there is some debate 
+about whether correctional institutions are considered covered entities 
+(and therefore must comply with HIPAA standards). One legal scholar 
+has cautioned that this determination is complicated and requires careful 
+analysis of the institution’s operations and model for delivering health care.48 
+HIPAA’s Privacy Rule does have an exception that allows for health 
+providers and other covered entities to share PHI with correctional 
+institutions having lawful custody of a person if it is necessary for (1) the 
+health and safety of the incarcerated person or other people in the facility; 
+or (2) the maintenance of safety, security, and good order of a facility.49 At 
+SCDS, which has a hybrid model of health care delivery with a contracted 
+private vendor, staff said that “the contract allows for the contractor to 
+share that mental health or medical information with detention services 
+[staff] upon request.” HIPAA’s Privacy Rule also has an exception that 
+allows for health providers and other covered entities to share PHI with 
+public health authorities (such as a local health department) for the purpose 
+of public health activities, including preventing injury and conducting 
+public health investigations.50 Therefore, correctional institutions may be 
+able to work with their local public health authorities to create a plan for sharing PHI for sentinel event reviews. 
+In practice, considerations about confidentiality and HIPAA may prevent 
+some participants from having access to personal health information, but 
+should not prevent reviews from taking place at all. At one of the jails V era 
+studied, stakeholders explained that for their current reviews:
+The people that are in there are at the top of the . . . chain of 
+command, . . . they all are able to have access to the [medical] file for 
+this board review for this purpose. . . . For example, [legal] would get 
+the medical file, but training wouldn’t necessarily get the medical file. . . . So, I can’t say that there is no [PHI] that is discussed, but it’s at the 
+highest level of people with the need to know based on the review, 
+and they get what they need to know and that’s it.
+This follows an important principle of HIPAA, which instructs health 
+providers and other covered entities to take reasonable steps to limit the use or disclosure of personal health information to the minimum amount 
+of information necessary to carry out the purpose of the disclosure.
+51 
+HIPAA also provides standards for de-identifying personal health information, should sentinel event review boards choose to go this route.
+52 Preventing Suicide and Self-Harm in Jail: A Sentinel Events Approach27
+Key recommendations: Legal
+ › Do not be dissuaded from conducting reviews 
+because of concerns around sharing personal 
+health information. These issues may limit the 
+depth of information available to all review team members, but should not prevent reviews from 
+taking place at all.
+ › Work with legal counsel to understand the 
+protections that exist in state law.  › Champion the value of a sentinel event review 
+process even in the face of liability, not only for 
+improving practices around suicide and self-
+harm—which is an important goal on its own—but also as way to proactively avoid harm and 
+contain liability.
+Conclusion
+Preventing and responding to incidents of suicide and self-harm must 
+continue to be urgent priorities for jails across the United States. 
+Several hundred people die of suicide in custody each year (372 in 
+2014), the majority of whom have not been convicted of crimes and often die within days of arriving in jail (between 2000 and 2014, the median time 
+in jail before death from suicide was nine days).
+53 Thousands more engage in 
+acts of self-harm that can have serious consequences. It is critical to elevate 
+the acute health risks of jail and the national crisis of jail suicide and self-
+harm, particularly at a time when the public is paying more attention to local 
+jails and reform efforts.54 Despite the formidable obstacles, research and 
+guidance from experts demonstrate that it is possible to forestall suicides in custody with a comprehensive suicide prevention program—one that 
+addresses regular training of all staff, screening and assessment for suicide 
+risk, communication procedures, housing commensurate with risk level, 
+reporting, and multidisciplinary review processes, among other factors.
+55 
+That so few jails nationally have the full continuum of comprehensive 
+suicide prevention services is startling given the data.  
+This research started from the perspective that review processes for 
+deaths in custody are all too often adversarial and that practitioners can 
+benefit from integrating an all-stakeholder, nonblaming, and forward-
+looking error-review process. The success of sentinel event reviews in Vera Institute of Justice28
+other industries like medicine and aviation provides evidence that it is 
+possible to learn from error and to strengthen overall system reliability by 
+understanding the root causes of negative outcomes. V era’s research suggests 
+that it is also possible in the criminal justice system, notwithstanding the 
+many challenges stakeholders may face when trying to implement such 
+reviews. The jails that participated in this study all have review processes 
+in place for critical incidents, but were also open to considering how their 
+current processes might be improved. This could be achieved by expanding 
+the types of staff included in reviews, for example, or making review findings 
+and recommendations transparent across their agencies. 
+To be sure, no two sentinel event review processes will look the same. 
+The results of this study suggest that the design and implementation of any sentinel event review process will depend crucially on four key aspects 
+of the jail: how health care is delivered, the communication processes in 
+place, the organizational culture of the jail, and the legal landscape of the 
+state where the jail is located. Thankfully, there is emerging guidance in the 
+field to help jurisdictions walk through the range of factors they should 
+consider in designing a sentinel event review and implement the concrete 
+steps in the review process.
+56 Jails that adopt sentinel event reviews will 
+not only demonstrate leadership and commitment to advancing the field of 
+suicide and self-harm prevention, but will also help instill a new culture in 
+their facilities—one that promotes the safety and well-being of the people 
+in their custody, as well as those who work there. With the lives of people 
+who are incarcerated at stake, it is critical that more jails work to embrace 
+this approach and its ethic of shared responsibility.Preventing Suicide and Self-Harm in Jail: A Sentinel Events Approach29
+Appendix 
+List of interview participants
+Site Interview # Leadership level Role type Role description
+MCDOC 33 Leadership Legal counsel Senior deputy county 
+counsel
+MCDOC 34 Leadership Health Director of nursing
+MCDOC 35 Leadership Health Mental health director
+MCDOC 36 Line Corrections Officer
+MCDOC 36 Line Corrections Officer
+MCDOC 37 Leadership Health Health services administrator
+MCDOC 38 Mid-level Internal affairs and investigationsChief investigator, internal affairs 
+MCDOC 38 Mid-level Internal affairs and investigationsOfficer/investigator, internal affairs
+MCDOC 39 Leadership Corrections Chief of staff
+MCDOC 40 Leadership Corrections Warden
+MCDOC 41 Line Health Social worker
+MCDOC 42 Leadership Corrections Operations captain
+MSO 23 Leadership Corrections Superintendent
+MSO 24 Leadership Legal counsel Chief legal counsel
+MSO 25 Leadership Corrections Special sheriff
+MSO 26 Leadership Health Health services administrator
+MSO 27 Leadership Corrections Assistant deputy superintendent,  policy 
+advisor
+MSO 28 Leadership Health Mental health directorVera Institute of Justice30
+MSO 28 Leadership Health Doctor and CEO of 
+contract healthcare 
+provider
+MSO 29 Leadership Internal affairs and investigationsInternal investigations unit director
+MSO 30 Line Health Medical clinician
+MSO 30 Line Health Medical clinician
+MSO 31 Mid-level Corrections Lieutenant
+MSO 31 Mid-level Corrections Sergeant
+PCSO 1 Leadership Corrections Colonel
+PCSO 1 Leadership Corrections Major
+PCSO 2 Line Health Licensed mental health counselor
+PCSO 3 Line Health Licensed mental health counselor
+PCSO 4 Leadership Health Nursing director
+PCSO 5 Line Health Charge nurse
+PCSO 6 Mid-level Corrections Sergeant
+PCSO 7 Leadership Health Health services administrator
+PCSO 8 Leadership Health Medical director
+PCSO 9 Leadership Health Psychiatrist
+PCSO 10 Mid-level Corrections Shift commander
+PCSO 11 Leadership Legal counsel General counsel
+PCSO 12 Mid-level Internal affairs and investigationsCorporal, detention investigation unit 
+PCSO 12 Mid-level Internal affairs and investigationsSergeant, detention investigation unitPreventing Suicide and Self-Harm in Jail: A Sentinel Events Approach31
+SCDS 13 Leadership Corrections Director of  
+detention services
+SCDS 14 Leadership Health Health services administrator
+SCDS 14 Leadership Health Health contract administrator
+SCDS 14 Leadership Health Chief legal officer for contract healthcare 
+provider
+SCDS 14 Leadership Health Chief of operations for contract healthcare 
+provider
+SCDS 15 Mid-level Corrections Sergeant, training
+SCDS 15 Mid-level Internal affairs and investigationsSergeant, internal affairs
+SCDS 16 Leadership Health Mental health manager
+SCDS 16 Leadership Corrections Lieutenant
+SCDS 16 Leadership Corrections Lieutenant
+SCDS 17 Leadership Internal affairs and 
+investigationsDirector of risk management
+SCDS 18 Line Health Psychiatric nurse practitioner
+SCDS 19 Line Health Physician assistant
+SCDS 20 Line Corrections Officer
+SCDS 21 Mid-level Corrections Sergeant
+SCDS 22 Line Health Mental health professional
+SCDS 22 Line Health Mental health 
+professional
+SCDS 32 Leadership Health Medical directorVera Institute of Justice32
+Endnotes 
+1 Margaret E. Noonan, Mortality in Local Jails, 2000-2014—
+Statistical Tables (Washington, DC: Bureau of Justice 
+Statistics (BJS), 2016), 1, https://perma.cc/E4JX-ULZF .
+2 Ibid.; and Centers for Disease Control and Prevention, 
+National Center for Injury Prevention and Control, “Web-
+based Injury Statistics Query and Reporting System 
+(WISQARS),” database (accessed November 30, 2018),  https://perma.cc/7W7W-JAWW . 
+3 Lindsay M. Hayes, National Study of Jail Suicide: 20 
+Years Later (Washington, DC: U.S. Department of Justice, 
+National Institute of Corrections, 2010), https://perma.cc/4Y2W-8SPZ; and Noonan, Mortality in Local Jails, 2016, 
+6 & table 4. For 1986 data, also see Lindsay M. Hayes and 
+Joseph R. Rowan, National Study of Jail Suicides—Seven Years Later (Washington, DC: Jail Suicide Prevention 
+Information Task Force, National Center on Institutions and 
+Alternatives, 1988), https://perma.cc/RDD7-9ZHS .
+4 Noonan, Mortality in Local Jails, 2016, table 9.
+5 Kenneth L. Applebaum, Judith A. Savageau, Robert 
+L. Trestman et al., “A National Survey of Self-Injurious 
+Behavior in American Prisons,” Psychiatric Services 62, no. 3 (2011), 285-290, 287 , https://perma.cc/A2K6-MUMA.
+6 Laura Frank and Regina T.P . Aguirre, “Suicide within United 
+States Jails: A Qualitative Interpretive Meta-Synthesis,” 
+Journal of Sociology & Social Welfare 40, no. 3 (2013), 31-52; Henry J. Steadman, Fred C. Osher, Pamela Clark 
+Robbins et al., “Prevalence of Serious Mental Illness among 
+Jail Inmates,” Psychiatric Services 60, no. 6 (2009), 761-765, https://perma.cc/VTQ3-CCUG; and Christine Tartaro and 
+Rick Ruddell, “Trouble in Mayberry: A National Analysis of 
+Suicides and Attempts in Small Jails,” American Journal of Criminal Justice 31, no. 1 (2006), 81-101. 
+7 Jennifer Bronson and Marcus Berzofsky, Indicators of Mental Health Problems Reported by Prisoners and Jail Inmates, 2011-12 (Washington, DC: BJS, 2017), 1 & 8,  
+https://perma.cc/RF6Y-G426 .
+8 See Lindsay M. Hayes, “Suicide Prevention in Correctional Facilities: Reflections and Next Steps,” International Journal 
+of Law and Psychiatry 36, no. 3-4 (2013), 188-194. Also see 
+Noonan, Mortality in Local Jails, 2016.
+9 Hayes, “Suicide Prevention in Correctional Facilities,” 2013.
+10 Leah Pope and Ayesha Delany-Brumsey, Creating a Culture of Safety: Sentinel Event Reviews for Suicide and Self-Harm in Correctional Facilities (New York: Vera Institute 
+of Justice, 2016), https://perma.cc/FF7Q-VT43. 11 Ibid. 
+12 James M. Doyle, “Learning from Error in the Criminal 
+Justice System: Sentinel Event Reviews,” in Mending Justice: Sentinel Event Reviews (Washington, DC: U.S. 
+Department of Justice, National Institute of Justice, 2014), 
+3-19, https://perma.cc/HE2F-CG52.
+13 Institute of Medicine, Committee on Quality of Health Care in America, To Err is Human: Building a Safer Health 
+System, edited by Linda T. Kohn, Janet M. Corrigan, and 
+Molla S. Donaldson (Washington, DC: National Academy Press, 2000), https://perma.cc/6RWD-A8LV . 
+14 Pope and Delany-Brumsey, Creating a Culture of Safety, 2016.
+15 Hayes, National Study of Jail Suicide, 2010. 
+16 Each jail received an interim report with preliminary 
+findings and recommendations specific to its site and 
+reviewed the penultimate version of this full report.
+17 American Correctional Association (ACA), Core Jail 
+Standards, 1st edition (East Peoria, IL: Versa Press, 
+2010), https://perma.cc/MSZ9-URLS; ACA, Commission on Accreditation for Corrections, Performance-Based 
+Standards for Correctional Health Care in Adult 
+Correctional Institutions (Glen Burnie, MD: TrayPML, 2002); and National Commission on Correctional Health Care, 
+Standards for Health Services in Jails (Chicago: National 
+Commission on Correctional Health Care, 2014).
+18 Interviews were audio-recorded and transcribed verbatim 
+for analysis, with the exception of one participant who did 
+not wish to be audio-recorded but agreed to have detailed notes taken.
+19 Kathy Charmaz, Constructing Grounded Theory: A 
+Practical Guide through Qualitative Analysis, 1
+st edition 
+(London: SAGE Publications, 2006); and Dedoose Version 8.1.8 (Los Angeles: SocioCultural Research 
+Consultants, LLC, 2018) (web application for managing, analyzing, and presenting qualitative and mixed method 
+research data), www.dedoose.com.
+20 Estelle v. Gamble, 429 U.S. 97 (1976),  
+https://perma.cc/M2FG-ANW5 .
+21 SCDS was the only jail in the study not accredited by either 
+the NCCHC or the ACA.
+22 Katharine Browning, Thomas Feucht, Nancy Ritter et al., 
+Paving the Way: Lessons Learned in Sentinel Event Reviews 
+(Washington, DC: National Institute of Justice, 2015), 1, Preventing Suicide and Self-Harm in Jail: A Sentinel Events Approach33
+https://perma.cc/Q8HK-CFYH. 
+23 Pew Charitable Trusts, Jails: Inadvertent Health Care 
+Providers (Washington, DC: Pew Charitable Trusts, 2018), 
+10 & figure 2, https://perma.cc/R4Y3-GAYZ.
+24 Ibid. 
+25 Ibid. 
+26 There are, of course, other challenges presented when jail 
+operations and health care services are provided by the same entity, in particular the challenges that can arise 
+when health care services lack clinical independence. 
+Health professionals working in corrections often have dual loyalty to their patients and to their institutions, and 
+conflicts related to this dual loyalty can be magnified in 
+the absence of an independent health service. This was not the focus of this study, although findings are presented 
+at page 13 on the sometimes uneasy relationship between 
+corrections and health staff. See Jörg Pont, Steffan Enggist, Heino Stöver et al., “Prison Health Care Governance: 
+Guaranteeing Clinical Independence,” American Journal of 
+Public Health 108, no. 4 (2018), 472-476.
+27 Hayes, “Suicide Prevention in Correctional Facilities,” 2013.
+28 Doyle, “Learning from Error in the Criminal Justice System,” 
+2014.
+29 Lorna A. Rhodes, Total Confinement: Madness and Reason 
+in the Maximum Security Prison (Berkeley, CA: University 
+of California Press, 2004), 133. For a more thorough 
+description of the “tentative and shifting alliance” among custody and treatment workers in prisons, see ibid., 134.
+30 Tobias Jung, Tim Scott, Huw T.O. Davies et al., “Instruments 
+for Exploring Organizational Culture: A Review of the 
+Literature,” Public Administration Review 69, no. 6 (2009), 1087-1096; and Mary K. Stohr, Craig Hemmens, Peter A. 
+Collins et al., “Assessing the Organizational Culture in a 
+Jail Setting,” Prison Journal 92, no. 3 (2012), 358-387 .
+31 Jung, Scott, Davis et al., “Instruments for Exploring 
+Organizational Culture,” 2009; and Stohr, Hemmens, 
+Collins et al., “Assessing the Organizational Culture,” 2012.
+32 See for example Gregoire v. City of Oak Harbor, 170 
+Wash.2d 628, 635, 244 P .3d 924 (2010), https://perma.cc/
+Q6L9-47QF ; Estate of Cills v. Kaftan, 105 F.Supp.2d 391, 397 
+(D. N.J. 2000), https://perma.cc/F3A3-UKAS; and Guice v. Enfinger, 389 So.2d 270 (Fla. Dist. Ct. App. 1980) (holding that a jail employee must act to prevent “reasonably 
+foreseeable” suicides and acts of self-harm),  
+https://perma.cc/6P9E-K3AX. Also see Cook ex rel. Estate of Tessier v. Sheriff Monroe County, 402 F.3d 1092, 1122 (11
+th 
+Cir. 2005).
+33 See 42 U.S.C. § 1983 (providing a civil cause of action for deprivation of federal constitutional rights); and Restatement (Third) of Torts: Physical and Emotional Harm 
+§ 40 (American Law Institute 2012) (affirmative duties to 
+act), https://perma.cc/6R5L-D72M.
+34 For Florida, see Fla. Stat. § 90.502 (lawyer-client privilege); and Florida Rules of Civil Procedure, Rule 1.280(b)(4) 
+(trial preparation materials). For Massachusetts, see 
+Massachusetts Rules of Evidence, Rule 502 (attorney-client privilege); and Massachusetts Rules of Civil Procedure, 
+Rule 26(b)(3) (trial preparation materials). For New Jersey, 
+see N.J. Stat. Ann. § 2A:84A-20 (lawyer-client privilege); New Jersey Rules of Evidence, Rule 504 (lawyer-client privilege); 
+and Rivard v. American Home Products, 917 A.D. 286 (N.J. 
+Super. Ct. App. Div., 2007) (discussing both attorney-client and work product privileges). For Washington, see 
+Washington Rules of Enforcement for Lawyer Conduct, 
+Rule 5.4(b) (attorney-client privilege); and Washington Supreme Court Civil Rule 26(b)(3) (trial preparation 
+materials).
+35 See for example Libertarians for Transparent Government 
+v. Government Records Council, 180 A.3d 327 (N.J. Super. 
+App. Div. 2018) (exempting “deliberative material” from 
+disclosure); Citizens for Open Government v. City of Lodi, 
+205 Cal. App. 4th 296, 305 (2012) (discussing deliberative 
+process privilege); Reichhold Chemicals, Inc. v. Textron, 
+Inc., 157 F.R.D. 522, 524-26 (N.D. Fla 1994) (discussing self-critical analysis privilege); and O’Connor v. Chrysler 
+Corp., 86 F.R.D. 211, 217 (D. Mass. 1980) (discussing critical 
+self-evaluation privilege).
+36 For example, compare discussion of the scope of public 
+record exemptions in New Jersey and Washington in 
+Libertarians for Transparent Government, 180 A.3d 327 , 331 (N.J. Super. App. Div. 2018); and Residential Action Council 
+v. Seattle Housing Authority, 177 Wash.2d 417 (2013).
+37 Wash. Rev. Code § 70.41.200.
+38 Mass. Gen. Laws, ch. 111 § 204, https://perma.cc/6JCW-
+2Y6P; and ibid., ch. 111 § 1 (definition of medical peer review 
+committee), https://perma.cc/6LNQ-UREL.Vera Institute of Justice34
+39 McClain v. College Hospital, 99 N.J. 346, 492 A.2d 991 
+(1985), https://perma.cc/FU8G-GFMK. Also see Muenken 
+v. Toner, No. L-591-06, 2011 WL 2694431 (N.J. Super. Ct. App. 
+Div. July 13, 2011).
+40 Edwards v. Thomas, 229 So.3d 277 , 286-288 (Fl. 2017), 
+https://perma.cc/P8WP-KM2W .
+41 Pope and Delany-Brumsey, Creating a Culture of Safety, 
+2016, 20.
+42 See Sanchez v. State of New York, 99 N.Y .2d 247 , 252 (2002), 
+https://perma.cc/MJ65-DZFE; Cook ex rel. Estate of Tessier v. Sheriff Monroe County, 402 F.3d 1092 (11
+th Cir. 2005); and 
+Slaven v. City of Salem, 438 N.E.2d 348, 449 (Mass. 1982).
+43 See for example Md. Code Gen. Prov. § 4-344; Mass. Gen. Laws, ch. 4 § 7(26)(d); N.J. Open Public Records Act, N.J. Stat. Ann. § 47:1A-1.1; N.Y . Public Officers Law § 87(2)(g); and 
+Tex. Govt. Code § 552.111. The scope of these exceptions 
+may be limited by the common law right of access. See for example Bergen County Imp. Authority v. North Jersey 
+Media Group, Inc., 370 N.J.Super. 504 (App. Div. 2004),  
+https://perma.cc/M3ZD-SVY2.
+44 See Estelle v. Gamble, 429 U.S. 97 (1976).
+45 45 C.F.R. § 164.502.
+46 45 CFR Part 160; and 45 CFR Part 164, subparts A & E.
+47 For example, 42 CFR Part 2 is a federal regulation governing confidentiality for people seeking treatment from substance 
+use disorders and, with limited exceptions, requires patient 
+consent for disclosure of patient records. For state health privacy laws, see for example Cal. Civ. Code § 56.11; Fla. 
+Stat. §§ 119.0712 & 456.046; Mass. Gen. Laws. ch. 111, § 70E; 
+N.Y . Social Services Law § 461-d; N.J. Stat. Ann. §§ 26:2B-20 & 30-4:24.3; and Wash. Rev. Code § 70.02.020.48 Melissa M. Goldstein, “Health Information Privacy and Health Information Technology in the US Correctional Setting,” 
+American Journal of Public Health 104, no. 5 (2014), 803-809.
+49 45 CFR § 164.512; and 45 CFR § 164.104.
+50 45 CFR § 164.512(b)(1)(i); and National Center for Fatality 
+Review and Prevention, “HIPAA,” https://perma.cc/PV7L-
+ZWRG.
+51 45 C.F.R. 164.502(b).
+52 45 C.F.R. 164.514(a)-(b).
+53 Noonan, Mortality in Local Jails, 2016, 12 & table 10.
+54 See for example Vera’s “In Our Backyards” project,  
+https://perma.cc/624L-Z4XJ .
+55 For resources on suicide prevention in correctional 
+facilities, see National Center on Institutions and 
+Alternatives, “Publications,” https://perma.cc/65ZJ-AVA3 .
+56 Pope and Delany-Brumsey, Creating a Culture of Safety, 2016; Doyle, “Learning from Error in the Criminal Justice 
+System,” 2014; Browning, Feucht, Ritter et al., Paving the 
+Way , 2015; and The Joint Commission, Root Cause Analysis 
+in Health Care: Tools and Techniques, Fifth Edition (Oak 
+Brook, IL: The Joint Commission, 2015).Preventing Suicide and Self-Harm in Jail: A Sentinel Events Approach35
+Acknowledgments 
+The authors are grateful for the collaboration and support of the four jail 
+systems studied for this project: the Middlesex County Department of 
+Correction (MCDOC), the Middlesex County Sheriff’s Office (MSO), the 
+Pinellas County Sheriff’s Office (PCSO), and Spokane County Detention 
+Services (SCDS). In particular, we appreciate the support of Warden Mark 
+Cranston and Captain Robert Grover (MCDOC), Special Sheriff Shawn 
+Jenkins and Kashif Siddiqi (MSO), Sheriff Bob Gualtieri, Colonel Paul Halle, 
+Major Lora Smith, and Gianluca (John) Martinelli (PCSO); and Director 
+Mike Sparber, former Director John McGrath, and Kristina Ray (SCDS).
+We are thankful for the generous assistance provided by Kimara Davis, 
+Lane Feler, Matthew Cramer, and Sherwin Salar, associates at Clifford Chance who donated their time to provide an excellent legal analysis on 
+issues of liability, discovery, and confidentiality in connection with sentinel 
+event reviews.
+We appreciate the contributions of several former V era staff who helped 
+envision this project and carry out data collection and analysis: V edan 
+Anthony-North, Karen Tamis, and Ayesha Delany-Brumsey. In addition, we 
+wish to thank the numerous staff at V era who assisted on this project: Collin 
+Blinder, Mawia Khogali, and Isaac Sederbaum for help with data collection and analysis; Lauren Hobby for her work to help us understand the legal 
+landscape in four states; Jim Parsons for his oversight and guidance; Léon 
+Digard for his thoughtful editing of the report; Carl Ferrero for design and 
+layout; and Cindy Reed and Tim Merrill for editorial support.
+About citations
+As researchers and readers alike rely more and more on public knowledge 
+made available through the Internet, “link rot” has become a widely 
+acknowledged problem with creating useful and sustainable citations. To 
+address this issue, the V era Institute of Justice is experimenting with the 
+use of Perma.cc (https:/ /perma.cc), a service that helps scholars, journals, 
+and courts create permanent links to the online sources cited in their work.Vera Institute of Justice36
+Credits
+© Vera Institute of Justice 2019. All rights reserved. 
+An electronic version of this report is posted on Vera’s website at  www.vera.org/preventing-suicide-and-self-harm-in-jail. 
+Cover image: © 2019 Brian Stauffer c/o the ispot The Vera Institute of Justice is a justice reform change agent. Vera produces ideas, analysis, and 
+research that inspire change in the systems people rely upon for safety and justice, and works in close partnership with government and civic leaders to implement it. Vera is currently pursuing core priorities of ending the misuse of jails, transforming conditions of confinement, and ensuring that justice systems more effectively serve America’s increasingly diverse communities. For more information, visit www.vera.org. 
+For more information about this report, contact Leah Pope, senior research fellow, at lpope@vera.org. 
+Suggested citation
+Jason Tan de Bibiana, Therese Todd, and Leah Pope. Preventing Suicide and Self-Harm in Jail: A 
+Sentinel Events Approach. New York: Vera Institute of Justice, 2019.Vera Institute of Justice
+233 Broadway, 12th FlNew York, NY 10279T  212 334 1300
+F  212 941 9407Los Angeles Office634 S Spring Street, #300ALos Angeles, CA 90014T 213 416 0058F 213 416 0075Washington DC Office1111 14th St., NW, Ste 920 Washington, DC 20005T  202 465 8900
+F  202 408 1972New Orleans Office1307 Oretha Castle Haley Blvd., Suite 203New Orleans, LA 70113F 504 312 4517

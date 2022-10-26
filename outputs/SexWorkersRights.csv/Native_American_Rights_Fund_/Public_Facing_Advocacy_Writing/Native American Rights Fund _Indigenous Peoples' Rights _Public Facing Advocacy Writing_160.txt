@@ -1,0 +1,1031 @@
+ 
+  Docket  No. 13 -2446 & 13 -2451  
+              
+ 
+In the  
+United States Court of Appeals  
+for the  
+Third Circuit  
+              
+ 
+JOHN THORPE;  
+SAC AND FOX NATION OF OKLAHOMA;  
+WILLIAM THORPE; RICHARD THORPE ; 
+ Plaintiffs -Appellees/Cross Appellants,  
+ 
+-v.- 
+ 
+BOROUGH OF JIM THORPE;  
+MICHAEL SOFRANKO; RONALD CONFER; JOHN MCGUIRE;  
+JOSEPH MARZEN; W. TODD MASON; JEREMY EMLBER;  
+JUSTIN YAICH; JOSEPH KREBS; GREG STRUBINGER;  
+KYLE SHECKLER; JOANNE KLITSCH;  
+ Defendants- Appellants/Cross -Appellees . 
+        
+ 
+On Appeal from an Order Entered by the Honorable A. Richard Caputo,  
+United States District Judge, Middle District of Pennsylvania,  
+No. 3: 10- cv-1317- ARC  
+              
+ 
+BRIEF OF AMICUS CURIAE  THE NATIONAL CONGRESS  
+OF THE AMERICAN INDIANS IN SUPPORT OF  
+PLAINTIFF -APPELLEE JOHN THORPE, ET AL.   
+AND AFFIRMANCE OF THE DECISION BELOW  
+              
+ 
+ MATTHEW CAMPBELL  
+ NATIVE AMERICAN RIGHTS FUND  
+ 1506 Broadway 
+ Boulder, CO 80302 
+ (303) 447 -8760    
+ Counsel for Amicus Curiae  
+ 
+__________________________________________________________________  
+ 
+ Case: 13-2446     Document: 003111434364     Page: 1      Date Filed: 10/28/2013i 
+ CORPORATE DISCLOSURE STATEMENT  
+ 
+Pursuant to Fed. R. App. P. 26.1 and 29(c)(1), and 3d Cir. L.A.R. 26.1, Amicu s 
+Curiae National Congress of American Indians (“NCAI”) makes the following 
+disclosure: 
+1) For non -governmental corporate parties please list all parent corporations:  
+None.  
+ 
+2) For non -governmental corporate parties please l ist all publicly held companies 
+that hold 10% or more of the party’s stock:  None.   
+ 3) If there is a publicly held corporation which is not a party to the proceeding 
+before this Court but which has as a financial interest in the outcome of the 
+proceeding, please identify all such parties and specify the nature of the financial 
+interest or interests:  Counsel for NCAI is aware of no such corporation.   
+ 
+ 
+ /s/  Matthew Campbell    Dated: October 28, 2013  
+MATTHEW CAMPBELL  
+NATIVE AMERICAN RIGHTS FUND  
+1506 Broadway 
+Boulder, CO 80302 
+(303) 447 -8760  
+ 
+Counsel for Amicus Curiae  
+ 
+ 
+ Case: 13-2446     Document: 003111434364     Page: 2      Date Filed: 10/28/2013ii 
+ TABLE OF CONTENTS  
+CORPORATE DISCLOSURE STATEMENT …  ..................................................... i 
+ 
+TABLE OF AUTHORITIES  .................................................................................... iv 
+ STATEMENT OF IDENTITY, INTEREST , AND AUTHORITY  .......................... 1 
+ 
+SUMMARY OF ARGUMENT……  ......................................................................... 3 
+ 
+ARGUMENT  ............................................................................................................. 4 
+ 
+I. NAGPRA 
+IS LANDMARK HUMAN RIGHTS LEGISLATION THAT IS INTENDED 
+TO REPATRIATE REMAINS AND PREVENT THE FUTURE DESECRATION AND 
+SALE OF REMAINS AND CULTURAL ITEMS . .................................................. 4 
+ 
+II. EVEN THOUGH THE CONSTITUTIONAL CLAIM S ARE  WAIVED , NAGPRA  IS 
+CONSTITUTIONAL UNDER THE SPENDING CLAUSE , COMMERCE CLAUSE , 
+TREATY CLAUSE , OR CONGRESS ’ PRE-CONSTITUTIONAL AUTHORITY  ...... 10 
+ 
+a. NAGPRA’ S MUSEUM PROVISIONS ARE CONSTITUTIONAL UNDER THE 
+SPENDING CLAUSE  ..............................................................................  10 
+  
+b. NAGPRA  IS CONSTITUTIONAL UNDER THE COMMERCE CLAUSE , 
+TREATY CLAUSE , PROPERTY CLAUSE , OR CONGRESS PRE-
+CONSTITUTIONAL AUTHORITY , AND POSES NO EQUAL PROTECTION  
+CHALLENGES ……. ………………………………………………….. 19 
+ 
+III. THE DISTRICT COURT CORRECTLY HELD THAT NAGPRA  APPLIES TO THE 
+BOROUGH AND TO THE REMAINS OF JIM THORPE  ...................................... 22   
+ 
+a. THE LEGISLATIVE HISTORY SHOWS THAT CONGRESS INTENDED THE 
+TERM “MUSEUM ” TO APPLY BROADLY  ................................................ 22 
+ Case: 13-2446     Document: 003111434364     Page: 3      Date Filed: 10/28/2013iii 
+ b. THE STATUTORY SCHEME AND LEGISLATIVE HISTORY SHOW THAT 
+CONGRESS INTENDED NAGPRA  TO APPLY TO CONTEMPORARY 
+BURIALS  ............................................................................................... 23 
+ 
+IV. LACHES WOULD BE INCONSISTENT WITH NAGPRA’ S SCHEME AND 
+POLICY  ...................................................................................................... 28  
+ 
+CONCLUSION ........................................................................................................ 31 
+ 
+CERTIFICATE OF COMPLIANCE  ......................................................................... x 
+ 
+CERTIFICATE OF BAR MEMBERSHIP …..  ....................................................... xi 
+ CERTIFICATE OF SERVICE………  ................................................................... xii 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Case: 13-2446     Document: 003111434364     Page: 4      Date Filed: 10/28/2013iv 
+ TABLE OF AUTHORITIES  
+ Page(s) 
+CASES  
+Adoptive Couple v. Baby Girl, 133 S.Ct. 2552 (2013)  ....... …………………..  .......  9 
+Antoine v. Washington, 420 U.S. 194 (1975)  .......................... .………….. ……  . . 20 
+Arlington Central Sch. Dist. Bd. of Educ. v.  
+Murphy, 548 U.S. 291 (2006) ………………………….  ... ..………….. ………..  .  12 
+ 
+Bell v. New Jersey, 461 U.S. 773 (1983)  ............................................................... . 17 
+Canadian St. Regis Bank of Mohawk Indians v. New York , Nos.  
+82–CV–0783, 82– CV–1114, 89– CV–0829, slip op.,  
+2013 WL 3992830 (N.D.N.Y. July 23, 2013)  …………………………… …  28, 29 
+ 
+Charles v. Verhagen, 348 F.3d 601 (7th. Cir. 2003)  ....................... ….. ...  14, 15, 18  
+Cotton Petroleum Corp. v. New Mexico,  490 U.S. 163 (1989) ………………….  . 19 
+Cutter v. Wilkinson, 423 F.3d 579 (6th Cir. 2005)  …………………….  ...13, 14, 18  
+Doe v. Kamehameha Schools/Bernice Pauahi Bishop Estate ,  
+470 F.3d 827 (9th Cir. 2006)  .......  ......................... ……………………. ………..  .  21  
+Grove City Coll. v. Bell , 465 U.S. 555 (1984)  ........ …………………… ……..  .....  15 
+Helvering v. Davis, 301 U.S. 619 (1937)  ................ …………………… ………..  .  11  
+Hui v. Castenada,  559 U.S. 799 (2010)  .......... ………………………… ………..  .  29 
+Kickapoo Traditional Tribe of Texas v. Chacon,  
+46 F.Supp.2d 644 (W.D. TX) (1999)  ........ …………………………….. …….  24, 25  
+ Kleppe v. New Mexico, 426 U.S. 529 (1976)………..  ... ………………. ……..  .....  20 
+Koslow v. Pennsylvania , 302 F.3d 161 (3d Cir. 2002) …………………...  11, 15, 16   
+Madison v. Virginia, 474 F.3d 118 (4th Cir. 2006)……………….  ... ……….  ......  13 Case: 13-2446     Document: 003111434364     Page: 5      Date Filed: 10/28/2013v 
+ Mayweathers v. Newland, 314 F.3d 1062 (9th Cir. 2002).  .....................  ... . ......... . 13  
+Morton v. Mancari, 417 U.S. 535 (1974)  ....................... ………………  .. .. 2, 21, 22  
+Nat’l Collegiate Athletic Ass’n v. Governor of New Jersey,  
+__ F.3d __, No. 13– 1713, 13– 1714, 13– 1715, 2013 WL  
+5184139 (3d Cir. Sep. 17, 2013)  ..  ............ …………………………….. ……..  .....  18  
+ 
+Nat’l Fed’n of Indep. Bus. v. Sebelius, 132 S.Ct. 2566 (2012) ………………   11, 18  
+New York v. United States, 505 U.S. 144 (1992) …………………………  18, 20, 21 
+Nordlinger v. Hahn, 505 U.S. 1 (1992)  .................................. ………… ………  ...  21  
+Ramah Navajo School Bd. v. Bur. of Revenue, 458 U.S. 832 (1982) ………  ...  27, 28 
+Rice v. Cayetano, 528 U.S. 495 (2000)……  ..................................... …. …. ..........  21 
+Sabri v. United States , 541 U.S. 600 (2004)  ................................... ……  … ..........  15 
+Scheidemantle v. Slippery Rock Univ. State System of Higher Ed., 470  
+F.3d 535, 538- 39 (3d Cir. 2006)  ..  .......................................................... ………  ... 28 
+South Dakota v. Dole , 483 U.S. 203 (1987)……… …………………..11, 12, 14, 19  
+United States v. Carrow, 119 F.3d 796 (10th Cir. 1997)  ................ ... 8, 9, 11, 14, 23 
+United States v. Lara , 541 U.S. 193 (2004) .................................... …… ….. .....  9, 20 
+United States v. L awrence 276 F.3d 193 (5th Cir.2001)  ................... …. …. ..........  28 
+United States v. Pendleton , 658 F.3d 299 (3d. Cir. 2011)  .............. …… …….  19, 20  
+United States v. Tuerk , 317 Fed. Appx. 251 (3d Cir. 2009)  ............. ….. … ..........  28 
+Yankton Sioux Tribe v. U.S. Army Corps of Engineers,  
+83 F.Supp.2d 104 7 (D. S.D. 2000)  ......................................................... ……….  ..  26 
+  
+CONSTITUTIONAL PROVISIONS , STATUTES ,  
+REGULATIONS , & RULES  
+U.S. Const. art. I, § 8, cl. 1 ...........  ........................................................ ..…….  ......  10 
+U.S. Const. art. I, § 8, cl. 3 ...........  .......................................................... …….  ......  19  Case: 13-2446     Document: 003111434364     Page: 6      Date Filed: 10/28/2013vi 
+ U.S. Const. art. II, § 2, cl. 2  .........  ...................................... …………… ….. ......... 19  
+U.S. Const. art. IV, § 3, cl. 2  ........  ................................................ …….. . .………  . 20  
+16 U.S.C. § 431- 433.....................  ......................................................... .…………  . 7  
+16 U.S.C. § 470bb(1) ...................  ......................................................... .……..  . 7, 26 
+16 U.S.C. § 470cc(b)(3)  ...............  .......................................................... ……...  7, 26 
+16 U.S.C. § 470dd  ........................  ........................................ …………..  ...  ....... 7, 26  
+18 U.S.C. § 1170  ..........................  ..................................................... ….  . .. ... 6, 9, 27  
+25 U.S.C. § 3001  ..........................  .......................................... …1, 12, 13, 21, 22, 23  
+25 U.S.C. § 3002……..  ................  ................................................ ….. ...  9, 14, 25, 26  
+25 U.S.C. § 3003  ..........................  .......................................................... ….….  12, 30  
+25 U.S.C. § 3004………..  ............  ..................................................... …. ....  ..........  12  
+25 U.S.C. § 3005………..  ............  .................................................  .12, 13, 14, 21, 26  
+25 U.S.C. § 3007………  ..............  ...................................................... ………..  ..... 18 
+25 U.S.C. § 3009……………..  ....  ..................................................... …. …. ..........  21 
+25 U.S.C. § 3010…………..  ........  ..................................................... …. …. ..........  21  
+42 U.S.C. § 2000cc -1…………. . .  .................................................... ..……….  ......  13  
+42 U.S.C. § 4331……………..  ....  ..................................................... …. ………  ... 16  
+42 U.S.C. § 5159……………..  ....  .......................................................... ………. .  . 16  
+123 Stat. 115 (American Recovery and Reinvestment Act of 2009,  
+Pub. L. No. 111- 5) (2009)…………..  ..................................................................... 17 
+ 43 C.F.R. § 10.2……………  .......  .......................................................... ……  . 13, 25  
+44 C.F.R. § 10.4 …………………  .........................................................................  17  
+Fed. R. App. P. 26.1…… ………….  ...................................................... .……..  ......  ii Case: 13-2446     Document: 003111434364     Page: 7      Date Filed: 10/28/2013vii 
+ Fed. R. App. P. 28.1(e)(3)………………  .................................................................. x 
+Fed. R. App. P. 29….  ...................  ........................................................ .. .… ............ 2  
+Fed. R. App. P. 29(c)(1)……….  ..  ............................................. ……….  ....  ...........  ii  
+Fed. R. App. P. 29(c)(5)……  .......  .................................... …………..…  .. .. ........ … 1 
+Fed. R. App. P. 29(d)……………………  .................................................................  x 
+Fed. R. App. P. 32(a)(5)………………..  ................................................................... x 
+Fed. R. App. P. 32(a)(6)………………………  ......................................................... x 
+Fed. R. App. P. 32(a)(7)(B)……………  ................................................................... x 
+Fed. R. App. P. 32(a)(7)(C)……………  ................................................................... x 
+3d Cir. L.A.R. 26.1……………  ..  .......................................................... ……..  ...... ii  
+3d Cir. L.A.R. 28.3(d)…………………………  ....................................................... xi 
+3d Cir. L.A.R. 29…………..  .......  .......................................................... ……..  ....... 2 
+3d Cir. L.A.R. 29.1(b)…………………….  ............................................................... x 
+3d Cir. L.A.R. 31.1(c)………………….. .................................................................. x 
+LEGISLATIVE HISTORY  
+Hearings on S. 1021 and S. 1980 Before the Senate Select Comm. on Indian 
+Affairs , S. HRG. 101 -952 (1990)  .   ................................................................ 5, 6, 7, 8   
+Robert E. Bieder, A Brief Historical Survey of the Expropriation of American 
+Indian Remains (1990), reprinted in Hearings on S. 1021 and S. 1980 Before the 
+Senate Select Comm. on Indian Affairs, 101st Cong., 278- 363 (1990),  ...................  5 
+Protection of Native America n Graves and the Repatriation of Human Remains 
+and Sacred Objects: Hearing on H.R. 1381, H.R. 1646, and H.R. 5237 Before the 
+H. Comm. on Interior and Insular Affairs,  101st Cong. (1990) 
+…………………………………………………  .............  5, 6, 10, 18, 25, 26, 28, 29  Case: 13-2446     Document: 003111434364     Page: 8      Date Filed: 10/28/2013viii 
+ Implementation of The Native American Graves Protection And Repatriation Act, 
+Hearing Before the S. Comm. on Indian Affairs, 104th Cong. 
+(1995)……………………  ...........  ....................................................................  29, 30  
+Finding Our Way Home: Achieving the Policy Goals of NAGPRA:  
+Hearing Before the S. Comm. on Indian Affairs , 112th Cong. (2011)………….  ... 30 
+ 
+H.R. Rep. No. 101 -877 (1990)………  ...............................................  . 5, 8, 10, 18, 25   
+Sen. Rep. No. 101- 473 (1990)……………..  ..................................................... 6, 8, 9  
+136 Cong. Rec.  H10,985 ……………….  ........................................... … .. 5, 8, 22, 23 
+136 Cong. Rec . S17,173……….. ………  ............................................. 5, 6, 8, 23, 27  
+OTHER AUTHORITIES  
+78 Fed. Reg. 59,954 (2013)……………  ................................................................  12  
+78 Fed. Reg. 50,098 (2013)…………  .................................................................... 12  
+78 Fed. Reg. 48,900 (2013)……………  ................................................................ 12 
+78 Fed. Reg. 34,121 (2013)……………  ................................................................  12  
+76 Fed. Reg. 14,058 (2011)……………  ................................................................ 12  
+73 Fed. Reg. 49,483 (2008)……………  ................................................................ 12  
+Cohen’s Handbook of Federal Indian Law  (Nell Jessup Newton ed., 2012)  ......... 20 
+Julia A. Cryne, NAGPRA Revisited: A Twenty -Year Review of Repatriation Efforts , 
+34 Am. Indian L. R. 99 (2010)…………..  .............................................................  30 
+Matthew L.M. Fletcher, Preconstitutional Federal Power,  82 Tul.  
+L. Rev . 509 (2007)……………….  .......................................................................... 20  
+S. Alan Ray, Native American Identity and the Challenge of Kennewick  
+Man, 79 Temp. L. Rev. 89 (2006)…………  ........................................................  1, 4 
+ Case: 13-2446     Document: 003111434364     Page: 9      Date Filed: 10/28/2013ix 
+ James D. Nason, Traditional Property and Modern Laws: The Need for Native 
+American Community Intellectual Property Rights Legislation, 12 Stan.  L. & Pol’y 
+Rev. 255, 255 (2001)....................  ............................................................................  4 
+Sherry Hutt & C. Timothy McKeown, Control of Cultural Property as Human Rights Law, 31 Ariz. St. L.J. 363 (1999)  ....................................................... 7, 22, 24 
+Jack F. Trope & Walter R. Echo -Hawk, The Native American Graves Protection 
+and Repatriation Act: Background and Legislative History,   
+24 Ariz. St. L.J. 35 (1992)  ...........  ..................................................................... 5, 6, 7  
+Sherry Hutt, Illegal Trafficking in Native American Human Remains and Cultural Items: A New Protection Tool , 24 Ariz. St. L.J. 135 (1992)  ....................................  7 
+Memorandum from Richard S. Shiver, Acting Environmental Officer, on Documentation of NEPA CATEX to Regional Environmental Officers (June 20, 
+1997), available at : http://www.fema.gov/media -library- data/20130726 -1730-
+25045- 3430/catex_documentation_policy.pdf  ....................................................... 16 
+Office of External Affairs, Federal  Emergency Mgmt. Agency, FEMA Tribal 
+Policy (2010), available at :http://www.fema.gov/media -
+library/assets/documents/20441?id=4445  .........................................................  16, 17 
+ 
+ 
+  
+ 
+ 
+ Case: 13-2446     Document: 003111434364     Page: 10      Date Filed: 10/28/20131 
+ STATEMENT  OF IDENTITY,  INTEREST , AND  AUTHORITY1 
+Amicus  Curiae National Congress of American Indians (“NCAI”) is the 
+oldest and largest national organization representing the interests of American 
+Indians. NCAI’s membership is comprised of Indian tribal governments and 
+individual tribal members. NCAI advocates for Indian tribes and American 
+India n/Alaska Native citizens throughout the United States on a multitude of 
+issues. These issues include American Indian human rights, civil rights, and 
+cultural rights among others . NCAI has a long history of supporting Native  
+peoples’ rights to repatriation of Native American human remains and funerary 
+objects in a culturally appropriate and sensitive manner.  
+NCAI offered extensive Congressional testimony in support of the “historic, 
+landmark”2 Native American Graves Protecti on and Repatriation Act, 25  U.S.C. § 
+3001, et seq.  (“NAGPRA”) . NCAI has an ongoing interest in NAGPRA’s  proper 
+implementation and has shown continued commitment to its preservation and enforcement. For example, in 2012 NCAI re -established the NCAI Tribal 
+NAGPRA Commission. 
+                                                            
+1 Pursuant to Fed. R. App. P. 29(c)(5), no counsel for a party authored this brief in 
+whole or in part, and no counsel or party made a monetary contribution intended to 
+fund the preparation or submission of this brief.  No person other than amicus 
+curiae, its members, or its counsel made a monetary contribution to the preparation 
+or submission of this brief.   
+2 S. Alan Ray, Native American Identity and the Challenge of Kennewick Man, 79 
+Temp. L. Rev. 89, 90 (2006).  Case: 13-2446     Document: 003111434364     Page: 11      Date Filed: 10/28/20132 
+ NCAI is thus well- positioned  to provide this Court with critical context on 
+the creation of NAGPRA, as well as the unique  facets of American Indian cultural 
+resources and repatriation. Indian tribes’ unique history and cultural rights must be 
+considered when addressing issues that affect American Indians and Alaska 
+Natives. Tribes and their citizens enjoy a unique political relationship with the 
+United States under numerous treaties, federal statutes, and the U.S. Constitutio n. 
+See Morton v. Mancari , 417 U.S. 535 (1974). The unique political relationship 
+between Indian tribes and the United States is also evidenced by the entire Title 25 of the United States Code, and numerous Supreme Court holdings, which distinguish Indian t ribes as sovereign political entities and impose  fiduciary dut ies 
+upon the United States toward the tribes . Tribes’ government to government  
+relationship  with the United States  is part of the history and context of NAGPRA, 
+and that history  demonstrates the Act’s constitutionality . Further, the objectives  of 
+NAGPRA , which NCAI helped to craft,  confirm that it applies to this case.  
+Counsel for NCAI has consulted with counsel for all parties to this appeal 
+and none oppose NCAI’s filing of this brief as an Amicus Curiae. Therefore NCAI 
+files this amicus brief pursuant to Fed. R. App. P. 29 and 3d Cir. L.A.R. 29 without 
+a motion for leave to file.   
+ 
+ Case: 13-2446     Document: 003111434364     Page: 12      Date Filed: 10/28/20133 
+ SUMMARY OF ARGUMENT  
+ NAGPRA was enacted, first and foremost, as human rights legislation. It 
+protects the culture  and heritage  of Native Americans and Native Hawaiians, 
+includ ing their right to properly bury their relatives and descendants according to 
+their traditions and beliefs. NAGPRA also seeks to protect burial sites, human 
+remains, and cult ural items from future desecration and therefore applies to 
+contemporary burials .  
+Congress’ authority to enact NAGPRA is solidly grounded in the Spending 
+Clause, Commerce Clause, Treaty Clause, Property Clause, and Congress’ pre -
+constitutional powers.  NA GPRA satisfies the four pronged analysis set forth by 
+the Supreme Court for legislation based on the Spending Clause.  NAGPRA 
+promotes  the general welfare, imposes unambiguous conditions that are related to 
+the federal interest of protecting and advancing culture and heritage, and NAGPRA 
+is not independently unconstitutional under the Tenth Amendment or other 
+Constitutional provisions.  The Indian Commerce Clause and Treaty Clause give 
+Congress broad powers to legislate in Indian affairs, and NAGPRA helps fulfill the 
+federal interest of protecting and advancing Indian culture and heritage.   
+The District Court properly found that the Borough is a museum under 
+NAGPRA , and that it applies in this instance . NAGPRA’s definition of museum is 
+broad, but not as broa d as it could have been.  There was some concern when Case: 13-2446     Document: 003111434364     Page: 13      Date Filed: 10/28/20134 
+ NAGPRA was being debated about its scope , but the scope was limited to 
+institutions and state and local governments. The Borough fits soundly into this 
+category, and was properly held to be a museum.  
+ Finally, laches is an equitable defense that generally should not apply to 
+NAGPRA claims because it is inconsistent with NAGPRA’s language and scheme.  
+ARGUMENT  
+I. NAGPRA IS LANDMARK HUMAN RIGHTS LEGISLATION THAT IS 
+INTENDED TO REPATRIATE REMAINS  AND PREVENT THE FUTURE 
+DESECRATION AND SALE OF REMAINS AND CULTURAL ITEMS .   
+NAGPRA has been described as “historic, landmark legislation for Native 
+Americans. It represents fundamental changes in basic social attitudes toward 
+Native Peoples by the museum and scientific communities and the public at large.” S. Alan Ray, Native American Identity and the Challenge of Kennewick Man, 79 
+Temp. L. Rev. 89, 90 (2006).  “NAGPRA is arguably the most important example of cultural property legislation in our history and has established an international 
+landmark for such legislation.” James D. Nason, Traditional Property and Modern 
+Laws: The Need for Native American Community Intellectual Property Rights 
+Legislation, 12 Stan. L. & Pol’y Rev. 255 , 255 (2001).  
+The history of events that lead to NAGPRA’s passage  is replete with stories 
+of remains being obtained by soldiers, government agents, pothunters, private 
+citizens, museum collecting crews, and scientists in the name of profit, Case: 13-2446     Document: 003111434364     Page: 14      Date Filed: 10/28/20135 
+ entertainment, science, or development. See Robert E. Bieder, A Brief Historical 
+Survey of the Expropriation of American Indian Remains (1990), reprinted in 
+Hearings on S. 1021 and S. 1980 Before the Senate Select Comm. on Indian 
+Affairs , 101st Cong., 278-363 (1990) (“Senate Hearing”); Jack F. Trope & Walter 
+R. Echo -Hawk, The Native American Graves Protection and Repatriation Act: 
+Background and Legislative History,  24 Ariz. St. L.J. 35, 40 (1992). At one point, 
+the search for and collection of Indian body parts became official federal policy 
+with the Surgeon General’s Order of 1868. See Senate Hearings , supra,  at 319- 20 
+(statement of Robert Beider); see also 136 Cong. Rec. S17, 174-175 (daily ed. Oct. 
+26, 1990) (statement of Sen. Inouye). C ollectors would, among other things, “make 
+money from selling Indian skulls to the Army Medical Museum.” 136 Cong. Rec. 
+S17,174 (statement of Sen. Inouye).  
+Over a hundred years later, “ [d]igging and removing the contents of Native 
+American graves for profit or curiosity ha[d]  been common practice .” H.R. Rep. 
+No. 101- 877, at 9 (1990); see also 136 Cong. Rep.  H10,988 (daily ed. October 22, 
+1990) (statement of Rep. Campbell).  Witnesses from private art dealers testified that “a war shirt in very good condition containing sc alp locks could be sold for 
+$200,000 on the open market.” H.R. Rep. No. 101 -877, at 13; Protection of Native 
+American Graves and the Repatriation of Human Remains and Sacred Objects: Hearing on H.R. 1381, H.R. 1646, and H.R. 5237 Before the H. Comm. on Int erior Case: 13-2446     Document: 003111434364     Page: 15      Date Filed: 10/28/20136 
+ and Insular Affairs,  101st Cong. 255 (1990) (“House Hearing”) (statement of 
+James Reid, Vice President of Antique Tribal Art Dealers Assoc.) . While hard to 
+believe, even skulls can be in private collections. House Hearing , supra , at 258  
+(statement of James Reid, Vice President of Antique Tribal Art Dealers Assoc.).  
+Senator McCain noted that tribal and federal officials had been unable, as of 
+1990, to “prevent the continued looting of [N]ative American graves and the sale 
+of those object s by unscrupulous collectors.” 136 Cong. Rec . S17,176; see also 
+Senate Hearing, supra , at 69  (statement of Keith Kintigh, discussing continued 
+looting). Thus, Congress chose to incorporate criminal provisions into NAGPRA 
+to prevent the future theft and corresponding sale of remains and cultural items on 
+the black market. 136 Cong. Rec. S17, 176; see also 18 U.S.C. § 1170 (2012 ); 
+Senate Hearing, supra , at 69 (statement of Keith Kintigh)  (“Elimination of the 
+market for these items by prohibiting their sale or purchase would do far more to 
+protect Native American human remains than all other provisions of this bill and all other antiquities legislation combined.”); Sen. Rep. No. 101-473, at 7 (1990).  
+Along with the 1868 Surgeon General’s Order, state and federa l common 
+law and statutory law contributed to the disparate treatment of Native American burials and funerary objects. See Trope , supra , at 45-47. In particular, the 
+Antiquities Act of 1906 defined dead Native American remains on federal lands as “archeological resources” thereby converting these remains into “federal property.” Case: 13-2446     Document: 003111434364     Page: 16      Date Filed: 10/28/20137 
+ See Trope , supra , at 42-43; 16 U.S.C. § 431- 433 (2012) . As a result, many remains 
+were disinterred pursuant to a federal permit for their preservation in museums. Id. 
+The Archaeological Resources P rotection Act of 1979 (“ARPA”) likewise  deemed 
+Native American human remains as “archaeological resources .” See 16 U.S.C. §§ 
+470b b(1), 470cc(b)(3), 470 dd (2012).  These “resources” were owned by the 
+federal agency over the area where the remains were found and required to  be 
+preserved in museums.  Id.  
+These laws classified  Native American human remains as “property” that 
+could be owned. Th ey contributed to – even encouraged –  grave digging on federal 
+land pursuant to a federal permit. See Trope, supra , at 42 -43; see Senate Hearing, 
+supra , at 187  (statement of Walter Ec hohawk); see Sherry Hutt, Illegal Trafficking 
+in Native American  Human Remains and Cultural Items: A New Protection Tool , 
+24 Ariz. St. L.J.  135, 137 (1992).  This is in sharp contrast to the legal treatment of 
+non-Indian burials and remains, which were generally protected from looting and 
+disturbance.   NAGPRA was needed  to ensure equal  treatment of  Native American 
+remains. See Sherry Hutt & C. Timothy McKeown , Control of Cultural Property 
+as Human Rights Law, 31 Ariz. St . L.J. 363, 366, 372-73 (1999).      
+Another key aspect of NAGPRA is the protection of Native American 
+cultural values and human civil rights. As Senator McCain noted, cultural items are 
+those items  “necessary for the continuing practice of [N]ative American religions, Case: 13-2446     Document: 003111434364     Page: 17      Date Filed: 10/28/20138 
+ funerary objects and objects that are of central importance to the tribe such that 
+they cannot be owned, alienated or conveyed by any individual.” 136 Cong. Rec. 
+S17,176. Preserving Native American culture, as Representative Mink noted, is 
+one aspect of this legislation.  136 Cong. Rec. H 10,991.  Protecting Native 
+American culture includes pr otecting Native American spiritual beliefs. Some 
+Native representatives testified that the “spirits of their ancestors would not rest until they are returned to their homeland” and that such beliefs have generally been 
+ignored. H.R.  Rep. No. 101- 877, at 13 . Senator Inouye explained:  
+When human remains are displayed in museums or historical 
+societies, it is never the bones of white soldiers or the first European 
+settlers that came to this continent that are lying in glass cases.  It is 
+Indian remains. The m essage that this sends to the rest of the world is 
+that Indians are culturally and physically different from and inferior to 
+non-Indians. This is racism.  
+ 
+In light of the important role that death and burial rites play in 
+[N]ative American cultures, it is all the more offensive that the civil 
+rights of America’s first citizens have been so flagrantly violated for 
+the past century.         
+ 
+136. Cong. Rec. S17,174. As a result of this history, Congress recognized that 
+NAGPRA truly is  “human rights” legislation. See United States v. Carrow, 119 
+F.3d 796, 800 (10th Cir. 1997)  (citing  Trope, supra , at 37); Senate Hearing, supra,  
+at 38 (statement of Paul Bender, Trustee Heard Museum); S. Rep. No. 101-473, at 
+2; H.R. Rep. No. 101- 877, at 10.     Case: 13-2446     Document: 003111434364     Page: 18      Date Filed: 10/28/20139 
+ In order to protect Native cultures and human rights, and combat the 
+historical and continuing theft of Native American remains and funerary objects, 
+Congress enacted NAGPRA to achieve two principal  objectives. See Carrow, 119 
+F.3d at 799- 800 (citing H.R.  Rep. No. 101- 877); S. Rep. No.  101-473, at 1. The 
+first objective, which the Borough  of Jim Thorpe (“Borough”) and a micus curiae 
+Michael Koehler and John Thorpe rightly acknowledge, is to protect Native 
+American human remains, funerary objects, sacred obje cts, and objects of cultural 
+patrimony presently on Federal or tribal lands. Id. ; Brief of the Bo rough of Jim 
+Thorpe  at 20, Thorpe et al. v. Borough of Jim Thorpe et al., No. 13- 2446 & 13-
+2451 (3d Cir. Sept. 23 2013) (“Borough Brief”); Brief for Michael Koehler & John Thorpe as Amici Curiae Supporting the Borough at 6, Thorpe et al. v. Borough of 
+Jim Thorpe et al., No. 13- 2446 & 13- 2451 (3d Cir. Sept. 30,  2013) (“Amici Curiae 
+Brief”). Essential to protecting those items are the discovery and criminal 
+provisions  in NAGPRA. See 18 U.S.C. § 1170; 25 U.S.C. § 3002. The second 
+objective , which the Borough minimizes,  is to repatriate Native American human 
+remains, associated funerary objects, sacred objects, and objects of cultura l 
+patrimony currently held or controlled by Federal agencies or by  museums. See 
+Carrow, 119 F.3d at 799- 800 (citing H.R.  Rep. No. 101- 877); S. Rep. No. 101-
+473, at 1. Case: 13-2446     Document: 003111434364     Page: 19      Date Filed: 10/28/201310 
+ Through these two objectives, Congress sought to repatriate human remains 
+and other objec ts by ensuring human remains and cultural items are returned.  
+Congress also sought to prevent the future desecration and sale of human remains 
+and associated funerary objects by outlawing the sale and purchase of these items 
+and protecting those  items fou nd on federal  or tribal  lands. NAGPRA’s repatriation 
+objective applies with full force to this case.   
+II. EVEN THOUGH THE CONSTITUTIONAL CLAIM S ARE  WAIVED , NAGPRA  
+IS CONSTITUTIONAL UNDER THE SPENDING CLAUSE , COMMERCE 
+CLAUSE , TREATY CLAUSE , OR CONGRESS ’ PRE-CONSTITUTIONAL 
+AUTHORITY .  
+ 
+As outlined by the Thorpe’s in their brief, the Borough’s constitutional 
+arguments have been waived. Brief of John Thorpe; Sac and Fox Nation of 
+Oklahoma; William Thorpe; and Richard Thorpe at 33- 37, Thorpe et al. v. 
+Borough of Jim Thorpe et al., No. 13- 2446 & 13- 2451 (3d Cir. Oct. 23 2013) 
+(“Thorpe’s Brief”). Even if they had not, however, NAGPRA is constitutional.   
+a. NAGPRA’ S MUSEUM PROVISIONS ARE CONSTITUTIONAL UNDER 
+THE SPENDING CLAUSE .   
+ 
+NAGPRA’s museum provisions are constitutional under U.S. Const. a rt. I, § 
+8, cl. 1.3  The Supreme Court has long held that Congress can place conditions  on 
+                                                            
+3 The legislative history indicates  that the museum provisions in NAGPRA were  
+enacted pursuant to the Spending C lause as the original proposed penalty was to 
+disqualify museums for the receipt of any future federal funds if they were  not in 
+compliance.  H.R. Rep. No.  101-877, at 26; House  Hearing, supra , at 311 -12 
+(statement of Am. Assoc. of Museums).  Case: 13-2446     Document: 003111434364     Page: 20      Date Filed: 10/28/201311 
+ the receipt of federal funds. See South Dakota v. Dole , 483 U.S. 203, 206 -07 
+(1987); see also  Nat’l Fed ’n of Indep.  Bus. v. Sebelius, 132 S.Ct. 2566, 2604 
+(2012). Dole is the leading case in this area. Id.  In Dole , the Supreme Court held 
+that the Spending C lause  allowed Congress to withhold federal highway funds 
+from states that allow anyone under the age of 20 to purchase alcoholic beverages. 
+483 U.S. at 207- 212. In doing so, the Court set forth the basic multi -part test to 
+determine whether federal spending limitations are constit utional.  See Koslow v. 
+Pennsylvania , 302 F.3d 161, 175- 76 (3d Cir. 2002).  
+“Spending Clause legislation must: (1) pursue the general welfare; (2) 
+impose unambiguous conditions on states, so they can exercise choices knowingly 
+and with awareness of the cons equences; (3) impose conditions related to federal 
+interests in the program; and (4) not induce unconstitutional action.” Id. at 175 
+(citing Dole , 483 U.S. at 207- 08, 210).  
+The general welfare requirement is not a particularly high barrier “especially 
+in light of the fact that ‘the concept of welfare or the opposite is shaped by Congress . . . ’” Helvering v. Davis, 301 U.S. 619, 645 (1937); see Dole, 483 U.S. 
+at 207 (stating that courts should “defer substantially” to the judgment of 
+Congress). As discus sed in more detail in Part I above, NAGPRA easily passes this 
+requirement as it was first and foremost human rights legislation. See Carrow, 119 F.3d at 800.   Case: 13-2446     Document: 003111434364     Page: 21      Date Filed: 10/28/201312 
+ NAGPRA also satisfies Dole’s second requirement – it imposes 
+unambiguous conditions on recipients of federal funds. The Supreme Court has 
+explained that courts must ask whether a state official or recipient of federal funds 
+would clearly understand the obligations in the act. Arlington Central Sch. Dist. 
+Bd. of Educ. v. Murphy, 548 U.S. 291, 296 (2006). NAGPRA’s inventory, summary, and repatriation provisions are clear and unambiguous, and many 
+museums have easily understood its provisions. See 25 U.S.C. §§ 3003, 3004, 
+3005. For example, the Michigan State Police recently completed a NAGPRA 
+inventory. See 78 Fed. Reg. 59,954- 55 (Sept.  30, 2013). Many other state and local 
+governments evidently  understand NAGPRA’s provisions. See, e.g., 78 Fed. Reg. 
+50,098 -99 (Aug. 16, 2013) (St. Joseph County Sheriff's Department, Centreville, 
+MI); 78 Fed. Reg. 48,900- 01 (Aug.  12, 2013) (State Historical Society of 
+Wisconsin, Madison, WI); 78 Fed. Reg. 34,121 -23 (June 6, 2013) (Dallas Water 
+Utilities, Dallas, TX); 76 Fed. Reg. 14,058 (March 15, 2011)  (Fremont County 
+Coroner, Riverton, WY); 73 Fed. Reg. 49,483 (Aug.  21, 2008)  (Arkansas Highway 
+and Transportation Department). There is nothing ambiguous about the scope of 
+NAGPRA – it applies to “any institution or State or local government agency . . . 
+that receives Federal funds and has possession of, or control over, Native 
+American cultural items.” 25 U.S.C. § 3001(8). “Native American,” “cultural 
+items,” and “receives Federal funds” are all defined for clarity. See 25 U.S.C. § § Case: 13-2446     Document: 003111434364     Page: 22      Date Filed: 10/28/201313 
+ 3001(3), (9); 43 C.F.R. § 10.2(a)(3)(iii). When a repatriation request for human 
+remains is made, a museum “shall expeditiously return such remains and 
+associated funerary objects.” 25 U.S.C. § 3005(a)(1). NAGPRA’s language clearly 
+sets forth  its scope and requirements .        
+The Court of Appeals for the Sixth Circuit recently determined that  the 
+Religious Land Use and Institutionalized Persons Act (“R LUIPA”) , which is 
+similar to NAGPRA,  satisfied the second Dole  requirement. See Cutter v. 
+Wilkinson, 423 F.3d 579, 585 (6th Cir. 2005).  RLUIPA applies to “any program or 
+activity that receiv es Federal financial assistance[.] ” 42 U.S.C. § 2000cc -1(b)(1).  
+NAGPRA applies to any “institution or State or local government agency 
+(including any institution of higher learning) that receives Federal funds and has 
+possession of, or control over, Native American cultural items.” 25 U.S.C. § 
+3001(8). The Court of Appeals held that the “statutory language of RLUIPA, 
+which explains that the Act applies to ‘any program or activity that receives 
+Federal financial assistance,’ 42 U.S.C. § 2000cc -1(b)(1), is not ambiguous.” 
+Cutter , 423 F.3d at 585; see also Madison v. Virginia, 474 F.3d 118, 125 (4th Cir. 
+2006) (same); Mayweathers v. Newland , 314 F.3d 1062, 1067 (9th Cir. 2002) 
+(same) . Likewise, NAGPRA is not ambiguous in its application, and provides clear 
+notice to institutions and state and local governments of its conditions. The prison 
+officials in Cutter  went on to argue that the “least restrictive means” test laid out in Case: 13-2446     Document: 003111434364     Page: 23      Date Filed: 10/28/201314 
+ RLUIPA also show ed ambiguity. 423 F.3d at 586. The Court of Appeals again 
+disagreed, finding that all that is necessary under the second Dole  requirement is 
+that the statute put the recipient of funds “on notice” of its requirement s. Id. 
+NAGPRA’s provisions similarly provide ample notice.   
+With regard to the third Dole  requirement, NAGPRA imposes conditions  
+directly related  to the federal interest it was enacted to protect. First and foremost, 
+Congress has a significant interest in protecting human rights, which NAGPRA 
+does. See Carrow  119 F.3d at 799- 800. Further, Congress has an interest in  
+protect ing Indian grave sites fr om desecration, and returning  remains in the 
+possession or control of museums to lineal descendants and related tribes.  Id.  The 
+conditions NAGPRA imposes are the excavation and criminal provisions to protect 
+human remains and cultural items, and the museum provisions to repatriate 
+remains. 25 U.S.C. §§ 3002, 3 005.  
+In Dole , the Supreme Court found that the drinking age condition on the 
+receipt of federal funds was sufficiently related to the expenditure of highway funds and safe interstate travel. 483 U.S.  at 208- 09. In this instance, the conditions 
+imposed by NAGPRA are directly related to, and directly advance, its purpose of 
+protecting human rights and remains,  and repatriating Indian remains in the 
+possession of museums.  What is required is that the “conditions attached to federal 
+funding be related to a federal interest.” Charles v. Verhagen, 348 F.3d 601, 608 Case: 13-2446     Document: 003111434364     Page: 24      Date Filed: 10/28/201315 
+ (7th. Cir. 2003) (internal citation omitted).  Through NAGPRA, Congress has 
+expressed a clear interest in protecting human  rights.  As this Court noted  in the 
+Rehabilitation Act context, the interest in human rights legislation , which is 
+undeniably significant and clearly reflected in the legislative history, flows with 
+every dollar spent. Koslow, 302 F.3d at 175- 76.  
+The Borough asserts that the receipt of federal funds must have a nexus to 
+activities related to museums. Borough Brief at 45. The District Court, however, correctly relied on Grove City to find the Borough received  federal funds, and this 
+Court has cited that case with approval in its  previous Spending Clause analysis.  
+See Koslow, 302 F.3d at 176 (citing Grove City Coll. v. Bell , 465 U.S. 555, 571 n. 
+21 (1984)). Further, t he Supreme Court rejected the Borough’s nexus argument in 
+Sabri v. United States , 541 U.S. 600, 605 -06 (2004). As the Court noted, money is 
+“fungible,” and can be drained off in one account because federal money is 
+flowing into another. Id. at 606.  Thus, the Court rejected Sabri’s argument that the 
+statute there was unconstitutional becau se “it fails to require proof of any 
+connection between a bribe or kickback and some federal money.”  Id. at 604- 07; 
+see also Koslow, 302 F.3d at 176 (recognizing that funds are fungible).  In Koslow , 
+the funds that the prisons received were illegal alien funds, not anti -discrimination 
+funds.  302 F.3d at 166 -67.   This Court there noted that it was virtually impossible 
+to determine whether federal dollars paid for Koslow's salary or any benefits he Case: 13-2446     Document: 003111434364     Page: 25      Date Filed: 10/28/201316 
+ received. Id. Likewise, it is virtually impossible to dete rmine whether any federal 
+funds the Borough received went to maintain Jim Thorpe’s mausoleum, or the 
+grounds or streets around it  that provide access , thereby freeing up funds for the 
+Borough to directly maintain the mausoleum. As a result, the Borough’s nexus argument misses the mark.  
+Regardless, p art of the federal funds the Borough received were Federal 
+Emergency Management Assistance (“FEMA”) funds , which have a sufficient 
+relation ship to the conditions imposed by NAGPRA . Rec. Doc. 98 -6. With the 
+excep tion of “restoring a facility,” FEMA does  not affect the application of the 
+National Environmental Policy Act (“NEPA”) to other FEMA actions.  42 U.S.C. 
+§ 5159 (2012); see Memorandum from Richard S. Shiver, Acting Environmental 
+Officer, on Documentation of NEPA CATEX to Regional Environmental Officers (June 20, 1997), available at : 
+http://www.fema.gov/media -library- data/20130726-
+1730 -25045 -3430/catex_documentation_policy.pdf  (discussing that other 
+environmental laws still apply).  NEPA generally requires the federal government 
+to “preserve important historic, cultural , and natural aspects of our national 
+heritage, and maintain, wherever possible, an environment which supports 
+diversity and variety of individual choice[.]” 42 U.S.C. § 4331(4) (2012); see also 
+Office of External Affairs, Federal Emergency Mgmt. Agency, FEMA Tribal Policy (2010), available at :
+http://www.fema.gov/media -Case: 13-2446     Document: 003111434364     Page: 26      Date Filed: 10/28/201317 
+ library/assets/documents/20441?id=4445 . FEMA regulations adopt ed this identical 
+language. 44 C.F.R. § 10.4(a)( 2).  As a result , through FEMA expenditures there is 
+a federal interest in protecting culture and heritage, which would include Native 
+American human rights, burials, and culture . NAGPRA’s inventory and 
+repatriation provisions directly relate to this federal interest of protecting culture 
+and heritage .4  
+Finally, there is no independent constitutional bar to NAGPRA. The 
+Borough argues that NAGPRA  is unconstitutional under the Tenth A mendment. It 
+is well recognized, however, that the Tenth A mendment is not an independent 
+constitutional bar to S pending Clause legislation. See Bell v. New Jersey, 461 U.S. 
+773, 790 (1983). “Requiring States to honor the obligations voluntarily assumed as 
+a condition of federal funding before recognizing their ownership of funds simply 
+does not intrude on their sovereignty.” Id.  As the Seventh Circuit noted,  
+when Congress engages in a constitutional use of its delegated Article 
+I powers, the Tenth Amendment does not reserve that power to the 
+States. In other words, the Tenth Amendment does not restrict the 
+                                                            
+4 Likewise, the American Recovery and Reinvestment Act (“ARRA”), under which 
+the Borough received funds,  Rec. Doc. 98 -6, sought to inve st in, among other 
+things, environmental protection. American Recovery and Reinvestment Act of 
+2009, Pub. L. No. 111- 5, § 3(a)(4), 123 Stat. 115, 116 (2009). ARRA also devoted 
+resources “to ensuring that applicable environmental reviews under [NEPA]  are 
+completed on an expeditious basis and that the shortest existing applicable process 
+under [NEPA]  shall be utilized. ” Id. at § 1609, 123 Stat. at 304. By incorporating 
+NEPA, ARRA expenditures, just like FEMA expenditures, have tied to them a 
+federal interest in protecting Native American human rights, burials, and culture, 
+which directly relates to NAGPRA’s conditions.  Case: 13-2446     Document: 003111434364     Page: 27      Date Filed: 10/28/201318 
+ range of conditions Congress can impose on the receipt  of federal 
+funds, even if Congress could not achieve the goal(s) of those 
+conditions directly.   
+ 
+Verhagen, 348 F.3d  at 609 (internal citations omitted); see Cutter, 423 F.3d at 
+588-89. Thus, the Tenth Amendment is no bar.   
+Additionally , the financial inducement provided for in NAGPRA is not so 
+coercive as to constitute  compulsion. See Sebelius , 132 S.Ct. at  2601- 2608 
+(holding that the penalty of withholding existing and future Medicaid payments 
+amounted to coercion); Nat’l Collegiate Athletic Ass’n v. Governor of New 
+Jersey, __ F.3d __, No. 13 –1713, 13– 1714, 13– 1715, 2013 WL 5184139 (3d Cir. 
+Sep. 17, 2013) (discussing anti -commandeering principles, although no page 
+numbers have been assigned). NAGPRA, as originally proposed, had a penalty  
+provision similar to  the statute in  Dole  and Sebulius  – an unconditional 
+withholding of federal funds. H.R. Rep. No. 101-877, at 26; H ouse Hearing, supra , 
+at 311- 12 (statement of American  Assoc . of Museums).  NAGPRA as enacted,  
+however,  has no such a penalty and the Borough has not argued its hearing 
+provision for non- compliance is unduly coercive. See 25 U.S.C. § 3007. This is not 
+a case where the Borough will lose all of its federal funding if it fails to comply. 
+See Sebelius, 132 S.Ct . at 2604- 2605. Nor is this a case where the Borough or State 
+must enact a law or take title to certain property. See generally New York v. United 
+States, 505 U.S. 144 (1992). Here, just as in Dole , Congress has offered “relatively Case: 13-2446     Document: 003111434364     Page: 28      Date Filed: 10/28/201319 
+ mild” encouragement to the museums to repatriate remains.  Dole , 483 U.S. at 211-
+12. The repatriation of such remains, however, remains the prerogative of 
+museums not merely in theory but in fact. Id. Encouraging museums to comply 
+with NAGPRA by conditioni ng the receipt of federal funds on the repatriation 
+provisions is constitutional.  
+b. NAGPRA  IS CONSTITUTIONAL UNDER THE COMMERCE CLAUSE , 
+TREATY CLAUSE , PROPERTY CLAUSE , OR CONGRESS ’ PRE-
+CONSTITUTIONAL AUTHORITY , AND POSES NO EQUAL PROTECTION5 
+CHALLENGES .   
+Even if the NAGPRA museum provisions are not constitutional under the 
+spending clause, which they are as described above, NAGPRA is constitutional under the Indian commerce clause, U.S. Const., art. I, § 8, cl. 3, and treaty clause, 
+U.S. Const., art. II, § 2, cl. 2. It is well established that the Indian Commerce 
+Clause and the Treaty Clause give Congress broad authority to legislate in Indian affairs.
+6  See United States v. Lara, 541 U.S. 193, 200 (2004); Cotton Petroleum 
+Corp. v. New Mexico,  490 U.S. 163, 192 (1989); United States v. Pendleton , 658 
+                                                            
+5 The Borough does not explicitly make an equal protection argument, but implies 
+one may exist. Borough Brief at 20, 30.  
+6 The Borough cites to Justice Thomas’  discussion on the Indian commerce clause 
+in Adoptive Couple v. Baby Girl, 133 S.Ct. 2552, 2571 (2013). Borough Brief at 
+20, 30, 34. Justice Sotomayor noted in her dissent , however,  that no “party 
+advanced this  [constitutional]  argument, and it is inconsistent with this Court's 
+preced ents holding that Congress has ‘broad general powers to legislate in respect 
+to Indian tribes, powers that we have consistently described as plenary and 
+exclusive, ’ founded not only on the Indian Commerce Clause  but also the Treaty 
+Clause.” Id. at 2584, n. 16 (citing United States v. Lara , 541 U.S . at 200– 201 
+(2004)).   Case: 13-2446     Document: 003111434364     Page: 29      Date Filed: 10/28/201320 
+ F.3d 299, 306 (3d. Cir. 2011) (citing Lara, 541 U.S. at 200); Cohen’s Handbook of 
+Federal Indian Law  §5.01- 5.02(2), at 383- 92 (Nell Jessup Newton ed., 2012)  
+(“Cohen’s”). NAGPRA’s excavation provisi ons are constitutional under the 
+Property Clause, U.S. Const., art. IV, § 3, cl. 2, as t he Property Clause empowers 
+Congress to dispose of and regulate “the Territory or other Property belonging to the United States.” Id.; see generally Kleppe v. New Mexico, 426 U.S. 529 (1976); 
+Cohen’s § 5.01(1), at 385.   
+Additionally, Congress has legislative authority consistent with the 
+“adoption of preconstitutional powers necessarily inherent in any Federal Government, namely, powers that this Court has described as ‘necessary 
+concomitants of nationality.’” Lara, 541 U.S. at 201 (internal citations omitted); Matthew L.M. Fletcher, Preconstitutional Federal Power,  82 Tul. L. Rev . 509 
+(2007); Cohen’s at § 5.01(4), at 389- 390.  This pre -constitutional power also 
+provides authority for Congress to legislate in Indian affairs.  
+NAGPRA is a proper exercise of Congress’ broad authority to legislate in 
+Indian affairs. NAGRPA, therefore, is the law of the land under the Supremacy Clause. Antoine v. Washington, 420 U.S. 194, 204 (1975). Further, because 
+Congress has such authority, there are no Tenth Amendment concerns as the 
+Borough argues. New York, 505 U.S. at  156 (“If a power is delegated to Congress Case: 13-2446     Document: 003111434364     Page: 30      Date Filed: 10/28/201321 
+ in the Constitution, the Tenth  Amendment expressly disclaims any reservation of 
+that power to the States.”).  
+NAGPRA likewise raises no equal protection concerns. The Supreme Court 
+has recognized that legislation  in Indian affairs raises no equal protection dilemmas 
+if it is tied to Con gress’ unique obligation toward Indians.  Mancari , 417 U.S. at 
+551-555; see Rice v. Cayetano, 528 U.S. 495, 518- 21 (2000); Doe v. Kamehameha 
+Schools/Bernice Pauahi Bishop Estate , 470 F.3d 827, 850- 53 (9th Cir. 2006). This 
+is because there is a  political relationship between federally recognized tribes and 
+the United States that gives rise to a political, rather than racial,  classification . Id. 
+As a result, a rational basis test is generally applied to Indian legislation  rather than 
+a strict scrutiny standard for racial classifications. Id.  NAGPRA specifically 
+applies to federally -recognized tribes, see 25 U.S.C. § 3001(7) (2012), and seeks to 
+repat riate remains to descendants and related  tribes.7 Congress explicitly  
+recognized that NAGPRA “reflects the unique relationship between the Federal 
+Government and Indian tribes and Native Hawaiian organizations[.]” 25 U.S.C. § 
+3010  (2012). NAGPRA is therefore tied to the fulfillment of Congress’ unique 
+                                                            
+7 Because all descendants are included under NAGPRA, 25 U.S.C. § 3005 (2012), 
+and NAGPRA is not to be construed to violate individual rights, such as spouses 
+rights, 25 U.S.C. § 3009(4) (2012), there is no equal protection concern here as  
+NAGPRA does not separate out or classify those individuals and treat them 
+differently. See Nordlinger v. Hahn, 505 U.S. 1, 10 (1992). Rather, they are all 
+entitled to participate in the repatriation proceeding. See 25 U.S.C. § 3005(e).      Case: 13-2446     Document: 003111434364     Page: 31      Date Filed: 10/28/201322 
+ obligation toward the Indians, and thus satisfies the rational basis test set forth in 
+Morton .8 417 U.S. at 551- 555.   
+III. THE DISTRICT COURT  CORRECTLY HELD THAT NAGPRA  APPLIES TO 
+THE BOROUGH AND TO THE REMAINS OF JIM THORPE .   
+ 
+a. THE LEGISLATIVE HISTORY SHOW S THAT CONGRESS INTENDED THE 
+TERM “MUSEUM ” TO APPLY BROADLY . 
+ 
+NAGPRA’s statutory definition of  “museum” by its plain language  covers a 
+broad array of entities. See 25 U.S.C. § 3001(8). Local governments, such as the 
+Borough, that receive federal funds and have possession of remains are considered 
+museums under NAGPRA. Id. The legislative history also supports this 
+conclusion.   
+Congress  carefully considered NAGPRA’s  definition of “museum” and 
+modified it to be less expansive . Representative Richardson outlined areas of 
+concern and compromise in NAGPRA and noted that one point of compromise 
+was the scope of individuals and entities  covered. 136 Cong. Rec. H 10,990. After 
+the Antique Tribal Arts Dealers Association raised concern s about the broad 
+                                                            
+8 Additionally, “NAGPRA does not protect any class of property not protected 
+within the tenets  of American property law. NAGPR A does not create any new or 
+special rights for Native Americans. Rather, the statute applies common law 
+property rights principles consistent with enumerated NAGPRA categories. 
+NAGPRA affords Native Americans equal protection under the law.” Hutt, 
+Control  of Cultural Property , supra , at 373. This is the essence of human rights 
+legislation.  Id. at 366.  
+ Case: 13-2446     Document: 003111434364     Page: 32      Date Filed: 10/28/201323 
+ definition of museum, pointing out that it could potentially include private 
+individuals that receive grants or social security payments, the definition was 
+narrowed.  Id. Specifically, the definition of museum was narrowed to include onl y 
+institutions or state or local government agencies.  Id.; see 25 U.S.C. § 3001(8).  
+Senator Inouye confirmed that he did not believe that the rights of private antique 
+dealers would be taken away , thus confirm ing that the application of NAG PRA 
+was not as broad as some had feared . 136 Cong. Rec. S17, 174. The District Court  
+correctly held that NAGPRA applies to the Borough – a local government  that 
+receives federal funds.  See Appx. I at 63- 75.       
+b. THE STATUTORY SCHEME AND LEGISLATIVE HISTORY SHOW THAT 
+CONGRESS INTENDED NAGPRA  TO APPLY TO CONTEMPORARY  
+BURIALS .   
+The District Court correctly found that NAGPRA applies to contemporary 
+burials. Appx. I at 21.  As the District Court noted, “no one could r easonably 
+contend that civil rights statutes passed in the wake of the Civil War do not apply 
+to modern situations simply because they were aimed at a historical evil.” Id. 
+Likewise, NAGPRA, while aimed at repatriations , is human rights legislation also 
+aimed at preventing future harms.  See Carrow, 119 F.3d at 799- 800.   
+The Borough and a micus curiae assert  that applying NAGPRA here would 
+lead to an absurd result because Jim Thorpe’s third wife properly had the authority 
+to dispose of his remains.  Borough Brief at 23, 28 -29; Amici Curiae Brief at 13-18. Case: 13-2446     Document: 003111434364     Page: 33      Date Filed: 10/28/201324 
+ We are not dealing with the initial burial of Jim Thorpe, but rather the repatriation 
+of him.  See Thorpe’s Brief at 30- 33. NAGPRA merely applies similar standards to 
+Native American remains , such as common  law re -internment,  that have long 
+applied to non- Native remains . Hutt, Control of Cultural Property , supra , at 373 . 
+Ensuring that the law equally applies has long been the heart of human rights 
+legislation  and is not absurd.  
+The Borough and amicus  curiae  point  to Kickapoo Traditional Tribe of 
+Texas v. Chacon, 46 F.Supp.2d 644 (W.D. TX) (1999),  for support. Borough Brief 
+at 25; Amici Curiae Brief at 15 -16.  That case dealt with whether NAGPRA would 
+prevent a potential murder investigation. Chacon, 46 F.Su pp.2d at 645- 6. Initially, 
+this matter is quite distinguishable from Chacon in that this Court is not addressing 
+whether NAGPRA ’s excavation provisions can prevent a criminal  investigation.  
+Id. This case involves the application of NAGPRA’s  museum provisions to civil, 
+not criminal, matters .  
+In addressing NAGPRA, the Chacon Court  ruled that NAGPRA did not 
+apply for two reasons, only one of which was necessary to its holding . First, the 
+Court ruled that the term “human remains” in the statute was int ended to mean 
+“ancient human remains or those with some sort of cultural or archaeological 
+interest.” Id. at 650.  To support this determination, the Court looked to the canon Case: 13-2446     Document: 003111434364     Page: 34      Date Filed: 10/28/201325 
+ of construction of noscitur a sociss9 rather than looking to the regulatory definition 
+of human remains at 43 C.F.R. § 10.2(d)(1) (2011) . In relying on the canon, the 
+Court determined that the placement of the term human remains within the 
+category of “cultural items” suggested that NAGPRA was not meant to apply to a 
+recently buri ed corpse that is of no cultural10 or anthropological interest, “but 
+which is sought by state authorities for the purposes of conducting an inquest.” Id.  
+The Court then looked to ARPA for additional support because NAGPRA 
+uses ARPA’s permit process for its  excavation  and discovery provisions. Id. at 
+650-51. ARPA protects archaeological resources, which includes human remains 
+that are of archeological interest. Id. To obtain a permit under ARPA, one must 
+show that the permit will be used to further archeological knowledge. Id. The 
+Court concluded, therefore, that to construe “human remains” to include remains of 
+people that have recently passed on would nullify the ARPA permit requirement  as 
+used by NAGPRA . Id. That, however, would not be the case. NAGPRA 
+specifically incorporates ARPA’s permit requirement, but only to the extent that it 
+is “consistent” with NAGPRA. 25 U.S.C. § 3002(c)(1); H ouse Hearing , supra , at 
+                                                            
+9 “[A] word is known by the company it keeps. ” Chacon, 46 F.Supp.2d at 650.  
+10 Interestingly, it does not  look as if the question of whether the remains were of 
+cultural interest to the tribe was addressed  in an evidentiary hearing in Chacon. Id. 
+This seems contrary to NAGPRA, especially since the legislative history 
+establishes that m any tribes do have a cul tural interest in ensuring that the remains 
+of their members are properly buried. See H.R.  Rep. No. 101- 877, at 13.  
+ Case: 13-2446     Document: 003111434364     Page: 35      Date Filed: 10/28/201326 
+ 145 (statement of  Society for American Archeology). NAGPRA specifies that the 
+intentional removal or excavation of cultural items can be for many purposes  rather  
+than just the archeological purposes the Chacon court referenced. Specifically, the 
+removal or excavation can be for purposes of “discovery, study, or removal” and 
+not merely for purpo ses specified in ARPA. 25 U.S.C. § 3002(c).  
+Additionally, ARPA places ownership of excavated items in the federal 
+government  thereby doing away with any repatriation. See 16 U.S.C . §§ 470bb(1), 
+470cc(b)(3), 470dd. NAGPRA, on the other hand,  places the ownership of items 
+found on federal or Indian  lands in t ribes and requires repat riation.  25 U.S.C. §§ 
+3002, 3005.  As the legislative history summarized in Part I above  shows , ARPA 
+contributed to the problem NAGPRA sought to resolve.  The Chacon  Court’s 
+reliance on the ARPA permit requirement  to limit NAGPRA’s definition of 
+“human remains, ” therefore, was misplaced. The Chacon Court’s second reason 
+for finding NAGPRA did not apply in that  unique  instance is not at issue here as 
+there is no criminal  investigation.   
+Rather  than Chacon, this Court should follow the sound reasoning of the 
+court in Yankton Sioux Tribe v. U.S. Army Corps of Engineers, 83 F.Supp.2d 1047 
+(D. S.D. 2000) . For example, i f NAGPRA only applies to prehistoric remains as 
+the Corps in Yankton argued and the Borough argues here, not only would the 
+lineal descendant provision be meaningless, but the criminal provision would also Case: 13-2446     Document: 003111434364     Page: 36      Date Filed: 10/28/201327 
+ be stripped . NAGPRA’s criminal provision provides that whoever “knowingly 
+sells, purchases, uses for profit, or transports for sale or profit, the human remains 
+of a Native American without the right of possession” shall be fined or imprisoned 
+accordingly. 18 U.S.C. § 1170(a). If NAGPRA only applied to prehistoric remains  
+rather than all human remains, then a person could potentially dig up Jim Thorpe ’s 
+remains and any funerary items he was buried with, or for that matter any other 
+native persons,  and sell them on the black market without violating NAGPRA’s 
+criminal provision. Such a result  would defeat an essential objective of NAGPRA 
+– the protection of Native American graves and burial sites.   
+As outlined in Part I above , NAGPRA was not only mea nt to repatriate 
+remains,  but was also intended to prevent future harms. Testimony at the 
+legislative hearings noted that there is still a market for many objects associated 
+with Native American remains. Accordingly, Congress specifically incorporated 
+criminal provisions into NAGPRA  to prevent the future theft and corresponding 
+sale of remains and cultural items on the  black market. 136 Cong. Rec. S 17,176; 
+see also 18 U.S.C. § 1170. Holding that NAGPRA only applies to prehistoric 
+remains would severely limi t the crim inal provision contrary to Congress’ intent .   
+This Court, rather than noscitur a sociss, should apply the well -recognized 
+canons of construction dealing with Indian affairs and civil rights to broadly interpret NAGPRA’s scope. See  Ramah Navajo School Bd. v. Bur. of Revenue, 458 Case: 13-2446     Document: 003111434364     Page: 37      Date Filed: 10/28/201328 
+ U.S. 832, 846 (1982) (“We have consistently admonished that federal statutes and 
+regulations relating to tribes and tribal activities must be construed generously . . 
+.”); Scheidemantle v. Slippery Rock Univ.  State System of Higher Ed., 470 F.3d 
+535, 538- 39 (3d Cir. 2006) (remedial civil rights and human rights statutes should 
+be interpreted broadly). Finally, there is legislative history that shows that 
+NAGPRA, unlike ARPA, was intended to apply  to remains or  objects that are less 
+than 100 years old.  H ouse Hearing, supra , at 141  (statement of the Society for 
+American Archaeology) (noting the only broader protection NAGPRA offers over 
+ARPA was with remains or objects less than 100 years old). Accordingly, the 
+statutory scheme and legislative history show s that NAGPRA applies to 
+contemporary burials.       
+IV. LACHES WOULD BE INCONSISTENT WITH NAGPRA’ S SCHEME AND 
+POLICY .11   
+The equitable defense of laches should not bar NAGPRA claims. L aches 
+should not categorically apply when it is inconsistent with the language of a  statute  
+or its remedial purpose . See United States v. Lawrence 276 F.3d 193, 196 (5th 
+Cir.2001); United States v. Tuerk , 317 Fed.Appx. 251, 253 (3d Cir. 2009);  see also 
+Canadian St. Regis Bank of Mohawk Indians v. New York , Nos. 82– CV–0783, 82–
+CV–1114, 89– CV–0829, slip op., 2013 WL 3992830 at *16, n. 24  (N.D.N.Y. July 
+                                                            
+11 The Thorpe’s Brief sufficiently addresses the merits of the laches argument,  
+Thorpe’s Brief at 49 -55, and NCAI supports the District Court’s determination in 
+that regard.  See Appx. I at 75- 78.    Case: 13-2446     Document: 003111434364     Page: 38      Date Filed: 10/28/201329 
+ 23, 2013) (“To conclude otherwise, as Defendants appear to urge the Court to do, 
+would be to ascribe a broader and disturbingly anti -democratic meaning to the 
+recent line of laches cases —that remedial causes of action specifically preserved 
+by Congress may be vitiated in the courts by the categorical application of an 
+equitable defense. ”). Applying laches to NAGPRA claims could operate to repeal 
+it by implication  without any legislative action, which is not favored. Hui v. 
+Castenada,  559 U.S. 799, 810 (2010) (“As we have emphasized, repeals by 
+implication are not favored and will not be pre sumed unless the intention of the 
+legislature to repeal is clear and manifest.”).  
+The legislative history shows that a statutory deadline for filing claims was 
+raised as a concern.  House Hearing, supra, at  249 (statement of Richard W. 
+Edwards, Jr.). Specifically, Mr. Edwards, Jr. raised the issue as a concern on behalf of himself and other artifact collectors.  Mr. Edwards, Jr. stated that NAGPRA 
+would give rights to tribes to items in the possession of ind ividuals despite being 
+long barred by statutes of limitations.  Id. NAGPRA, despite those concerns, did 
+not include a statutory time frame for filing claims.  See also  Implementation Of 
+The Native American Graves Protection And Repatriation Act,  Hearing Bef ore the 
+S. Comm. on Indian Affairs, 1 04th Cong. 185 (1995) (“Implementation Hearing”) 
+(statement of Department of Interior) (reiterating that there is no Statute of 
+Limitations for Tribal Claims under NAGPRA).  Case: 13-2446     Document: 003111434364     Page: 39      Date Filed: 10/28/201330 
+ If NAGPRA claims are barred by the passage of time, the Act would be 
+completely useless to t ribes and family members attempting to repatriate remains 
+and cultural objects that have  been in the possession of museums for decades, or 
+even over a century, many of which were likel y possessed unknown to tribes and 
+families. Additionally, repatriations can be very expensive and take a long time to 
+complete. For example, NAGPRA  museum inventories were required to be 
+completed by 1995. 25 U.S.C. § 3003(b)(1). A t least one  survey has shown, 
+however, that many federal agencies had not completed the required inventory as 
+of May 2008, thereby delaying any repatriation request. Julia A. Cryne, NAGPRA 
+Revisited: A Twenty -Year Review of Repatriation Efforts , 34 Am . Indian L. R.  99, 
+107 (2010 ). Even after a repatriation request is made, repatriation can take years 
+and be very costly. See Finding Our Way Home: Achieving the Policy Goals of 
+NAGPRA: Hearing Before the S. Comm. on Indian Affairs, 112th Cong.  47-9 
+(2011) (statement of Mark Macarro,  Chairman, Pechanga Band of Luiseno 
+Indians)  (describing the over 15 year ongoing process Pe changa engaged in to 
+repatriate La Jolla remains ); id. at 6 2-4 (statement of  Mervin Wright, Jr., Vice 
+Chairman, Pyramid Lake Paiute Tribe) (describing issues with  the current 
+repatriation process);  Implementation Hearing, supra , at 38- 9 (statement of  Robert 
+Pergeroy) (stating that a Pawnee repatriation took three years and cost $51,000).  Case: 13-2446     Document: 003111434364     Page: 40      Date Filed: 10/28/201331 
+ Therefore, laches should not be a defense to repatriation claims filed under 
+NAGPRA as it would be inconsistent with the federal scheme and policy.   
+CONCLUSION  
+ For the foregoing reasons, this Court should affirm the District Court’s 
+holding that NAGPRA applies to the Borough and the remains of Jim Thorpe.   
+ 
+Respectfully Subm itted,  
+ 
+ /s/  Matthew Campbell    
+ MATTHEW CAMPBELL  
+ NATIVE AMERICAN RIGHTS FUND  
+ 1506 Broadway 
+ Boulder, CO 80302 
+ (303) 447 -8760  
+  
+ Counsel for Amicus CuriaeCase: 13-2446     Document: 003111434364     Page: 41      Date Filed: 10/28/2013x 
+  
+ 
+CERTIFICATE OF COMPLIANCE WITH TYPE -VOLUME LIMITATION  
+I certify, pursuant to Rules 28.1(e)(3) and 32(a)(7)(C) of the Fed. R. App. P. and 
+3d Cir. L.A.R. 31.1(c ) that  the attached brief of amicus curiae NCAI:  
+(1)  complies with the type -volume limitation of Fed. R. App. P. 29(d) and 
+32(a)(7)(B) because it contains 6,824 words, excluding the parts of the brief 
+exempted by Fed. R. App. P. 32(a)(7)(B)(iii) and 3d Cir. L.A.R. 29.1(b);  
+(2)  complies with the typeface requirements of Fed. R. App. R. 32(a)(5) and the 
+type style requirements of Fed. R. App. R. 32(a)(6) because it has been prepared in 
+a proportionally spaced typeface using Word 2007, in 14- point Times  New Roman 
+font;  
+(3)  has been scanned for viruses using Microsoft Security Essentials Virus 
+Definition Version 1.161.904.0,  and Malwarebytes Anti -Malware Version 
+2013.10.28.10 and is free from viruses; and 
+(4)  that the text of the electronic brief is identical to the text in the paper copies.  
+ 
+ /s/  Matthew Campbell    
+ MATTHEW CAMPBELL  
+ NATIVE AMERICAN RIGHTS FUND  
+ 1506 Broadway 
+ Boulder, CO 80302 
+ (303) 447 -8760  
+  
+ Counsel for Amicus Curiae  
+ 
+ 
+ 
+ Case: 13-2446     Document: 003111434364     Page: 42      Date Filed: 10/28/2013xi 
+  
+ 
+ 
+CERTIFICATE OF BAR MEMBERSHIP  
+I certify, pursuant to 3d. Cir. L.A.R. 28.3(d), that I am a member of the Bar of this 
+court.  
+ 
+        
+        /s/  Matthew Campbell    
+       Matthew L. Campbell  
+CO Bar No. 40808  
+NM Bar No. 138207  
+       Native American Rights Fund  
+       1506 Broadway 
+       Boulder, CO 80302 
+       (303) 447 -8760  
+       mcampbell@narf.org  
+ 
+Counsel for Amicus Cu riae 
+ 
+ 
+   
+ 
+ 
+ Case: 13-2446     Document: 003111434364     Page: 43      Date Filed: 10/28/2013xii 
+  
+CERTIFICATE OF SERVICE  
+ I hereby certify that on October 28, 2013, I electronically filed the foregoing 
+“BRIEF OF AMICUS CURIAE THE NATIONAL CONGRESS OF THE 
+AMERICAN INDIANS IN SUPPORT OF PLAINTIFF -APPELLEE JOHN 
+THORPE, ET AL. AND AFFIRMANCE OF THE DECISION BELOW” with the 
+Clerk of Court for the United States Court of Appeals for the Third Circuit via the 
+Court’s appellate CM/ECF system.  Participants in the case who were registered 
+CM/ECF users were served by the CM/ECF system at that time:  
+ Christopher G. Fusco, cfusco@callahanfusco.com  
+ Vincent R. Garvey, ECF@uslawcenter.com  
+ Daniel E. Gomez, dgomez@cwlaw.com  
+ Charles L. Riddle, Charles@charleslriddle.com  
+ William G. Schwab, ECF@uslawcenter.com  
+ Stephen R. Ward, sward@cwlaw.com  
+ Daniel H. Wheeler, dhwheeler@comcast.net  
+  
+ Further, I hereby certify that on October 28, 2013, I served ten (10) paper 
+copies on the Clerk of Court for the United States Court of Appeals for the Third 
+Circuit via Fi rst Class Mail.  I also served one paper copy via regular United States 
+mail on each of the following:  
+ 
+ William G. Schwab  
+ Vincent R. Garvey  
+ WILLIAM G. SCHWAB & ASSOCIATES  
+ 811 Blakeslee Boulevard Drive East  
+ Lehighton, Pennsylvania, 18235  
+  Christopher G. Fusco 
+ CALLAHAN & FUSCO  
+ 72 Eagle Rock Avenue, Suite 320  
+ East Hanover, New Jersey 07936 
+ 
+  
+ 
+  Case: 13-2446     Document: 003111434364     Page: 44      Date Filed: 10/28/2013xiii 
+  
+Daniel H. Wheeler  
+ 610 Montgomery School Lane  
+ Wynnewood, Pennsylvania 19096  
+ 
+ Stephan Ward  
+ Daniel Gomez  
+4000 One Williams Center  
+Tulsa, OK 74172 -0148  
+ 
+ 
+       /s/  Matthew Campbell     
+       Matthew L. Campbell  
+       Native American Rights Fund  
+       1506 Broadway 
+       Boulder, CO 80302 
+       (303) 447 -8760  
+       mcampbell@narf.org  
+ 
+Counsel for Amicus Curiae  
+ 
+ Case: 13-2446     Document: 003111434364     Page: 45      Date Filed: 10/28/2013

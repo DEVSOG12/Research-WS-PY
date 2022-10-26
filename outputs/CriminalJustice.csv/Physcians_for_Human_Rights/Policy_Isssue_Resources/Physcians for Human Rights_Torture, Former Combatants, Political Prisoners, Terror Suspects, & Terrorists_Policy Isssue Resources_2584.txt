@@ -1,0 +1,1462 @@
+DEPRIVATION
+ AND DESPAIR:  
+The Crisis of Medical Care at Guantánamo
+THE CENTER FOR VICTIMS OF TORTURE
+Founded in 1985 as the first torture survivor rehabilitation center in the United States, the Center for 
+Victims of Torture (CVT) is the largest organization of its kind in the world. Through programs operating 
+in the United States, the Middle East, and Africa—involving psychologists, social workers, physical 
+therapists, physicians, psychiatrists, and nurses—CVT annually rebuilds the lives of nearly 25,000 
+primary and secondary survivors. 
+CVT also conducts research, training, and advocacy, with each of those programs rooted in CVT’s healing 
+services. The organization’s policy advocacy leverages the expertise of five stakeholder groups: survivors, 
+clinicians, human rights lawyers, operational/humanitarian aid providers, and foreign policy experts.
+PHYSICIANS FOR HUMAN RIGHTS
+Physicians for Human Rights (PHR) was founded in 1986 on the idea that health professionals, with 
+their specialized skills, ethical duties, and credible voices, are uniquely positioned to stop human rights 
+violations. For more than 30 years, PHR—which shared in the 1997 Nobel Peace Prize for its work to end 
+the scourge of landmines—has used its investigations and expertise to advocate for persecuted health 
+workers and facilities under attack, prevent torture, document mass atrocities, and hold those who 
+violate human rights accountable.
+ACKNOWLEDGEMENTS
+Scott Roehm, director of the Washington, DC office at the Center for Victims of Torture (CVT), was 
+the lead author on this report, with co-authors John Bradshaw, Physicians for Human Rights (PHR) 
+consultant; Sarah Dougherty, former PHR senior anti-torture fellow; Phyllis Kaufman, PHR consultant 
+and CVT research fellow; and Michael Payne, PHR advocacy officer. Bradshaw, Dougherty, Kaufman, 
+Payne, and Roehm conducted the research that forms the basis of the report, including consultations 
+with independent civilian medical experts and counsel for Guantánamo detainees. 
+The report was reviewed by PHR and CVT staff, including Jenni Bowring-McDonough, CVT media 
+relations manager; DeDe Dunevant, PHR director of communications; Pete Dross, CVT director of 
+external relations; Curt Goering, CVT executive director; Derek Hodel, PHR interim program director; 
+Donna McKay, PHR executive director; Andrea Northwood, CVT director of client services; and 
+Susannah Sirkin, PHR director of policy.
+ 
+The report benefitted from external review by PHR Board Member Kathleen M. Foley, MD, Katherine 
+Porterfield, PhD, and PHR Medical Experts Sondra Crosby, MD and Brigadier General (Ret) Stephen N. 
+Xenakis, MD. It was edited by Claudia Rader, PHR senior communications manager, and prepared for 
+publication by CVT graphic designer Amanda Scheid.Executive Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Introduction  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Methodology and Limitations  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Standard of Care . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Deficiencies in Medical Care  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Subordination of medical needs to security functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Pervasive distrust stemming from prior medical complicity in torture . . . . . . . . . . . . . . . . . . . 16
+Discontinuity of care . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Medical records devoid of torture / trauma histories   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Withholding of medical records, including through improper classification   . . . . . . . . . . . . . . 21
+Lack of medical capabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Neglect . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+The inappropriate role of litigation in access to medical care and detainee health . . . . . . . . . 25
+Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Recommendations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+Case Studies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+Nashwan al-Tamir . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+Sharqawi Al Hajj . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+Tarek el-Sawah . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+Abd al-Rahim al-Nashiri . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+Endnotes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47TABLE OF CONTENTSDEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo3EXECUTIVE SUMMARY
+From the inception more than 17 years ago of the Guantánamo Bay detention center located on the 
+U.S. naval base in Guantánamo Bay, Cuba, senior detention facility personnel have consistently lauded 
+the quality of medical care provided to detainees there. For example, in 2005, Joint Task Force (JTF) 
+Guantánamo’s then-commander said the care was “as good as or better than anything we would offer 
+our own soldiers, sailors, airmen or Marines. ” In 2011, a Navy nurse and then deputy command surgeon 
+for JTF Guantánamo made a similar claim: “The standard of care here is the best possible standard of 
+care (the detainees) could get. ” In late 2017, Guantánamo’s senior medical officer again echoed those 
+sentiments: “Detainees receive timely, compassionate, quality healthcare…[which is]…comparable to 
+that afforded our active duty service members on island. ” 
+There have been many more such assertions in the intervening years and since. Following an in-depth review 
+of publicly available information related to medical care at Guantánamo—both past and present—as well as 
+consultations with independent civilian medical experts and detainees’ lawyers, the Center for Victims of 
+Torture and Physicians for Human Rights have determined that none of those assertions is accurate. 
+To the contrary, notwithstanding Guantánamo’s general inaccessibility to independent civilian medical 
+professionals, over the years a handful of them have managed to access detainees, review medical 
+records, and interface with Guantánamo’s medical care system to a degree sufficient to document a host 
+of systemic and longstanding deficiencies in care. These include:
+• Medical needs are subordinated to security functions. For example, prosecutors in a military 
+commission case told the judge explicitly that the commander of Guantánamo’s detention 
+operations is free to disregard recommendations of Guantánamo’s senior medical officer.
+• Detainees’ medical records are devoid of physical and psychological trauma histories. This is 
+largely a function of medical professionals’ inability or unwillingness to ask detainees about 
+torture or other traumatic experiences during their time in the CIA’s rendition, detention, and 
+interrogation program, or otherwise with respect to interrogations by U.S. forces—which has led 
+to misdiagnoses and improper treatment.
+• In large part due to a history of medical complicity in torture, many detainees distrust military 
+medical professionals which has led repeatedly to detainees reasonably refusing care that they need. DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo4• Guantánamo officials withhold from detainees their own medical records, including through 
+improper classification.
+• Both expertise and equipment are increasingly insufficient to address detainees’ health needs. 
+For example, a military cardiologist concluded that an obese detainee required testing for 
+coronary artery disease, but that Guantánamo did not have the “means to test” him, and so the 
+testing was not performed. With regard to mental health, effective torture rehabilitation services 
+are not, and cannot be made, available at Guantánamo. 
+• Detainees have been subjected to neglect. One detainee urgently required surgery for a condition 
+he disclosed to Guantánamo medical personnel in 2007—and they diagnosed independently in 
+2010—but he did not receive surgery until 2018 and appears permanently damaged as a result.
+• Military medical professionals rotate rapidly in and out of Guantánamo, which has caused 
+discontinuity of care. For example, one detainee recently had three primary care physicians in the 
+course of three months.
+• Detainees’ access to medical care and, in some cases, their exposure to medical harm, turn 
+substantially on their involvement in litigation. For example, it appears extremely difficult, if not 
+impossible, for detainees who are not in active litigation to access independent civilian medical 
+professionals, and for those who are to address a medical need that is not related to the litigation. 
+For detainees charged before the military commissions, prosecution interests have superseded 
+medical interests, as with a detainee who was forced to attend court proceedings on a gurney 
+writhing in pain while recovering from surgery. 
+These deficiencies are exacerbated by—and in some cases a direct result of—the damage that the men 
+have endured, and continue to endure, from torture and prolonged indefinite detention. 
+It is long past time that the medical care deficiencies this report describes were acknowledged and 
+addressed. Systemic change is necessary; these are not problems that well-intentioned military medical 
+professionals—of which no doubt there are many, working now in an untenable environment—can 
+resolve absent structural, operational, and cultural reform. Nor, in many respects, are they problems that 
+can be fully resolved as long as the detention facility remains open. 
+Guantánamo should be closed. Unless and until that happens, the Center for Victims of Torture and 
+Physicians for Human Rights call upon Congress, the Executive Branch, and the Judiciary to adopt a DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo5series of recommendations aimed at meaningfully improving the status quo. These include, but are 
+not limited to: lifting the legal ban on transferring detainees to the United States and mandating such 
+transfers when detainees present with medical conditions that cannot be adequately evaluated and 
+treated at Guantánamo; ensuring detainees have timely access to all of their medical records upon 
+request while otherwise maintaining confidentiality of those records (especially with regard to access by 
+prosecutors); and allowing meaningful and regular access to Guantánamo by civilian medical experts, 
+including permitting such experts to evaluate detainees in an appropriate setting. 
+If the United States declines to take the steps this report recommends, complex medical conditions that 
+cannot be managed at Guantánamo should be expected to accelerate in frequency and escalate in severity.DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo6INTRODUCTION
+The Guantánamo Bay detention center, located on the U.S. naval base in Guantánamo Bay, Cuba, is 
+now in its eighteenth year. Forty Muslim men still languish there, 31 of whom have never been charged 
+with a crime.1 Five detainees have long been cleared for transfer by consensus of the Executive Branch’s 
+national security apparatus, which determined that the men pose no meaningful threat, if any at all, 
+to the United States. Many of the remaining detainees are torture survivors or victims of similarly 
+significant trauma. All of them are either suffering from or at high risk of the additional profound physical 
+and psychological harm associated with prolonged indefinite detention, a form of cruel, inhuman, and 
+degrading treatment. As the men age under these conditions, they are increasingly presenting with 
+complex medical needs.
+Indeed, on April 27, 2019, then Joint Task Force-Guantánamo (JTF-GTMO) Commander Rear Admiral 
+John C. Ring expressed concern to a gathering of reporters about Guantánamo’s ability to provide 
+medical care to the remaining detainees as time passes and with seemingly no prospect of their release: 
+Unless America’s policy changes, at some point we’ll be doing some sort of end of life care here…. 
+A lot of my guys are prediabetic…. Am I going to need dialysis down here? I don’t know. Someone’s 
+got to tell me that. Are we going to do complex cancer care down here? I don’t know. Someone’s 
+got to tell me that.2
+His statements echo those of General John F. Kelly, United States Marine Corps, former Commanding 
+General United States Southern Command, who testified six years prior, before the House Armed 
+Services Committee, to a “major challenge” facing the United States at Guantánamo: “complex issues 
+related to future medical care of detainees. ”3 General Kelly explained that “the medical issues of the 
+aging detainee population are increasing in scope and complexity, ” and that “aging detainees could 
+require specialized treatment for issues such as heart attack, stroke, kidney failure, or even cancer. ” 
+Guantánamo did not have the “specialists and equipment” necessary for that level of care, he warned.4
+Both Admiral Ring and General Kelly are correct: Guantánamo is unprepared to address the medical 
+needs of an aging population, especially given current U.S. laws that prohibit transferring any of the men 
+to the United States for any reason. But the medical care problems at Guantánamo are far more serious 
+and run much deeper.
+Although independent civilian medical experts have had limited direct access to detainees, their 
+experiences interfacing with Guantánamo’s medical care system—coupled with review of available DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo7medical records and information provided by detainees’ legal counsel—have been sufficient for them to 
+document multiple significant deficiencies that cut across the detainee population.
+Many of the deficiencies are structural, like the subordination, whether through policy or practice, of 
+detainees’ medical needs to security functions. Or the lack of expertise and equipment necessary to 
+provide adequate care for medical conditions that are inevitable in a population of torture survivors5 who 
+have been detained for almost two decades in a facility synonymous with torture and who are suffering 
+the profound health consequences of both. Or the frequent rotation of medical personnel on and off the 
+island which makes continuity of care all but impossible. Or the deeply troubling double standard by 
+which detainees cannot meaningfully access their own medical records, while prosecutors in military 
+commission cases can. 
+Some of the medical care deficiencies amount to substandard care on their face. For example, there 
+appears to be a widespread practice of medical professionals not asking detainees about (or at least not 
+documenting) torture and abuse they suffered at CIA black site prisons, where some were held captive for 
+years following the September 11, 2001 attacks. This failure has resulted in an absence of trauma histories 
+in detainees’ medical records and, in turn, has led to inaccurate diagnoses and improper treatment. 
+Each of these deficiencies, among others, is described in 
+detail in the body of this report, and further illustrated in 
+the case studies that follow. 
+Some detainees have reported positive experiences with medical care at Guantánamo, including 
+constructive relationships with nurses and doctors and in some cases medical staff responding quickly 
+to life-threatening illness.6 Moreover, it is clear that many military medical professionals are doing their 
+best under nearly impossible circumstances. But in neither case does that diminish the seriousness of 
+the problems identified in this report.
+The case that perhaps best illustrates the state of medical care at Guantánamo is 
+that of Abd al-Hadi al-Iraqi (aka Nashwan al-Tamir), who was captured in 2006, 
+rendered to a CIA black site, then transferred to Guantánamo the following year. On 
+September 5, 2018, Mr. al-Tamir collapsed incontinent in his cell from a degenerative 
+spinal condition—one about which he had told Guantánamo’s medical personnel more 
+than 10 years earlier, they had independently diagnosed at Guantánamo in 2010, and 
+that outside medical experts concluded had obviously required urgent surgical intervention years earlier. 
+To avoid paralysis, a team of specialists from the mainland had to fly to Guantánamo on a moment’s notice 
+CLICK TO GO TO
+THE CASE STUDIES
+CLICK TO
+SEE THE
+AL-TAMIR 
+CASE STUDYDEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo8and perform emergency surgery. Four additional surgeries later—all performed at Guantánamo, but again by 
+off-island specialists—Mr. al-Tamir’s spinal condition is still not resolved, he continues to suffer, and he may 
+require additional surgery. 
+Nevertheless, the government has pushed forward with Mr. al-Tamir’s prosecution in the military 
+commissions, which has required him to attend court on a gurney, take pain medication during legal 
+proceedings, and sleep in the courtroom when the predictable effects of that medication set in. Because 
+of Mr. al-Tamir’s fragile state, Guantánamo’s senior medical officer repeatedly recommended that Mr. 
+al-Tamir not be forcibly extracted from his cell to attend court proceedings (or otherwise). Prosecutors 
+assured the judge in Mr. al-Tamir’s case that he did not need to issue an order to the same effect 
+because Guantánamo’s non-medical staff would respect the recommendation. They were wrong. At 
+the next hearing, prosecutors conceded that, in fact, Guantánamo’s non-medical commanders “are not 
+bound by the [senior medical officer’s] opinions nor will they defer to them in every instance. ”7
+    
+The medical care situation at Guantánamo is not sustainable and should be expected to worsen rapidly 
+over time as the impacts of both torture and indefinite detention exacerbate medical complications 
+otherwise associated with aging. This report concludes with a series of recommendations that would at 
+least mitigate medical care deficiencies and reduce the likelihood of unmanageable medical crises until 
+Guantánamo—as it should be—is finally closed.
+ DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo9METHODOLOGY AND LIMITATIONS
+This report by the Center for Victims of Torture and Physicians for Human Rights is based on an 
+analysis of public source materials documenting significant deficiencies in the provision of medical 
+care to detainees at Guantánamo. The materials include litigation filings in military commission 
+cases and federal court habeas corpus proceedings, filings before the Guantánamo Periodic Review 
+Boards, press reports, and other publicly available sources. The report also draws on 15 years of both 
+organizations’ experience examining the CIA’s former rendition, detention, and interrogation program, 
+the establishment and spread of torture and cruel, inhuman, and degrading treatment in the military 
+in the aftermath of the September 11, 2001 attacks, and the role of U.S. health professionals in detainee 
+torture and abuse.
+To supplement and contextualize the public source materials, the report’s authors consulted with 
+independent civilian medical experts—several of whom have significant experience conducting medical 
+and psychological evaluations of Guantánamo detainees, reviewing their available medical records, and 
+interfacing with Guantánamo’s medical care system—as well as with counsel for detainees.
+The report does not claim to provide a comprehensive examination of medical care at Guantánamo, nor 
+could it. Many detainees themselves are unable to access their own medical records, or, in the absence 
+of active litigation (and sometimes even then), to secure a medical evaluation by a civilian health 
+professional. Independent civilian health professionals have had, and continue to have, limited access 
+to Guantánamo. Some detainees refuse medical care due to concern over access to their records by 
+prosecutors in military commission cases. And, according to detainees’ counsel, significant portions of 
+medical records the government has produced are classified. DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo10STANDARD OF CARE
+From the day Guantánamo opened, the United States has claimed that neither longstanding 
+international law nor well-settled domestic law applies there, a position widely condemned by the 
+international community. U.S. courts have firmly resolved some basic legal questions, like affirming 
+detainees’ right to challenge the legality of their detention through habeas corpus petitions in federal 
+court.8 Other foundational decisions are becoming more unstable over time, such as the authority 
+to detain men at Guantánamo at all, which the Supreme Court said could “unravel” if “the practical 
+circumstances” of the war against al-Qaida and the Taliban became “unlike those of the conflicts that 
+informed the development of the law of war. ”9 Still other fundamental legal questions have yet to be 
+decided, including whether the Constitution applies at Guantánamo.10
+This report does not engage that legal debate with respect to medical care obligations because, even 
+by the standards that the United States has embraced, the deficiencies the report describes constitute 
+clear violations. 
+Specifically, as noted at the outset, military officials have claimed repeatedly that detainees receive 
+medical care equivalent to that which Guantánamo’s Joint Medical Group—the entity responsible for 
+medical care at the naval base—provides to service members.11 That position is reflected in U.S. Army 
+Regulation 190–8, which implements the Geneva Conventions and “provides policy, procedures, and 
+responsibilities for the administration, treatment, employment, and compensation of enemy prisoners 
+of war … retained personnel … civilian internees … and other detainees in the custody of U.S. Armed 
+Forces. ”12 For example, the regulation states that prisoners of war and retained personnel “will be 
+quartered under conditions as favorable as those for the force of the detaining power billeted in the 
+same area. ”13 The rules for civilian internees reflect the same principle: “Patients requiring hospital 
+treatment will be moved, if feasible, to a civilian hospital. The treatment must be as good as that provided 
+for the general population. ”14
+The United Nations Standard Minimum Rules for the Treatment of Prisoners (the Nelson Mandela 
+Rules), which the United States has championed,15 state similarly that “[p]risoners should enjoy the 
+same standards of health care that are available in the community, and should have access to necessary 
+health-care services free of charge without discrimination on the grounds of their legal status. ”16 By 
+their terms, the Mandela Rules are “applicable to all categories of prisoners, criminal or civil, untried 
+or convicted, including prisoners subject to ‘security measures. ’”17 The rules provide more detailed 
+benchmarks that inform an assessment of whether, as one former Guantánamo commander asserted, 
+detainees receive “first-rate” medical care that is “as good as or better than anything we would offer our DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo11own soldiers, sailors, airmen or Marines. ” 
+The following Mandela Rules are of particular relevance to the deficiencies identified in this report:
+• Rule 8: The following information shall be entered in the prisoner file management system in the 
+course of imprisonment, where applicable:
+ …
+ (d) Requests and complaints, including allegations of torture or other cruel, inhuman or 
+degrading treatment or punishment, unless they are of a confidential nature.
+• Rule 9: All records … shall be kept confidential and made available only to those whose 
+professional responsibilities require access to such records. Every prisoner shall be granted 
+access to the records pertaining to him or her, subject to redactions authorized under domestic 
+legislation, and shall be entitled to receive an official copy of such records upon his or her release.
+• Rule 24: 1. The provision of health care for prisoners is a State responsibility. Prisoners should 
+enjoy the same standards of health care that are available in the community and should have 
+access to necessary health-care services free of charge without discrimination on the grounds of 
+their legal status. 2. Health-care services should be organized in close relationship to the general 
+public health administration and in a way that ensures continuity of treatment and care.
+• Rule 25: 1. Every prison shall have in place a health-care service tasked with evaluating, 
+promoting, protecting and improving the physical and mental health of prisoners, paying 
+particular attention to prisoners with special health-care needs or with health issues that hamper 
+their rehabilitation. 2. The health-care service shall consist of an interdisciplinary team with 
+sufficient qualified personnel acting in full clinical independence and shall encompass sufficient 
+expertise in psychology and psychiatry.
+• Rule 26: 1. The health-care service shall prepare and maintain accurate, up-to-date and 
+confidential individual medical files on all prisoners, and all prisoners should be granted access 
+to their files upon request. A prisoner may appoint a third party to access his or her medical file. 
+2. Medical files shall be transferred to the health-care service of the receiving institution upon 
+transfer of a prisoner and shall be subject to medical confidentiality.
+• Rule 27: 1. All prisons shall ensure prompt access to medical attention in urgent cases. Prisoners 
+who require specialized treatment or surgery shall be transferred to specialized institutions or DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo12to civil hospitals. Where a prison service has its own hospital facilities, they shall be adequately 
+staffed and equipped to provide prisoners referred to them with appropriate treatment and care. 
+2. Clinical decisions may only be taken by the responsible health-care professionals and may not 
+be overruled or ignored by non-medical prison staff.
+• Rule 30: A physician or other qualified health-care professionals, whether or not they are 
+required to report to the physician, shall see, talk with and examine every prisoner as soon as 
+possible following his or her admission and thereafter as necessary. Particular attention shall 
+be paid to: (a) Identifying health-care needs and taking all necessary measures for treatment; 
+(b) Identifying any ill-treatment that arriving prisoners may have been subjected to prior to 
+admission; (c) Identifying any signs of psychological or other stress brought on by the fact of 
+imprisonment, including, but not limited to, the risk of suicide or self-harm.
+• Rule 31: The physician or, where applicable, other qualified health-care professionals shall have 
+daily access to all sick prisoners, all prisoners who complain of physical or mental health issues 
+or injury and any prisoner to whom their attention is specially directed. All medical examinations 
+shall be undertaken in full confidentiality.
+ 
+• Rule 32: 1. The relationship between the physician or other health-care professionals and the 
+prisoners shall be governed by the same ethical and professional standards as those applicable 
+to patients in the community, in particular: (a) The duty of protecting prisoners’ physical and 
+mental health and the prevention and treatment of disease on the basis of clinical grounds only; 
+(b) Adherence to prisoners’ autonomy with regard to their own health and informed consent in 
+the doctor-patient relationship; (c) The confidentiality of medical information, unless maintaining 
+such confidentiality would result in a real and imminent threat to the patient or to others; (d) 
+An absolute prohibition on engaging, actively or passively, in acts that may constitute torture or 
+other cruel, inhuman or degrading treatment or punishment.
+• Rule 34: If, in the course of examining a prisoner upon admission or providing medical care 
+to the prisoner thereafter, health-care professionals become aware of any signs of torture or 
+other cruel, inhuman or degrading treatment or punishment, they shall document and report 
+such cases to the competent medical, administrative or judicial authority. Proper procedural 
+safeguards shall be followed in order not to expose the prisoner or associated persons to 
+foreseeable risk of harm.
+• Rule 47: 1. The use of chains, irons or other instruments of restraint which are inherently DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo13degrading or painful shall be prohibited. 2. Other instruments of restraint shall only be used 
+when authorized by law and in the following circumstances: (a) As a precaution against escape 
+during a transfer, provided that they are removed when the prisoner appears before a judicial 
+or administrative authority; (b) By order of the prison director, if other methods of control fail, in 
+order to prevent a prisoner from injuring himself or herself or others or from damaging property; 
+in such instances, the director shall immediately alert the physician or other qualified health-care 
+professionals and report to the higher administrative authority.
+• Rule 57: 1. Every request or complaint shall be promptly dealt with and replied to without delay. 
+If the request or complaint is rejected, or in the event of undue delay, the complainant shall be 
+entitled to bring it before a judicial or other authority. 2. Safeguards shall be in place to ensure 
+that prisoners can make requests or complaints safely and, if so requested by the complainant, 
+in a confidential manner. A prisoner or other person [authorized to make a request or complaint 
+on the prisoner’s behalf] must not be exposed to any risk of retaliation, intimidation or other 
+negative consequences as a result of having submitted a request or complaint. 3. Allegations 
+of torture or other cruel, inhuman or degrading treatment or punishment of prisoners shall be 
+dealt with immediately and shall result in a prompt and impartial investigation conducted by an 
+independent national authority in accordance with paragraphs 1 and 2 of rule 71.DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo14DEFICIENCIES IN MEDICAL CARE 
+The absence of an effective firewall between medical and security operations, Guantánamo’s sordid 
+history, and the widespread prevalence of trauma due to torture among the detainee population have 
+created or exacerbated a variety of serious deficiencies in medical care, described below. 
+These deficiencies are further illustrated in four case 
+studies, representing current and former detainees, 
+which can be found at the end of this report.
+Health conditions are also worsened by the prolonged, indefinite detention of those confined at 
+Guantánamo, a form of abuse that has been extensively documented to carry severe and long-lasting 
+health consequences and that the United Nations Special Rapporteur on Torture has determined 
+constitutes cruel, inhuman, and degrading treatment.18
+Unless and until these problems are acknowledged, understood, and addressed, complex medical 
+conditions that cannot be managed at Guantánamo should be expected to accelerate in frequency and 
+escalate in severity.
+Subordination of medical needs to security functions
+From Guantánamo’s inception, security-related policies and practices have superseded or constrained 
+medical professionals’ authority over certain decisions that have obvious medical repercussions, and 
+repeatedly overridden what is in detainees’ best medical interests. 
+For example, the 2004 standard operating procedure for one of Guantánamo’s early prison complexes Mr. Dhiab appropriately requested analgesic medication for his pain in a form that he 
+would have been able to ingest, but was refused by the nurse provider. Furthermore, the 
+nurse and accompanying assistant judge advocate (ASJA) reported that the attending 
+physician refused to see Mr. Dhiab to discuss treatment of his pain and prescription of 
+medications. The nurse and staff claimed that they were abiding by Standard Operating 
+Procedures (SOPs) stipulating the terms of interactions with detainees.
+      – Brigadier General (Ret) Stephen N. Xenakis, MD
+CLICK TO GO TO
+THE CASE STUDIESDEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo15specified that medical orders would only be complied with if they did not cause a security violation—
+“such as serving an extra meal”—unless the violation had been pre-approved by the guard force.19 It also 
+required detainees to be restrained even in the operating room (unless sedated), and to be shackled 
+during medical examinations in their cells.20 Seemingly pursuant to that SOP, Saifullah Paracha was 
+shackled to his bed by all four limbs while being treated for a heart condition in 2006, notwithstanding 
+the Joint Medical Group doctor’s judgment that he needed to ambulate while recovering.21
+According to one independent medical expert, detainees have reported “that [Joint Medical Group personnel] 
+will order a medically necessary item, such as an extra blanket but this will not be given to them either 
+because the [Joint Detention Group, which is responsible for detention operations at Guantánamo], misplaces 
+the order or overrides it. Detainees report that some [Joint Medical Group personnel] are apologetic for not 
+being able to practice medicine independent of [the Joint Detention Group’s] participation. ” 22
+Independent physicians Brigadier General (Ret) Stephen N. Xenakis, MD, and Sondra Crosby, MD—
+medical experts for Physicians for Human Rights who together have spent more than 1,000 hours at 
+Guantánamo and evaluating detainees and their medical records—personally witnessed this problem 
+on a visit to Guantánamo in late 2014 to conduct a neuropsychiatric assessment of former detainee 
+Abu Wa’el (Jihad) Dhiab. Their evaluation included observing Mr. Dhiab’s interactions with healthcare 
+providers during one session when he complained of severe back pain. 
+Mr. Dhiab appropriately requested analgesic medication for his pain in a form that he would 
+have been able to ingest, but was refused by the nurse provider. Furthermore, the nurse and 
+accompanying assistant judge advocate (ASJA) reported that the attending physician refused to 
+see Mr. Dhiab to discuss treatment of his pain and prescription of medications. The nurse and staff 
+claimed that they were abiding by Standard Operating Procedures (SOPs) stipulating the terms of 
+interactions with detainees.23
+Present day policies and practices at Guantánamo demonstrate that detention-related decisions 
+continue to supersede appropriate care generally and medical recommendations specifically. Mr. al-
+Tamir’s treatment again provides an example: In 2017, he was subjected to a forced cell extraction while 
+suffering increasingly serious symptoms that foreshadowed the series of emergency back surgeries 
+he would receive later the following year.24 On February 7, 2018 (and again on March 1 and March 22) 
+Guantánamo’s senior medical officer concluded that “[a]bsent extraordinary circumstances, forced cell 
+extraction of [Mr. al-Tamir] is not medically advised at this time…. From a medical standpoint, it should 
+only be considered in cases where dire safety or immediate potential loss of life are foreseeable. I have 
+relayed this information and my opinion to the Commander, Joint Detention Group. ”25 The prosecution 
+team in Mr. al-Tamir’s military commission case then assured the judge that the “the [Joint Task Force] DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo16commander and leadership is going to defer to the [Senior Medical Officer’s] opinion. ”26 That assurance 
+stood for one month, at which point the government abruptly reversed course and explicitly conceded 
+that the key structural obstacle to consistent provision of adequate medical care at Guantánamo persists: 
+“[While] the JTF-GTMO and [Joint Detention Group] Commanders will undoubtedly consider the 
+[senior medical officer’s] highly relevant and useful information…these Commanders are not bound 
+by the [senior medical officer’s] opinions nor will they defer to them in every instance. ”27
+Pervasive distrust stemming from prior medical complicity in torture
+A trusting doctor-patient relationship is essential for meaningful consent to care, for reaching an 
+accurate diagnosis based on full information, and for providing effective treatment.28 As one medical 
+expert put it: “[Trust is] the foundation of the standard practice of medicine. ”29
+At Guantánamo, building that foundation ranges from difficult to impossible, especially when it comes 
+to military mental health professionals.30 That is due in large measure to Guantánamo’s legacy of 
+torture. The Senate Armed Services Committee’s 2008 report concluding its Inquiry Into the Treatment 
+of Detainees in U.S. Custody (SASC Report) describes in detail how the task force at Guantánamo 
+responsible for managing counterterrorism interrogations in support of military operations researched, 
+developed, and implemented strategies to “break detainees. ”31 Medical professionals were deeply 
+complicit in the torture and cruel, inhuman, and degrading treatment that resulted.32
+ 
+For example, at least during the years when substantial intelligence gathering efforts occurred at Trust in one’s doctor is a necessary precondition to being forthcoming with information 
+and consenting to care, which are in turn essential to making an accurate diagnosis and 
+prognosis and providing effective treatment. It is problematic, if not impossible, for the 
+standard doctor-patient relationship to develop at Guantánamo, thereby weakening the 
+foundation of the standard practice of medicine—the establishment of trust in one’s doctor. 
+All personnel in Guantánamo, including medical staff, are perceived and experienced as part 
+of the detainee’s original torture project. In my experience, the possibility of developing trust 
+in a doctor is virtually impossible for Guantánamo detainees….
+        – Jess Ghannam, MDDEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo17Guantánamo, medical personnel from the detainee hospital supported interrogations, including those 
+employing torture and cruel, inhuman, and degrading treatment.33 They conducted medical screenings 
+to determine detainees’ “suitability” for interrogation,34 provided emergency medical support, and 
+sometimes observed interrogations.35
+The interrogations unit also controlled other medical personnel, their own psychiatrists and/
+or psychologists who advised interrogators on how to coerce detainees (the Behavioral Science 
+Consultation Teams, or BSCTs).36 According to Major Paul Burney, an Army psychiatrist, he and Major 
+John Leso—an Army psychologist who led the BSCT from June 2002 to January 2003—“took turns 
+observing the questioning … of Mohammad al-Qahtani. ” As part of that so-called “questioning, ” multiple 
+government investigators later found, al-Qahtani “was menaced with military dogs, draped in women’s 
+underwear, injected with intravenous fluids to make him urinate on himself, put on a leash and forced to 
+bark like a dog, and interrogated for 18 to 20 hours at least 48 times. ”37
+Examples of detainees’ reasonable distrust of military medical providers as a result of medical complicity 
+in torture include:
+• According to a psychiatrist/neurologist who provided an expert opinion to his Periodic Review 
+Board, Ghaleb Al-Bihani—who was cleared for transfer out of Guantánamo in May 2014 and 
+transferred in January 2017—episodically refused to meet with medical staff or to follow their 
+treatment plans. “[M]any detainees have told me that it has been impossible to form a clinician-
+patient relationship with [Joint Medical Group] clinicians, ” the expert said, in no small part because 
+“earlier involvement [in interrogations] has made it impossible for some detainees to trust [Joint 
+Medical Group] clinicians who deliver care after this practice ended. ”38
+• In June 2016, Dr. Emily Keram—a psychiatrist and neurologist who evaluated Mohammed al-Qahtani for 
+39 hours over five days—concluded that “Mr. al-Qahtani cannot receive effective treatment for his current 
+mental health conditions while he remains in US custody at GTMO … despite the best efforts of available 
+and competent clinicians. ” One of the factors that precludes effective treatment, she opined, is “lack of 
+trust in the medical and mental health staff due to previous clinician involvement in interrogations. ”39 
+• Sharqawi Al Hajj, who was both rendered to torture and subsequently abused at a CIA black site, 
+similarly “refuses mental health care at Guantánamo for lack of trust. ”40
+• In 2012, the government flew a mobile cardiac unit in to Guantánamo to treat Saifullah Paracha, 
+Guantánamo’s oldest remaining detainee (now 71 years old). Especially given his previous experience DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo18
+with cardiac treatment there (described above), Mr. Paracha refused care. He does not believe risks 
+can properly be mitigated at Guantánamo or that he would be treated as a patient (versus as an 
+“enemy combatant”).41
+• In June of 2015, former detainee Tariq Ba Odah—who had been on a long-term hunger strike—
+weighed 74.5 pounds, approximately half his normal body weight. Multiple independent civilian 
+medical experts opined that he required urgent and complex intervention. In a declaration filed in 
+federal court, the senior medical officer, by contrast, concluded that Mr. Ba Odah was “clinically 
+stable, ” and explained that to the extent his conclusion lacked a strong evidence base that was 
+because Mr. Ba Odah repeatedly refused care.42
+Three independent civilian medical experts filed declarations responding to the senior medical 
+officer’s conclusion, each of which demonstrates not only the trust deficit (and its consequences) at 
+Guantánamo, but also several other of the medical care deficiencies discussed in this report:
+Dr. Jess Ghannam, in his declaration supporting Mr. Ba Odah’s petition for habeas relief, stated: 
+ 
+My clinical experience, training and basic standard-of-care principles leads me 
+to the conclusion that the [senior medical officer’s] declaration regarding Mr. Ba 
+Odah is flawed and reflects a strikingly inadequate response to Mr. Ba Odah’s 
+reported condition. The [senior medical officer’s] course of treatment, as reported 
+in his declaration, departs from the basic tenants[sic.] of diagnostic, preventative 
+and remedial care, particularly for a patient who is so abnormally malnourished 
+and underweight as Mr. Ba Odah. It is difficult, if not impossible, to have 
+confidence in the conclusions it draws about his physical and mental state….43
+It is important to note that, however implausible the scenario may be in the 
+Guantánamo context, medical ethical guidelines are explicit that when a patient 
+expresses mistrust in their caregiver—either directly or through their behavior—
+it becomes that doctor’s professional (indeed moral) responsibility to transfer 
+that patient to another competent, trusted doctor who can properly treat the 
+patient. So, though the [senior medical officer’s] declaration builds a record of 
+his efforts to provide care to Mr. Ba Odah, the ethical guidelines governing the 
+practice of medicine actually require that the [senior medical officer] facilitate 
+Mr. Ba Odah’s access to competent care from another physician.44 DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo19
+In her declaration supporting Mr. Ba Odah’s petition, Dr. Sondra Crosby stated:
+[G]iven that the medical staff at Guantánamo orders and processes Mr. Ba 
+Odah’s forcible feeding (which, as the [senior medical officer] acknowledges, 
+may include forced cell extractions), it is reasonable and common that Mr. Ba 
+Odah would regard them as coercive and part of the prison structure. Nothing 
+in the [senior medical officer’s] declaration changes my assessment that Mr. Ba 
+Odah’s distrust of Guantánamo medical staff is reasonable.45
+Nothing in the [senior medical officer’s] declaration causes me to alter my 
+original opinion signed on June 22, 2015, concluding that Mr. Ba Odah, by virtue 
+of his extremely low 74-pound weight and as-yet undiagnosed symptomology, is 
+suffering from the grave consequences of severe malnutrition and that he is in 
+need of medical intervention by independent and trusted medical personnel in 
+order to limit the risk of death or disability he currently faces. Indeed, the [senior 
+medical officer’s] declaration furthers my concern, insofar as it affirms that Mr. 
+Ba Odah is at a dangerously low weight (and has been for nearly a year), that 
+he has not been adequately evaluated or treated, and that his understandable 
+distrust of the Guantánamo medical staff is preventing the possibility of 
+treatment and recovery. I also consider several aspects of the [senior medical 
+officer’s] assessment, particularly his summary conclusion that Mr. Ba Odah is 
+“clinically stable, ” to be based on insufficiently reliable clinical data that cannot 
+form the basis of a medically responsible judgment.46
+Dr. Rami Bailony’s declaration supporting the petition stated:
+Nothing in the [senior medical officer’s] declaration indicates that he performed 
+the predicate analysis that would justify his conclusion that Mr. Ba Odah is 
+clinically stable, other than reportedly checking Mr. Ba Odah’s vital signs on one 
+occasion roughly four months before the [senior medical officer’s] declaration was 
+signed. Indeed, the reported observations of Mr. Ba Odah point to precisely the 
+opposite determination. To be more direct, in my experience, a physician would not 
+assess a patient to be clinically stable based merely on the outward appearance 
+of “normal” behavior or functioning. There are numerous diseases—particularly 
+in cases of chronic, severe malnourishment—that do not appear to interfere with 
+normal human functioning until they progress to their final, lethal stages.47DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo20Other security-related policies and practices that have at times overridden detainees’ medical needs, described 
+in the previous subsection, have also contributed to detainees’ distrust of Guantánamo medical providers.
+Discontinuity of care
+Several independent civilian medical experts have noted the rapid rotation of medical personnel at 
+Guantánamo, the challenges it creates for any real continuity of care, and how it intensifies the trust 
+deficit described above.48 For instance, Mr. al-Tamir had three different primary care physicians between 
+January and March 2019. According to one medical expert, “Detainees have often told me that they 
+occasionally have a clinician whom they perceive as interested and helpful in their care, and that it is 
+painful for them when these clinicians rotate out of GTMO and a new clinician takes their place. ”49 The 
+lack of continuity of care is especially problematic in the context of mental health care.
+Medical records devoid of torture/trauma histories
+There appears to be a widespread practice of Joint Medical Group personnel, including mental health 
+professionals, not inquiring into detainees’ experiences in the CIA’s rendition, detention and interrogation 
+program, or otherwise with respect to detainees’ interrogation by U.S. forces.50
+Indeed, according to Dr. Michael Fahey Traver, an Army psychiatrist stationed at Guantánamo in 
+2013 and 2014, mental health professionals understood that they were not to ask about a detainee’s 
+interrogation experiences, either at Guantánamo or with the CIA. “You just weren’t allowed to talk about 
+those things, even with them, ” he said. If a detainee raised the subject of his prior treatment, Dr. Traver 
+said his predecessor had told him “to redirect the conversation. ”51
+That omission is critical. Decades of extensive medical and psychological literature demonstrate that Based on my assessment and vast experience caring for survivors of torture, the physical 
+and mental health care afforded to [Mr. Al Nashiri] is woefully inadequate to his medical 
+needs. A significant factor in my opinion is that medical professionals, including mental 
+health care providers, have apparently been directly or indirectly instructed not to inquire 
+into the causes of Mr. Al-Nashiri’s mental distress, and as a consequence, he remains 
+misdiagnosed and untreated.
+       – Sondra Crosby, MDDEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo21torture and ill treatment can result in severe health consequences potentially affecting every aspect 
+of the body and mind. Uncovering such trauma exposure is essential to documenting adequate and 
+accurate medical history and to the treatment of patients.
+Not surprisingly, failure to do so has led to misdiagnoses, improper treatment, and/
+or lack of treatment. The most prominent publicly available example, described 
+in detail in his case study, is that of Abd al-Rahim al-Nashiri. The declassified 
+executive summary of the Senate Select Committee on Intelligence’s study of the 
+CIA’s former detention and interrogation program described in painful detail Mr. al-
+Nashiri’s torture, and yet—at least through April of 2014—no Guantánamo medical 
+professional had ever recorded a trauma history in his records. As such, Dr. Crosby explains that Mr. al-
+Nashiri has been suffering for years with untreated Post Traumatic Stress Disorder (PTSD), including at 
+times being punished for behaviors that are in fact symptoms of his PTSD.52
+This hole in detainees’ medical records also impacts doctors’ ability to diagnose and properly treat 
+physical conditions. These include musculoskeletal pain (e.g., in a detainee’s shoulders, from having had 
+his wrists shackled behind his back and then being hung from his arms); traumatic brain injury (e.g., from 
+repeated blows to the head); or damage resulting from what the CIA euphemistically described as “rectal 
+feeding” (i.e., pumping food into a detainee’s rectum through a tube forced into his anus against his will). 
+Rapid rotation of medical personnel and resulting lack of continuity of care also make it more difficult to 
+create and maintain comprehensive, accurate medical records.
+Withholding of medical records, including through improper classification
+There are two inter-related problems with access to medical records at Guantánamo: the government’s 
+general reluctance to turn detainees’ own records over to them and the extent to which medical records 
+are classified. Further complicating al Hawsawi’s medical treatment is the classification of much of 
+his medical records. Navy Cmdr. Walter Ruiz, who represents al Hawsawi, says that the 
+records his team does get access to are incomplete, provided on a sixth-month delay and 
+are partially redacted.
+       – Jessica Schulberg, Huffington Post
+CLICK TO
+SEE THE
+AL-NASHIRI 
+CASE STUDYDEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo22Access to one’s personal medical information is a basic right recognized in medical policy guidelines.53 
+And yet detainees’ counsel, both in the habeas context and before the military commissions, routinely 
+report that requests for medical records made on behalf of their clients (and so obviously with their 
+clients’ consent) are denied outright or result in partial production after significant delay.
+For example, for two years the government refused to provide medical records to counsel for Tarek el-
+Sawah.54 As of this writing, the government was still fighting Mr. Al Hajj’s request for medical records in 
+federal court.55 An independent expert who examined Mustafa Muhammad Abu Faraj al-Libi in person 
+was not permitted to review his then-current medical records.56 And, notwithstanding the cascade of 
+medical crises that Mr. al-Tamir has suffered (referenced above and described in detail in his case study), 
+even his counsel still does not have a comprehensive set of his medical records. 
+Improper classification appears to be a contributor to the access problem, at least for some detainees. 
+Numerous counsel have reported that substantial portions of their clients’ records are marked 
+“classified”—sometimes at the highest level57—and that, as such, even military medical providers 
+at Guantánamo may not be able to review those records unless they have the necessary security 
+clearance; in some cases, they may be prohibited from meeting alone with certain detainees. 
+Pursuant to Executive Order 13526, information can only be classified if its “unauthorized disclosure 
+… reasonably could be expected to result in damage to the national security, which includes defense 
+against transnational terrorism, and the original classification authority is able to identify or describe the 
+damage… If there is significant doubt about the need to classify information, it shall not be classified. ”58 
+Applying that standard, it is difficult to understand how a detainee’s medical record could properly be 
+classified, especially given the absence of redactions relating to treatment of detainees in CIA custody 
+in both the declassified executive summary of the Senate Select Committee on Intelligence study of the 
+CIA’s former detention and interrogation program and the CIA’s response to that study.59
+Lack of medical capabilities 
+Often times certain basic diagnostic tests are not possible because no such facilities 
+exist, and non-detainee individuals are forced to leave to have appropriate diagnostic 
+work-ups. Additionally, certain laboratory tests have to be sent off-island because the 
+facilities at Guantánamo are not equipped to carry out these tests.
+       – Jess Ghannam, MDDEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo23As General Kelly warned six years ago, Guantánamo simply does not have the capability—with respect 
+to either expertise or equipment—to address appropriately the medical issues that detainees are facing. 
+These issues include both psychiatric and physical traumas that medical examinations have documented 
+are associated with prolonged indefinite detention.60 Examples of insufficient capability include:
+• Guantánamo lacks culturally informed treatment modalities;61
+• Torture rehabilitation services are not available at Guantánamo, both because medical providers 
+there do not possess the necessary expertise to deliver that care and because, in many ways, the 
+setting is the antithesis of what is required for effective treatment, which includes:
+ 
+› Providing a sense of control to the victim over key features of the rehabilitation context, 
+content, and process;
+› Restoring a felt sense of safety as it pertains to the internal physiological state and external 
+habitat of the victim, including adequate management of pain;
+› Providing the victim with trusted human connections that are consistently available, including 
+regular predictable access to the treatment provider(s) and regular meaningful access to 
+other trustworthy sources of social support; and
+› The treating provider(s) must be sufficiently skilled and experienced in treating severe trauma 
+explicitly designed and perpetrated by other human beings.62
+• Guantánamo has never had a permanent, functional MRI machine with a technician capable of 
+performing the MRI and a radiologist capable of reading the results.63
+• According to Dr. Ghannam, “Often times certain basic diagnostic tests are not possible because no 
+such facilities exist, and non-detainee individuals are forced to leave to have appropriate diagnostic 
+work-ups. Additionally, certain laboratory tests have to be sent off-island because the facilities at 
+Guantánamo are not equipped to carry out these tests. ”64
+• Guantánamo medical providers, as well as independent civilian medical experts, have on numerous 
+occasions recommended medical tests that cannot be performed, or treatment that cannot be 
+delivered, at Guantánamo.65DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo24• At times, seemingly appropriate testing will occur, but the results produced to independent 
+civilian medical experts are insufficient. For example, in Mr. Dhiab’s case, a “CT scan provided by 
+Guantánamo contained approximately 8 images and [was] inadequate for assessment of Mr. Dhiab’s 
+complaints, injuries, and conditions. ”66 It is unclear to what extent this is a problem attributable to 
+medical capabilities, the records access issue discussed above, or a combination of both.
+• Independent civilian medical experts’ experience is that the senior medical officers tend to be relatively 
+junior for the post to which they are assigned, and as such are put in a position of responsibility over 
+complex medical situations some of which may be beyond their ability and expertise. 
+• Guantánamo lacks specialists in a host of areas that are becoming increasingly relevant as the 
+detainee population ages and medical needs become more complex. This includes insufficient 
+capability to address the complex mental health needs of a population suffering the profound 
+psychological distress associated with prolonged indefinite detention.67
+This is only an illustrative list. The equipment and expertise required to provide consistent, adequate care 
+at Guantánamo will grow over time. 
+Neglect
+Perhaps not surprisingly given the deficiencies and challenges described above, independent civilian 
+medical experts have identified repeated instances where detainees’ medical needs have been 
+neglected. For example:
+• As noted above, in 2010 Guantánamo medical staff diagnosed Mr. al-Tamir with a serious back 
+condition—spinal stenosis—but did not arrange for surgical intervention until 2018, when Mr. al-
+Tamir’s condition had become so dire that he was at significant risk of paralysis. According to former 
+PHR program director Homer Venters, MD, MS, and PHR Senior Medical Advisor Vincent Iacopino, 
+MD, PhD, who wrote to then Secretary of Defense James Mattis urging immediate treatment for Mr. 
+al-Tamir,“[i]t is common medical knowledge, at the most basic level, that spinal stenosis associated [T]he lack of diagnostic pursuits (despite recommendations by Guantánamo doctors) of 
+[Mr. el-Sawah’s] respiratory and cardiac conditions rises to the level of neglect.
+       – Sondra Crosby, MDDEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo25with increasing motor weakness requires urgent diagnosis and surgical treatment. ”68
+• In the case of Tarek el-Sawah, a detainee who became obese at Guantánamo, 
+Dr. Crosby concluded that notwithstanding an appropriate medication regimen 
+to treat aspects of his condition, “the lack of diagnostic pursuits (despite 
+recommendations by Guantánamo doctors) of his respiratory and cardiac 
+conditions rises to the level of neglect. ”69 (See Mr. el-Sawah’s case study for 
+further details.)
+• In the case of former detainee Mr. Dhiab, Dr. Xenakis—who evaluated Mr. Dhiab and examined his 
+medical records—found that “[t]he living conditions in his cell aggravate his pain and discomfort. Mr. 
+Dhiab sleeps on the metal surface covered by one ISO-MAT [thin sleeping pad] that is inadequate in 
+allowing him to sleep comfortably and does not conform to accepted standards of medical care. ”70 
+He further found that “the staff at Guantánamo routinely withheld Dhiab’s crutches and wheelchair 
+and refused to give him basic over-the-counter painkillers. ”71
+• Mustafa Ahmed al-Hawsawi sought medical intervention for more than a decade to treat a rectal 
+prolapse caused by his torture in CIA custody, but did not receive the surgery he needed until 2016.72 
+From 2008 until his surgery, Mr. Hawsawi “sat gingerly on a pillow” during military commission 
+hearings due to his rectal prolapse.73
+The inappropriate role of litigation in access to medical care and detainee health
+Whether a detainee is being prosecuted before the military commissions or pursuing federal court 
+habeas corpus litigation has a substantial impact—in several ways—on both his access to medical care 
+(including medical records) and the care he receives. 
+ 
+First, unless a detainee is involved in active litigation, it appears to be extremely difficult, if not impossible, 
+for him to access independent civilian medical professionals, and, in some cases, medical records.74 For 
+example, after multiple requests for appointment of such an expert, counsel for Mr. al-Libi received the 
+following response from the Convening Authority, the office that oversees the military commissions:
+I considered carefully your request … for Dr. Xenakis to be assigned to Mr. al Libi’s case and to be 
+granted permission to medically evaluate him as a health-care provider. For the reasons set forth 
+below, I am unable to grant your request.
+ 
+CLICK TO
+SEE THE
+EL-SAWAH 
+CASE STUDYDEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo26Under R.M.C. 703(d), I may only appoint experts at government expense to assist the defense in military 
+commissions. There are no charges pending against Mr. al Libi nor, per your request, are you seeking to 
+have Dr. Xenakis aid in your legal representation of Mr. al Libi. Your request seeks to address a medical 
+condition which you believe afflicts Mr. al Libi. Given the circumstances, I may not grant your request.75 
+Second, for detainees in active federal court habeas corpus litigation, while some judges have granted 
+requests for independent civilian medical experts with more frequency recently, that was not the case 
+for many years, and it remains sporadic.76 Moreover, even when the Court does grant such a request, it 
+is limited to the context of a litigation issue. In other words, the independent expert will be appointed, for 
+example, to assess whether a detainee is competent to participate in legal proceedings, or whether his 
+medical condition impedes his ability to communicate with his lawyers. This does not allow for a meaningful 
+and comprehensive assessment of a detainee’s health or the care with which he is being provided. 
+ 
+Third, criminal prosecution before the military commissions has, in some cases, exacerbated detainees’ 
+medical conditions. For example, the prosecution in Mr. al-Tamir’s case has consistently opposed 
+continuances to the litigation schedule based on health concerns. In 2017 he was subjected to a 
+forced cell extraction, despite his previously described chronic and worsening back pain, in order to 
+transport him to a commission proceeding.77 In late 2018, Mr. al-Tamir suffered a prolonged back spasm 
+at the beginning of a military commission session. During the next session, the guard force rolled a 
+hospital bed into the courtroom, and, when it was noted that Mr. al-Tamir’s pain was increasing, he 
+was administered Valium and forced to nap in the courtroom.78 It is clear that shackling, movement, 
+and attendance at commission hearings and at meetings with his attorneys—both required for him 
+to exercise his constitutional rights to be present at the proceedings against him and to counsel—put 
+additional physical strains on his condition. 
+In the case of Mr. al-Nashiri—whose torture is described in excruciating detail in the declassified executive 
+summary of the Senate Select Committee on Intelligence study of the CIA’s former detention and interrogation 
+program—Dr. Crosby has opined that the commission process itself is likely to irreparably harm him:
+In my opinion, a capital trial of Mr. Al-Nashiri in the current Military Commission regime will have 
+a profoundly harmful and possibly long lasting effect upon him, in addition to the permanent harm 
+already inflicted. While I would expect a capital trial in any court to be stressful, my knowledge of 
+the more predictable procedures of federal confinement and trials causes me to believe that the 
+contemplated military trial is stressful on a different order of magnitude and, given Mr. Al-Nashiri’s 
+situation and fragile psychological state induced by torture, exponentially more harmful.
+ DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo27Indeed, I have serious doubts about Mr. Al-Nashiri’s ability to remain physically or mentally capable of 
+handling the physical and emotional stress of the military trial process.79  
+Lastly, military commission prosecutors appear to have access to detainees’ medical records—including 
+records to which detainees themselves, or their lawyers, do not, and well beyond that which would be 
+afforded through discovery in an ordinary criminal trial. Such access has led some detainees to refuse 
+medical care for fear that something documented in their medical records will disadvantage them in litigation.DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo28CONCLUSION 
+The experiences of detainees and independent civilian medical experts with medical care at 
+Guantánamo not only broadly refute the claim that detainees receive care equivalent to that of U.S. 
+service members, but also evidence specific violations of the Mandela Rules, the universally recognized 
+UN standard minimum rules for the treatment of prisoners. The violations include:
+• Failure to take, and document, detainees’ trauma histories—especially with regard to torture 
+and cruel, inhuman and degrading treatment suffered during U.S. detention and interrogation 
+operations—and corresponding failure to conduct independent investigations into any such 
+allegations (Rules 8, 26, 30, 34, 57); 
+• Failure to afford medical personnel true clinical independence—including final decision-making 
+authority over decisions that have medical repercussions—and, more generally, to prioritize 
+detainee medical needs over security functions (Rules 25, 27);
+• Failure either to ensure consistent prompt access to medical attention in urgent cases or to 
+transfer detainees to the United States for treatment that cannot adequately be provided at 
+Guantánamo (Rule 27);
+• Failure to provide detainees with timely and meaningful access to their own medical records 
+(Rules 9, 26, 57);
+• Failure to protect confidentiality of detainees’ medical records, in particular by allowing broad 
+access to such records by prosecutors (Rules 9; 26, 32); 
+• Failure to acquire and retain sufficient capability—in either personnel or equipment—to provide 
+appropriate treatment and care, especially but not only for detainees with complex health needs 
+arising from a history of torture and trauma (Rules 25, 27);
+• Failure to ensure continuity of treatment and care of detainees due to frequent rotation of military 
+medical personnel (Rule 24);
+• Failure to allow those detainees who understandably distrust military medical providers to  
+access independent civilian physicians—or other qualified medical personnel that detainees 
+trust—in a meaningful, ongoing fashion, if at all (Rule 31); andDEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo29• Failure to adhere to the prohibition on the use of inherently degrading or painful instruments of 
+restraint, and to limit the use of all forms of restraint to circumstances where there is a legitimate 
+risk of escape, or—after exhausting other less severe forms of control—of a detainee injuring 
+himself or damaging property (Rule 47). DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo30RECOMMENDATIONS
+It is not possible to fully resolve all of these serious medical care deficiencies at Guantánamo while the 
+detention facility remains open. For example, effective torture rehabilitation cannot be provided there, 
+and detainees will continue to suffer the profound impact of indefinite detention as long as they remain 
+detained indefinitely. But this fact cannot and must not justify inaction. 
+Unless and until Guantánamo is closed—which the Center for Victims of Torture and Physicians for 
+Human Rights have long advocated it must be—the U.S. Congress, Judiciary, and Executive Branch can 
+and should take the following steps, respectively, toward closing the gap between the quality of care the 
+United States claims to provide and what is actually happening on the ground at Guantánamo.
+For the U.S. Congress:
+1) Lift the current legislative ban on transferring Guantánamo detainees to the United States, or at 
+minimum create an exception for any detainee for whom Guantánamo cannot provide evaluation and 
+treatment that is accepted by medical experts and reflected in peer-reviewed medical literature as 
+the appropriate medical approach for the relevant condition, symptoms, illness, and/or disease and 
+that is widely used by health care professionals.
+2) Require the Executive Branch to transfer to the United States for medical care any detainee with a 
+medical condition that cannot be evaluated and treated at Guantánamo in a manner that is accepted 
+by medical experts and reflected in peer-reviewed medical literature as the appropriate medical 
+approach for the relevant condition, symptoms, illness, and/or disease and that is widely used by 
+health care professionals.
+3) Require the Department of Defense to provide, upon a detainee’s request—including requests 
+made through a detainee’s counsel or other representative with the detainee’s consent—timely and 
+meaningful access to all of his own medical records generated or maintained by the Department of 
+Defense and any agency or entity thereof. 
+4) Prohibit the disclosure of detainees’ medical records to prosecutors in a military commission or other 
+criminal proceeding without the consent of the detainee, with two exceptions: First, when disclosure 
+is ordered by a military judge or other court of competent jurisdiction after notice to the detainee and 
+the opportunity to be heard, and a finding that the medical records are material to proof of a crime 
+charged in the proceeding; or, second, when disclosure is otherwise authorized by an applicable DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo31statute, regulation, or rule governing discovery in the proceeding. 
+5) Create a new Chief Medical Officer (CMO) to be stationed at Guantánamo and who would oversee 
+the provision of medical care to detainees. The CMO should be a senior, civilian physician charged 
+with ensuring that detainees are provided with evaluation and treatment that is accepted by medical 
+experts and reflected in peer-reviewed medical literature as the appropriate medical approach for 
+the relevant condition, symptoms, illness, and/or disease and that is widely used by health care 
+professionals. This includes ensuring that detainees are not subject to policies or practices that 
+conflict with, undermine, or otherwise negatively impact their health. The CMO should have final 
+decision-making authority over any decision related to medical care for individuals detained at 
+Guantánamo, including, but not limited to, decisions related to assessment, diagnosis, treatment, 
+and medical accommodations to detention conditions of confinement and operating procedures. The 
+CMO should report to a chain of command outside the military and with additional oversight by the 
+independent commission recommended below (Recommendation 7).
+6) Conduct thorough and regular oversight over medical care at Guantánamo to ensure that detainees 
+are being provided with evaluation and treatment that is accepted by medical experts and reflected 
+in peer-reviewed medical literature as the appropriate medical approach for the relevant condition, 
+symptoms, illness, and/or disease and that is widely used by health care professionals. This should 
+include ensuring that litigation does not negatively impact the medical care with which detainees 
+should be provided or otherwise conflict with their best medical interests.
+7) Establish an independent commission to assess, report on, and provide further recommendations 
+with respect to the provision of medical care at Guantánamo. The commission should be comprised 
+of independent and senior civilian medical experts, including: an internist with experience in 
+geriatric medicine; an internist with experience in treating victims of torture; a general surgeon with 
+experience in treating victims of torture; a psychologist with experience in treating victims of torture; 
+and a neuropsychiatrist with experience in treating victims of torture and patients with traumatic 
+brain injury. All commission members should be board certified, licensed, and have significant 
+experience working in a cross-cultural setting.
+The commission’s mandate should include examination of the following issues:
+• Whether and how policies, practices, and the command structure at Guantánamo affect medical 
+providers’ autonomy and efficacy, decision-making that has medical repercussions, and the 
+medical (including mental health) interests of individuals detained at Guantánamo;  DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo32• The ability of military medical providers, in particular but not only Joint Medical Group staff, to 
+develop trusting doctor-patient relationships with individuals detained at Guantánamo;
+• The comprehensiveness and accuracy of the medical records of individuals detained at 
+Guantánamo;
+• The degree and timeliness of access to detainees’ medical records for the detainees themselves; 
+Joint Medical Group, Joint Detention Group and other Joint Task Force Guantánamo staff; 
+outside medical specialists, whether brought in by Joint Task Force Guantánamo or retained by 
+detainees; and government lawyers, detainees’ counsel, and judges in both military commissions 
+and federal court proceedings;
+• The extent to which medical records of individuals detained at Guantánamo are classified, 
+at what level, and how this impacts access for each of the above stakeholders as well as the 
+provision of medical care to detainees;
+• The duration of assignments/rotation schedules (on and off-island) for Joint Medical Group 
+staff, and how those impact the quality of medical care provided to individuals detained at 
+Guantánamo;
+• Medical care capability at Guantánamo with respect to both equipment and expertise necessary 
+to provide evaluation and treatment that is accepted by medical experts and reflected in peer-
+reviewed medical literature as the appropriate medical approach for the relevant condition, 
+symptoms, illness, and/or disease and that is widely used by health care professionals; and
+• For each of the above, whether and how the assessment differs for individuals detained at 
+Guantánamo who are: (i) torture survivors; (ii) being prosecuted before the military commissions, 
+and (iii) pursuing habeas corpus relief in federal court. 
+The commission should have full access to, and the power to compel, any information that it needs 
+to fulfill its mandate—with detainees’ consent where necessary—including both documents and 
+personnel. Where security clearances are necessary, the Executive Branch should be required to 
+facilitate the process expeditiously. 
+The commission should be mandated to report back to Congress at specified interim periods, DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo33including whenever it deems appropriate. It should also be required to produce a final report with 
+findings and recommendations that include any improvements to be made related to the provision 
+of medical care at Guantánamo going forward, and whether continuing monitoring, assessment, and 
+reporting is advisable following issuance of the final report.
+For the U.S. Judiciary and Military Commissions:
+8) Grant requests for, or order proactively, independent medical evaluations for any detainee who 
+presents with a medical condition or concern about which there is a reasonable question regarding 
+whether he is being provided with medical care that is accepted by medical experts and reflected 
+in peer-reviewed medical literature as the appropriate medical approach for the relevant condition, 
+symptoms, illness, and/or disease and that is widely used by health care professionals.
+9) Require the government to produce expeditiously any medical records that detainees request.
+10) Prohibit the disclosure of detainees’ medical records to prosecutors in a military commission or other 
+criminal proceeding without the consent of the detainee, with two exceptions: First, when disclosure 
+is ordered by a military judge or other court of competent jurisdiction after notice to the detainee and 
+the opportunity to be heard, and a finding that the medical records are material to proof of a crime 
+charged in the proceeding; or, second, when disclosure is otherwise authorized by an applicable 
+statute, regulation, or rule governing discovery in the proceeding. 
+For the U.S. Executive Branch:
+11) If Congress lifts the ban on transfers to the United States, even if only for medical purposes, transfer 
+to the United States any detainee for whom Guantánamo cannot provide evaluation and treatment 
+that is accepted by medical experts and reflected in peer-reviewed medical literature as the 
+appropriate medical approach for the relevant condition, symptoms, illness, and/or disease and that 
+is widely used by health care professionals.
+12) Transfer out of Guantánamo any detainee who, by virtue of his medical circumstances, does not pose 
+a threat to the United States.
+13) Allow meaningful and regular access to Guantánamo by civilian medical experts, including 
+permitting such experts to evaluate detainees in an appropriate setting—without the use of restraints 
+and outside the presence of any other personnel—and to have timely access to all medical records, 
+subject to detainees’ consent.DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo3414) Declassify medical records that have already been classified and discontinue classifying medical 
+records going forward. Legitimate identifiers of government personnel may be redacted in medical 
+records prior to their public release if the government can demonstrate that the redactions meet the 
+requirements of Executive Order 13526.
+15) Upon a detainee’s request, including requests made by counsel with the detainee’s consent, provide 
+the detainee with timely and meaningful access to any and all of his own medical records generated 
+or maintained by the Department of Defense, the CIA, and any agency or entity thereof.DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo35Nashwan al-Tamir was captured in Turkey in 2006, rendered to a CIA black site, then transferred to the 
+detention center at Guantánamo Bay, Cuba.81 As of June 2019, he had been held captive at Guantanamo 
+for 12 years and nine months.
+According to portions of Mr. al-Tamir’s medical records, he has been complaining about and seeking 
+treatment for chronic and worsening back pain since he initially entered U.S. custody in 2006. After his 
+arrival at Guantánamo Bay, Mr. al-Tamir informed the detention facility staff that a previous MRI had 
+confirmed that he had a herniated disc. By June 2008 his pain began radiating down his left thigh—a 
+condition that worsened the following year—and he expressed concern about how long it was taking to 
+resolve the issue. 
+Throughout 2010, Mr. al-Tamir received a variety of treatments—over-the-counter medication (typically 
+BenGay and ibuprofen) and physical therapy—which proved ineffective. In September of that year, he 
+was diagnosed with spinal stenosis after a CT scan. And yet, Mr. al-Tamir would not receive surgical 
+intervention until seven years after his diagnosis. According to doctors Homer Venters, MD, MS, former 
+PHR director of programs, and Vincent Iacopino, MD, PhD, PHR senior medical advisor—both of whom 
+wrote to the defense secretary when they learned about Mr. al-Tamir’s condition in 2017—“[i]t is common 
+CASE STUDIES
+We are deeply concerned that the facts of this case do not support 
+DOD’s public claim of appropriate, high quality, and timely medical/
+surgical care. With all due respect to the medical personnel who 
+traveled on short notice to Guantánamo and performed the therapeutic 
+intervention, especially with Hurricane Irma approaching, this case 
+exemplifies serious problems in the accurate and timely diagnosis of 
+emergency medical/surgical conditions.
+  – Homer Venters, MD, MS and Vincent Iacopino, MD, PhD (9/8/2017)80Nashwan al-Tamir
+DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo36medical knowledge, at the most basic level, that spinal stenosis associated with increasing motor 
+weakness requires urgent diagnosis and surgical treatment. ”82
+From 2011 through 2016, Mr. al-Tamir’s symptoms persisted and his health gradually declined. Medical 
+records from this period reflect almost daily complaints regarding serious back pain. He was given 
+some further testing, though the details and scope of any medical assessments remain unclear because 
+neither Mr. al-Tamir nor his counsel have ever been provided with a complete set of his medical records. 
+On January 9, 2017, during a military commissions proceeding, Mr. al-Tamir was subjected to a forced cell 
+extraction when he refused to be handcuffed by a female guard-force member. A few weeks after this 
+violent incident, Joint Medical Group staff conducted a CT scan that showed further degeneration of his 
+spine and recommended that Mr. al-Tamir undergo an MRI; however, due to the continued unavailability 
+of an MRI machine on-base, that test was not performed. That summer, Mr. al-Tamir began to experience 
+a significant loss of sensation in both of his feet and a loss of bladder control. He was admitted to the 
+Guantánamo base hospital in August 2017. An X-ray and CT scans showed that his back condition had 
+worsened. Although Mr. al-Tamir’s condition had not improved, and scheduled attorney-client visits 
+had been cancelled due to his declining medical condition, Guantánamo officials cleared him to attend 
+pretrial hearings held immediately thereafter.
+ 
+On August 7, 2017, a doctor told Mr. al-Tamir that he needed to see a spinal surgeon, who would arrive 
+in October, but that an injection might mitigate the problem until then. Orthopedic surgeon and PHR 
+Expert James Cobey, MD, MPH, FACS—who reviewed what had been provided of Mr. al-Tamir’s medical 
+records—described that plan as follows:  
+The current treatment plan as reported, consisting of an anesthesiologist visiting in September and a 
+neurosurgeon visiting in October, is unacceptable, inconsistent with the standard of care, and likely to 
+result in permanent neurologic damage. I would not expect a simple epidural injection with steroids 
+to have any real effect on a compression problem. The epidural may temporarily help the foraminal 
+stenosis, but would not help the symptoms of the central stenosis. I urge you in no uncertain terms to 
+take immediate action to effectively diagnose and treat the detainee’s medical emergency.83
+Contemporaneous records indicate that Guantánamo medical staff failed to treat Mr. al-Tamir’s medical 
+status as emergent until early September 2018, after additional correspondence by medical non-profit 
+organizations voiced serious concerns. Shortly thereafter, in an implicit acknowledgement of the crisis it 
+had allowed to befall Mr. al-Tamir, U.S. authorities flew a special medical team to Guantánamo to perform 
+emergency surgery. Over the next eight months, Mr. al-Tamir underwent three additional surgical 
+DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo37procedures on his spine, all performed by surgical teams flown in from the mainland. Correspondence 
+from military medical teams disclosed their fear associated with performing such complicated surgical 
+procedures on-base—one Guantánamo physician wrote to the Base Commander: “The prospect of 
+attempting [the needed surgery] at [US Naval Hospital Guantanamo Bay] scares the hell out of me. ”84 At 
+least one procedure was devoted exclusively to correcting problems stemming from the placement of 
+hardware in an earlier procedure.
+Mr. al-Tamir’s treating neurosurgeon recently testified that, as a result of his quick succession of spinal 
+surgeries, Mr. al-Tamir could suffer from neuropathy, chronic pain, and muscle spasms for the rest of his 
+life. He also testified that Mr. al-Tamir may need additional spinal surgeries in the future, and that certain 
+accommodations should be made by the military commissions and the detention facility staff to avoid 
+“acute exacerbations” of his conditions.
+None of this has deterred the military commissions from forging ahead with Mr. al-Tamir’s prosecution. 
+Prosecutors have consistently opposed any continuances to the litigation schedule based on health 
+concerns. In November 2018, Mr. al-Tamir suffered an hour-long back spasm at the beginning of 
+a military commission session. During the next session a few days later, the guard force rolled a 
+hospital bed into the courtroom, and, when it was noted that his pain was increasing, Mr. al-Tamir was 
+administered Valium and forced to nap in the courtroom. His current pain medication regimen relies on 
+the regular administration of opioid pain medication (e.g., Percocet), benzodiazepines (e.g., Valium), and 
+muscle relaxants. All of these medications have a sedating effect, according to his military doctors. 
+According to press reports from January 2019, the Defense Department is shipping a large, 
+handicapped-accessible cell to Guantánamo so that Mr. al-Tamir could “live at the court” during 
+proceedings while continuing to recover from his surgeries.85 The cell was supposed to be operational by 
+March, but was not. Instead, the detention facility provided what Mr. al-Tamir’s counsel described as an 
+uninhabitable substitute that fell far short of the medical accommodations promised. 
+ 
+DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo38
+Mr. Sharqawi Al Hajj is a 43-year-old citizen of Yemen. He was taken into custody by U.S. and Pakistani 
+forces in February 2002 then rendered to Jordan, where for nearly two years he was detained—hidden 
+from the International Committee of the Red Cross—and tortured, including through extensive beatings 
+on his feet and threats of electrocution and sexual abuse.87 He was then rendered to a CIA black site 
+prison in Afghanistan “where he ‘was kept in complete darkness and subjected to continuous loud 
+music’” until his transfer in 2004 to the detention center at Guantánamo Bay, Cuba.88 As of June 2019, Mr. 
+Al Hajj had been held captive there for 14 years and nine months. 
+In July 2017, after several weeks of a hunger strike because of increasing despair over his poor health 
+and indefinite detention, Mr. Al Hajj fell unconscious and required emergency hospitalization. Shortly 
+thereafter, he brought an emergency motion for an independent medical evaluation and production of his 
+medical records.89 The government opposed both requests and, as of June 2019, the court had not ruled. 
+Mr. Al Hajj’s longstanding health problems include profound weakness and fatigue, recurrent jaundice, 
+severe abdominal pain, difficult painful urination, and constipation. He was also diagnosed with Hepatitis The government appears to discount legitimate concern about Mr. Al 
+Hajj’s health because it states that Mr. Al Hajj’s symptoms are explained 
+by a benign liver condition … and that he is not suffering from other 
+potentially serious underlying illnesses. It fails to address the effects of 
+the symptoms themselves, whatever their source. 
+…
+My familiarity with the medical facilities at Guantánamo also raises 
+concern that in the midst of a true emergency, Guantánamo Bay’s 
+medical facilities would not be equipped to provide the necessary 
+medical care to Mr. Al Hajj, including the availability of an MRI for 
+diagnostic procedures and advanced surgical equipment and personnel.
+     – Jess Ghannam, MD (9/26/2017)86Sharqawi Al HajjDEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo39
+B prior to his detention at Guantánamo. In the months leading up to September 2017, Mr. Al Hajj’s 
+counsel noticed his health declining appreciably: “He appeared frail, gaunt, and had noticeable difficulty 
+maintaining energy and concentration. ”90
+Medical providers at Guantánamo conducted multiple ultrasounds and CT scans on Mr. Al Hajj, and he 
+was evaluated several times by a gastroenterologist who performed an endoscope examination and 
+a colonoscopy. Based on the results, Guantánamo medical staff diagnosed Mr. Al Hajj with Gilbert’s 
+Syndrome (“a benign congenital condition”) and a hereditary enzyme deficiency, neither of which, they 
+determined, required treatment. Instead, medical staff concluded that Mr. Al Hajj’s pain and suffering 
+were a result of his hunger strike, and that his “life and health are not in jeopardy. ”91
+Mr. Al Hajj’s counsel retained two outside medical experts, including Dr. Jess Ghannam, to evaluate Mr. 
+Al Hajj’s health circumstances to the extent possible in light of the government’s refusals to turn over 
+Mr. Al Hajj’s medical records or to allow for an independent medical evaluation. Notwithstanding these 
+limitations, several of Dr. Ghannam’s findings bear mention: 
+• The gastro-intestinal difficulties, chronic pain, fatigue, and general physical impairment Mr. Al 
+Hajj is experiencing he reported before his hunger strike began, and those symptoms “can cause 
+severe physical and neuropsychological damage if they persist. ”92 In the midst of a hunger strike 
+“they can lead to medically irreparable harm if not properly diagnosed and treated. ”93 
+• Mr. Al Hajj repeatedly voiced distrust of Guantánamo medical care providers, “which is a 
+subjective experience and separate from the quality of the care that may be being offered, and 
+can persist even if he accepts offered medical care. ” This led Dr. Ghannam “to question the 
+reliability of the assessments about Mr. Al Hajj’s condition. Trust in one’s doctor is a necessary 
+precondition to being forthcoming with information and consenting to care, which are in turn 
+essential to making an accurate diagnosis and prognosis and providing effective treatment. 
+It is problematic, if not impossible, for the standard doctor-patient relationship to develop at 
+Guantánamo, thereby weakening the foundation of the standard practice of medicine—the 
+establishment of trust in one’s doctor. All personnel in Guantánamo, including medical staff, are 
+perceived and experienced as part of the detainee’s original torture project. In my experience, the 
+possibility of developing trust in a doctor is virtually impossible for Guantánamo detainees and, 
+as a result, it is not possible to comfortably rely on the [senior medical officer’s] assurance that 
+Mr. Al Hajj is ‘in good health. ’”94
+• “In my experience in other Guantánamo detainee cases, it is not uncommon for detainees DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo40
+complaining of ailments to be characterized as stable despite serious concerns and in some 
+cases the need ultimately for emergency care. ”95
+• “Access to one’s personal medical information is a basic right recognized in medical policy 
+guidelines. Having access to Mr. Al Hajj’s medical records would provide important insight into 
+his condition and allow for further preventive steps to avoid the possibility of irreparable medical 
+harm that he faces…. His complete medical records, in conjunction with an independent medical 
+evaluation with a doctor with whom trust could be established, is the only reasonable standard 
+to truly assess if Mr. Al Hajj is ‘in good health’ and provide basic and adequate health care that 
+would prevent irreparable harm to his already fragile condition. ”96
+On October 26, 2018, counsel for Mr. Al Hajj reported that his “health continues to be in jeopardy. He 
+continues to engage in prolonged hunger strikes as a desperate response to his ill health and inadequate 
+health care; his protests further aggravate his health concerns; and his worsened condition leads to 
+greater distress and more extreme protests. ” Counsel was especially concerned with an apparent decline 
+in Mr. Al Hajj’s mental health, given that Mr. Al Hajj “refuses mental health care at Guantánamo for lack of 
+trust.”97 Counsel alerted Guantánamo officials and the Justice Department directly to her concern and, as 
+of June 2019, had received no response.DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo41
+Tarek El-Sawah was arrested by the Northern Alliance in Afghanistan then turned over to U.S. forces 
+in December 2001. He was sent to the detention center at Guantánamo Bay, Cuba in May 2002. In 
+September 2008, the Bush administration recommended he be transferred out of Guantánamo. On 
+January 20, 2016, he was transferred to Bosnia and Herzegovina. 
+When he arrived at Guantánamo, Mr. el-Sawah (who is five feet, ten inches tall) weighed approximately 
+215 pounds.99 By August 2013—as a result of interrogators exploiting an eating disorder by offering him 
+excessive amounts of food in exchange for information100—he weighed over 400 pounds and suffered 
+from “multiple serious life threatening medical co-morbidities” such that he was at “significant increased 
+risk of mortality. ”101 His counsel, to whom the government had refused to provide any medical records 
+over the course of the two previous years, filed a motion in Mr. el-Sawah’s habeas case for emergency 
+medical care.102 
+The government responded that Mr. el-Sawah was being afforded sufficient medical care, but to the 
+extent there were tests and treatment that he did not receive it was because “he refuses medical 
+treatment on a regular basis. ”103 Mr. el-Sawah disagreed with that characterization; what he refused It is my strong conclusion that Mr. El-Sawah is in extremely poor health 
+and requires timely medical evaluation and treatment for multiple 
+serious medical conditions. I am alarmed that since my initial evaluation 
+in 2011, appropriate testing and treatment has not occurred. This failure 
+of treatment is despite multiple and repeated recommendations from 
+military physicians, whose opinions and recommendations are generally 
+in agreement with my own. Because of the failure of Guantánamo 
+officials to comply with medical recommendations that would meet basic 
+standards of care, Mr. El-Sawah’s health has markedly deteriorated.
+     – Sondra Crosby, MD (9/3/2013)98Tarek el-SawahDEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo42
+was having his legs and hands shackled for transport to medical appointments pursuant to a newly 
+instituted policy.104 The government disputed that leg shackling was required (at least prospectively)105 
+and stated that “nothing medically prohibits” hand shackling Mr. el-Sawah.106 More generally—on the 
+basis of a declaration submitted by a doctor from the Joint Medical Group who reviewed Mr. el-Sawah’s 
+medical records but who did not attest to having personally examined him—the government claimed 
+that Mr. el-Sawah’s “life is not in imminent danger, nor is he in immediate danger of losing his ability to 
+communicate with others. ”107
+Two independent medical experts, Sondra Crosby, MD and Brigadier General (Ret) Stephen Xenakis, 
+MD, medical experts for Physicians for Human Rights, were allowed to examine Mr. el-Sawah and review 
+the portions of his medical records that his counsel was able to obtain, both before and after the filing 
+of the emergency motion. Dr. Crosby evaluated him in March 2011 and March 2012, and visited with him 
+briefly in July 2013. She again evaluated him and performed a brief physical examination on November 
+14, 2013. Dr. Xenakis conducted a two-hour medical interview with Mr. el-Sawah on August 13, 2013 and 
+joined Dr. Crosby for the 2012 evaluation. 
+Both doctors found failures to meet the basic standard of medical care. Although the government’s 
+attention to Mr. el-Sawah’s condition improved markedly following the filing of the emergency motion,108  
+in some cases failures persisted. Doctors Crosby and Xenakis attribute failures to meet the basic 
+standard of care to various combinations of the following: proper diagnoses and recommendations but 
+lack of equipment or expertise to perform the necessary tests; improper or incomplete evaluation and 
+treatment; unrealistic policies that interfered with Mr. el-Sawah receiving appropriate medical care; and 
+neglect. For example:109
+• Based on what Mr. el-Sawah told Dr. Xenakis, “the authorities at JTF-GTMO are obstructing 
+appropriate medical testing and treatment. They have imposed unrealistic and harmful conditions 
+for his movement from confinement to the medical clinic that prevent him from receiving 
+appropriate medical care. These policies and practices violate the accepted procedures of 
+medical care in a military setting. ”110
+• In September 2012, “a military otolaryngologist opined that Mr. el-Sawah’s symptoms were 
+consistent with sleep apnea and that polysomnography would be required for diagnosis, but 
+noted that Guantánamo does not have this capacity, ” and so “treatment would be continuous 
+positive airway pressure (CPAP). ” According to the government, as of early September 2013, the 
+CPAP machine had not yet arrived.
+• As of September 3, 2013, Mr. el-Sawah had “not undergone pulmonary evaluation that would DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo43
+meet even minimum standards of care to address his progressive pulmonary disease. ”
+• “In addition to pulmonary disease, Mr. el-Sawah is at a very high risk for coronary artery disease 
+(‘CAD’). ” He describes “symptoms that are highly suspicious for cardiac disease given his multiple 
+risk factors. ” A military cardiologist who examined Mr. el-Sawah on December 12, 2012 concluded 
+the same, “but noted that ‘patient’s weight exceeds any available means to test for CAD at 
+GTMO. ’ On June 4, 2013, a follow up cardiac consultation also concluded that Mr. el-Sawah’s 
+‘weight limits current testing at NH GTMO. ’” 
+• The government states that “Mr. el-Sawah has ‘refused’ an echocardiogram. However, an 
+echocardiogram is of limited use for a patient of Mr. el-Sawah’s size and would not evaluate 
+myocardial ischemia or determine if there is blockage in his arteries. In fact, Mr. el-Sawah 
+underwent an echocardiogram in Guantánamo in 2007 … and his size prohibited the technicians 
+from seeing anything useful to determine the status of his heart condition. ”
+• As of September 3, 2013, Dr. Crosby agreed with Guantánamo medical authorities’ “medication 
+regimen to aggressively treat Mr. El-Sawah’s lipids, blood pressure, diabetes and anticoagulation 
+for stroke prevention. However, the lack of diagnostic pursuits (despite recommendations by 
+Guantánamo doctors) of his respiratory and cardiac conditions rises to the level of neglect. ”
+• With regard to Mr. el-Sawah’s obesity, the government stated that “‘Petitioner has been advised 
+on numerous occasions to consume fewer calories and get regular exercise. ’ This is not the 
+standard of care for someone in Mr. el-Sawah’s weight range, which is stated to be 408 pounds. ”
+• “Given Mr. El-Sawah’s ongoing undiagnosed symptoms of chest pain and shortness of breath, 
+encouraging regular exercise is reckless and could prove dangerous prior to further evaluation 
+and treatment. Medical practice guidelines (including those published by the National Institutes 
+of Health) dictate that a patient in Mr. El-Sawah’s current condition undergoes evaluation and 
+treatment from a physician with expertise in the treatment of obesity. ”
+ DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo44
+Abd al-Rahim al-Nashiri, a national of Saudi Arabia, was captured by local authorities in Dubai in 
+October 2002. After being transferred to U.S. custody he was rendered to a series of CIA “black site” 
+prisons before being sent, in 2006, to the detention center at Guantánamo Bay, Cuba. As of June 2019, 
+Mr. al-Nashiri had been held captive there for 12 years and two months. 
+During his time in CIA custody, Mr. al-Nashiri was tortured frequently and extensively. The abuses to 
+which he was subjected include, but are not limited to: forced nudity, “stress positions, ” being shackled 
+to the ceiling or to walls for long periods in a freezing cold cell, waterboarding, “rectal feeding” (which is 
+rape by object under the Uniform Code of Military Justice), mock execution with both a handgun and a 
+power drill, threats to his family, and “forced bathing” with a stiff brush to abrade his skin.112 In describing 
+detainees at one of the black sites at which Mr. al-Nashiri was held, a CIA interrogator said “[‘they] literally 
+looked like [dogs] that had been kenneled. ’ When the doors to their cells were opened, ‘they cowered. ’”113Mr. Al-Nashiri is most likely irreversibly damaged by torture that was 
+unusually cruel and designed to break him… Making matters worse, 
+there is no present effort to treat the damage, and there appear to be 
+efforts to block others from giving him appropriate clinical care. 
+…
+His deterioration is exacerbated by the lack of appropriate mental 
+health treatment at Guantánamo. Based on my assessment and vast 
+experience caring for survivors of torture, the physical and mental health 
+care afforded to him is woefully inadequate to his medical needs. A 
+significant factor in my opinion is that medical professionals, including 
+mental health care providers, have apparently been directly or indirectly 
+instructed not to inquire into the causes of Mr. Al-Nashiri’s mental 
+distress, and as a consequence, he remains misdiagnosed and untreated. 
+     – Sondra Crosby, MD (10/14/2015)111Abd al-Rahim al-NashiriDEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo45
+In March of 2012, Dr. Sondra Crosby was appointed by the Defense Department as an expert in the field 
+of internal medicine and the treatment of torture victims to conduct an evaluation of Mr. al-Nashiri’s 
+physical and mental condition. After reviewing both classified and unclassified records and examining/
+observing Mr. al-Nashiri for approximately 30 hours, she concluded: “in my many years of experience 
+treating torture victims from around the world, Mr. Al-Nashiri presents as one of the most severely 
+traumatized individuals I have ever seen. ”114
+In early 2013, the government requested that a competency board evaluate Mr. al-Nashiri. “‘Two 
+psychologists and one psychiatrist [from Walter Reed Military Medical Center] conducted interviews 
+with [him] and reviewed numerous documents including summaries of his interrogations, medical 
+assessment notes, and psychological assessment notes from 2002 through 2006. ’ They concluded that 
+he suffers from post-traumatic stress disorder (PTSD) and major depressive disorder. ”115 To that point, no 
+Guantánamo doctor had ever reached the same conclusion.
+In March of 2014, Dr. Crosby was called to testify as an expert witness at a hearing in Mr. al-Nashiri’s 
+case arising out of her opinion that conditions of his confinement were triggering past traumatic 
+experiences. Both her testimony and that of Mr. al-Nashiri’s then-most recent treating psychiatrist at 
+Guantánamo (referred to as “Dr. 97”) revealed a number of serious concerns with the medical care he 
+had been receiving.
+Most glaring was an absence of a trauma history in any of Mr. al-Nashiri’s Guantánamo medical records. 
+According to Dr. 97, who had been board certified in psychiatry for less than two years, “nowhere in Mr. 
+Nashiri’s psychiatric records compiled at Guantánamo from 2006 to 2014 is there a detailed account of 
+what … he went through prior to coming to Guantánamo[.]”116 Dr. 97 testified that he had “suspicions, ” 
+but did not “know factually where [Mr. al-Nashiri] was or with whom he was. ” Rather than ask Mr. al-
+Nashiri what happened to him, Dr. 97 said that he “assumed” Mr. al-Nashiri had serious trauma but did 
+not “know factually the details. ”117
+Dr. Crosby confirmed that she had not seen a trauma history in any of the Guantánamo-generated 
+records that she reviewed. And because of that omission, Mr. al-Nashiri “was not diagnosed correctly 
+and is not receiving the proper treatment. ”118 Specifically, Dr. Crosby concluded that “Mr. [al-]Nashiri 
+suffers from [PTSD] that has not been addressed. ”119
+In March of 2013, shortly after the competency board diagnosed PTSD, a Guantánamo doctor added 
+that same diagnosis to Mr. al-Nashiri’s medical records for the first time. Various military mental health 
+professionals carried forward the PTSD diagnosis throughout 2013, but there was never a foundation DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo46laid for it. In other words, there was no documentation that a health professional had ever conducted a 
+diagnostic evaluation—actually gone through the diagnostic criteria—for PTSD. “You cannot diagnose 
+somebody with post-traumatic stress disorder unless you have a trauma, a significant trauma, ” Dr. 
+Crosby explained, “and there’s no such history in the record. ”120
+For years, Guantánamo medical staff had been “treat[ing] the symptoms … without treating the cause. ”121 
+Not only was that approach ineffective, but also it harmed Mr. al-Nashiri in concrete ways. For example, 
+at times Mr. al-Nashiri refused to see treatment providers because doing so required him to wear a 
+“belly chain. ”122 Given that flashbacks (i.e. a past traumatic experience recurring vividly in the mind) 
+are a common symptom of PTSD, if one understands what Mr. al-Nashiri suffered it is not difficult to 
+appreciate his objection. That understanding would also facilitate identifying an appropriate solution. 
+On March 12, 2014—again, without taking Mr. al-Nashiri’s trauma history—Dr. 97 changed Mr. al-Nashiri’s 
+conclusory PTSD diagnosis to one of narcissistic personality disorder.123 The change is troublesome 
+both substantively and for its timing. With regard to the former, according to Dr. Crosby, Mr. al-Nashiri’s 
+medical records are replete with red flags for PTSD: “He suffers from chronic pain. He suffers from anal-
+rectal complaints … Multiple other physical complaints, headaches, chest pain, joint pain, stomach pain. 
+These are all symptoms that are highly prevalent in people who have suffered torture and [] have chronic 
+P T S D.”124 She is confident in her assessment that Mr. al-Nashiri does not have narcissistic personality 
+disorder.
+As to timing, Dr. 97 changed the diagnosis in the few weeks after learning that Dr. Crosby would be 
+testifying to medical concerns she had with Mr. al-Nashiri’s treatment, and after discussing with the 
+prosecution and the senior medical officer that she would be evaluating Mr. al-Nashiri using the Istanbul 
+Protocol—the international standard for the investigation and documentation of torture—with which Dr. 
+97 was not previously familiar.125
+DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo47ENDNOTES
+1 As of June 2019, military commission prosecutors were pursuing charges against three additional detainees but 
+the office overseeing the commissions—the Convening Authority—had not yet approved the charges.  
+2 Carol Rosenberg, Guantanamo Bay as Nursing Home: Military Envisions Hospice Care as Terrorism Suspects Age, 
+NY Times, April 27, 2019, available at https://www.nytimes.com/2019/04/27/us/politics/guantanamo-bay-aging-
+terrorism-suspects-medical-care.html.
+3 Posture Statement of General John F. Kelly, United States Marine Corps Commander, United States Southern 
+Command, Before the 113th Congress House Armed Services Committee at 23-24, March 20, 2013, available at 
+http://www.au.af.mil/au/awc/awcgate/usmc/posture_usmc_20mar2013.pdf.
+4 Id.
+5 This includes, but is not limited to, detainees who were tortured or otherwise abused as part of the CIA’s former 
+rendition, detention and interrogation program. 
+6 Laurel Fletcher and Eric Stover, Guantanamo and its Aftermath: U.S. Detention and Interrogation Practices and 
+Their Impact on Former Detainees at 52 (Nov. 2008), available at https://www.law.berkeley.edu/files/IHRLC/
+Guantanamo_and_Its_Aftermath.pdf.
+7 US v. Hadi al-Iraqi, AE099RR at 2-3.
+8 Boumediene v. Bush, 553 U.S. 723 (2008). 
+9 Hamdi v. Rumsfeld, 542 U.S. 507 (2004); Al-Alwi v. Trump, No. 18–740 (Sup. Ct. June 10, 2019) (Denying pet. for writ 
+of cert., statement of Breyer, J.)
+10 Ali v. Trump, No. 17-5067 (D.C. Cir. Aug. 7, 2018) (Denying hearing en banc). 
+11 Kathleen T. Rhem, Guantanamo Detainees Receiving ‘First-Rate’ Medical Care, U.S. Department of Defense News, 
+Feb. 18, 2005, available at https://archive.defense.gov/news/newsarticle.aspx?id=25852.
+12 U.S. Army Regulation 190–8, Enemy Prisoners of War, Retained Personnel, Civilian Internees and Other 
+Detainees, available at https://info.publicintelligence.net/USArmy-Detainees.pdf.
+13 Id. at 3-4(e).
+14 Id. at 6-6(c).
+15 See, e.g., David Fathi, Director, ACLU National Prison Project, Victory! UN Crime Commission Approves Mandela DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo48Rules on Treatment of Prisoners, available at https://www.aclu.org/blog/prisoners-rights/solitary-confinement/
+victory-un-crime-commission-approves-mandela-rules (“One notable feature of this year’s Crime Commission 
+was the positive role played by the United States. The U.S. delegation strongly supported adopting the rules and 
+naming them in honor of Nelson Mandela, whom it called “one of the greatest defenders of human rights and 
+dignity in recent history. ” It resisted attempts to reopen the text of the Mandela Rules that had been agreed to in 
+Cape Town earlier this year, and it fought back against efforts to insert language that would allow countries to 
+disregard certain rules for cultural and religious reasons. ”); ACLU Statement at the High Level Presentation of the 
+Nelson Mandela Rules UN General Assembly, New York, October 7, 2015 (“We also wish to specifically thank the 
+U.S. government for championing the Mandela Rules and making commitments to implement them at home and 
+abroad. ”), available at https://www.aclu.org/other/aclu-statement-high-level-presentation-nelson-mandela-rules ; 
+Dan Sicorsky, The Nelson Mandela Rules: Honoring a Prisoner Turned World Leader, DIPNOTE, U.S. Department 
+of State Official Blog, July 18, 2017, available at https://blogs.state.gov/stories/2017/07/18/en/nelson-mandela-
+rules-honoring-prisoner-turned-world-leader.
+16 United Nations Standard Minimum Rules for the Treatment of Prisoners (the Nelson Mandela Rules), General 
+Assembly resolution A/RES/70/175 (17 December 2015), available at https://undocs.org/A/RES/70/175.
+17 Numerous United Nations Rapporteurs have confirmed that the Mandela Rules are applicable at Guantanamo. 
+See, e.g., “It’s not just about closing Guantánamo, but also ensuring accountability, UN rights experts say,” United 
+Nations Office of the High Commissioner for Human Rights News, Geneva (26 February 2016) (“‘Any detainees 
+must be held under the conditions that respect international standards, ’ they stated, ‘including those under 
+international humanitarian law and the Mandela Rules—the Revised UN Standard Minimum Rules for the 
+Treatment of Prisoners (SMRs). ’ The experts: Mr. Ben Emmerson, UN Special Rapporteur on human rights and 
+counterterrorism; Mr. Juan E. Méndez, UN Special Rapporteur on torture and other cruel, inhuman or degrading 
+treatment or punishment; Ms. Mónica Pinto, UN Special Rapporteur on independence of the judiciary; Mr. 
+Seong-Phil Hong, Chair-Rapporteur of the UN Working Group on Arbitrary Detention; Ms. Houria Es-Slami, 
+Chair-Rapporteur of the Working Group on Enforced or Involuntary Disappearances; and Mr. Alfred De Zayas, 
+UN Independent Expert on the promotion of a democratic and equitable international order. ”), available at  
+https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=17097&LangID=E.
+18 Brief for the Center for Victims of Torture as Amicus Curiae at 7-10, Al Bihani et al. v. Trump, 09-cv-00745-
+RCL (D.D.C., January 24, 2018) (“CVT Guantanamo Amicus Brief”), available at https://www.cvt.org/sites/
+default/files/Final%20Amicus%20Brief-4.Jan%202018.pdf ; Physicians for Human Rights, Punishment 
+Before Justice: Indefinite Detention in the U.S. 2 (2011) (“Punishment Before Justice”), available at https://
+s3.amazonaws.com/PHR_Reports/indefinite-detention-june2011.pdf ; Physicians for Human Rights, Broken 
+Laws, Broken Lives: Medical Evidence of Torture by U.S. Personnel and Its Impact 75 (2008), available at http://
+physiciansforhumanrights.org/library/reports/broken-laws-torture-report-2008.html.DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo4919 Camp Delta Standard Operating Procedures, Joint Task Force—Guantanamo (JTF-GTMO), Guantanamo Bay, 
+Cuba, March 1, 2004 at 19.7, available at http://hrlibrary.umn.edu/OathBetrayed/sop_2004.pdf. It is unclear 
+whether this SOP remains in effect.
+20 Id. at 19.6.
+21 Emergency Motion for Preliminary Injunction for Proper Medical Treatment, Paracha v. Bush, No. 04-CV-2022 
+(D.D.C. Nov. 22, 2006) (affidavit of Zachary Katznelson).
+22 Dr. [REDACTED], Evaluation and opinion regarding Ghaleb Nasser Al-Bihani, April 8, 2014 at 3-4 (“Al-Bihani 
+PRB Eval. ”) available at https://www.prs.mil/Portals/60/Documents/ISN128/140408_ISN128_U_DETAINEE’S_
+WRITTEN_SUBMISSION_PUBLIC.pdf?ver=2014-07-03-120331-410.  
+23 Expert Report of Stephen N. Xenakis, MD, Dhiab v. Obama, Civ. No. 05-1457 (GK) (D.D.C. Sept. 15, 2014) (“Xenakis 
+Dhiab Eval. ”).
+24 See Mr. al-Tamir’s case study infra.
+25 US v. Hadi al-Iraqi, AE099OO, Attachment B (Decl. of Senior Medical Officer) at ¶ 9; US v. Hadi al-Iraqi, AE099SS, 
+Attachment B (Del. of Senior Medical Officer) at ¶ 8; US v. Hadi al-Iraqi, AE099QQ, Attachment B (Decl. of Senior 
+Medical Officer) at ¶ 9.
+26 US v. Hadi al-Iraqi, 13 Feb transcript at 1940-41, 1935.
+27 US v. Hadi al-Iraqi, AE099RR at 2-3.
+28 Decl. of Dr. Sondra S. Crosby in support of Petitioner Tariq Ba Odah’s Motion for Habeas Relief, Ba Odah v. 
+Obama, Civil Action No. 06-1668 (TFH) (D.D.C. June 22, 2015) (“Crosby Ba Odah Decl. ”) (“A trust-based doctor-
+patient relationship is of paramount importance for treatment and recovery. ”); Reply in Support of Petitioner’s 
+Emergency Motion for an Independent Medical Evaluation and Medical Records, Ex. 1, Supp. Decl. of Dr. 
+Jess Ghannam, dated Sept. 26, 2017, at ¶ 6, Al Hajj v. Trump, Case No. 09-cv-745 (RCL) (D.D.C. Sept. 27, 2017) 
+(“Ghannam Supp. Al Hajj Decl. ”) (“[T]rust in one’s doctor is a necessary precondition to being forthcoming with 
+information and consenting to care, which are in turn essential to making an accurate diagnosis and prognosis 
+and providing effective treatment. ”).
+29 Ghannam Supp. Al Hajj Decl., supra note 28, at ¶ 6.
+30 Dr. Ghannam’s experience—and that of other independent medical experts (including the International 
+Committee of the Red Cross)—is that “it is problematic, if not impossible, for the standard doctor-patient 
+relationship to develop at Guantanamo… ” Ghannam Supp. Al Hajj Decl., supra note 28, at ¶ 6; See also, e.g., Neil 
+A. Lewis, Red Cross Finds Detainee Abuse in Guantánamo, New York Times (Nov. 30, 2004), available at http://DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo50www.nytimes.com/2004/11/30/politics/30gitmo.html?pagewanted=1&_r=0 (“The [ICRC] report said that 
+such ‘apparent integration of access to medical care within the system of coercion’ meant that inmates were 
+not cooperating with doctors. Inmates learn from their interrogators that they have knowledge of their medical 
+histories and the result is that the prisoners no longer trust the doctors. ”).
+31 Senate Armed Services Committee, Inquiry Into the Treatment of Detainees in U.S. Custody (2008) at xx, xiii, 
+103-104, 132-145, available at https://www.armed-services.senate.gov/imo/media/doc/Detainee-Report-Final_
+April-22-2009.pdf  (“SASC Report”).
+32 See, e.g., id. at 38, 39; Physicians for Human Rights, Leave No Marks: Enhanced Interrogation Techniques and 
+the Risk of Criminality, August 1, 2007, available at https://phr.org/resources/leave-no-marks/; Report of The 
+Constitution Project Task Force on Detainee Treatment (2013) at Chapter 6: The Role of Medical Professionals 
+in Detention and Interrogation Operations, available at https://detaineetaskforce.org/pdf/Chapter-6_Role-of-
+Medical-Professionals.pdf.
+33 Id.
+34 Review of Department of Defense Detention Operations and Detainee Interrogations (“The Church Report”) 
+(March 7, 2005) at 140 (“The April 2003 GTMO Policy specified conditions for the use of these techniques, 
+including, ‘The detainee is medically and operationally evaluated as suitable (considering all techniques to be 
+used in combination’”); Detention Medical Interface with Behavioral Science Consultation Team at 1 (February 15, 
+2005) (“BSCT staff may check directly with Detention Medical clinical staff to confirm whether or not a detainee 
+is medically fit for interrogation activities. ”). 
+35 Assessment of Detainee Medical Operations for OEF, GTMO, and OIF at 18-2, Office of the Surgeon General 
+(April 15, 2005) (“Medics randomly observe interrogations and have the ability to halt an interrogation at any 
+point they deem necessary. ”).
+36 Detention Medical Interface with Behavioral Science Consultation Team at 1 (February 15, 2005) (“The Behavioral 
+Science Consultation Team (BSCT) is NOT part of the Joint Task Force Guantanamo (JTF-GTMO), Joint Medical 
+Group (JMG). They are a component of the Joint Interrogation Group (JIG) that supports the Interrogation Control 
+Element (ICE) and Joint Detention Operations Group (JDOG). ”).
+37 Sheri Fink, Where Even Nightmares Are Classified: Psychiatric Care at Guantanamo, NY Times, Nov. 12, 2016, 
+available at https://www.nytimes.com/2016/11/13/world/guantanamo-bay-doctors-abuse.html (“If you complain 
+about your weak point to a doctor, ” one former detainee explained, “they told that to the interrogators. ”).
+38 Al-Bihani PRB Eval., supra note 22.
+39 Dr. Emily Keram, Evaluation of Mohammed al Qahtani, June 5, 2016 (“al Qahtani PRB Eval. ”), available at https://DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo51www.prs.mil/Portals/60/Documents/ISN063/160606_U_ISN063_DETAINEE_SUBMISSION_PUBLIC2.pdf.
+40 Petitioner’s Motion for a Status Conference, Al Hajj v. Trump, Case No. 09-cv-745 (RCL) (D.D.C. October 26, 2018).
+41 Carol Rosenberg, For aging Guantanamo captives, a cardiac care lab, Miami Herald, Sept. 28, 2012, available at 
+https://www.miamiherald.com/news/nation-world/world/americas/guantanamo/article1943141.html.
+42 Respondent’s Opposition to Petitioner’s Motion to Reinstate His Habeas Petition and for Judgment on 
+the Record, Ba Odah v. Obama, Civil Action No. 06-1668 (TFH) (D.D.C. Aug. 14, 2015), Ex. 1, Declaration of 
+Commander [REDACTED] dated July 30, 2015 at ¶ 20, 16.
+43 Supplemental Decl. of Dr. Jess Ghannam in Further Support of Petitioner Tariq Ba Odah’s Motion for Habeas 
+Relief at ¶ 3, Ba Odah v. Obama, Civil Action No. 06-1668 (TFH) (D.D.C. Sept. 9, 2015).
+44 Id. at ¶ 15.
+45 Supplemental Decl. of Dr. Sondra S. Crosby in support of Petitioner Tariq Ba Odah’s Motion for Habeas Relief at 
+¶ 18, Ba Odah v. Obama, Civil Action No. 06-1668 (TFH) (D.D.C. Sept. 10, 2015) (“Crosby Supp. Ba Odah Decl. ”).
+46 Id. at ¶2.
+47 Supplemental Decl. of Dr. Rami Bailony in support of Petitioner Tariq Ba Odah’s Motion for Habeas Relief at ¶¶ 
+5-6, Ba Odah v. Obama, Civil Action No. 06-1668 (TFH) (D.D.C. Sept. 9, 2015).
+48 Petitioner’s Emergency Motion for an Independent Medical Evaluation and Medical Records, Al Hajj v. Trump,  
+Case No. 09-cv-745 (RCL) (D.D.C. Sept. 6, 2017), Ex. C, Decl. of Dr. Jess Ghannam, dated Aug. 29, 2017 (“Ghannam 
+Al Hajj Decl. ”) at ¶ 6; Al-Bihani PRB Eval., supra note 22, at 4; al Qahtani PRB Eval., supra note 39, at 9. 
+49 Al-Bihani PRB Eval., supra note 22, at 4.
+50 Vincent Iacopino, MD, PHD and Brigadier General (Ret) Stephen N. Xenakis, MD, Neglect of medical evidence of 
+torture in Guantánamo Bay: a case series, PLOS Medicine, April 26, 2011.
+51 CVT Guantanamo Amicus Brief, supra note 18, at 18 (citing Fink, supra note 37).
+52 Declaration of Dr. Sondra S. Crosby (Oct. 24, 2015) at ¶ 12, available at https://tbinternet.ohchr.org/Treaties/CAT/
+Shared%20Documents/USA/INT_CAT_ICS_USA_24558_O.pdf (“Crosby Al-Nashiri Decl. ”).
+53 Ghannam Supp. Al Hajj Decl., supra note 28, at ¶ 11; see also  The Health Insurance Portability and Accountability 
+Act of 1996, Public Law 104-91, 45 CFR § 164.524 (Access of Individuals to Protected Health Information); United 
+Nations Standard Minimum Rules for the Treatment of Prisoners (the Nelson Mandela Rules), General Assembly 
+resolution A/RES/70/175 (17 December 2015), Rules 9, 26, and 57, available at https://undocs.org/A/RES/70/175.DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo5254 Petitioner’s Emergency Motion for Medical Care, Attachment 2, Decl. of Sean M. Gleason dated August 21, 2013, 
+Alsawam v. Obama, Case No. 05-cv-1244 (CKK) (D.D.C. Aug. 21, 2013) (“Gleason Decl. ”).
+55 Government’s Opposition to Petitioner’s Emergency Motion for an Independent Medical Evaluation and Medical 
+Records at 2, Al Hajj v. Trump, Case No. 09-cv-745 (RCL) (D.D.C. Nov. 27, 2017).
+56 Dr. Jess Ghannam, evaluation of Mr. Mustafa Muhammad Abu Faraj al-Libi, March 12, 2016 (“Ghannam al-Libi 
+Eval. ”).
+57 See, e.g., Joe Margulies, Gina Haspel, Trump’s Pick for CIA Director, Ran the Prison Where My Client Was Tortured. 
+I Have Questions for Her, Time.com, March 14, 2018, available at http://time.com/5199408/abu-zubaydah-lawyer-
+gina-haspel/ (“Because of what he was made to endure, Abu Zubaydah suffers from frequent seizures, the 
+origin of which cannot be determined. He is tormented by sounds that others do not hear, and cannot remember 
+simple things that others cannot forget. Because his condition is classified, there is much about his welfare that 
+the United States will not let me say. They have authorized me to report, however, that I am “very concerned” 
+about his health. ”); Jessica Schulberg, Pentagon Accused Of Denying Medical Care To Torture Victim And Alleged 
+9/11 Plotter, Huffington Post, Feb. 11, 2016, available at https://www.huffpost.com/entry/mustafa-al-hawsawi-
+torture-guantanamo-medical-treatment_n_56bcec2de4b0c3c55050885a (“Further complicating al Hawsawi’s 
+medical treatment is the classification of much of his medical records. Navy Cmdr. Walter Ruiz, who represents 
+al Hawsawi, says that the records his team does get access to are incomplete, provided on a sixth-month delay 
+and are partially redacted. ”).
+58 Executive Order 13526 § 1.1.
+59 To the extent that classification of medical records is about identifying government personnel and the 
+government maintains that such redactions are necessary, it should not be difficult to redact those identifiers in 
+a timely fashion. 
+60 See, e.g., CVT Guantanamo Amicus Brief, supra note 18, at 7-10; Punishment Before Justice, supra note 18, at 2.
+61 See, e.g., Petitioner’s Notice of Filing of Expert Report of Dr. Sondra Crosby, MD, Dhiab v. Obama, Civ. No. 
+05-1457 (GK) (D.D.C. Sept. 9, 2014) (“In addition, based on my interview and review of the medical record, the 
+medical staff is not appropriately equipped to understand or treat the cultural aspects of Mr. Dhiab’s medical 
+condition, causing further alienation. ”); al Qahtani PRB Eval., supra note 39.
+62 CVT Guantanamo Amicus Brief, supra note 18, at 11-19 (citing CVT’s Director of Client Services, Dr. Andrea 
+Northwood). 
+63 See, e.g., case study of Nashwan al-Tamir, infra.
+64 Ghannam Al Hajj Decl., supra note 48, at ¶ 7.DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo5365 See, e.g., case study of Tarek El Sawah, infra.
+66 Xenakis Dhiab Eval., supra note 23.
+67 See, e.g., Letter from Sondra S. Crosby, MD and Brigadier General (Ret) Stephen N. Xenakis, MD, to Members of 
+the United States Senate, Nov. 19, 2013, available at https://constitutionproject.org/wp-content/uploads/2013/11/
+Crosby-Xenakis-Medical-Transfer-Letter.pdf (“Adnan Farhan Abdul Latif died at Guantanamo by alleged suicide 
+in September 2012, years after he had been cleared for transfer. Mr. Latif was seriously mentally ill and suffered 
+from traumatic brain injury. A report by U.S. Southern Command cited lapses in procedures as contributory to his 
+death, and depicts woefully substandard medical care. Mr. Latif required tertiary neuropsychiatric care that was 
+not available at Guantanamo, and it is possible he would be alive if he had had access to the proper care); see 
+also case studies of Nashwan al-Tamir and Tarek El Sawah, infra; CVT Guantanamo Amicus Brief, supra note 18, 
+at 7-10.
+68 Amended Petition for Habeas Corpus, al-Iraqi v. Trump, Case No. 17-cv-1928 (EGS) (D.D.C. Nov. 1, 2017) (“al-
+Tamir Amended Habeas”), Ex. G (Letter from Homer Venters, MD, MS and Vincent Iacopino, MD, PHD, to the 
+Honorable James N. Mattis, Secretary of Defense, September 8, 2017) (“Venters, Iacopino letter to SECDEF 
+Mattis”).
+69 Reply to Respondent’s Memorandum in Opposition to Petitioner’s Emergency Motion for Medical Care, 
+Attachment 5, Decl. of Sondra S. Crosby, MD, dated Sept. 3, 2013, at ¶ 10, Alsawam v. Obama, Case No. 05-cv-
+1244 (CKK) (D.D.C. Sept. 3, 2013) (“Crosby El Sawah Decl. ”).
+70 Xenakis Dhiab Eval., supra note 23, at 5.  
+71 Brigadier General (Ret) Stephen Xenakis, MD, and Vincent Iacopino, MD, PhD, Suffering Ex-Guantánamo 
+Detainees Deserve Medical Care and Support, PHR Blog, Oct. 13, 2016, available at https://phr.org/resources/
+suffering-ex-guantnamo-detainees-deserve-medical-care-and-support/.
+72 Carol Rosenberg, ‘Sodomized’ Guantánamo captive to undergo rectal surgery, Miami Herald, Oct. 11, 2016, 
+available at https://www.miamiherald.com/news/nation-world/world/americas/guantanamo/article107451907.
+html.
+73 Id.
+74 It seems that JTF-GTMO brings in outside specialists on a rotational basis, but they are military doctors (where 
+trust is an issue), they may or may not have expertise in an area of medicine for which a detainee requires 
+diagnosis or treatment, and they may not be on a rotational schedule that corresponds to timely medical care.
+75 Memorandum for CDR Patrick Flor, JAGC, USN, OCDC from Michael I. Quin, Legal Advisor to the Convening 
+Authority for Military Commissions, dated February 11, 2014.DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo5476 For example, Mr. Al Hajj filed a motion for an independent medical evaluation on September 6, 2017. As of June 
+2019, the Court has not yet ruled on the motion. See Petitioner’s Emergency Motion for an Independent Medical 
+Evaluation and Medical Records, Al Hajj v. Trump, Case No. 09-cv-745 (RCL) (D.D.C. Sept. 6, 2017).
+77 For additional details, see  case study of Nashwan al-Tamir, infra.
+78 Id.
+79 Crosby Al-Nashiri Decl., supra note 52, at ¶ 12.
+80 Venters, Iacopino letter to SECDEF Mattis, supra note 68.
+81 Unless otherwise noted, the information in Mr. al-Tamir’s case study is based on unclassified communications 
+between Mr. al-Tamir and his defense counsel and unclassified portions of Mr. al-Tamir’s medical records.
+82 Venters, Iacopino letter to SECDEF Mattis, supra note 68.
+83 al-Tamir Amended Habeas, supra note 68, at Ex. A (Letter from James C. Cobey, MD, MPH, FACS to counsel for 
+Mr. Al Hajj, September 5, 2017).
+84 US v. Hadi al-Iraqi, AE 131E at 80, available at https://www.mc.mil/Portals/0/pdfs/alIraqi/Al%20Iraqi%20
+(AE131E).pdf.
+85 Carol Rosenberg, Pentagon shipping jumbo cell to Guantánamo court for al-Qaida trial from hospital bed, 
+McClatchy, January 14, 2019, available at https://www.mcclatchydc.com/news/nation-world/national/national-
+security/guantanamo/article224302400.html.
+86 Ghannam Supp. Al Hajj Decl., supra note 28, at ¶3, ¶5. 
+87 Al Hajj v. Trump, Case No. 09-cv-745 (RCL) at 1-2, (D.D.C. May 23, 2011) (Memorandum Opinion).
+88 Id. at 2; see also  Human Rights Watch, Double Jeopardy, CIA Renditions to Jordan, April 7, 2008, available at 
+https://www.hrw.org/report/2008/04/07/double-jeopardy/cia-renditions-jordan.
+89 Petitioner’s Emergency Motion for an Independent Medical Evaluation and Medical Records, Al Hajj v. Trump, 
+Case No. 09-cv-745 (RCL) (D.D.C. Sept. 6, 2017).
+90 Id. at Ex. A, Declaration of Pardiss Kebriaei at ¶ 4.
+91 Government’s Opposition to Petitioner’s Emergency Motion for an Independent Medical Evaluation and Medical 
+Records at 2, Al Hajj v. Trump, Case No. 09-cv-745 (RCL) (D.D.C. Nov. 27, 2017).
+92 Ghannam Al Hajj Decl., supra note 48, at ¶ 3.DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo5593 Id.
+94 Id. at ¶ 6.
+95 Id. at ¶ 8 (Citing to case of Nashwan al-Tamir).
+96 Id. at ¶ 11.
+97 Petitioner’s Motion for a Status Conference, Al Hajj v. Trump, Case No. 09-cv-745 (RCL) (D.D.C. October 26, 2018).
+98 Crosby El Sawah Decl., supra note 69, at ¶ 2.
+99 Ben Fox, Some at Guantanamo jail too sick to keep locked up, Associated Press, October 10, 2013, available at 
+https://www.omaha.com/news/some-at-guantanamo-jail-too-sick-to-keep-locked-up/article_2f6e4916-336a-
+56b4-9a24-e8e913e15012.html.
+100 Matt Apuzzo, Sheri Fink and James Risen, How U.S. Torture Left a Legacy of Damaged Minds, New York Times, 
+Oct. 8, 2016, available at https://www.nytimes.com/2016/10/09/world/cia-torture-guantanamo-bay.html. 
+101 Crosby El Sawah Decl., supra note 69, at ¶ 15.
+102 Gleason Decl., supra note 54.
+103 Reply to Respondent’s Memorandum in Opposition to Petitioner’s Emergency Motion for Medical Care at 2, 
+Alsawam v. Obama, Case No. 05-cv-1244 (CKK) (D.D.C. Sept. 3, 2013) (“Petitioner’s Reply – El Sawah”).
+104 Id. at 10.
+105 It is not clear whether the government claimed that leg shackling had never been required, or if JTF had simply 
+reversed a recently instituted policy when Mr. El Sawah’s counsel raised concern with the JTF Commander the 
+day before filing the emergency motion. According to Dr. Xenakis, to the extent that leg shackling was required 
+Mr. El Sawah’s “medical conditions and daily functioning prohibit him from ambulating and conforming to the 
+requirement of shackling for transportation. These conditions are unrealistic and interfere with his receiving 
+appropriate medical testing and care. ” Petitioner’s Emergency Motion for Medical Care, Attachment 1, Decl. of 
+Stephen Xenakis dated August 21, 2013 at ¶ 5, Alsawam v. Obama, Case No. 05-cv-1244 (CKK) (D.D.C. Aug, 21, 
+2013) (“Xenakis el Sawah Decl. ”).
+106 Dr. Crosby disagrees: “Given his large size, arm shackles likely would interfere with his ability to ambulate, limit 
+his chest excursion, and exacerbate his symptoms. I would have to observe Mr. El Sawah in shackles to arrive at 
+a definitive opinion on this issue. ” Crosby El Sawah Decl., supra note 69, at ¶ 13.
+107 Petitioner’s Reply—El Sawah, supra note 103 at 7-8.DEPRIVATION AND DESPAIR: The Crisis of Medical Care at Guantánamo56108 Following Dr. Crosby’s September 3, 2013 declaration, Mr. El Sawah was visited by a pulmonologist (9/18/13), an 
+otolaryngologist (9/19/13), an internist (9/26/13), Behavioral Health (9/4/13), a cardiologist, and a nutritionist. He 
+had an arterial blood gas performed on September 13, 2013, and pulmonary function tests performed September 
+16, 2013.  
+109 Unless otherwise noted, the information below is sourced to the Crosby El Sawah Decl., supra note 69.
+110 Xenakis El Sawah Decl., supra note 105, at ¶ 5.
+111 Crosby Al-Nashiri Decl, supra note 52, at ¶¶ 12, 18.
+112 Senate Select Committee on Intelligence, Committee Study of the CIA’s Detention & Interrogation Program 
+(2014), at 66-73; In re Al-Nashiri, 835 F.3d 110 (D.C. Cir. 2016) (Tatel, J., dissenting).
+113 In re Al-Nashiri, 835 F.3d at 110.
+114 Crosby Al-Nashiri Decl. supra note 52, at ¶ 12.
+115 In re Al-Nashiri, 835 F.3d at 142.
+116 U.S. v. Abd Al Rahim Hussayn Muhammad Al Nashiri, Unofficial/Unauthenticated Tr. at 4238.
+117 Id. at 4237, 4226.
+118 Id. at 3842.
+119 Id. at 3745.
+120 Id. at 3842.
+121 Id. at 3830, 3831.
+122 Id. at 4229-31.
+123 Id. at 4244-45, 4214-15, 4259-62.
+124 Id. at 3745.
+125 Id. at 4214-15.HEADQUARTERS
+2356 University Ave, Suite 430
+Saint Paul, MN 55104
+WASHINGTON OFFICE
+1015 15th Street NW, Suite 600
+Washington, DC 20005
+www.cvt.org
+Deprivation and Despair:
+The Crisis of Medical Care at Guantánamo
+is a joint report produced by
+The Center for Victims of Torture and
+Physicians for Human Rights.
+HEADQUARTERS
+256 W 38th Street, 9th Floor
+New York, NY 10018
+WASHINGTON OFFICE
+1110 Vermont Avenue, NW, 5th Floor
+Washington, DC 20005
+www.phr.org

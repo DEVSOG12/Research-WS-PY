@@ -1,0 +1,998 @@
+34 35th Street, 4-2A, Brooklyn, New York 11232       vera.org
+Introduction
+On any given night in the United States, more than 550,000 people are experiencing homelessness.1 Among 
+these, approximately 96,000 are chronically homeless, meaning they are facing long and repeated episodes 
+of homelessness that make it increasingly difficult to return to housing.2 This crisis is perpetuated by a legal 
+system that criminalizes survival behaviors associated with homelessness, fails to account for the ways in 
+which people who are homeless face impossible odds within the legal process, and then releases them back 
+into the community with even more obstacles than they faced before.3 Confirming this cycle, researchers 
+have found that homelessness is between 7.5 and 11.3 times more prevalent among the jail population, and 
+in some places the rate is much higher—for example, in San Francisco, California, a 2013 survey found that 
+between 10 and 24 percent of people in jail identified as homeless at the time of arrest.4
+Because of punitive laws and enforcement practices, people who are homeless are 11 times more likely to 
+be arrested, nationwide, than those who are housed.5 Local policies that lead to this overrepresentation of 
+homeless people in the criminal justice system include
+ ›overenforcement of homeless communities through move-along orders, sweeps, and confiscation 
+of property;
+ ›criminalization of unavoidable aspects of homelessness through laws prohibiting loitering, 
+vagrancy, and sitting or sleeping in public places; and
+ ›restrictions on soliciting or receiving help.6
+Once caught in the criminal justice system, people experiencing homelessness are disadvantaged at every 
+stage of the legal process. This report highlights the ways in which people experiencing homelessness are 
+vulnerable within the system and summarizes research on how homelessness leads to negative outcomes 
+at each justice system decision point. These studies and reports
+ ›illuminate the many barriers people who are homeless must navigate to appear in court;
+ ›show how low-level citations can quickly turn into warrants and arrests;No Access to Justice: Breaking the  
+Cycle of Homelessness and Jail
+Madeline Bailey, Erica Crew, and Madz ReeveAugust 2020 
+Evidence Brief
+Public policy—including decisions related to criminal justice and 
+immigration—has far-reaching consequences that are too often 
+swayed by political rhetoric and unfounded assumptions. The Vera 
+Institute of Justice has created a series of briefing papers to provide an 
+accessible summary of the latest evidence concerning justice-related topics. By summarizing and synthesizing existing research, identifying 
+landmark studies and key resources and, in some cases, providing 
+original analysis of data, these briefs offer a balanced and nuanced 
+examination of some of the significant justice issues of our time.About these briefs2 ›emphasize how lack of housing results in heightened vulnerability to pretrial incarceration and 
+conviction; and
+ ›demonstrate the impossibility of fulfilling conditions of probation and release while 
+experiencing homelessness.
+ 
+Further, after release from jail or prison, a person’s prior criminal justice system involvement creates even 
+more barriers to overcoming homelessness. People reentering the community after incarceration must 
+navigate the challenges of finding viable housing or shelter space with a criminal conviction, while simul -
+taneously facing increased restrictions on employment eligibility for the same reason.7
+Without legal and policy changes, the cycle of homelessness and jail will persist. This cycle will deepen 
+already existing racial disparities within the criminal legal system, as a number of studies have established 
+that Black and Native populations are more likely to experience homelessness and extreme poverty.8 
+Strikingly, research has shown that Black people make up more than 40 percent of the unhoused popula-
+tion, despite constituting only 13 percent of the general population.9 The cycle of homelessness and jail will 
+also threaten the health and safety of entire communities, as people experiencing homelessness flow into 
+often dangerous jail conditions over low-level citations and back into the community soon after without 
+ready access to safe housing, medical care, and employment options.10
+The evidence establishing the link between homelessness and incarceration demands further research 
+and highlights the urgent need for alternative approaches. This brief concludes by offering strategies for 
+breaking the cycle of homelessness and jail, including
+ ›eliminating harmful city ordinances that target elements of homelessness;
+ ›halting the issuance of warrants for quality-of-life offenses;
+ ›forgiving legal fines and fees for people experiencing homelessness; 
+ ›reforming probation and parole procedures to support people without stable housing; and
+ ›addressing housing and employment restrictions for justice-involved people.
+Especially in a year when the United States is weathering an unprecedented public health crisis, it is more 
+important than ever to examine the systems that make communities most vulnerable and to implement 
+alternatives that prioritize safety, health, and justice for all.11
+How homelessness leads to criminal justice system involvement
+In response to the growth of homelessness in the 1980s, cities across the United States began enacting 
+laws and policies intended to discourage people experiencing homelessness from settling in public spaces.12 
+These policies attach civil and criminal penalties to a wide range of essential behaviors associated with 
+homelessness, including sitting and sleeping outside.13 Since 2006, researchers have documented a marked 
+increase in the passage and enforcement of policies that target and criminalize homelessness.14 
+As a result of these policies and enforcement patterns, people experiencing homelessness are steadily 
+drawn into the criminal legal system and exposed to higher rates of arrest and incarceration than people 
+with stable housing.15 Indeed, there is a starkly disproportionate number of people in local jails and prisons 
+who were experiencing homelessness prior to their incarceration. 3Overpolicing of homeless communities
+Researchers have detailed how pervasive policing practices targeting homeless populations have created an 
+environment in which people experiencing homelessness face constant threat of citation and arrest.16 These 
+practices often include frequent forced evictions and orders to move along from public spaces, and their 
+impact is far-reaching. One survey of more than 400 people experiencing homelessness in Denver, Colorado, 
+found that 57 percent of respondents reported being approached by law enforcement at least once for camp-
+ing outside, with more than 80 percent being subsequently forced to move.17 Another study of more than 350 
+people experiencing homelessness in San Francisco found that 70 percent of participants had been forced to 
+move by a city official within the past year, with 20 percent being forced to move on a weekly basis.18 These 
+disruptive policing practices continue to drive the cycle of homelessness and jail. 
+ ›Sweeps and destruction of property. Many cities routinely disrupt and disperse homeless 
+communities through forced evictions, or “sweeps.”19 These sweeps, typically performed by law 
+enforcement officials or sanitation workers, are designed to eliminate and deter unauthorized 
+homeless encampments through the destruction and seizure of personal belongings in a given 
+area, regardless of their value or importance.20 Sensitive documents, such as state identification 
+cards, Social Security cards, and birth certificates are often destroyed as part of this practice, along 
+with vital prescription medications, family photographs, and other heirlooms.21 The loss of these 
+items can cause harmful health consequences, exacerbate emotional distress, and make it nearly 
+impossible for people experiencing homelessness to access important public benefits.22 Sweeps 
+often occur without any notice given to residents and without any instructions provided regarding 
+safe alternative shelter. Legal advocates across the country have sued localities for operating sweeps 
+of homeless communities, arguing that unauthorized searches and seizures of temporary tents 
+and shelters violate the same constitutional right to privacy that is granted to homes with walls 
+and lockable doors.23 Although some courts have agreed with this principle, sweeps and forced 
+evictions are still employed by many localities.24 
+ ›Move-along orders. Stopping just short of forced eviction, some cities authorize police-issued 
+“move-along orders,” in which people experiencing homelessness are ordered to disperse or 
+vacate a given area under implicit threat of citation or arrest.25 Such orders are typically informal, 
+meaning they are not documented or tracked, making it difficult for advocates to challenge this 
+practice.26 The “invisible” nature of move-along orders demonstrates the pervasive environment 
+of enforcement that people experiencing homelessness encounter, even before facing the criminal 
+legal system on the record.27
+Importantly, research has shown that Black people, who already face disproportionate risk of homelessness, 
+are exposed to even further disproportionate levels of policing after becoming homeless.28 A survey of 
+people identifying as homeless in San Francisco, found that 62 percent of Black participants reported being 
+searched by police while experiencing homelessness and 76 percent reported receiving citations, compared 
+to 52 percent of white participants who reported being searched by police and 66 percent who reported 
+receiving citations.294Punishment of unavoidable aspects of homelessness
+Most U.S. cities have municipal codes that punish unavoidable aspects of homelessness, with city officials 
+relying on criminalizing laws to promote a “zero-tolerance” approach to homelessness.30 These “quali-
+ty-of-life” ordinances regulate low-level conduct associated with survival behavior.31 Scholars and advocates 
+have broadly challenged the legitimacy of quality-of-life laws, arguing that their effects—far from improv -
+ing the quality of life for those who fall within their purview—are harmful and unfair for populations 
+experiencing homelessness.32 Despite successful legal challenges in some parts of the country, countless 
+criminalizing policies remain in effect, and their prevalence continues to rise.33 
+ ›Sleeping or camping outside. Without the availability of sufficient affordable housing or safe 
+shelter space, many people are left without any reasonable alternative to sleeping outside.34 
+However, localities with camping bans criminalize the act of sheltering in a public place using a tent 
+or other temporary structure, with some places going so far as to prohibit the use of any supplies, 
+including a blanket, as protection from the elements while resting outside.35 In Denver a camping 
+ban passed in 2012 made it illegal for people to use “any form of cover or protection from the 
+elements other than clothing,” leading to people receiving tickets for using backpacks as pillows, 
+sitting on cardboard, or using blankets for warmth.36 Even broader bans on sleeping outside are 
+similarly enforced, with some localities banning anyone from sleeping (or making preparations to 
+sleep) on a public street or sidewalk at any time of day.37 In theory, many of these laws could be read 
+to prohibit a wide variety of common behaviors, such as using an umbrella, but in practice, they are 
+typically enforced only against people who are homeless.   
+ ›Loitering and vagrancy. Bans on loitering, vagrancy, and “loafing” are common in U.S. cities.38 
+Because such conduct is broadly and vaguely defined, these policies give law enforcement officials 
+wide discretion to ticket or search people who appear visibly homeless or poor in public spaces.39 A 
+2019 National Law Center on Homelessness and Poverty survey of 187 U.S. cities found that 35 percent 
+had laws prohibiting loitering, loafing, and/or vagrancy citywide and that 60 percent had similar bans 
+in specific public places, such as near closed businesses, in parking lots, or on traffic medians.40 
+ ›Asking for help. People experiencing homelessness also face broad limitations on how they can 
+ask for and receive help. These laws place restrictions on making requests for money—and in some 
+places, for “anything of value,” including transportation or food—in public.41 These laws also vary in 
+terms of where people can request help. Some cities have enacted bans on begging or panhandling 
+citywide, whereas others prohibit such requests only in commercial districts or within a certain 
+distance from ATMs, parking meters, banks, or bus stops.42 Fearing legal challenges arising from the 
+First Amendment right to freedom of speech, many localities have recast these restrictions as laws 
+prohibiting only “aggressive panhandling,” even as the defining text within the laws still encompasses 
+nonaggressive or harmless conduct.43 For example, in Lafayette, Louisiana, it is considered 
+“aggressive begging” to ask for money within arm’s length of another person or when speaking at 
+an “unreasonably loud” volume.44 Some localities go so far as to criminalize acts of helping people 
+experiencing homelessness, such as laws making it illegal to give away food in public.455People experiencing homelessness are especially 
+vulnerable to the COVID-19 pandemic that is 
+threatening worldwide health and safety. This 
+heightened danger is due in part to the likelihood 
+that people experiencing homelessness will be at 
+high risk for severe cases of COVID-19 because 
+of their increased probability of having chronic 
+health conditions, higher average age, and 
+exposure to unsanitary and unprotected living 
+conditions.a Further, their vulnerability to COVID-19 
+is exacerbated by their increased susceptibility to 
+law enforcement contact, arrest, and incarceration 
+in crowded and dangerous jails.b 
+Despite the dangers posed by the pandemic, law 
+enforcement officials continue to forcefully evict 
+people experiencing homelessness from public 
+spaces.c Advocates and health experts have noted 
+that homeless populations have few options, 
+arguing that it may be safer for people experiencing 
+homelessness during the pandemic to remain in 
+private tents as opposed to mass shelter facilities 
+where infection rates are high.d In fact, cities such 
+as San Jose, California, have issued moratoriums on 
+sweeps and destruction of camps due to the risk of 
+contagion that homeless shelters present.e 
+Police in some places are also continuing to arrest 
+people experiencing homelessness for minor quality-
+of-life offenses, despite the increased health dangers 
+within jails. A review conducted in Miami-Dade 
+County, Florida, revealed that, from March 12, 2020 
+(the day that a countywide state of emergency was 
+declared) to April 30, 2020, local police arrested 
+people experiencing homelessness for minor violations a total of 313 times and detained 62 
+people experiencing homelessness over outstanding 
+warrants.f As of April 30, 2020, reports found that 
+more than 300 people in Miami-Dade County jail 
+facilities had tested positive for COVID-19.g
+People experiencing homelessness have also been 
+arrested and incarcerated for violating stay-at-home 
+orders, social distancing rules, and self-quarantine 
+protocols, even without reasonable alternatives 
+for shelter and isolation. A man experiencing 
+homelessness in Louisville, Kentucky, was arrested 
+and taken into custody when he returned to a 
+homeless shelter after receiving a positive diagnosis 
+for COVID-19—despite not having any reasonable 
+alternative for shelter.h In Orlando, Florida, a man 
+experiencing homelessness was arrested for walking 
+down the street with his bicycle after a countywide 
+curfew was issued. Instead of helping him find safe 
+shelter, law enforcement officials arrested him and 
+booked him into the county jail.i
+Further, the COVID-19 pandemic presents unique 
+dangers for people who are released from jail or 
+prison without safe options for housing. Some 
+localities, recognizing the dangers posed by 
+homeless shelters, have attempted to lease hotel 
+rooms for people without housing during the 
+pandemic.j Other advocacy organizations are 
+working with public housing authorities to adjust 
+their admissions and guest policies to allow people 
+with certain conviction histories to join their 
+family members in public housing if their criminal 
+histories would otherwise bar them from staying 
+for several years.k People experiencing homelessness and the COVID-19 pandemic
+a National Law Center on Homelessness and Poverty (NLCHP), 
+COVID-19 Statement and Recommendations (Washington, DC: 
+NLCHP , 2020), https://perma.cc/A9V2-TCMX.
+b Equal Justice Initiative, “COVID-19’s Impact on People in Prison,” 
+https://perma.cc/S3Y5-74UC.
+c See Dae Shik Kim Jr. and Guy Oron, “Seattle Destroyed Homeless 
+Encampments as the Pandemic Raged,” The Nation, April 2, 2020, 
+https://www.thenation.com/article/society/seattle-homeless-
+sweeps-coronavirus/; and Conrad Swanson, “Denver Sweeps 
+Homeless Camps Despite CDC Advice,” Denver Post, April 30, 
+2020, https://perma.cc/4553-W66E.
+d NLCHP , COVID-19 Statement and Recommendations, 2020.
+e Ibid.f Jerry Iannelli, “Despite Coronavirus Warnings, Miami Area Police 
+are Still Arresting Hundreds of Homeless People,” The Appeal, May 7 , 
+2020, https://perma.cc/A4X5-C3XS.
+g Ibid.
+h “Louisville Homeless Man Arrested After Police Say He Failed to Self-
+Quarantine After COVID-19 Diagnosis,” WDRB.com, April 24, 2020, 
+https://perma.cc/9F37-DZ7D.
+i Tess Sheets, “Orlando Police Arrest Homeless Man Who Violated 
+Curfew, Affidavit Says,” Orlando Sentinel, March 23, 2020, https://
+www.orlandosentinel.com/news/crime/os-ne-coronavirus-alexander-
+glover-curfew-arrest-opd-20200323-bfwvx6a5wnd23l2rjf6jf5aaaq-
+story.html.6How people experiencing homelessness are disadvantaged within 
+local criminal legal systems
+After the criminal legal process is initiated, people experiencing homelessness face new obstacles at every 
+justice system decision point. Local criminal legal processes are not designed to accommodate people 
+without housing, and as a result, create more opportunities for people experiencing homelessness to be 
+penalized at every stage. Advocates and researchers have documented the challenges described below, 
+suggesting that each barrier plays a role in perpetuating the growth of homeless populations within the 
+criminal legal system.
+Barriers to appearing for court dates
+People experiencing homelessness are often required to navigate the challenges of getting to court after 
+being cited for minor violations. Someone who is issued a civil citation under a city ordinance typically has 
+a choice between paying the associated fine or entering a plea of not guilty.46 Because most people expe-
+riencing homelessness cannot pay even relatively low fines and fees, they are forced to decipher complex 
+rules to remain compliant with the court.47 For instance, most jurisdictions require a court appearance to 
+challenge a civil citation, though some offer the option to enter a not guilty plea by mail.48 When someone 
+is issued a criminal citation for a misdemeanor offense, that person must almost always appear in court.49 
+For most people experiencing homelessness, these options are unrealistic.
+Numerous reports by homeless advocacy organizations point to the unique difficulties faced by people experi-
+encing homelessness in contesting citations and appearing for court. First, without access to a computer or the 
+Internet, it can be challenging to find basic case information such as how to pay the citation or the date of the 
+scheduled court appearance.50 Even in jurisdictions that mail out court date notifications, people without stable 
+addresses do not have a reliable place to receive them with enough notice to make a timely appearance.51
+Moreover, citations that carry a civil penalty do not trigger the right to counsel.52 In many jurisdictions, 
+this is also true of misdemeanor cases that do not carry a risk of jail time.53 This means that when someone 
+experiencing homelessness is charged with conduct falling under these categories, they are not appointed a 
+public defender or other counsel to help them navigate the legal system. Some people experiencing home-
+lessness in this position may mistakenly believe that, if they appear in court and are unable to pay the fine 
+associated with their citation, they will be arrested.54 Without an attorney to clarify what will happen at 
+each stage of the case, people might make the decision to avoid coming to court over fear of incarceration— 
+a decision that can not only end up harming their case but also result in warrants and incarceration when 
+they might have originally left with their fine reduced or eliminated.55j Doug Smith and Benjamin Oreskes, “California Leased 15,000 
+Hotel Rooms to Help Homeless People, Half Now Sit Empty,” Los 
+Angeles Times, May 19, 2020, https://www.latimes.com/homeless-
+housing/story/2020-05-19/newsom-coronavirus-homeless-
+population-hotel-project-roomkey. k Shriver Center on Poverty Law, Federally-Subsidized Housing for 
+People with Conviction Records During COVID-19 (Chicago, IL: 
+Shriver Center on Poverty Law, 2020), https://perma.cc/57Y6-67SK.7Even when people experiencing homelessness do receive notice of their court dates, they still face many 
+barriers to appearing in court. If there is no public transportation, they may be unable to reach the court-
+house on time—or at all. Smaller towns and rural areas may not have bus routes that serve people living 
+far from the courthouse. Even in areas with robust public transportation options, people experiencing 
+homelessness may not have money to pay the required fare for a trip to the courthouse.56 It can also be 
+challenging to safely hold on to sensitive documents while living outside or in a shelter—these might 
+include citation paperwork, court date information, and other documents that make it easier to find the 
+correct building and courtroom and navigate proceedings.57
+Low-level citations turn into warrants and arrests
+Although most civil citations do not carry the possibility of jail time, failing to either pay the citation or 
+appear in court to challenge it can quickly result in a cascade of other penalties. Some jurisdictions assess 
+additional fines for failure to pay an initial citation.58 More significantly, a judge may issue a bench warrant 
+after a failure to appear in court, which allows law enforcement to make an arrest if they encounter the 
+person during a stop, while conducting a move-along order, or when issuing a future citation.59 
+As a result, citations for low-level quality-of-life offenses associated with homelessness—such as sitting 
+or camping outside, public urination, or loitering—often indirectly result in arrest and jail time for people 
+experiencing homelessness. One study involving 250 people experiencing homelessness in San Francisco 
+found that 26 percent of those surveyed had been arrested (or seen others arrested) for sleeping in public; 
+26 percent had themselves been arrested for loitering, 24 percent for sitting or lying down, and 25 percent 
+for panhandling.60 Similarly, an analysis of court records from 2015 to 2018 in Austin, Texas, revealed that, 
+out of 10,529 citations issued for sitting or lying down, camping, or panhandling in public, 6,181 (nearly 60 
+percent) resulted in the issuance of a bench warrant.61
+Research confirms the long-term destabilizing effect that the issuance of citations has for populations 
+experiencing homelessness. A 2019 study of adults experiencing homelessness in Seattle, Washington, 
+found that having any amount of legal debt was correlated with longer episodes of homelessness. Of 101 
+adults surveyed, more than 25 percent reported owing outstanding legal fines, such as fines resulting from 
+citations, court fees, and restitution.62 Compared to survey participants who did not report outstanding 
+legal debt, people with legal debt experienced nearly two additional years of homelessness, after consider-
+ing the effects of race, age, and gender.63
+Likelihood of pretrial incarceration
+Once arrested, either as a result of a bench warrant issued for an unpaid citation or for a separate suspected 
+offense, people who are homeless face new obstacles when they go before a judge who will decide whether 
+to detain or release them. Judges have broad discretion in deciding whom to detain or release pretrial, and 
+under what conditions, although they often exercise that discretion while giving the prosecutor’s recom -
+mendations significant weight.64 For example, research conducted in New Y ork found that the prosecutor’s 
+bail recommendation was the strongest predictor of judicial determinations of release, bail, and bail 
+amount.65 Prosecutors may choose to advocate for higher bail for people without a residential address, 
+traditional family support, or stable employment, under the argument that the absence of these ties lessens 
+the likelihood that they will return to court when ordered. 8Further, people experiencing homelessness are more likely to have a prior criminal history resulting 
+from overenforcement practices and quality-of-life policing—which can also negatively affect bail and 
+release recommendations.66 Significantly, Black people experiencing homelessness face even further 
+compounded obstacles in obtaining pretrial release. Researchers have found that Black people are 
+more likely than similarly situated white people to be detained without bail or subjected to higher bail 
+amounts based on judicial perceptions of risk—which in turn may be affected by racialized bias either 
+from the judge or prior overpolicing.67
+Even when bail is set at a very low amount, most people experiencing homelessness are unlikely to be able 
+to pay even a small sum to secure their release. According to a 2008 study of New Y ork City cases in which 
+bail was set at $1,000 or less, 87 percent of people were still unable to post bail.68 The average length of 
+pretrial detention in those cases was 15.7 days.69
+Although a better outcome for minor quality-of-life violations might be to release people facing charges on 
+their own recognizance, even under those circumstances, it is possible that someone will remain in jail if 
+they were experiencing homelessness before their arrest.70 If there is no cash bail set, release is still often 
+based on a person’s willingness and ability to comply with additional conditions set by the court, including 
+that they provide a physical address where the courts may reliably contact them or appear for all hearings 
+or appointments.71 People who do not have a fixed address or reliable means of transportation often cannot 
+meet those conditions of release and must remain in jail. Similarly, people experiencing homelessness may 
+be foreclosed from diversion or alternative sentencing options that do not include jail time due to their 
+inability to meet similar standard conditions.72
+More research is needed on the impact of homelessness on bail decisions and the mechanics of pretrial 
+release when people have no stable address. Researchers have noted that courts often do not track the 
+housing status of people coming through the jail, making it difficult to grasp the true numbers of people 
+who are incarcerated pretrial on the basis of homelessness.73
+Vulnerability to conviction and longer sentences
+For people experiencing homelessness who are detained pretrial, the fact of their detention exposes them to 
+additional risks. Research has established that people who are incarcerated pretrial for longer periods face 
+worse case outcomes, including a higher likelihood of conviction than people who are released within a few 
+days of their bail hearing.74 For example, a 2016 study from Harris County, Texas, analyzed nearly 381,000 
+misdemeanor cases and found that people who were unable to pay bail within seven days of their bail hear-
+ings were 25 percent more likely to be convicted than those who paid bail immediately and were released.75
+To explain these findings, researchers have pointed to the pressures faced by people incarcerated pretrial to 
+plead guilty and end the ordeal of detention.76 Notably, the same Harris County study also found that there 
+were higher guilty plea rates among people who were incarcerated pretrial, as opposed to those who were 
+able to secure their release.77 Other explanations for increased vulnerability to conviction include limited 
+access to defense counsel while incarcerated, as well as limited resources to devote to their cases. 
+Research also confirms that people who are incarcerated pretrial receive harsher sentences than similarly 
+situated people who are released.78 People who are detained are largely unable to enroll in programs or 9services that could be seen as mitigating during sentencing, such as vocational training programs or 
+treatment for addiction or mental illness. Further, people detained pretrial who have experienced chronic 
+homelessness may be especially vulnerable to longer sentences, due to their increased likelihood of having 
+a criminal history.79 The most vulnerable of these are Black people, who are more likely to have had fre-
+quent and repeated contact with police.80 
+Burdensome conditions of probation and parole
+Research has broadly established the enormous challenges that people experiencing homelessness face 
+on probation and parole.81 Burdensome conditions of supervision present unique obstacles for people 
+experiencing homelessness, and researchers have documented the negative impact of these conditions on a 
+person’s ability to achieve economic stability.82
+High supervision fees and additional costs associated with certain supervision conditions force people 
+experiencing homelessness to direct their limited financial resources away from housing. Fees for required 
+drug and alcohol treatment, restitution payments, drug testing costs, electronic monitoring fees, and other 
+standard supervision costs can quickly add up to amounts that are impossible for people who are experi-
+encing homeless and poverty to reasonably pay.83 A 2009 survey of 48 people who were homeless and on 
+parole in Denver found that 29 percent had restitution payments ranging from $20 to $388 per month. 
+Seventy-one percent of interviewees were unemployed, and the 29 percent who were employed made an 
+average of just $440 per month.84
+Violations of other standard conditions of parole and probation are simply unavoidable for people experienc-
+ing homelessness. People who are living outside cannot obey curfew restrictions, and those who have limited 
+options for safe places to sleep often find requirements for avoiding particular parts of town or public places 
+challenging to navigate.85 For people who have been ordered to wear an electronic monitoring device, it can 
+be challenging to find reliable places to charge the device.86 Moreover, reporting requirements can present 
+significant challenges for people experiencing homelessness who cannot easily obtain transportation.87 
+Many jurisdictions also impose a standard condition against associating with other people who have been 
+convicted of felonies, which can make it difficult to join encampments or communities of other people 
+experiencing homelessness.88 These same restrictions can also prohibit people from living with family 
+members who have criminal histories, often eliminating a person’s only safe and affordable option for 
+living indoors. Further, because Black and Latinx people face higher rates of arrest and incarceration than 
+white people, they suffer disproportionate consequences over these release conditions.89 
+How criminal legal system involvement leads back to homelessness
+Numerous studies have demonstrated the link between people returning to the community from jails 
+and prisons and high rates of homelessness.90 Indeed, a 2018 study analyzing Bureau of Justice Statistics 
+survey data revealed that formerly incarcerated people were nearly 10 times more likely to experience 
+homelessness than the general public.91 As described below, it is becoming increasingly clear that justice 
+system involvement triggers a significant set of barriers that dramatically increase the likelihood of 
+homelessness on release. 10Barriers to housing and employment
+On release from jail or prison, people face new obstacles to securing safe and stable housing. With lengthy 
+waiting lists and limited bed space in halfway houses with supportive programming, people who are newly 
+released from jail or prison must often rely on short-term halfway houses or homeless shelters or live 
+outside.92 Federally subsidized public housing is not widely available due to scarcity of housing stock, and 
+local public housing administrators have wide discretion to screen out applicants with prior criminal legal 
+system involvement.93 Moreover, private property owners also regularly conduct criminal background checks 
+and formally or informally bar applicants with criminal histories from living in private rental housing.94 
+The cycle of homelessness and jail
+Overenforcement and 
+criminalization of homelessness 
+exposes people living outside to 
+frequent police contact and 
+citations for low-level charges.Warrants and arrests are 
+quickly triggered by unpaid 
+ﬁnes and missed court dates.
+Increased obstacles and 
+restrictions on release from jail 
+make it even harder to ﬁnd safe 
+housing, employment, and overall 
+stability—leaving many 
+recently released people with 
+no realistic options for 
+avoiding homelessness.Longer periods in jail result from 
+the higher likelihood of pretrial 
+incarceration, vulnerability to 
+harsher sentencing, and challenges 
+of navigating probation terms.11People coming out of jails and prisons, especially those reentering into homelessness, also face broad restric-
+tions on their employment eligibility. Many employers disqualify applicants based on their criminal histories, 
+and businesses without a blanket policy may still discourage applicants with justice system involvement to 
+apply by requiring them to disclose their background with the criminal legal system.95 Further, without access 
+to reliable transportation, adequate clothing, or identification documents, people who have been recently 
+released from jail or prison are unlikely to successfully navigate the job search process.96
+Barriers to health and safety on release
+Researchers have also noted other less direct triggers of homelessness that often apply to people released 
+from jail or prison. For instance, people who are incarcerated are disproportionately affected by a diverse 
+range of health problems extending years beyond release, a reality that further complicates the search for 
+both housing and employment.97 Similarly, researchers have found that mental illness is more prevalent 
+among people who are incarcerated as compared to the rest of the population, and mental illness has also 
+been established as a risk factor for homelessness.98 Indeed, without consistent access to medications or 
+treatment while in jail or linkages or referrals to community-based services on release, people with mental 
+and physical illnesses face compounding barriers to navigating the bureaucracies associated with obtaining 
+necessary social services.
+Breaking the cycle of homelessness and jail
+Without significant policy change from within local justice systems, the cycle of homelessness and jail will 
+continue to harm people experiencing poverty, as well as threaten the health and safety of entire communities. 
+(See “People experiencing homelessness and the COVID-19 pandemic” on page 5.) It will also deepen racial 
+disparities within the criminal justice system, as studies have shown that Black and Latinx people are more 
+vulnerable to experiencing homelessness due to years of discrimination and economic inopportunity.99
+The most humane way to stop the cycle of homelessness and jail is to provide safe and stable housing 
+for all. However, as some jurisdictions are starting to recognize the urgency of stopping this cycle, local 
+justice system stakeholders have begun implementing promising solutions. Not only will small solutions 
+offer people experiencing homelessness a way to avoid the devastating consequences of the criminal legal 
+system, they will also allow communities to free up system resources for other purposes.
+ ›Eliminate harmful city ordinances criminalizing quality-of-life offenses. Localities should review 
+and eliminate any ordinances that criminalize unavoidable behavior associated with homelessness, 
+such as sleeping or camping outside, loitering, and begging. Criminalization measures do nothing to 
+alleviate homelessness and instead perpetuate the cycle of homelessness and incarceration.100 In places 
+where state and local lawmakers are unsupportive, criminalization ordinances have been successfully 
+challenged through litigation. In 2018, the U.S. Court of Appeals for the Ninth Circuit ruled that 
+governments may not enforce bans on camping in public when there are not enough shelter beds to 
+accommodate every person experiencing homelessness within their jurisdiction.101  
+ ›Stop the issuance of warrants for unpaid fines. Local courts should halt the practice of issuing 
+arrest warrants for failure to pay fines associated with quality-of-life offenses. Even a short period 
+of incarceration can have devastating consequences for someone experiencing homelessness, and 12researchers have concluded that even the threat of jail time does nothing to deter unavoidable 
+violations of quality-of-life ordinances.102 Public defender offices and courts in several jurisdictions 
+have implemented regular “warrant outreach events,” during which lawyers or court staff hold open 
+hours at shelters or community centers that are near people experiencing homelessness.103 At these 
+events, people experiencing homelessness can work with staff to see if they have outstanding fees 
+or warrants and take action with a public defender toward resolving them without fear of arrest. 
+These events, although helpful on the back end, do not solve the problem of warrants being issued 
+in the first place. However, they provide a valuable service to people who would otherwise find out 
+about outstanding warrants from an arresting officer. 
+ ›Create avenues for forgiveness of fines, fees, and legal debt arising from offenses associated 
+with homelessness. Jurisdictions should take steps to halt the collection of fines, fees, and legal 
+debt arising from violation of quality-of-life offenses and provide opportunities for the cancellation 
+of prior legal debts.104 In San Francisco in 2016, a judge issued an order broadly absolving warrants 
+and legal debt for certain quality-of-life offenses associated with homelessness, and in New Y ork 
+City in 2017, prosecutors requested dismissal for hundreds of thousands of bench warrants that 
+had been issued over a decade.105 In 2019, the Los Angeles police chief called for an initiative to 
+cancel all pending citations and associated debt for minor pedestrian, quality-of-life, and moving 
+violations—however, the city has been criticized for failing to halt the issuance of many new 
+citations that will trigger fines and fees.106 
+ ›Reform probation and parole to better support people without housing. Probation and parole 
+departments should take steps to ensure that supervision conditions do not create unnecessary 
+burdens or create disproportionate risk of violation and revocation for people experiencing 
+homelessness. Departments should work to implement creative solutions to better meet the needs 
+of homeless communities on probation and parole, including installing kiosks at convenient 
+locations where people experiencing homelessness can report without major expense or disruption; 
+waiving supervision fees for people experiencing homelessness who do not have sufficient income; 
+and imposing realistic and individualized requirements for common conditions, such as curfew, 
+avoiding certain areas of town, and not associating with people with felony convictions.107 
+ ›Address housing and employment restrictions for justice-involved people. From within the justice 
+system, stopping the cycle of homelessness and jail could involve providing meaningful reentry support 
+before release that includes making realistic connections to housing and employment; championing 
+partnerships with shelters, nonprofits, and other support services to ensure a coordinated transition 
+for people leaving incarceration; and advocating to stop the practice of restricting people with criminal 
+records from public housing.108 For example, a rising number of public housing authorities are creating 
+reentry programs and changing eligibility requirements to allow formerly incarcerated people better 
+access to public housing.109 Local justice system stakeholders have been essential to the success of these 
+programs by providing support, referrals and, in some cases, funding.110 
+ ›Support Housing First policies and develop cross-agency partnerships to better address 
+underlying issues of homelessness that lead to incarceration. Housing First is an approach to 
+homeless assistance recognizing that, before people experiencing homelessness can meaningfully 
+address other issues in their lives, such as substance use disorder, mental illness, or legal issues, 13they must have a safe place to stay.111 Criminal legal system stakeholders should support this model 
+whenever possible. Similarly, localities should convene system actors and social service providers 
+to offer more aligned support for people experiencing homelessness. Many jurisdictions operate 
+Frequent User System Engagement (FUSE) programs, which are designed to offer streamlined, 
+wraparound services that help to break the cycle of homelessness and incarceration.112 FUSE 
+services offer placement in supportive housing, in addition to intensive case management and 
+coordination of services, with the goal of resolving issues that would otherwise lead to jail.113 
+Similarly, some counties have established collaborative models between law enforcement and 
+service providers. For example, in Riverside County, California, the Indio Police Department created 
+a network of nearby service providers to form the Community Outreach Resource Program, which 
+diverts people experiencing homelessness to residential support programs and partners with 
+Riverside County prosecutor and public defender offices to forgive legal debt on completion.114 
+A rising number of jurisdictions are beginning to 
+operate homeless courts, or specialized diversionary 
+proceedings that offer people experiencing 
+homelessness a process to have citations for certain 
+low-level offenses resolved before a standard court 
+appearance.a These courts typically operate outside 
+of courthouse buildings in locations that are more 
+convenient to eligible participants, such as homeless 
+shelters, and are designed to offer a less intimidating 
+environment that does not provoke fear of arrest.b 
+Participants are able to sign up through a shelter or 
+service agency and agree to complete rehabilitative 
+programming or treatment in lieu of fines or jail 
+sentences. Homeless court programs can also involve 
+the cancellation of outstanding legal debt.cSome researchers cite concerns about limited 
+eligibility for homeless courts, as people in many 
+jurisdictions must be residing in a shelter or receiving 
+other formalized services in order to participate.d 
+These requirements can be especially problematic in 
+communities without sufficient shelter space to meet 
+demand, or for families experiencing homelessness 
+who cannot find a shelter where they will be 
+permitted to stay together. Another concern, often 
+raised by critics of problem-solving courts generally, 
+is that such programs legitimize the criminalization 
+of societal issues while failing to address their root 
+causes.e Similarly, researchers have challenged the 
+coercive nature of treatment and problem-solving 
+courts that assume legal leverage and threat of arrest 
+are required in order for people to meaningfully 
+engage in necessary treatment or services.fThe promise of homeless courts
+a George B. Cauthen and Jennifer P . Wilson, “Homeless Courts: 
+An Alternative to the Criminalization of the Homeless,” South 
+Carolina Lawyer, May 2019, 46-52, https://perma.cc/A3NB-PHQB.
+b Ibid., 46.
+c Claudia Lopez, Trends in State Courts: Homeless Courts 
+(Williamsburg, VA: National Center for State Courts, 2017), 
+https://ncsc.contentdm.oclc.org/digital/collection/spcts/id/311.
+d It should be noted that in some jurisdictions, such as Los Angeles, 
+California, and Boston, Massachusetts, people who are at risk 
+of homelessness are also eligible to participate in homeless 
+court programs. Maya Buenaventura, “Treatment Not Custody: Process and Impact Evaluation of the Santa Monica Homeless 
+Community Court” (PhD diss., Pardee Rand Graduate School, 
+2018), 72-73, https://perma.cc/QP2T-7XGZ.
+e Sarah Lustbader, “Are Problem-Solving Courts Impeding 
+Progress?” The Appeal, January 7 , 2020, https://perma.cc/X7VV-
+BJCK.
+f Julian Adler, Joseph Barrett, and Michael Rempel, The Myth of 
+Legal Leverage: Toward a Relational Framework for Court-Based 
+Treatment (New York: Center for Court Innovation, 2020), 1, 
+https://perma.cc/D7C3-ZJR4.14Conclusion
+Reforms to halt the cycle of homelessness and jail are urgently needed to protect the health, safety, and 
+dignity of communities. With laws criminalizing unavoidable aspects of homelessness and their pervasive 
+enforcement on the rise, people experiencing homelessness, especially Black people, will continue to be 
+drawn into the criminal legal system at alarming rates. Once caught in the legal process, they will continue 
+to face significant challenges at each point in the system, where the mechanisms of justice make few 
+accommodations for those without housing.  
+Without thoughtful policy and practice change, systems in the United States will continue to bar people 
+experiencing homelessness from interacting with the justice system as other members of the community 
+do. Those without housing will continue to experience increased complications in resolving minor legal 
+issues and appearing in court, face higher risks of languishing in pretrial detention, and be more likely to 
+receive longer sentences. All of this will make basic efforts to survive even more difficult on release from 
+incarceration. The time has come for local justice systems to take immediate action to halt the cycle of 
+homelessness and entanglement with the criminal legal system. This begins with acknowledging the harms 
+perpetuated by the current system, addressing deepening racial disparities, and enacting urgently needed 
+policy and practice changes.151 National Alliance to End Homelessness, “State of 
+Homelessness,” accessed June 22, 2020, https://
+endhomelessness.org/homelessness-in-america/
+homelessness-statistics/state-of-homelessness-report.
+2  Ibid.
+3 See Bailey Gray and Doug Smith, Return to Nowhere: 
+The Revolving Door Between Incarceration and 
+Homelessness (Austin, TX: Texas Criminal Justice 
+Coalition, 2019), https://perma.cc/R3B6-ZHNL.
+4 Chris Herring, Dilara Yarbrough, and Lisa Marie Alatorre, 
+“Pervasive Penality: How the Criminalization of Poverty 
+Perpetuates Homelessness,” Social Problems 67 , no. 1 
+(2020), 132-133, https://perma.cc/YPM6-M6DW. See also 
+Doris James, Profile of Jail Inmates, 2002 (Washington, 
+DC: U.S. Department of Justice, Bureau of Justice 
+Statistics, 2004), 9, https://perma.cc/387S-C6Z9. 
+5 National Law Center on Homelessness and Poverty 
+(NLCHP), Housing Not Handcuffs 2019 (Washington, DC: 
+NLCHP , 2019), 50, https://perma.cc/A7JU-5HDL.
+6 See Sara K. Rankin, “Punishing Homelessness,” New 
+Criminal Law Review 22, no. 1 (2019), 99-135, https://
+perma.cc/6RTJ-XWSS; Herring, Yarbrough, and Alatorre, 
+“Pervasive Penality,” 2020, 131-49; and NLCHP , Housing 
+Not Handcuffs, 2019.
+7 See Gray and Smith, Return to Nowhere, 2019; and 
+NLCHP , Housing Not Handcuffs, 2019.
+8 See National Alliance to End Homelessness, “Racial 
+Inequality,” updated January 2020, https://perma.
+cc/2BZ8-VKVG.
+9  Ibid.
+10 See Gray and Smith, Return to Nowhere, 2019; and 
+Coalition on Homelessness Human Rights Workgroup, 
+Punishing the Poorest: How the Criminalization of 
+Homelessness Perpetuates Poverty in San Francisco 
+(San Francisco, CA: Coalition on Homelessness, 2015), 
+https://perma.cc/YE8L-RQGV.
+11 See Demar F. Lewis IV, “Housing the Formerly 
+Incarcerated Should be a Fundamental Right, Especially 
+During a Pandemic,” The Appeal, May 20, 2020, https://
+perma.cc/2QNP-H8PW.
+12 Scholars attribute the growth of homelessness in the 
+1980s to a variety of factors: the loss of subsidized 
+housing, the deinstitutionalization of mental health care, 
+budget cuts to the U.S. Department of Housing and 
+Urban Development and social service agencies, and 
+more. See National Academies of Sciences, Engineering, 
+and Medicine, Permanent Supportive Housing: 
+Evaluating the Evidence for Improving Health Outcomes 
+Among People Experiencing Chronic Homelessness 
+(Washington, DC: National Academies Press, 2018), 
+Appendix B, https://perma.cc/TQ6L-G7AN.
+13 Herring, Yarbrough, and Alatorre, “Pervasive Penality,” 
+2020, 132.Endnotes
+14 NLCHP , Housing Not Handcuffs, 2019, 12-13.
+15 A survey of 581 homeless adults in Oklahoma City 
+shelters reported that 76 percent of the sample had 
+been arrested and 57 percent of the sample had been 
+to jail more than three times in their lifetime. Jennifer R. 
+Gonzalez, Katelyn K. Jetelina, Madeline Roberts et al., 
+“Criminal Justice System Involvement Among Homeless 
+Adults,” American Journal of Criminal Justice 43 (2018), 
+158-166. 
+16 Tony Robinson, “No Right to Rest: Police Enforcement 
+Patterns and Quality of Life Consequences of the 
+Criminalization of Homelessness,” Urban Affairs Review 
+55, no. 1 (2019), 41-73, 43-44, https://perma.cc/D5YA-
+MLMG; and Herring, Yarbrough, and Alatorre, “Pervasive 
+Penality,” 2020, 134.
+17 Robinson, “No Right to Rest,” 2017 , 55. 
+18 Herring, Yarbrough, and Alatorre, “Pervasive Penality,” 
+2020, 137 .
+19 NLCHP , Housing Not Handcuffs, 2019, 15.
+20 NLCHP , No Safe Place: The Criminalization of 
+Homelessness in U.S. Cities (Washington, DC: National 
+Law Center on Homelessness & Poverty, 2014), 26, 
+https://perma.cc/DMJ8-VPTZ.
+21 Rankin, “Punishing Homelessness,” 2019, 111-114.
+22 NLCHP , No Safe Place, 2014, 26.
+23 Rankin, “Punishing Homelessness,” 2019, 112.
+24 Ibid., 112-113; also see Lavan v. City of Los Angeles, 797 F. 
+Supp. 2d 1005 (9th Cir. 2012) (finding that Los Angeles 
+violated the Fourth and Fourteenth Amendment rights 
+of people experiencing homelessness by “seizing and 
+immediately destroying their unabandoned personal 
+possessions, temporarily left on public sidewalks while 
+[the individuals] attended to necessary tasks such as 
+eating, showering, and using the restrooms”), https://
+perma.cc/5YZK-D5XH. 
+25 Allison Frankel, Scout Katovich, and Hillary Vedvig, 
+Forced into Breaking the Law: The Criminalization of 
+Homelessness in Connecticut (New Haven, CT: Yale Law 
+School, Allan K. Lowenstein International Human Rights 
+Clinic, 2016), 12, https://perma.cc/V89B-SQUH. See also 
+Robinson, “No Right to Rest,” 2017 , 55-56.
+26 NLCHP , Housing Not Handcuffs, 2019, 53.
+27 Herring, Yarbrough, and Alatorre, “Pervasive Penality,” 
+2020, 142.
+28 Ibid., 139-141.
+29 Ibid., 139.
+30 Ibid., 132; and Robinson, “No Right to Rest,” 2017 , 42. 
+31 Terry Skolnik, “Rethinking Homeless People’s 
+Punishments,” New Criminal Law Review 22, no. 1 (2019), 1673-98, 75, https://perma.cc/K5FK-LLKX. 
+32 Ibid., 75. See also Farida Ali, “Limiting the Poor’s Right to 
+Public Space: Criminalizing Homelessness in California,” 
+Georgetown Journal on Poverty Law and Policy 21, no. 2 
+(2014), 197 .
+33 The Ninth Circuit Court of Appeals has held that 
+governments may not enforce ordinances that ban 
+public camping when the number of people experiencing 
+homelessness exceeds the number of available shelter 
+beds. Martin v. City of Boise, 920 F.3d 584 (9th Cir. 2019) 
+(cert. denied 2019), https://perma.cc/2SJW-5SGG. Out 
+of 187 U.S. cities surveyed in 2019, 72 percent had at least 
+one law prohibiting camping in public, 51 percent had 
+at least one law prohibiting sleeping in public, and 55 
+percent had at least one law prohibiting sitting or lying 
+down in public. These laws criminalizing unavoidable 
+aspects of homelessness had increased across every 
+measured category since the researchers’ last survey of 
+cities in 2006. NLCHP , Housing Not Handcuffs, 2019, 12-14.
+34  Even in places with some shelter bed availability, a 
+complex system of rules still creates obstacles to access. 
+For example, gender and age restrictions require couples 
+or families with children to separate, whereas rules 
+against pets prevent people from holding onto animal 
+companions that keep them safe. Gender restrictions 
+within shelters are especially harmful to the transgender 
+community, who are often forced to choose between 
+sleeping outside or staying in a potentially dangerous 
+shelter environment that does not recognize their 
+gender identity. Further, many shelters have additional 
+faith-based requirements or bar people who experience 
+substance use disorder or mental illness. See Rankin, 
+“Punishing Homelessness,” 2019, 117-118.
+35 NLCHP , Housing Not Handcuffs, 2019, 38. In Minneapolis, 
+Minnesota, it is illegal to use a tent or any other 
+temporary structure on “any public street or on any 
+other public or private premises or street in the city.” 
+Minneapolis, Minn. Code § 244.60(a) (2013), https://
+perma.cc/DC2K-GMQ4. In Eugene, Oregon, using a 
+blanket as protection from the elements outside falls 
+under the definition of illegal camping. Eugene, Or. Code 
+§ 4.815(1)(b) and § 4.816 (2013), https://perma.cc/3CTH-
+KFLS. See also Robinson, “No Right to Rest,” 2017 , 43.
+36 Robinson, “No Right to Rest,” 2017 , 43-44. In 2019, 
+Denver’s camping ban was ruled unconstitutional by a 
+federal judge. City and County of Denver v. Burton, No. 
+19GS004399 (December 27 , 2019), https://www.scribd.
+com/document/441077187/Denver-s-urban-camping-ban-
+struck-down-as-unconstitutional#from_embed. However, 
+the city resumed enforcing the ban less than a month 
+after the ruling. Allison Sylte, “Denver Police Resume 
+Enforcing Camping Ban Amid Appeal,” 9NEWS, January 
+23, 2020, https://www.9news.com/article/news/local/
+next/denver-camping-ban-enforcement/73-8999bb44-
+1ea6-446e-a7da-1caae7e41683.
+37 NLCHP , Housing Not Handcuffs, 2019, 42.
+38 Robinson, “No Right to Rest,” 2017 , 43-44.
+39 NLCHP , Housing Not Handcuffs, 2019, 45.40 Ibid.; and NLCHP , No Safe Place, 2014, 47-48.
+41 NLCHP , Housing Not Handcuffs, 2019, 44-45.
+42 Robinson, “No Right to Rest,” 2017 , 44; and NLCHP , 
+Housing Not Handcuffs, 2019, 45.
+43 Rankin, “Punishing Homelessness,” 2019, 121; and NLCHP , 
+Housing Not Handcuffs, 2019, 44-45. 
+44 Lafayette, LA. Code § 62-71 (2007), https://perma.cc/
+R48X-6LST; and NLCHP , Housing Not Handcuffs, 2019, 45.
+45 Of 187 cities surveyed by the NLCHP , 9 percent have food 
+sharing bans. NLCHP , Housing Not Handcuffs, 2019, 46. 
+See also Rankin, “Punishing Homelessness,” 2019, 121-22.
+46 Frankel, Katovich, and Vedvig, Forced into Breaking the 
+Law, 2016, 16.
+47 Skolnik, “Rethinking Homeless People’s Punishments,” 
+2019, 78; Jessica Mogk, Valerie Shmigol, Marvin Futrell 
+et al., “Court-Imposed Fines as a Feature of the 
+Homelessness-Incarceration Nexus: A Cross-Sectional 
+Study of the Relationship Between Legal Debt and 
+Duration of Homelessness in Seattle, Washington, USA,” 
+Journal of Public Health 42, no. 2 (2020), 107-110, 113.
+48 Frankel, Katovich, and Vedvig, Forced into Breaking the 
+Law, 2016, 16.
+49 For example, Washington, DC, Superior Court 
+Criminal Rule 43 provides that people charged with 
+misdemeanors must be present in court at arraignment 
+unless they have provided the court with their prior 
+written consent for the proceedings to be held in their 
+absence. D.C. Superior Court Criminal Rule 43, https://
+perma.cc/C3XT-XT5J.
+50 NLCHP , Housing Not Handcuffs, 2019, 52; and Frankel, 
+Katovich, and Vedvig, Forced into Breaking the Law, 2016, 
+15-16. 
+51 Frankel, Katovich, and Vedvig, Forced into Breaking the 
+Law, 2016, 15-16. See for example Melissa Hellman, “For 
+Homeless Seattleites, a Reprieve From the Debilitating 
+Burden of Warrants,” Seattle Weekly, January 10, 2018, 
+https://perma.cc/43KU-LX7G. 
+52 There have been efforts in some states to recognize a 
+right to counsel in civil cases where fundamental human 
+rights are at stake. See for example Laura K. Abel and 
+Max Rettig, State Statutes Providing a Right to Counsel 
+in Civil Cases (New York: Brennan Center for Justice, 
+2006), https://perma.cc/NSM8-MKND.
+53 However, the threat of incarceration has repeatedly been 
+held to trigger the right to counsel. See Argersinger v. 
+Hamlin, 407 U.S. 25, 34 (1972), https://perma.cc/3QKD-
+AMZ6; and Alabama v. Shelton, 535 U.S. 654, 673-74 
+(2002), https://perma.cc/8ZPC-N76N. The Supreme 
+Court held in Argersinger that people who face any 
+period of incarceration—however brief—have a 
+constitutional right to counsel. In Shelton, the Court 
+explicitly extended this protection to people charged 
+with misdemeanors who face any period of probation 
+that could be enforced by incarceration.1754 Frankel, Katovich, and Vedvig, Forced into Breaking the 
+Law, 2016, 15. The Supreme Court has held that people 
+may not be incarcerated based solely on their inability 
+to pay a court fee or fine. Tate v. Short, 401 U.S. 395 
+(1971), https://perma.cc/W578-BTKM.
+55 Frankel, Katovich, and Vedvig, Forced into Breaking the 
+Law, 2016, 2, 15-16.
+56 Ibid., 16.
+57 Ibid.
+58 Herring, Yarbrough, and Alatorre, “Pervasive Penality,” 
+2020, 142.
+59 Ibid., 142-143.
+60 Policy Advocacy Clinic, California’s New Vagrancy 
+Laws: The Growing Enactment and Enforcement of 
+Anti-Homeless Laws in the Golden State (Berkeley, CA: 
+University of California Berkeley School of Law, 2015), 20, 
+https://bit.ly/3eub3N0. This report was updated in 2016; 
+the update is available at https://perma.cc/7W7V-8SDP . 
+61 Andrew Weber, “Most Tickets for Homelessness Result in 
+Arrest Warrants. That Can Make Finding Housing Hard.” 
+KUT, June 20, 2019, https://perma.cc/Q5AU-M7GK. 
+62 Mogk, Shmigol, Futrell et al., “Court-Imposed Fines,” 
+2019, 1.
+63 Ibid., 6.
+64 Human Rights Watch, The Price of Freedom: Bail and 
+Pretrial Detention of Low Income Nonfelony Defendants 
+in New York City (New York: Human Rights Watch, 2010), 
+3, https://perma.cc/562C-BZS5. As of 2016, only 10 states 
+guaranteed the right to defense counsel at the initial court 
+appearance. Bernadette Rabuy and Daniel Kopf, Detaining 
+the Poor: How Money Bail Perpetuates an Endless Cycle 
+of Poverty and Jail Time (Northampton, MA: Prison Policy 
+Initiative, 2016). https://perma.cc/A2VB-QE47 .
+65 Human Rights Watch, The Price of Freedom, 2010, 41. 
+66 See generally NLCHP , Housing Not Handcuffs, 2019.
+67 Léon Digard and Elizabeth Swavola, Justice Denied: The 
+Harmful and Lasting Effects of Pretrial Detention (New 
+York: Vera Institute of Justice, 2019), 7 , https://perma.cc/
+FL9W-B5CD.
+68 Human Rights Watch, The Price of Freedom, 2016, 1-2. 
+69 Ibid., 6. 
+70 Being released “on recognizance” means that a 
+person simply agrees that they will attend future court 
+appearances. They do not have to pay for their release.
+71 Joshua Vaughn, “A Case Study of Being Homeless and 
+Arrested,” The Sentinel, February 28, 2016, https://
+perma.cc/TF5T-8JRH.
+72 See generally Alabama Appleseed Center for Law and 
+Justice, In Trouble: How the Promise of Diversion Clashes 
+with the Reality of Poverty, Addiction, and Structural 
+Racism in Alabama’s Justice System (Montgomery, AL: Alabama Appleseed Center for Law and Justice, 2020), 
+https://perma.cc/G4LD-F3UL.
+73 Carol Peeples, Homelessness and Parole: A Survey of 
+Denver’s Homeless Shelters (Denver, CO: Colorado 
+Criminal Justice Reform Coalition, 2009), 2, https://
+perma.cc/VF62-6ZSV; and Human Rights Watch, The 
+Price of Freedom, 2016. 
+74 Digard and Swavola, Justice Denied, 2019, 3-4. See 
+also generally Megan Stevenson, “Distortion of Justice: 
+How the Inability to Pay Bail Affects Case Outcomes,” 
+Journal of Law, Economics, and Organization 34, no. 4 
+(2018), 511-542, 516, 532. 
+75 Paul Heaton, Sandra Mayson, and Megan Stevenson, 
+“The Downstream Consequences of Misdemeanor 
+Pretrial Detention,” Stanford Law Review 69, no. 3 (2017), 
+711-794, 717 , https://perma.cc/8BB3- 8BPY . 
+76 Emily Leslie and Nolan Pope, “The Unintended Impact 
+of Pretrial Detention on Case Outcomes: Evidence 
+from New York City Arraignments,” Journal of Law and 
+Economics 60, no. 3 (2017), 529-557 , 530.
+77 Heaton, Mayson, and Stevenson, “Downstream 
+Consequences,” 2017 , 717 .
+78 Christopher Lowenkamp, Marie VanNostrand, and 
+Alexander Holsinger, The Hidden Costs of Pretrial 
+Detention (Houston, TX: Laura and John Arnold 
+Foundation, 2013), 10, https://perma.cc/PX7G-N6BC; 
+and Heaton, Mayson, and Stevenson, “Downstream 
+Consequences,” 2017 , 747 . 
+79 Gonzalez, Jetelina, Roberts et al., “Criminal Justice 
+System Involvement Among Homeless Adults,” 2018.
+80 Herring, Yarbrough, and Alatorre, “Pervasive Penality,” 
+2020, 139.
+81 Alexandra Walker, Lynn Hempel, N. Prabha Unnithan et 
+al., “Parole, Reentry and Social Capital: The Centrality 
+of Homelessness,” Journal of Poverty 18, no. 3 (2014), 
+315-334, 319. See generally Caterina Gouvis Roman 
+and Jeremy Travis, Taking Stock: Housing, Homelessness, 
+and Prisoner Reentry (Washington, DC: Urban Institute, 
+2004), https://perma.cc/QLE7-ZW7R.
+82 Peeples, Homelessness and Parole, 2009, 8-10. See 
+generally Gray and Smith, Return to Nowhere, 2019.
+83 See for example Peeples, Homelessness and Parole, 
+2009, 10. 
+84 Ibid.
+85 Herring and Yarbrough, Punishing the Poorest, 2015, 48.
+86 Ibid.
+87 Nicole Flatow, “The Prison Doors Open and You’re 
+Released. You Have No Money or Transportation. Now 
+What?” Think Progress, June 21, 2015, https://perma.cc/
+C5HE-QGUY .
+88 Herring and Yarbrough, Punishing the Poorest, 2015, 9.1889 Black people are 5.9 times as likely to be incarcerated 
+as white people, and Latinx people 3.1 times as likely. 
+The Sentencing Project, Report to the United Nations on 
+Racial Disparities in the U.S. Criminal Justice System, 
+(Washington, DC: The Sentencing Project, 2018), 1, 
+https://perma.cc/27BZ-WGHR.
+90 Margot Kushel, Judith Hahn, Jennifer Evans et 
+al., “Revolving Doors: Imprisonment Among the 
+Homeless and Marginally Housed Population,” 
+American Journal of Public Health 95, no. 10 
+(2005), 1747-1752, https://pdfs.semanticscholar.org/
+d1c5/691e557f8204c8e4907324cf1c2e2b2c415a.pdf; 
+Gonzalez, Jetelina, Roberts et al., “Criminal Justice 
+System Involvement Among Homeless Adults,” 2018; 
+Stephen Metraux, Caterina G. Roman, and Richard 
+S. Cho, “Incarceration and Homelessness” (paper 
+presented at the National Symposium on Homelessness 
+Research, Washington, DC, March 1-2, 2007), https://
+perma.cc/HM8J-KH8P; and Roman and Travis, Taking 
+Stock, 2004, 10-33.
+91 Lucius Couloute, Nowhere to Go: Homelessness Among 
+Formerly Incarcerated People (Northampton, MA: Prison 
+Policy Initiative, 2018), https://perma.cc/2JST-EEJC.
+92 Roman and Travis, Taking Stock, 2004, 15, 26.
+93 Ibid., 22; Couloute, Nowhere to Go, 2018; and Marie Claire 
+Tran-Leung, When Discretion Means Denial: A National 
+Perspective on Criminal Records Barriers to Federally 
+Subsidized Housing (Sargent Shriver National Center on 
+Poverty Law, 2015), https://perma.cc/5SSG-XEV5. 
+94 Roman and Travis, Taking Stock, 2004, 31; and Gray and 
+Smith, Return to Nowhere, 2019, 9.
+95 Walker, Hempel, Unnithan et al., “Parole, Reentry and 
+Social Capital,” 2014, 322; Gray and Smith, Return to 
+Nowhere, 2019; and Lucius Couloute and Daniel Kopf, 
+Out of Prison & Out of Work: Unemployment Among 
+Formerly Incarcerated People (Northampton, MA: Prison 
+Policy Initiative, 2018), https://perma.cc/YV78-NQX4.
+96 Gray and Smith, Return to Nowhere, 2019, 8; and NLCHP , 
+Housing Not Handcuffs, 2019, 44, 46, 62.
+97 Michael Massoglia and Brianna Remster, “Linkages 
+Between Incarceration and Health,” Public Health 
+Reports 134, supp. 1 (2019), 8S-14S, 9S, https://perma.
+cc/5569-X4YZ.
+98 Kushel, Hahn, Evans et al., “Revolving Doors,” 2005, 1750-
+1751.
+99 Vincent A. Fusaro, Helen G. Levy, and H. Luke Shaefer, 
+“Racial and Ethnic Disparities in the Lifetime Prevalence 
+of Homelessness,” Demography 55, no. 6 (2018), 2119-
+2128. See also National Alliance to End Homelessness, 
+“Racial Inequality,” 2020.
+100 See generally Herring, Yarbrough, and Alatorre, 
+“Pervasive Penality,” 2020.
+101 Martin v. City of Boise, 920 F.3d 584 (9th Cir. 2019).
+102 Skolnik, “Rethinking Homeless People’s Punishments,” 2019, 76, 82-83.
+103 See for example City of Colorado Springs, Colorado, 
+“Outreach Court Program to Hold Second Warrant 
+Removal Day,” October 9, 2019, https://perma.cc/TZA3-
+DDJY; and “Warrant Outreach Event – Learn How to 
+Possibly Resolve a Warrant Without Arrest,” Seattle.gov 
+Homelessness Response Blog, November 29, 2017 , https://
+perma.cc/6KUQ-XF3Y .
+104 See Skolnik, “Rethinking Homeless People’s Punishments,” 
+2019, 91-92.
+105 Ibid.
+106 Mark Puente and Richard Winton, “L.A. Vows to Void Two 
+Million Court Citations and Warrants. Homeless People 
+Will Benefit Most,” Los Angeles Times, October 2, 2019, 
+https://www.latimes.com/california/story/2019-10-02/
+homeless-housing-erase-citation-fine-fees; and 
+Nicole Hayden, “Fixing This Takes More Than Arrest: 
+Riverside County Forgives Warrants, Fines to Help 
+Homeless,” Palm Springs Desert Sun, December 27 , 2019, 
+https://www.desertsun.com/story/news/2019/12/27/
+riverside-county-forgives-warrants-fines-help-
+homeless/2624646001/.
+107 See for example Hayden, “Fixing This Takes More Than 
+Arrest,” 2019; and Peeples, Homelessness and Parole, 
+2009.
+108 Roman and Travis, Taking Stock, 2004.
+109 See generally John Bae, Kate Finley, Margaret diZerega, 
+and Sharon Kim, Opening Doors: How to Develop 
+Reentry Programs Using Examples from Public Housing 
+Authorities (New York: Vera Institute of Justice, 2017), 
+https://perma.cc/YBT6-7657 . 
+110 Ibid., 17-20.
+111 National Alliance to End Homelessness, “Housing First,” 
+April 20, 2016, https://perma.cc/9ZYE-R3XN.
+112 National Association of Counties, Phases of FUSE: 
+Planning and Implementing Successful Supportive 
+Housing (Washington, DC: National Association of 
+Counties, 2014), 3, https://perma.cc/5JUN-W8BX.
+113 Ibid.
+114 Hayden, “Fixing This Takes More Than Arrest,” 2019.19Acknowledgments
+The authors thank Elizabeth Swavola, Margaret diZerega, Ram Subramanian, and 
+Nancy Fishman for their review of and feedback on the manuscript. Thanks also 
+to Cindy Reed and Elle Teshima for editorial review and to Maris Mapolski for cite 
+checking and research, as well as Abbi Leman for copyediting and Dan Redding 
+for designing the report. A special thank you to Patrick Griffin of the MacArthur 
+Foundation for his insight into the final document.
+This policy brief was created with support from the John D. and Catherine T. 
+MacArthur Foundation as part of the Safety and Justice Challenge initiative, which 
+seeks to address overincarceration by changing the way America thinks about 
+and uses jails. Core to the challenge is a grants competition designed to support 
+efforts to improve local criminal justice systems in jurisdictions across the country. 
+The foundation is supporting a nationwide network of selected local jurisdictions 
+committed to finding ways to safely reduce jail incarceration—particularly the 
+disproportionate incarceration of racial and ethnic minorities. More information is 
+available at www.SafetyandJusticeChallenge.org. 
+About citations
+As researchers and readers alike rely more and more on public knowledge made 
+available through the Internet, “link rot” has become a widely acknowledged problem 
+with creating useful and sustainable citations. To address this issue, the Vera Institute 
+of Justice is experimenting with the use of Perma.cc (https://perma.cc/), a service 
+that helps scholars, journals, and courts create permanent links to the online sources 
+cited in their work.
+Credits
+© Vera Institute of Justice 2020. All rights reserved. An electronic version of this 
+report is posted on Vera’s website at https://www.vera.org/publications/no-
+access-to-justice-homelessness-and-jail. 
+For more information about this brief, contact Elizabeth Swavola, acting project 
+director, at eswavola@vera.org. For more information about Vera’s work, visit www.
+vera.org.
+Suggested citation
+Madeline Bailey, Erica Crew, and Madz Reeve. No Access to Justice: Breaking the 
+Cycle of Homelessness and Jail. New York: Vera Institute of Justice, 2020.
