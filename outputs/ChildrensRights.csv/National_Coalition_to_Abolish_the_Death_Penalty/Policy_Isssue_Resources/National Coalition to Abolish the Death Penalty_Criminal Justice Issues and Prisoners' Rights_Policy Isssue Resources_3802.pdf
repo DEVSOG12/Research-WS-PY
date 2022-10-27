@@ -1,0 +1,25 @@
+<html>
+	<head>
+		<title>The NCADP website is no longer available</title>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-39657825-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		
+		  gtag('config', 'UA-39657825-1');
+		</script>
+		<style>
+			body {
+				font-family: sans-serif;
+			}
+			h1 {
+				font-size: 28px;
+			}
+		</style>
+	</head>
+	<body>
+	<h1>The NCADP website is no longer available</h1>
+	</body>
+</html>

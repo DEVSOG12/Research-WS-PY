@@ -1,0 +1,276 @@
+ 
+ 
+ 
+649 Dayton Avenue  St. Paul, MN  55104  612.436.4800  cvt@cvt.org   www.cvt.org  
+September 2015   1 
+  UPDATING THE ESTIMATE OF REFUGEES RESETTLED IN THE UNITED STATES  
+WHO HAVE SUFFERED TORTURE  
+Craig Higson -Smith1 
+Center for Victims of Torture  
+Torture is a strong predictor of a broad range of debilitating and lasting physical  and mental health 
+conditions (Quiroga & Jaranson, 2005) . Populations of re fugees who are being resettled in the United 
+States include  many torture survivors, many of whom r equire significant  and specialized health and 
+mental health care.  For example, refugees who report experiences of torture are four times  more  likely 
+to suffer  from post -traumatic stress disorder (PTSD) than other refugees, and 2.5 times more likely to 
+suffer from depression (Steel et al., 2009) . For these reasons, it is essential that policy  makers in the field 
+of refugee health services hav e a reliable estimate of the number of torture surviving refugees in the 
+country.  
+Until recently , policy  makers have been forced to rely on an outdated estimate of between 400,000 and 
+500,000 torture surviving refugees in the United States. This number was derived in the early 1990s 
+from the oft-cited torture prevalence rate of 5 -35% found extensively in the literature on torture . This 
+range is in fact based on studies conducted in several different high income countries in which refugees 
+were being resettl ed; it is not known how accurately those studies reflect the situation in the United 
+States. The estimate appears in a chapter in a volume intended to provide a critical account of current 
+refugee policie s in European countries (Baker , 1992).  
+Given that th is number has not been updated in more than twenty years, and that significant numbers 
+of refugees have been resettled in the United States every year during that period, the estimate of 
+400,000 to 500,000 torture surviving refugees in the United States is  certainly incorrect. The actual 
+number must be much greater than that. How much greater is the key question to which policy -makers 
+require an answer.  
+Unfortunately, measuring the prevalence of something as sensitive and complex as experiences of 
+torture i n populations as diverse as refugees in the United States is an extremely challenging task. Were 
+it easier, there is no doubt that the estimate would have been updated regularly.  Nevertheless, given 
+the importance of this question for  policy on refugee res ettlement and the provision of health and other 
+services , the Center for Victims of Torture  (CVT) found it essential  to see what could be done to update 
+the understanding of the size of the population of torture surviving refugees in the United States.  To do 
+this, CVT’s researchers developed the following meta -analytic methodology and arrived at the results 
+and conclusions laid out towards the end of this summary paper.  
+                                                           
+1 Craig Higson -Smith is the Director of Research for the Center for Victims of Torture . Early stages of this research 
+were conducted by Dr . Patrick Tschida, Research Associate.   
+ 
+ 
+649 Dayton Avenue  St. Paul, MN  55104  612.436.4800  cvt@cvt.org   www.cvt.org  
+September 2015   2 
+   
+METHODOLOGY  
+The Preferred Reporting Items for Systematic Reviews & Meta -Analyses (PRISM A) guidelines (Liberti, 
+2009) were followed for the systematic literature review and meta -analysis carried out herein. A 
+comprehensive literature search was conducted utilizing four online library search databases (Embase, 
+Ovid Medline, PILOTS/WOS, and Psy chInfo), with assistance from a Diehl Hall Bio -Med Librarian on the 
+University of Minnesota Health Sciences campus. ‘Exploded’ MeSH headings were additionally utilized 
+for a wider range of nested terms so that the resulting list of citations would include most or all major 
+epidemiologic study designs. “Torture ,”“survivor ,” “refugee and/or asylum -seeker” and “prevalence” 
+were the four main categories of terms used.  
+Table 1: List of search terms  
+Abuse*  
+Aggress*  
+Battered*  
+Human rights abuse*  
+Maltreat*  
+Mistre at* 
+Neglect  
+Persecut*  
+Tortur*  
+Trauma*  
+Violen*  
+Battered women (MeSH)  
+Child abuse (MeSH)  
+Crime victims (MeSH)  
+Human rights abuses (MeSH)  
+Violence (MeSH)  
+“Wounds and Injuries” (MeSH)  Refugee*  
+Asylum*  
+Asylee*  
+Refugee (MeSH)  
+Prevalence  
+Risk  
+Risks  
+Rate  
+Rates  
+Logistic regression*  
+Epidemiolog*  
+Epidemiologic Methods (MeSH)  
+Epidemiologic Measurements (MeSH)  
+Epidemiologic factors (MeSH)  
+“statistics as topic” (MeSH)  
+ 
+ 
+As intended to ensure comprehensiveness , this initial search produced a very long list of potentiall y 
+relevant references. These references were then reviewed at two levels (abstract review and full text 
+review) with respect to the following inclusion criteria:  
+1. The published article had bee n through a peer -review process.  
+2. The results of the study were pu blished in the years 1980 to 2015 . 
+3. The results included a  quantitative  estimate of the prevalence of torture within an adult  
+population  (defined as eighteen years or older) of asylum seekers, asylees, or refugees currently 
+within the United States. Althoug h some included studies differentiated between primary and 
+secondary torture survivors, this was not an inclusion criterion.   
+ 
+ 
+649 Dayton Avenue  St. Paul, MN  55104  612.436.4800  cvt@cvt.org   www.cvt.org  
+September 2015   3 
+  4. The study reported on a representative sample of the general population, as opposed to 
+convenience or help -seeking samples.  
+The pro cess by which the initial search  results  were narrowed down to the final set of five studies is 
+summarized in Figure 1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Following this initial search , CVT released preliminary findings to the member  center s of the National 
+Consortium of Tor ture Treatment Programs (NCTTP)  of the United States. Currently the consortium has 
+34 members in 17 states. Consortium members were asked to identify any other studies that might have 
+been missed in CVT’s initial search. Although several members of the con sortium responded positively 
+to this initiative, emphasizing the importance of more accurately estimating the number of torture 
+surviving refugees in the United States, no further studies or publications were identified. 
+Representatives of one center raise d concerns about the findings of one study included in the meta -
+analysis – further details are included below.  
+Studies included in the analysis  Search  Exclusion  
+Included  Articles identified     n= 10,096  
+ Embase      n=   5,368  
+ Ovid Medline     n=   4,175  
+ PILOTS & WoS     n=      351 
+ PsychInfo     n=      202 
+ 
+Articles excluded    n= 9,183  
+Duplicate within search   n= 5,192  
+Duplicate in prior search  n= 1,827  
+Review of abstract   n= 1,145  
+Host country not US   n= 1,019  
+Articles excluded    n=    908 
+Qualitative findings only  n=    220  
+Language    n=    216  
+No representative sample  n=    204  
+Non -adult populations   n=    192  
+Not peer reviewed   n=      80  
+Studies included in the meta -analysis       n=        5 Full text articles retrieved and reviewed    n=    913 
+Fig. 1   Search, retrieval and exclusion process   
+ 
+ 
+649 Dayton Avenue  St. Paul, MN  55104  612.436.4800  cvt@cvt.org   www.cvt.org  
+September 2015   4 
+  Keller et al. (2003), associated with the Bellevue/NYU Program for Survivors of Torture , conducted 
+interviews wi th 70 asylum seekers who were being detained in New York, New Jersey and Pennsylvania. 
+The people interviewed were mostly men and from various countries on the African continent. 74% 
+reported experiences of torture.  
+Jaranson et al. (2004) , associated with the University of Minnesota  and the Center for Victims of Torture  
+(CVT) , interviewed 1,134 Oromo and Somali refugees living in the Minneapolis/St . Paul area. 55% of 
+Oromo respondents and 36% of Somali respondents reported experiences of torture. Overall, 4 4% of 
+the sample reported being tortured.  
+Marshall  et al. (2005), a ssociated with the Program for Torture Victims, Los Angeles , conducted a 
+household survey and interviewed 490 refugees from Cambodia who were living in California at the time 
+of the study. 24% of those interviewed reported being p rimary victims  of torture , and a further 31% 
+were secondary victims. In total, 54% of respondents had been exposed to torture.  In this study , torture 
+was identified based on responses to item 16 of the Harvard Traum a Questionnaire – Part One ( Mollica 
+et al., 1992) . A representative of the Program for Torture Victims , Los Angeles  raised concern that the 
+actual torture prevalence of torture among refugees from Cambodia  may be  in fact much higher than 
+the reported 54%. This position was later supported  by Dr . Megan Berthold, one of the authors of the 
+original paper. Given that exclusion of this paper from the meta -analysis would in fact reduce the overall 
+result (as opposed to increasing it , in line with the higher estim ate suggested), the author decided to 
+retain the paper so as to arrive at  a more accurate estimate of the number of torture surviving refugees 
+in the country.  
+Willard et al. (2013), a ssociated with the Community Health Alliance , conducted retrospective ch art 
+reviews of public health screenings of Iraqi refugees  arriving in Utah . Of 497 files reviewed, 24% 
+reported being primary survivors of torture, and 31% reported being secondary survivors. In total, 56%  
+of the samples reported exposure to t orture.  
+Shannon et al . (2014), a ssociated with the University of Minnesota  and CVT, reviewed the charts 
+following public health screening  of 179 Karen refugees from Burma and Thailand, now living in 
+Minneapolis and St . Paul , Minnesota . Of these , 27% reported bein g primary survivors of torture and 51% 
+reported being secondary survivors.  
+Meta -Analysis  
+The simple meta -analysis was conducted using MetaXL Version 2.2. In essence , this analysis provides a 
+weighted average of a number of study results. Prevalence rates f or primary victim s of torture were 
+used in the analysis, although some studies also estimated the prevalence of secondary victims. The 
+author used a random effects model which assumes that variability in effects arise from two sources : 
+sampling error and s tudy level differences. In other words, this analysis acknowledges that prevalence  
+ 
+ 
+649 Dayton Avenue  St. Paul, MN  55104  612.436.4800  cvt@cvt.org   www.cvt.org  
+September 2015   5 
+  rates will differ depending upon refugees’ country of origin, the period when they entered the United 
+States, and the methodology employed to estimate the prevalence of tort ure.  
+RESULTS AND DISCUSSION  
+The analysis suggests an overall population prevalence of 0.44 (95% confidence interval: 0.3 -0.58). Since 
+recent estimates suggest that there are three million refugees, asyl ees and asylum seekers in the United 
+States  (Bureau o f Population, Refugees and Migration, 2015) , this analysis suggests that there may  be as 
+many as 1.3 million torture surviving refugees in the country. This number is more than three times 
+higher than the statistic often referred to in policy documents.  
+Meta-analyses are entirely dependent upon the methodologies and results of the studies included in the 
+analysis. As a result , there are a number of qualifications that should be borne in mind when 
+interpreting these results.  
+Firstly, this analysis is based o n only five studies. Given the enormous variability in the histories and 
+experiences of refugee populations from different parts of the world, this is a very small number indeed. 
+Although CVT researchers have conducted an extensive and systematic search fo r relevant studies, it is 
+possible that one or more studies have been missed , especially any studies not published in the peer -
+reviewed, scientific literature. Certainly more studies would enhance the accuracy of this kind of 
+analysis.  
+Secondly, several studies included in this meta -analysis have relatively small sample sizes  for population 
+level research. Such small sample sizes reduce the confidence in prevalence estimates within particular 
+populations, and although sample size is accounted for in the me ta-analysis model, it is difficult  to make 
+more accurate predictions based on a few small samples.  
+Thirdly, an analysis of this kind attempts to provide a prevalence estimate across an extremely 
+heterogeneous population of refugees, asylum seekers and asyl ees. The complexity of the population 
+demands many more studies before researchers are able to narrow down the confidence intervals 
+around any estimate of the prevalence of torture.  
+Finally, because experiences of torture are so difficult to talk about, t he manner in which researchers  
+assess a history of torture will greatly influence their results.  Studies included in this analysis used a 
+variety of methods.  With more studies, it might be possible to ascertain the impact of different 
+methodologies on prev alence estimates.  
+CONCLUSIONS  
+Given all these limitations on the data (and in fact in the field itself) , it is very difficult to arrive at a 
+specific and defensible estimate of the number of torture surviving refugees in the United States. The  
+ 
+ 
+649 Dayton Avenue  St. Paul, MN  55104  612.436.4800  cvt@cvt.org   www.cvt.org  
+September 2015   6 
+  result quote d in the results section above is merely the mid -point of a broad range within which the true 
+prevalence rate very likely lies.  
+However, it is clear that the actual number of tortured refugees is a great deal higher than the statistics 
+currently in use amo ng policy makers. Even if we were to abandon the estimate of up to half a million —
+which is clearly out of date —this research suggests that the prevalence rate is higher than the often 
+quoted rate of between 5 and 35%. This is likely the result of the Unite d States ’ focus in the selection of 
+people for resettlement within the country.  This pattern continues with current political debates on how 
+many Syrian refugees should be accepted into the United States, and the suggestion that preference 
+should be given to refugees with medical problems and/or a history of torture.  
+The United States is a generous recipient of refugees from around the world. With this generosity comes 
+an obligation to do what is possible to provide medical and mental health care to these h ighly 
+traumatized populations.  A history of torture is highly predictive of severe and lasting physical  and 
+mental health concerns. As such, the prevalence of torture in refugee populations is an essential 
+parameter for the long -term planning and sustainab ility of services for the refugee population. CVT 
+recommends that policy  makers and researchers develop methodologies to more accurately track the 
+growing number of torture surviving refugees living in the United States. 
+ 
+ 
+649 Dayton Avenue  St. Paul, MN  55104  612.436.4800  cvt@cvt.org   www.cvt.org  
+September 2015   7 
+   
+REFERENCES  
+Baker, R. (1992). Psych osocial consequences for tortured refugees seeking asylum and refugee status in 
+Europe, in Basoglu, M. (ed.) Torture and its Consequences: Current Treatment Approaches , 83-
+106.  
+Bureau of Population, Refugees and Migration, (June 19, 2015). History of Unite d States Refugee 
+Resettlement , retrieved from 
+http://www.state.gov/j/prm/releases/factsheets/2015/244058.htm  
+Jaranson, J. M., J. Butcher, et al. (2004). Somali and Oromo refugees: correlates of torture and trauma 
+history, American Journal of Public Health,  94(4) , 591 -598.  
+Keller, A. S., B. Rosenfeld, et al. (2003). Mental health of detained asylum seekers, Lancet, 362(9397) , 
+1721 -1723.  
+Liberati, A., Altman, D. G., Tetzlaff, J., Mulrow, C., Gøtzsche, P. C., Ioannidis, J. P. A., … Moher, D. (2009). 
+The PRISMA  Statement for Reporting Systematic Reviews and Meta -Analyses of Studies That 
+Evaluate Health Care Interventions: Explanation and ElaborationPRISMA: Explanation and 
+Elaboration. Annals of Internal Medicine , 151(4), W –65. Retrieved from 
+http://dx.doi.org/10.7326/0003 -4819 -151-4-200908180 -00136  
+Marshall, G. N., T. L. Schell, et al. (2005). Mental health of Cambodian refugees 2 decades after 
+resettlement in the United States, Journal of the American Medical Association, 294(5) , 571 -579.  
+Mollica , R. F., C aspi-Yavin , Y., B ollini , P., T ruong , T., T or, S., & L avelle , J. (1992). The Harvard Trauma 
+Questionnaire: Validating a Cross -Cultural Instrument for Measuring Torture, Trauma, and 
+Posttrau matic Stress Disorder in Indochinese Refugees. The Journal of Nervous and Mental 
+Disease, 180(2) . Retrieved from 
+http://journals.lww.com/ jonmd/Fulltext/1992/02000/The_Harvard_Trauma_Questionnaire__V
+alidating_a.8.aspx  
+Shannon, P. J., Vinson, G. A., Wieling, E., Cook, T., & Letts, J. (2014). Torture, War Trauma, and Mental 
+Health Symptoms of Newly Arrived Karen Refugees. Journal of Loss and Trauma , 1–14. 
+http://doi.org/10.1080/15325024.2014.965971  
+Willard, C., Rabin, M., & Lawless, M. (2013). The Prevalence of Torture and Associated Symptoms in 
+United States Iraqi Refugees. Journal o f Immigrant and Minority Health , 1–8. 
+http://doi.org/10.1007/s10903 -013-9817 -5 
