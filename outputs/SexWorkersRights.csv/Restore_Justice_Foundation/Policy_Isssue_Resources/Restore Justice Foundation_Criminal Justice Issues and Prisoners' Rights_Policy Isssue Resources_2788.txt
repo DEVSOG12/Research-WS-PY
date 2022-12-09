@@ -1,0 +1,1028 @@
+A Primer on Parole in Illinois  
+April 2018 
+ 
+In 1978, Illinois abolished discretionary parole system . Today, it remains one of just sixteen 
+states (plus the D istrict of Columbia) without any means for incarcerated people to earn 
+parole . While not the only factor, the aband onment  of parole  has contributed directly to 
+increase d sentence lengths  and more crowded pris ons. 
+ 
+I. What is parole ? 
+Parole describe s the practice of releasing inmates before the completion of their maximum, 
+court -appointed sentence . These released individuals —or parolees —then serve the 
+remainder of their sentence under a period of supervise d and conditional r elease , during 
+which failure to follow certain rules  may lead to the revocation of parole . 
+There are two types of p arole—discretionary and mandatory —that differ in how release is  
+granted . 
+In discretionary systems, release is granted following a decision by a parole board, which  
+grants or withholds parole based on  its assessment  of individual cases . 
+In contrast, mandatory systems automatic ally release individu als to parole (i.e. without a 
+hearing) when certain  legally binding  conditions are met . This type of parole is reserved for 
+individuals serving time for less serious offenses . Mandatory parole can also describe  the 
+practice of automatical ly releasing individuals to serve a pre-set final portion of a court -
+appointed sentences (e.g. the last 6 months) outside prison walls and under supervision.  
+Parole is related to the concepts of indeterminate and determinate sentencing . When a 
+person is eligible for discretionary parole, they receive an indeterminate sentence range 
+(e.g. 3 to 7 years, 45 to 170 years). Individuals become eligible for parole at the minimum of 
+the sentenc e range and may remain behind bars without being granted parole for up to the 
+maximum for the rang e, after wh ich they are automatically released . 
+In contrast, determinate sentences are set terms (e.g. 8 years, 3 0 months) . Because they 
+are predetermined, individual s given determinate sentences cannot earn parole , though 
+they still be released earlier than their  court -appointed term through other mechanisms . 
+Other types of supervised or early release  
+Sometimes, t he term “ parole ” is used to refer to other mechanisms of early release , or 
+other types of post-prison supervision . A number of these practices —and how they  differ  
+from parole —are described below:  
+• Post -sentencing judicial review . Generally , a judge’s sentence is final and 
+immutable . Sometimes , however,  states may allow some individuals  to receive  a 
+modified sentence . These reviews are often limited to individuals who meet 
+certain  narrow criteria . For instance, the  Suprem e Court case Miller v. Alabama  
+(and the  following Montgomery v . Louisiana  cases)  outlawed the sentencing  of 
+children to mandatory life without parole and required all individuals serving that sentence to receive  new modified sentences . In Illinois, this amounted  to roughly 
+one hundre d people . 
+    This process is distinct from parole , which  does not change the base sentence 
+but rather where and how a sentence is served . Perhaps more saliently , these 
+types of review are often narrow, making them  a less common pathway  for early 
+release versus parole . 
+ 
+• Executive p ardon s and commutation . Governors have th e power to pardon or 
+commute the sentences of inmates held in state prison . Governor s may elect to 
+reduce an inmate’s sentence down to “time served,” effectively releasing  the 
+inmate . Other times, governors can shorten but not fully commute a sentence to 
+a point where the inmate serve s a shortened  period behind bars. In Louisiana, for 
+instance, governors can alter life sentences to termed , non-life sentences  (e.g. 
+fifty ye ars), which allows those inmates to be eventually released , potentially 
+through discretionary  parole . As a rel ease mechanism pardons and commutations 
+are powerful . However, they are granted relatively rarely  and alter base 
+sentences , unlike parol e. 
+ 
+• Mandatory supervised release (MSR) . In Illinois , individuals convicted of certain 
+offenses must serve a mandatory period of post-prison supervision  known as 
+MSR. Individuals under MSR must follow the same rules and conditions as parole 
+and may be returned to prison for violating  those terms.  
+    Unlike parole, MSR terms are alway s served after  the full completion  of a 
+court -appointed prison sentence . In this way, MSR functions as an additional  
+penalty  for serious crime s and never  as a means  of early release . For that reason , 
+it is misguided to consider MSR an appropriate substitute for either discretionary 
+or mandatory parole.  
+ 
+II. Reducing repeat crimes or reducing recidivism : not the same thing  
+When state legislatures across the nation began abolishing parole in the late  1970s , their 
+rationale was often that parole failed to increase public safety or reduce repeat offenses.  
+And indeed, old data plus a few isolated cases of parolees committing new serious crimes 
+did seem to suggest the inefficiency of parole.  
+More up -to-date r esearch now shows discretionary parole can effectively reduce the 
+likelihood of new crimes.  The Pew Charitable Trusts  found that parolees in New Jersey 
+were 36  percent  less likely to commit new crimes and return to prison compared to “max -
+outs,”  or individuals released at the end of their term and without parole supervision. 
+Separately, a 2005 study by the Urban Institute  compared the benefits of discretionary 
+parole to both unc onditional releases and mandatory parole.1 The authors of the Urban 
+study found that for black men with few prior arrests and women, parole could reduce the 
+predicted likelihood of their re arrest  by up to 20 and 34 percentage points, respectively, 
+compared to unconditional r elease.  
+Technical violations, not new crimes, drive most of parole rearrests  
+                                                            
+1 In Illinois, mandatory supervised release (MSR) may be considered mandatory parole, since MSR individuals 
+must follow the same parole guidelines as Illinois’ handful of discretionary parolees.  Some studies suggest parole does not effectively reduce recidivism . These studies  point to 
+the comparable rates of recidivism between parolees and individuals released without 
+supervision at the end of their prison terms.  
+But recidivism definitions are inconsistent. Some sources of data fail to differentiate 
+technical violations from new crimes, rearrests from returns to prison, or new felony 
+convictions from new misdemeanor convic tions (for more on the topic of recidivism, you 
+can check out o ur resource on understanding recidivism ). 
+Only parolees and other individuals under parole -like supervision may be arrested and 
+returned to prison for technical violations . This can include missing an appointment with a 
+parole officer, alcohol consumption, or failing to find a suitable  home.  
+When data sources distinguish between technical violations and other offenses , the 
+benefits of parole become clearer. For instance, in their 2015 report , the Bureau of Justice 
+Statistics (BJS) reported that while 34  percent  of Illinois’ over 24,300 individuals exiting2 
+mandatory supervised release (MSR) or parole returned to prison, only 1 in 5 of these 
+individuals were re -imprisoned for new crimes. That means that for all individuals in Illinois 
+exiting parole -like supervision in 2015, only about 7  percent  were reincarcerated for new 
+offenses.  
+These data are especially noteworthy when one considers that the m ajority of “parolees ” in 
+Illinois  are on MSR and not parole. This means that most of these released individ uals were 
+not granted  release based on a careful assessment of their likelihood  to reoffend.  
+People convicted of violent offenses are less likely to reoffend  
+Many express concern that granting parole to individuals convicted of violent offenses 
+means that —should they offe nd—these individuals will inevitably  commit new violent 
+crimes . But the data tells another story . 
+Table 1 reports data from BJS on the rates at which individuals with different types of prior 
+offense are rearrested, reconvicted or sent back to prison for n ew felony sentences within 
+3 years.3 
+Table 1. Rates of rearrest, reconviction and returns to prison with new sentence within 3 
+years, stratified by number of prior arrests and offense type  
+ Rearrested (any 
+reason)  Reconvicted 
+(misdemeanor or 
+felony)  Returned to prison  
+<2 prior arrests  
+  Homicide  29.8%  13% 6.9% 
+  Rape/Sexual 
+assault  27.8%  13.9%  7.4% 
+  All other violent 
+crime4 50.2%  31.6%  16.1%  
+                                                            
+2 Generally, individuals “exit” parole or mandatory supervised rele ase when they complet e their assigned 
+supervisory period or are returned to incarceration.  
+3 The rate of reimprisonment is distinct from the rate of reincarceration. Reimprisonment only counts returns to 
+prison, whereas the rate of reincarceration counts r eturns to either jail or prison.  
+4 Includes robbery and assault, among others ; excludes rape and sexual assault.    All property 
+crime5 57.6%  38.6%  22.6%  
+  Drug 
+poss./traffic  39.2%  23.7%  13.5%  
+2 or more prior arrests  
+  Homicide  47.1%  25.3%  14% 
+  Rape/Sexual 
+assault  52% 31% 15.5%  
+  All other violent 
+crime  71.6%  48.5%  25.8%  
+  All property 
+crime  75.5%  55.2%  32.4%  
+  Drug 
+poss./traffic  69.7%  49.3%  26.6%  
+Note: Data were sourced from the BJS Pr isoner Recidivism Analysis Tool of 1994. A more recent 2005 dataset 
+from BJS only reported rates of rearrest and provides no data on rates of reconviction or reimprisonment.  
+These data suggest that:  
+• Regardless of the number of prior arrests, people convict ed of violent crimes are less 
+likely to return to prison for a new sentence than those convicted of property crimes.  
+• While often considered the most irredeemable, individuals convicted of murder are 
+least likely to return to prison with new convictions,  especially if they had few prior 
+arrests.  
+• Regardless of offense type,  individuals with fewer prior arrests are less likely to 
+recidivate compared to those with more prior arrests.  
+What about the relationship between a person’s original offense and subsequent  ones? 
+When they do commit new crimes, are people previously convicted of violent offenses more 
+likely to commit new violent felonies upon release?  
+A study on from BJS sought to answer this question by examining the correlation between 
+a person’s original committing offense and arrests for subsequent, post -release offenses. 
+Table 2  recreates a BJS table on 5 -year rearrest rates for prisoners from 30 states, broken 
+out by original and post -release offense.  
+Table 2. Rate at which individuals are rearrested wi thin 5 years for certain types of offense, 
+based on type of original committing offense  
+Original 
+Offense  Percent of released prisoners arrested within 5 years for a…  
+Violent offense  Property 
+offense  Drug offense  Public order 
+offense  
+Violent  33.1%  29.7%  28.2%  55.3%  
+Property  28.5%  54.0%  38.5%  61.9%  
+Drug 24.8%  33.1%  51.2%  56.1%  
+Public Order  29.2%  32.7%  30.0%  59.6%  
+Note: Data were drawn from the BJS Special Report on Recidivism of Prisoners Released in 30 States in 2005: 
+Patterns from 2005 to 2010 . 
+                                                            
+5 Includes burglary, larceny/theft and motor vehicle theft, among others  Recal l that rearrests  do not automatically equate to new convictions or prison terms (as 
+evidenced in Table 1 ). 
+No matter what an individual’s original offense, BJS found that the most serious offense for 
+over half of all rearrested individuals were for public order offenses, which include 
+disorderly conduct, loitering, and similar crime s. 
+And while those convicted of violent crimes were more like than other individuals to be 
+rearrested for a violent offense, they are also less likely than individuals convicted of 
+property crimes from reoffending in the first place.  
+Parole supervision c osts less than incarceration  
+According to a 2015 spokesperson  from the  Illinois  Department of Corrections, it costs 
+Illinois roughly $22,000 to house an inmate for one year, compared to the $2,000 it costs 
+annually to place that person on parole. This lines up with national data from a Pew study 
+that put the cost of placing a person behind bars for a single day is on par with 10 days of 
+parole supervisi on. 
+ 
+III. Designing parole systems: how other states do it  
+Among the 33 states that offer parole, there is wide variation in how parole systems 
+operate. States differ in how they define parole eligibility, and how they address re -hearings 
+following a decision b y the board to deny parole. Still, a number of trends are evident:  
+• Of the 33 states that offer parole,  18 do NOT automatically exclude individuals 
+convicted of homicide from earning parole , while 15 do.  
+• With few exceptions, states with parole permit indivi duals convicted of violent, non -
+homicide offenses to earn parole.  
+• Many states with parole restrict eligibility in cases of repeat serious offenses.  
+• Many states do not limit the number of times a person’s case may be re -heard.  
+• Some states have established  special avenues for children and young people to earn 
+parole where they otherwise would not be eligible.  
+ 
+Are individuals convicted of violent offenses eligible for parole in these states?  
+States diverge on how individuals convicted of violent offenses are treated in terms of 
+parole eligibility. Overall, many (but not all) of states require individuals to serve a longer 
+portion of their court -dispensed sentence behind bars (as can be seen in the above 
+examples). That said, most states do not allow parole for  individuals who receive 
+convictions for separate violent offenses.  
+A few more examples:  
+• Connecticut . In Connecticut, individuals convicted of one of four violent offenses —
+murder, capital felony murder, arson murder, and first -degree aggravated sexual 
+assault—are parole -ineligible.  
+• Iowa. While most individuals must serve one -third of their indeterminate sentence 
+behind bars before becoming parole -eligible, individuals sentenced for a number of 
+violent offenses —including second -degree murder, attempted murde r, and first -
+degree robbery —only become eligible after serving 70  percent  of their sentence. Individuals convicted of attempted murder of a peace officer and murder committed 
+by non -juveniles are parole -ineligible.  
+• Nevada . Nevada does not exclude individuals from  parole eligibility based on nature 
+of offense, unless those individuals are condemned to death or sentence to life 
+without the possibility of parole.  
+How many times and how regularly may a person be reconsidered for parole following a 
+denial in states tha t offer parole?  
+With few outliers, most states with parole do not limit the number of times a case can be 
+reheard following a parole denial. Rather, reconsideration is restricted more by the 
+limitations states place on the period of time individuals must w ait before applying for re -
+hearing. Some states grant parole boards the authority to determine that period, while 
+others designate a time window.  
+A few examples:  
+• California . When California’s parole board chooses to deny parole, it also establishes 
+the per iod until an individuals’ case can be reheard. The parole board is allowed to 
+set a period of 3, 5, 7, 10 or 15 years, though inmates can file petitions for earlier 
+parole reconsideration.  
+• Similar states : Connecticut also grants its parole board the author ity to set 
+the period until a future re -hearing. Unlike California, however, Connecticut’s 
+parole board may choose to indefinitely deny further hearings. Missouri’s 
+parole board also assigns wait periods following denial, on the order of 1 to 5 
+years.  
+• Geor gia. For non -life sentences, individuals are automatically reconsidered for parole 
+every 5 years following a denial; individuals serving life are reconsidered every 8 
+years.  
+• Similar states: West Virginia permits annual re -hearings for most sentences, 
+and e very 3 years for life sentences. Once a person has served their 
+mandatory minimum, Iowa requires annual re -hearings for individuals denied 
+parole, unless that person is serving a life sentence.  
+• Louisiana . Following a denial, individuals may request a re -hearing after (1) six 
+months for non -violent offenses; (2) annually for violent offenses; or (3) two years 
+for sex offenses murder, or manslaughter. Requests do not guarantee a re -hearing, 
+and requests may be denied for up to ten years , after which an indivi dual’s case for 
+parole must be reconsidered.  
+Are individuals convicted of violent offenses eligible for parole in these states?  
+States diverge on how individuals convicted of violent offenses are treated in terms of 
+parole eligibility. Overall, many (but n ot all) of states require individuals to serve a longer 
+portion of their court -dispensed sentence behind bars (as can be seen in the above 
+examples). That said, most states do not allow parole for individuals who receive 
+convictions for separate violent of fenses.  
+A few more examples:  
+• Connecticut . In Connecticut, individuals convicted of one of four violent offenses —
+murder, capital felony murder, arson murder, and first -degree aggravated sexual 
+assault —are parole -ineligible.  
+• Iowa. While most individuals must  serve one -third of their indeterminate sentence 
+behind bars before becoming parole -eligible, individuals sentenced for a number of 
+violent offenses —including second -degree murder, attempted murder, and first -degree robbery —only become eligible after servi ng 70% of their sentence. Individuals 
+convicted of attempted murder of a peace officer and murder committed by non -
+juveniles are parole -ineligible.  
+• Nevada . Nevada does not exclude individuals from parole eligibility based on nature 
+of offense, unless those  individuals are condemned to death or sentence to life 
+without the possibility of parole.  
+How many times and how regularly may a person be reconsidered for parole following a 
+denial in states that offer parole?  
+With few outliers, most states with parole d o not limit the number of times a case can be 
+reheard following a parole denial. Rather, reconsideration is restricted more by the 
+limitations states place on the period of time individuals must wait before applying for re -
+hearing. Some states grant parole  boards the authority to determine that period, while 
+others designate a time window.  
+A few examples:  
+• California . When California’s parole board chooses to deny parole, it also establishes 
+the period until an individuals’ case can be reheard. The parole bo ard is allowed to 
+set a period of 3, 5, 7, 10 or 15 years, though inmates can file petitions for earlier 
+parole reconsideration.  
+• Similar states : Connecticut also grants its parole board the authority to set 
+the period until a future re -hearing. Unlike Cali fornia, however, Connecticut’s 
+parole board may choose to indefinitely deny further hearings. Missouri’s 
+parole board also assigns wait periods following denial, on the order of 1 to 5 
+years.  
+• Georgia . For non -life sentences, individuals are automatically r econsidered for parole 
+every 5 years following a denial; individuals serving life are reconsidered every 8 
+years.  
+• Similar states: West Virginia permits annual re -hearings for most sentences, 
+and every 3 years for life sentences. Once a person has served th eir 
+mandatory minimum, Iowa requires annual re -hearings for individuals denied 
+parole, unless that person is serving a life sentence.  
+• Louisiana . Following a denial, individuals may request a re -hearing after (1) six 
+months for non -violent offenses; (2) ann ually for violent offenses; or (3) two years 
+for sex offenses murder, or manslaughter. Requests do not guarantee a re -hearing, 
+and requests may be denied for up to ten years , after which an individual’s case for 
+parole must be reconsidered.  
+What sort of yo uth-specific parole (or parole -like) systems exist in other states?  
+Many states have enacted policies that provide special consideration to individuals who 
+enter prison as young people. A few examples:  
+• California . Individuals serving long sentences for off enses committed  before age 23 
+become eligible for parole review after 15, 20, or 25 years served. This program 
+excludes individuals serving sentences for certain sex offenses or multiple prior 
+violent felonies.  
+• Connecticut . As of 2015, Connecticut retroac tively granted parole eligibility to 
+individuals who entered prison before age 18 with sentences of 10 years or longer.  
+For individuals serving sentences 50 or less years, parole eligibility is granted after 
+the longer of 60% of sentence served or 12 years ; individuals serving longer 
+sentences become eligible after 30 years.  • Florida . For juveniles sentenced to life, Florida grants eligibility for a post -sentencing 
+judicial review after 15, 20, or 25 years served, depending on the offense. While 
+similar in s ome ways, post -sentencing review is not the same as parole, since the 
+granting of parole does not change the original sentence. Individuals granted a 
+reduced sentence under this program must serve a mandatory probation period of up 
+to 5 years.  
+• Iowa. In Iow a, individuals convicted of first -degree murder or sexual assault leading 
+to serious injury are ineligible for parole  unless the individual was under 18 at the 
+commission of offense, in which case parole eligibility is granted at 25 years.  
+ 
+IV. Sources  
+A speci al thanks to Jean Snyder and the team at Project 1 -11. 
+Illinois Sentencing Policy Advisory Council, Illinois Results First: The High Cost of Recidivism . 
+(Springfield, IL: Illinois Sentencing Policy Advisory Council, 2015). 
+http://www.icjia.state.il.us/spac/pdf/Illinois_Results_First_1015.pdf . 
+The Pew Charitable Trusts, The Impact of Parole in New Jersey  (Washington, DC: The Pew 
+Charitable Trusts, November 2013). 
+http://www.pewtrusts.org/~/media/legacy/uploadedfiles/pcs_assets/2013/psppnjparolebrief
+pdf.pdf   
+Solomon, A., Kachnowski, V. and Bhati, A., Does Parole Work ? Analyzing the Impact of 
+Postprison Supervision on Rearrest Outcomes  (Washington, DC: The Urban Institute, March 
+2005). http://webarchive.urban.org/UploadedPDF/311156_Does_ Parole_Work.pdf . 
+Mills. S., “State keeps 1,250 parolees behind bars due to housing shortage” (Chicago, IL: 
+Chicago Tribune, January 2015). http://www. chicagotribune.com/news/local/ct -violating -at-
+the-door-met-20150125 -story.html   
+Kaeble, D. and Bonczar, T., Probation and Parole in the United States, 2015  (Washington, DC: 
+U.S. Department of Justice, February 2017). 
+https://www.bjs.gov/content/pub/pdf/ppus15.pdf . 
+Shihadeh, E., Nordyke, K., and Reed, A., Recidviism in the State of Louisiana: An analysis of 
+3- and 5 -year Recidivism Rates Among Long -Serving Offenders  (Baton Rouge, LA: Louisiana 
+State University, August 2013).  
+Alper. M., By the Numbers: Parole Release and Revocation Across 50 States  (Minneapolis, 
+MN: University of Minnesota Law School, April 2016). 
+https://robinainstitute.umn.edu/publications/numbers -parole -release -and-revocation -
+across -50-states . 
+Thomas, J., Slaughter, C., and Shone, Meaghan, State of Montana Board of Pardons and 
+Parole: 2015 Biennial Report  (Deer Lod ge, MT: Montana Board of Pardons and Parole, 
+January 2015).  
+Pew Center on the States, One in 31: The Long Reach of American Corrections  (Washington, 
+DC: The Pew Charitable Trusts, March 2009). 
+http://www.pewtrusts.org/~/media/assets/2009/03/02/pspp_1in31_report_final_web_32609.
+pdf  Appendix A.  Rules for parole eligibility and consideration in select 
+states  
+ 
+ Requirement
+s for parole 
+eligibility  Offenses 
+excluded?  Violent 
+included
+? How many 
+chances for 
+consideration
+? Wait time 
+after 
+denial?  
+California  Prop 57 : eligible 
+after having 
+served the “full 
+term of their 
+primary offense,” 
+excluding 
+imposition of an 
+enhancement, 
+consecutive 
+sentence, or 
+alternative  
+sentence6 
+ 
+SB 260/261 : For 
+individuals who 
+commit crimes up 
+to age 22, 
+eligibility after 
+serving 15, 20, or 
+25 years7 for non -
+LWOP offenses; 15 
+years for anyone 
+with no non -life 
+sentences, 20 or 
+25 based on 
+longest other life 
+sentence (if less 
+than 25 -to-life, 
+eligible after 20)  
+ 
+Elderly : available 
+to inmates over 
+age 60 who have 
+served 25 years of 
+a determinate OR 
+indeterminate 
+sentence8 
+(excluding death 
+row, life without 
+parole sentences)  Prop 57 : 
+Individuals on 
+death row, 
+serving life 
+without 
+possibilit y of 
+parole, 
+individuals 
+serving sentences 
+for violent 
+felonies (or who 
+previously 
+completed a 
+violent felony 
+sentence) or sex 
+offenses9 
+ 
+SB 260/261 : 
+Excludes 
+individuals 
+sentenced under 
+“3 strikes” or “2 
+strikes” violent 
+offense laws, or 
+“1 strike” sex 
+offense laws; or 
+individuals who 
+committed a new 
+crime after age 
+23 and given a 
+life sentence, or 
+if the crime was 
+murder, assault 
+with a deadly 
+weapon likely to 
+produce bodily 
+injury committed 
+while serving a 
+life sentence  
+ Prop 57 : NO; 
+violent 
+offenses are  
+explicitly 
+excluded  
+ 
+SB 260/261 : 
+YES 
+ 
+Elderly : YES There does not 
+appear to be a limit  When denied, 
+board decides 
+to deny for 3, 
+5, 7, 10, or 15 
+years10; 
+inmates may 
+file petitions to 
+advance 
+(receive re -
+hearing) every 
+3 years  
+Connecticu
+t Eligible after 5 0% 
+time served for 
+non-violent 
+offenders; 85% 
+time served for 
+violent offenders11; 
+for either 
+category, after at 
+least 2 years and 1 
+day served  
+ 
+As of 2015, 
+individuals 
+sentenced as 
+juveniles to 10 -50 Murder, capital 
+felony murder 
+felony murder, 
+arson murder, 
+first degree 
+aggravated sexual 
+assault13 Some (see 
+exclude d 
+offenses)  No guarantee of 
+additional chances. 
+When denied, the 
+panel “will further 
+determine, if, and 
+when, the inmate 
+may re -apply” 
+(emphasis added); 
+however, new 
+hearings may be 
+requested —though 
+not necessarily 
+granted —following 
+“extenuating 
+circumstan ces” No guarantee; 
+parole board 
+may determine 
+that no further 
+chances will be 
+provided  
+ 
+Juveniles 
+serving long 
+sentences may 
+receive re -
+hearings at 
+least 2 years 
+after the 
+original parole                                                             
+6 https://www.cdcr.ca.gov/proposition57/docs/FAQ -Prop-57-Nonviolent -Parole -Process.pdf   
+7 http://prisonlaw.com/wp -content/uploads/2016/05/SB -260-261-Youth -Offender -Parole -Guide -w-ltr.pdf   
+8 https://www.cdcr.ca.gov/BOPH/docs/Policy/Elderly_Parole_Program_Overview.pdf   
+9 https://www.cdcr.ca.gov/proposition57/docs/FAQ -Prop-57-Nonviolent -Parole -Process.pdf  
+10 https://www.cdcr.ca.gov/Victim_Services/parole_process.html   
+11 Manslaughter, assault,  strangulation, sexual assault, kidnapping, home invasion, burglary, arson, robbery, 
+assault of policeman/fireman, prison rioting  
+13 http://www.ct.gov/bopp/cwp/view.asp?a=4330&q=508186   
+12 https://www.cga.ct.gov/2015/ACT/pa/pdf /2015PA -00084 -R00SB -00796 -PA.pdf   
+14 http://www.ct.gov/doc/lib/doc/p df/paroleGuide.pdf   
+15 https://www.flsenate.gov/Session/Bill/2014/7035/BillText/er/PDF   
+16 Murder, manslaughter, sexual battery, armed burglary/robbery/carjacking, home -invasion  robbery, human 
+trafficking for commercial sexual activity with child, false imprisonment, kidnapping.  
+17 http:// archive.flsenate.gov/Statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0900 -
+0999/0947/Sections/0947.174.html   
+18 https://pap.g eorgia.gov/sites/pap.georgia.gov/files/ParoleConsideration/Post%202006%20CSL%20chart.pdf   
+19 https://pap.georgia.gov/parole -process -georgia -0  
+21 https://pap.georgia.gov/frequently -asked -questions -0#field_related_links -103-3  years retroactively 
+become eligible 
+after serving the 
+longer of 12 years 
+or 60% of 
+sentenced; 
+individuals 
+sentenced as 
+juveniles to 50+ 
+years become 
+retroactively 
+eligible after 30 
+years served12 
+ that include 
+deterioration of 
+health and “new 
+information of 
+compelling 
+nature”14 denial, not 
+subject to 
+appeal; no 
+guarantee of 
+re-hearing.  
+Florida  Like Illinois, 
+Florida is primarily 
+a determinate 
+sentencing state; 
+however, it does 
+provide post -
+sentencing review 
+for some 
+juveniles.  
+ 
+After 15, 20, or 25 
+years served —
+based  on 
+offense —juveniles 
+sentenced to life 
+receive a 
+guaranteed, post -
+sentencing judicial 
+review (not 
+specifically 
+parole).15 
+ No offenses bars 
+juveniles from 
+receiving post -
+judicial review, 
+but individuals 
+who were 
+previously 
+convicted of 
+another  prior 
+seriou s offense 
+are excluded.16 
+ YES There does not 
+appear to be a 
+limit… but I’m not 
+sure whether 
+standard rules 
+apply for the 
+juveniles  For the 
+remaining 
+individuals still 
+serving 
+indeterminate 
+sentences: 
+every 7 years 
+for murder, 
+attempted 
+murder, sexual 
+batte ry, or 
+attempted 
+sexual battery, 
+or any inmate 
+who has been 
+sentenced to a 
+25-year 
+minimum 
+mandatory 
+sentence; or 2 
+years for all 
+other crimes17 
+Georgia  15-26 months for 
+lowest level 
+crimes up to 90% 
+of prison 
+sentence or 
+ineligible;18 or 33% 
+of sentence19; 
+after 14 years (or 
+30 if committed Non-life 
+sentences for 
+serious violent 
+felony committed 
+after January 1, 
+1995 (life 
+sentences for 
+these offenses 
+are eligible on YES There does not 
+appear to be a limit  Every 5 years 
+for non -life 
+sentences, 
+every 8 years 
+for life 
+sentences21                                                             
+20 https://pap.georgia.gov/parole -process -georgia -0  
+22 https://www.legis.iowa.gov/docs/publications/LGI/87/HF579.pdf   
+23 https://law.justia.com/c odes/iowa/2016/title -xvi/chapter -902/section -902.11/   
+24 https://www.legis.iowa.gov/docs/code/2015/902.12.pdf  
+25 https://www.legis.iowa.gov/DOCS/Central/Guides/LBB/70percent.pdf   
+26 http://doc.louisiana.gov/parole -and-pardon -board -policies/   
+27 https://law.justia.com/codes/louisiana/2016/code -revisedstatutes/title -15/rs-15-574.4   
+28 Violent : Murder (1st, 2nd, solicitation for, manslaughter), battery (aggravated, 2nd), assault, rape (aggravat ed/1st, 
+forcible/2nd, simple/3rd), sexual battery, intentional exposure to AIDS  virus, kidnapping (aggravated, 2nd, simple), 
+aggravated arson, aggravated criminal damage to property, aggravated burglary, robbery (armed, 1st, simple), 
+purse snatching, assa ult by drive -by shooting, aggravated crime against nature, carjacking, terrorism, aggravated 
+2nd degree battery, aggravated assault (upon peace officer; with a firearm), robbery (armed, 2nd), disarming of 
+peace officer, stalking, 2nd degree cruelty to juve niles, aggravated flight from an officer, battery of a police 
+officer, trafficking of children for sexual purposes, human trafficking, home invasion, domestic abuse aggravated after July 1, 2006) 
+for life sentences 
+for sexual battery, 
+child molestation, 
+sodomy (all 
+aggravated), 
+armed robbery, 
+kidnapping, rape, 
+or murder  
+ different time -
+line); fourth -time 
+repeat offenders; 
+individuals 
+sentenced to life 
+without parole20 
+Iowa  At least the 
+mandatory 
+minimum or one -
+third of maximum 
+indeterminate 
+sentence22; 50% 
+of maximum 
+indeterminate for 
+repeat forcible 
+felons23 or for 
+manufacture/ 
+delivery/ 
+possession of 
+certain controlled 
+substance 
+amounts; 70% of 
+sentence for 
+second-degree 
+murder, 
+attempted 
+murder, 2nd 
+degree sexual 
+abuse or 
+kidnapping, 1st 
+degree robbery; 
+vehicular 
+homicide24,25; 25 
+years for 
+individuals who 
+commit “class A” 
+felonies before 
+age 18  
+ Attempted 
+murder of a 
+peace officer; 
+first-degree 
+murder 
+committed  by 
+non-juveniles  YES There does not 
+appear to be a limit  Once 
+mandatory 
+minimum is 
+served, re -
+hearings occur 
+annually; no 
+secondary 
+review for 
+individuals 
+serving life 
+sentences  
+Louisiana26 25% of time 
+served for most 
+first felony 
+offenses27; 33% 
+for viole nt/sex 
+offenses28; 50% Individuals 
+serving sentences 
+for a third felony 
+(habitual 
+offender); serial 
+sexual offenders;  YES There does not 
+appear to be a limit  May request 
+new hearings 6 
+months after 
+denial for non -
+violent, 1 year  
+for other                                                             
+assault, drunk vehicular homicide, aggravated assault of a dating partner 
+(https://legis.la.gov/Legis/Law.aspx?d=78337 ) 
+ Sex: Rape (1st, 2nd, 3rd, forcible, simple), sexual battery, kidnapping (various), aggravated crime against nature, 
+molestation of child with physical/ment al disability, sexual battery of person with infirmities, trafficking of 
+children for sexual purposes or human trafficking, purchase of commercial sexual activity with juvenile/victim of 
+human trafficking ( http://www.legis.la.gov/Legis/Law.aspx?d=79160 ) 
+29 https://law.justia.com/codes/louisiana/2016/code -revisedstatutes/title -15/rs-15-574.4   
+30 http://doc.louisiana.gov/media/1/2015/09/07 -705-POL-APPLICATION -FOR-REHEARING -September -2015.pdf   
+31 http://doc.louisiana.gov/media/1/2015/09/07 -705-A-DIR-REHEARING -GUIDELINES -September -2015.pdf   
+32 https://doc.mo.gov/Documents/pr ob/Blue -Book.pdf   for second felony 
+offenses unless 10 
+or more years 
+have expired and 
+end of previous 
+sentence (then 
+it’s 33%), not 
+applicable to 
+violent/sex 
+offenses; 
+consideration for 
+inmates 45 and 
+older after 25 
+years served for 
+30+ year non -life 
+sentences 
+(excludes 
+violent/sex); 15 
+years for  heroin -
+related life 
+sentences; at age 
+60 after 10 years 
+served 
+(sex/violent 
+excluded); 18 -25 
+year-olds 
+sentenced to life 
+after serving 25 
+years for non 
+sex/violent29; for 
+juveniles serving 
+life, eligible after 
+30 years served or 
+35 for 1st//2nd 
+degree murder  
+ violent, and 2 
+years for sex 
+offense, 
+murder, and 
+manslaughter;
+30 however, 
+these re -
+hearing 
+requests can 
+be denied for 
+up to 10 years, 
+after which 
+they must be 
+reheard31 
+Missouri  33% time served 
+for sexual/child 
+abuse and violent 
+offenses; at lea st 
+15 years served 
+for offenders 
+serving life or 
+consecutive 
+sentences of 45 
+years or more; 
+lesser offenses 
+after 15, 20, or 
+25% time served; 
+superseding all, 
+individuals who 
+entered under age 
+18 may petition Parole Board may 
+elect to withhold 
+granting a parole 
+eligibility date to 
+individuals 
+serving multiple 
+life sentences or 
+life sentences 
+plus other 
+concurrent/ 
+consecutive 
+sentences – not 
+based on offense 
+alone;32 these are 
+all case -by-case, 
+however, and 
+there ar e no laws  YES There does not 
+appear to be a limit  Between 1 -5 
+years                                                              
+33 http://leg.mt.gov/bills/mca/title_0460/chapter_0230/part_0020/section_0010/0460 -0230-0020-0010.html   
+34 http://leg.mt.gov/bills/mca/title_0460/chapter_0180/part_0020/section_0190/0460 -0180-0020-0190.html   
+35 http://www.mtrules.org/gateway/ruleno.asp?RN=20%2E25%2E402   
+37 
+http://parole.nv.gov/uploadedFiles/parolenvgov/content/Eligibility/February%202018%20FINAL%20Parole%20Eligi
+bility%20List.pdf   
+38 https://www.leg.state.nv.us/73rd/Interim/Studies/Pardons/exhibits/19803G.pdf   for parole after 25 
+years served  
+ that automatic 
+offense -based 
+ineligibility  
+ 
+Montana  25% of time 
+served, 
+automatically 
+considered; or 30 
+years for life 
+sentences33 Individuals 
+sentenced to 
+death and life 
+without parole; 
+or two sep arate 
+convictions34 for 
+deliberate 
+homicide, 
+aggravated 
+kidnapping, 
+sexual 
+intercourse 
+without consent, 
+sexual abuse of 
+children, or ritual 
+abuse of a minor; 
+or three separate 
+convictions for 
+mitigated 
+deliberate 
+homicide, 
+aggravated 
+assault, 
+kidnapping, 
+robbery, or 
+aggravated 
+promotion of 
+prostitution  
+ YES (only 
+repeat 
+violent 
+offenses 
+exclude 
+eligibility)  There does not 
+appear to be a limit  Reviews up to 
+every 6 years 
+for individuals 
+with 10+ years 
+left of 
+sentence; 
+annual reviews 
+for inmate with 
+<5 years  left of 
+sentence, every 
+3 years for 
+inmate with 5 -
+10 years left of 
+sentence35 
+Nevada  Eligible after one -
+third of time 
+served for any 
+individuals 
+sentenced before 
+July 1, 1995; after 
+July 1, 1995, 
+courts allowed to 
+set parole 
+eligibility date at 
+ANY point from 
+twelve months 
+served at 
+minimum to 40% 
+of maximum 
+sentence  
+ 
+Assembly Bill 267 : 
+In 2015, Nevada 
+passed a bill 
+granting parole 
+eligibility to all 
+individuals There do not 
+appear to be any 
+ineligibilities (1st 
+degree murder 
+cases are up for 
+parole review37) 
+ 
+Assembly Bill 
+267: Juveniles 
+convicted of 
+offenses leading 
+to the death of 
+multiple people 
+are ineligible for 
+relief under t he 
+bill. YES There does not 
+appear to be a limit  Generally, up 
+to 3 years38 or 
+up to 5 years 
+for inmates 
+with 10+ years 
+remaining on 
+sentence, as 
+long as the 
+“bump” does 
+not extend 
+past the 
+expiration date 
+(maximum 
+sentence 
+minus credit)  
+  
+ 
+                                                            
+36 https://www.leg.state.nv.us/Session/78th2015/Bills/AB/AB267_EN.pdf   
+39 
+https://paroleboard.wv.gov/SiteCollectionDocuments/West%20Virginia%20Parole%20Board%20Procedural%20Rul
+es.pdf   sentenced for 
+non-homicide 
+offenses 
+committed before 
+age 18 after 
+serving 15 years, 
+or serving 20 
+years for homicide 
+offenses36 
+ 
+West 
+Virginia  
+(effective 
+date 
+2006)39 Eligible after 25% 
+of time served for 
+determinate 
+sentences, or the 
+minimum of 
+sentencing range 
+for indeterminate 
+sentences  
+Requires 3 years 
+served for drug 
+offenses near 
+schools; one -third 
+or 5 years of 
+sentence for 
+armed robbery 
+with firearm; 3 
+years for other 
+firearm -assisted 
+felonies; 10 years 
+for sentences of 
+“Life with Mercy”; 
+15 years for 
+sentence of “Life 
+with Mercy” for 1st 
+degree Murder; 15 
+years for sentence 
+of “Life with 
+Mercy” for three -
+time offenders 
+with caveat (see 
+exclud ed 
+offenses);  
+ 
+For concurrent 
+sentences, 
+longest of 
+minimums 
+applies; for 
+consecutive, sum 
+of minimums  
+ Repeat offenders 
+who have been 
+convicted 
+multiple times 
+for first - or 
+second -degree 
+murder; parolees 
+who commit and 
+confess to 
+treason, 1st or 2nd 
+degre e murder, 
+armed/aggravate
+d robbery, rape, 
+or 1st degree 
+sexual assault, 
+sodomy, or incest  YES There does not 
+appear to be a limit  No more than 
+12 months 
+after first 
+denial, and 
+every 12 
+months 
+thereafter; 36 
+months for 
+“Life with 
+Mercy” 
+sentences  

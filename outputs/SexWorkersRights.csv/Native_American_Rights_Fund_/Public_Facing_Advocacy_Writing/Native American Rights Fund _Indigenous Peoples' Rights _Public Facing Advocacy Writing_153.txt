@@ -1,0 +1,899 @@
+ 
+ No. 15-1874 
+____________________ _______________ 
+ 
+IN THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+____________________ _______________ 
+ 
+PRO-FOOTBALL, INC., 
+Plaintiff and Appellant , 
+ 
+v. 
+ 
+AMANDA BLACKHORSE, MARCUS BR IGGS-CLOUD; PHILLIP GOVER; 
+JILLIAN PAPPAN; COURTNEY TSOTIGH 
+Defendants and Appellees  
+ 
+UNITED STATES OF AMERICA, 
+     Intervenor-Appellee. 
+ 
+____________________ ________________ 
+ 
+On Appeal from the United Stat es District Court for the  
+Eastern District of Virginia at Alexandria, 
+No. 1:14-cv-01043-GBL-IDD 
+____________________ ________________ 
+ 
+BRIEF OF AMICI CURIAE   
+NATIVE AMERICAN ORGANIZATIONS  
+IN SUPPORT OF APPELLEES  
+  
+Larry S. Gondelman 
+Brandi A. Taylor POWERS PYLES SUTTER &  
+VERVILLE PC 
+1501 M Street NW, Seventh Floor Washington, DC 20005 COUNSEL FOR AMICI CURIAE  
+NATIVE AMERICAN 
+ORGANIZATIONS  Richard A. Guest 
+NATIVE AMERICAN RIGHTS FUND 1514 P Street NW, Suite D 
+Washington, DC 20005 
+COUNSEL FOR AMICI CURIAE  
+NATIVE AMERICAN 
+ORGANIZATIONS 
+ Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 1 of 42 
+ii  
+STATEMENT REGARDING CONSENT TO FILE 
+ 
+ The parties have consented  to the filing of briefs amicus curiae.  
+ 
+  Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 2 of 42 
+iii 
+ CORPORATE DISCLOSURE STATEMENT 
+ 
+ Pursuant to Rule 26.1 of the Fed eral Rules of Appellate Procedu re and Local 
+Rule 26.1(b)(1), amici  American Indian Council; American Indian Science and 
+Engineering Society at the Unive rsity of Minnesota; American In dian Student 
+Alliance at California State Univ ersity San Marcos; American In dian Student 
+Cultural Center at the Univers ity of Minnesota; American Indian  Studies 
+Association; American Indians in  Film & Television; Americans f or Indian 
+Opportunity; Association of Nativ e Americans at Yale University ; Association of 
+Tribal Archives, Libraries, and Museums; Association on America n Indian Affairs; 
+Blue Feather Drum Group; Californi a Indian Culture and Sovereig nty Center  at 
+California State University San M arcos; California Indian Museu m and Cultural 
+Center; Capitol Area Indian Resour ces, Inc.; Center for Indigen ous Peoples 
+Studies, College of Social and Beh avioral Sciences, California State University, 
+San Bernardino; Change the Mas cot Campaign; Council of Fire Nat ive American 
+Leadership and Debate Society; Fi rst Nations at the University of Washington; 
+Gamma Delta Pi; “Indian” Mascot  and Logo Taskforce; Indigenize OU; 
+Indigenous and American Indian Studies Club at Haskell Indian N ations 
+University; Indigenous Law and P olicy Center at the Michigan St ate University 
+College of Law; International I ndian Treaty Council; Midwest Al liance of 
+Sovereign Tribes; National Indi an Education Association; Nation al Indian Youth Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 3 of 42 
+iv 
+ Council; National Congre ss of American Indians; National Native  American Law 
+Students Association; Native Amer ican Contractors Association; Native American 
+Journalists Association; Native Am erican Law Students Associati on at the 
+University of Washington School o f Law; Scholars of Stereotypes  of Native 
+Americans in Sport; Society of American Indian Government Emplo yees; Society 
+of Indian Psychologists; Souther n California Tribal Chairmen’s Association; The 
+Morning Star Institute; United S outh & Eastern Tribes; UNLV Nat ive American 
+Community; and Wisconsin Network for Peace and Justice each sta tes that it is not 
+a publicly-held corporation, does not issue stock, and does not  have a parent 
+corporation.  
+  Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 4 of 42 
+v 
+ TABLE OF CONTENTS 
+TABLE OF AUT HORITIES .......................................... ........................................ vii  
+ 
+INTEREST OF AMICI CURIAE  .............................................................. ................. 1  
+ 
+SUMMARY OF AR GUMENT ........................................... .................................... 15  
+ 
+ARGUMENT ...................................................... ..................................................... 15  
+ 
+I. The District Court Correctly Held That the R EDSK *NS Marks Must Be Cancelled 
+Because They Consist of Matter Th at (1) May Disparage a Substan tial Composite 
+of Native Americans During the Relevant Time Period, 1967-1990,  and (2) Bring 
+Native Americans into ‘Contempt or Disrepute.’   ................................................... 15  
+ 
+A. Amici  Represent a Substantial Comp osite of Native Americans. ....... ......... 17  
+ 
+ B. Leaders of the Native American C ommunity Have Historically Oppo sed the 
+ R EDSK *NS Marks Because They Disparage Native Americans.  ........................... 19 
+ 
+C. The Personal Experiences of Na tive Americans Plainly Demonst rate That 
+the Use of “Redsk*ns” as a Sports  Mascot Exposes Native America ns to 
+Contempt, Ridicule, and Disrepute.   .............................................................. ... 25 
+ 
+D. The Use of “Redsk*ns ” as a Sports Mascot Harms Native Americ ans and 
+Misinforms the Public about Contemporary Native Americans. .... .................. 28  
+ 
+II. The Amicus  Brief Filed by Native and Non-Na tive Americans on Behalf of Pr o-
+Football Is Unpe rsuasive. ..................................... ..................................................311  
+ 
+A. Amici in Support of Pro-Football Do Not  Represent a Substantial Compo site 
+of Native Amer icans. .......................................... ............................................... 31  
+ 
+B. Amici’s Description of the First Use of  “Redsk*ns” in the 1700s and 180 0s 
+Is Irrelevant.  .............................................................. ......................................................... 31 
+ Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 5 of 42 
+vi 
+ C. The Use of “Redsk*ns” Masc ots Has Significantly Decreased Ov er the Past 
+Forty Years. .................................................. ..................................................... 32  
+ 
+CONCLUSION .................................................... .................................................... 33  
+  Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 6 of 42 
+vii 
+ TABLE OF AUTHORITIES 
+ 
+Cases  
+In re Boulevard Ent., Inc. , 334 F.3d 1336 (Fed . Cir. 2003). ............................. ...... 16 
+ 
+Trademark Trial and Appeal Board Decisions  
+Blackhorse, et al. v. Pro-Football, Inc. , 111 U.S.P.Q.2d 1080, 2014 WL 2757516 
+(T.T.A.B. 2014) ............................................... ......................................................... 17 
+ Harjo v. Pro-Football, Inc. , 50 U.S.P.Q.2d 1705, 1999 WL 375907 (T.T.A.B. 
+1999) ......................................................... ............................................................ 28  
+ In re Heeb Media, LLC , 89 U.S.P.Q.2d 1071, 2008 WL 5065114 (T.T.A.B. 2008)
+ .............................................................. ......................................................... 16, 1 7 
+ In re Squaw Valley Dev. Co. , 80 U.S.P.Q.2d 1264, 2006 WL 1546500 (T.T.A.B. 
+2006) ......................................................... ..................................................... 16, 17 
+ 
+Statutes  
+15 U.S.C. § 1052(a) ........................................... ...................................................... 15 
+ California Racial Mascots Act , A.B. 30, 2015 Le g. (Cal. 2015) ............................ 3 2 
+ 
+Other Authorities  
+Of Warrior Chiefs and Indian Princesses:  The Psychological Consequences of 
+American Indian Mascots , B
+ASIC AND APPLIED SOCIAL PSYCHOLOGY , 30: 208-18 
+(2008) ........................................................ ...............................................................  3 0  
+ Linda M. Waggoner, The Washington R*dskins’ W ily Mascot: Coach William 
+“Lone Star” Dietz , M
+ONTANA THE MAGAZINE OF WESTERN HISTORY (Spring 
+2013), http://nmai.si.edu/sites/1/files/pdf/seminars-
+symposia/WaggonerWEBSpr2013.pdf   ............................................................. .. 19 
+ 
+ Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 7 of 42 
+1 
+ INTEREST OF AMICI CURIAE1 
+ 
+ In its Opening Brief, Appellant Pro-Football, Inc., attempts t o relegate the 
+voices of prominent leaders of Na tive American organizations ov er the past five 
+decades to a minority “heckler’s  veto.”  (PFI Br. 48.)  What Pr o-Football cannot 
+dismiss is the content of the J anuary 18, 1972 letter to then-P resident of the 
+Washington football team, Edward Bennett Williams,  which clearly expressed the 
+strongly held view – both then a nd now – that the team’s name i s a “derogatory 
+racial epithet”: 
+Born at a time in our history wh en the national policy was to s eize 
+Indian land and resources, and hunt down Indian people who stoo d in 
+the way, the term “Redsk[*]n” ha s been perpetuated through such  
+media as western movies and tele vision.  Most often the term is  
+coupled with other derogatory adj ectives, as “dirty Redsk[*]n” or 
+“pesky Redsk[*]n” which is used interchangeably with the word 
+“savage” to portray a misleading and denigrating image of the N ative 
+American.    
+(D.E.73-25at1.)
+   
+Pro-Football also cannot deny th at, in March 1972, it met with a delegation 
+of Native American leaders who de manded that the team change it s name.  This 
+delegation represente d the interests of Amicus  National Congress of American 
+Indians, Amicus  National Indian Youth Council, and Amicus  Americans for Indian 
+                                                 
+1 No party’s counsel authored the  brief in any part, and no pers on other than amici 
+and their counsel contributed mone y for the preparation or subm ission of this brief.  
+ Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 8 of 42 
+2 
+ Opportunity, along with the Ameri can Indian Press Association, the American 
+Indian Movement, the Indian Legal Information Development Servi ce, and the 
+Bureau of Indian Affairs. 
+In similar fashion, the Native Am erican organizations participa ting in this 
+brief represent a broad cross-s ection, and form a substantial c omposite of, Native 
+Americans who collectively suppor t the affirmance of the Distri ct Court’s decision 
+that the R EDSK *NS marks are disparaging to Native  Americans (and were so at the 
+time of registration) and must be cancelled.  
+ Amici  have a long history of involve ment in cultural, economic, educ ational 
+health, policy, and social justic e issues affecting the Native American nations and 
+tribes, and their citizenry.  As a  result, they speak authorita tively about the harm 
+caused by racially based “Indian ” names and their belief that t he R EDSK *NS marks 
+are disparaging to all Native Americans, subjecting them to rid icule, contempt, and 
+disrepute. 
+Amicus American Indian Council  is a non-profit American Indian 
+organization, incorporated in t he state of Missouri which provi des supplemental 
+services that support employment and training activities for Am erican Indians who 
+are enrolled members of fed erally-recognized tribes. 
+Amicus  American Indian Science and Engineering Society at the 
+University of Minnesota has a mission to nurture the  building of community by Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 9 of 42 
+3 
+ bridging science and technology  with traditional Native values.  Its goal is to be a 
+catalyst for advancement of Ameri can Indians as they grow to be come self-reliant 
+and self-determined members of society.  
+Amicus  American Indian Student Alliance  at California State University 
+San Marcos is comprised of American Indian students with a strong focus on  
+cultural preservation, education , health, and wellness, who see k to promote a 
+positive learning environment for both Native American and non- Native American 
+students.   
+Amicus  American Indian Student Cultural  Center at the University of 
+Minnesota  promotes cultural diversity and seeks to develop leadership in  
+American Indian students and to build understanding of American  Indian people, 
+issues, history, and culture.  
+Amicus  American Indian Studies Association  is comprised of scholars and 
+students from throughout the United States and is committed to pursuing accurate 
+and truthful information about  Indian peoples and nations.  
+Amicus  American Indians in Film & Television , established in 1979, has 
+evolved into a civil and social r ights organization with a soli d record of 37 years of 
+opening employment doors in the  industry, both inside and outsi de of Hollywood. 
+It has fought to protect the true image of Native peoples, to e liminate racial Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 10 of 42 
+4 
+ stereotypes, and to educate about  the negative impacts of stere otyping Indian 
+peoples and the cultural appropri ation of “Native” names, image s and behaviors.  
+Amicus  Americans for Indian Opportunity  is a national non-profit 
+established in 1970 to advance,  from an Indigenous worldview, t he cultural, 
+political and economic rights of I ndigenous peoples in the Unit ed States and 
+around the world.  It is governed by a board of international I ndigenous leaders and 
+that draws upon traditional Indi genous philosophies to foster v alue-based 
+leadership, inspire stakeholde r-driven solutions, and convene v isionary leaders to 
+probe contemporary issues and addr ess the challenges of the new  century.  AIO 
+historically has opposed the us e of a racially disparaging term  as a mascot since 
+before it met with the Washingt on team President in 1972 and co ntinues to stand in 
+opposition to the term today. 
+Amicus  Association of Native Amer icans at Yale University is a student-
+run cultural organization design ed to celebrate, educate, and a ppreciate Native 
+American culture and history. I t works towards Indigenous cultu ral awareness in 
+the Yale Community with a Native perspective through panels, sp eaker programs, 
+and other events throughout the year.  
+Amicus  Association of Tribal Archiv es, Libraries, and Museums is a 
+Native-led non-profit organizati on consisting of cultural pract itioners, legal 
+scholars, and community activists  that works internationally to  sponsor educational Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 11 of 42 
+5 
+ programs, conduct needs assessme nt studies, and develop nationa l implementation 
+strategies in an effort to advanc e Indigenous cultures, preserv e Native languages, 
+improve digital inclusion oppor tunities for Native peoples, adv ance literacy rates, 
+and encourage Science, Technology , Engineering and Math (“STEM” ) learning in 
+Native communities.  
+Amicus Association on American Indian Affairs is a 93-year-old Indian 
+advocacy organization that activ ely promotes the health, educat ion, and welfare of 
+Indian children and youth by doc umenting rampant and widespread  foster care and 
+adoptive placements of Indian ch ildren, and working to reform j uvenile justice 
+systems – tribal, federal, state , and county – to promote alter natives to 
+incarceration and to eliminate t he disproportionate treatment o f Indian youth.    
+Amicus  Blue Feather Drum Group is Yale University 's premier powwow 
+drum group, showcasing both trad itional and contemporary drum m usic, often 
+accompanied by competition style powwow and social dances. Blue  Feather works 
+to exhibit the strength of the i ntertribal Native community at Yale and the presence 
+and immediacy of Nativ e culture on campus.  
+Amicus  California Indian Culture and Sovereignty Center  at California 
+State University San Marcos is a unique research, cu ltural, and community hub, 
+with a mission that fosters colla borative research and communit y service 
+relationships between the facult y, staff, and students and memb ers of Tribal Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 12 of 42 
+6 
+ communities for the purpose of developing and conducting resear ch projects that 
+support the maintenance of sove reignty and culture within those  communities.  
+Amicus  California Indian Museum and Cultural Center , founded in 1991 
+at the Presidio of San Francis co, is a non-profit organization which serves as a 
+statewide, issues-based museum th at gives California Indians a voice in the telling 
+of their histories, and offers t he public an opportunity to lea rn about tribal 
+perspectives.  
+Amicus  Capitol Area Indian Resources, Inc. , a non-profit organization 
+established in 1985, encourages  the development of all aspects of education for the 
+American Indian community in the Sacramento region, while affir ming and 
+preserving Native cultural and tr aditional values in today’s so ciety.  It was a key 
+partner in the passage of Calif ornia bill A.B. 30 in 2015, the California Racial 
+Mascots Act , which terminated the use of th e racial slur, the Redsk*ns, as  a team 
+name for all public schools in California.  
+Amicus  Center for Indigenous Peoples Studies, College of Social and 
+Behavioral Sciences, California State University, San Bernardin o is the 
+primary site for innovative programs for the study of American Indians and local, 
+national and internat ional Indigenous Peoples.  The Center cond ucts research, 
+facilitates curricular and instru ctional programs, and coordina tes academic Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 13 of 42 
+7 
+ activities, contributing to the d evelopment of knowledge and ad vancement of 
+related social issues.  
+Amicus  Change the Mascot Campaign works on behalf of Oneida Indian 
+Nation and the Nationa l Congress of American Indians and was la unched in 2013 
+by the federally recognized Oneida  Nation in Central New York. The Oneida 
+Nation has approximately 1,000 en rolled members.  It is a natio nal grassroots 
+campaign that helps frame the d ebate surrounding the Washington  team’s name, 
+with support from a diverse coa lition of prominent advocates in cluding elected 
+officials from both parties, Nat ive American tribes, sports ico ns, leading journalists 
+and news publications, civil and human rights organizations, an d religious leaders. 
+Amicus  Council of Fire Native American Leadership and Debate Society  
+is a group of committed University of Oklahoma Indigenous stude nts who meet to 
+discuss and deconstruct difficu lt topics in Indian Country, and  who are dedicated to 
+augmenting the well-being of Indigenous peoples.  
+Amicus  First Nations at the University of Washington  is the largest 
+Native student organization on th e campus, with members identif ying as Native 
+American, Canadian First Nations, and Alaskan Natives.  It work s toward 
+promoting Native American/Alask an Native culture and education through 
+programming, events, and activis m, as well as promoting solidar ity 
+among Indigenous peoples. Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 14 of 42 
+8 
+ Amicus  Gamma Delta Pi  is a Native sorority at th e University of Oklahoma 
+which provides a forum for the ex change of information, concern s, ideas, 
+experiences, resources, support, a nd questions relating to the broad spectrum of 
+Native American culture. Its mem bers are actively involved in c ivic, educational, 
+and cultural programs that enhan ce both the Native American com munities and the 
+image of the represented hi gher education institution. 
+Amicus  “Indian” Mascot and Logo Taskforce was created in 1997 by the 
+Wisconsin Indian Education Associ ation to provide educational a dvocacy to 
+eliminate all “Indian” logos, ma scots, and team names from Wisc onsin public 
+schools.  To date, more than thirty Wisconsin School Districts have retired such 
+names and mascots. 
+Amicus  Indigenize OU is a Native advocacy organi zation at the University 
+of Oklahoma. The group of Native st udents seeks to promote the well-being of 
+Indigenous peoples.  
+Amicus  Indigenous and American Indian Studies Club at Haskell Indian 
+Nations University  promotes the profession of I ndigenous and American Indian 
+Studies to enhance the educati on of all students and to educate  the world on 
+American Indian Studies.  
+Amicus  Indigenous Law and Policy Ce nter at the Michigan State 
+University College of Law is committed to the educa tion of Native law students Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 15 of 42 
+9 
+ and the training of lawyers prepa red to work on behalf of tribe s around the country, 
+whether for tribal governments , private law firms, or non-profi t organizations. The 
+Center has two goals: to train l aw students to work with Indian  Country and to 
+provide services to institutional clients, such as Indian tribe s, tribal courts, and 
+other tribal organizations, on a  wide variety of legal and poli cy questions.  
+Amicus  International Indian Treaty Council, established in 1974, is an 
+organization of Indigenous Peoples from North, Central, and Sou th America, the 
+Pacific, the Arctic, and the Car ibbean, with a mission to work for sovereignty and 
+self-determination for Indigen ous Peoples and for the recogniti on and protection of 
+their human rights, treaties, t raditional cultures, and sacred lands. In 1977, the 
+Council received formal recognitio n from the United Nations Eco nomic and Social 
+Council as a Non-Governmental Orga nization with Consultative St atus and in 
+2011 was recommended for an upgrade to “General Consultative St atus.”  The 
+Council focuses its work interna tionally, primarily before vari ous UN human rights 
+forums.  
+Amicus  Midwest Alliance of Sovereign Tribes , established in 1997, is an 
+intertribal organization which re presents 34 tribes from Michig an, Wisconsin, and 
+Minnesota, whose mission is to a dvance, protect, preserve, and enhance the mutual 
+interests, treaty rights, sovere ignty, and cultural way of life  of the sovereign 
+nations of the Midwest.  Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 16 of 42 
+10 
+ Amicus National Indian Education Association  is the largest and oldest 
+membership-based Indian educati on organization in the United St ates, representing 
+scores of Native schools and edu cational institutions, as well as numerous Native 
+educators and students.  NIEA beg an its organized work in 1969 and was 
+incorporated in 1970.  
+Amicus National Indian Youth Council , founded in 1961 in Gallup, New 
+Mexico, is the second oldest na tional American Indian organizat ion and is Indian 
+conceived, Indian controlled, and Indian operated. It has advoc ated diligently and 
+continuously to ensure that ever y American Indian has equitable  access to 
+educational opportunities, health  and social services, employme nt, and human and 
+civil rights. The Council’s miss ion is to improve the economic,  educational and 
+social welfare of American Indian s.  NIYC has historically oppo sed the use of a 
+racially disparaging term as a mascot since its founding a deca de before it met with 
+the Washington team President i n 1972.  NIYC continues to stand  in opposition to 
+the term today. 
+Amicus National Congress of American Indians was established in 1944 
+and is the oldest, largest, and most representative national in tertribal organization. 
+It represents over 250 tribes, n ations, pueblos, and Alaska Nat ive villages with a 
+combined enrollment of over 1.2 million.  NCAI  promotes the enhanced quality of 
+life of Native people and strive s to educate the general public  regarding Native Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 17 of 42 
+11 
+ people and their rights. NCAI represents its individual and tribal members on a 
+variety of political, cultural, a nd social policy issues.  NCAI  has historically 
+opposed the use of a racially dis paraging term as a mascot sinc e before it met with 
+the Washington team President i n 1972 and contin ues to stand in  opposition to the 
+term today. 
+Amicus  National Native American  Law Students Association  was 
+founded in 1970 to promote the s tudy and development of Federal  Indian Law, 
+Tribal Law, and traditional form s of governance.  It supports N ative Americans in 
+law school, both in their own per sonal academic and life achiev ements, and in their 
+efforts to educate their peers and communities about Indian law  issues.  
+Amicus Native American Contractors Association  is a non-profit 
+association of over forty Nativ e community-owned corporations r epresenting 
+nearly 1,000,000 Native Americans throughout the United States who conduct 
+business in all 50 states and in ternationally.  Its mission is to increase self-
+determination through preservati on and enhancement of governmen t contracting 
+participation based on the uniqu e relationship between Native A mericans and the 
+Federal Government. 
+Amicus  Native American Journalists Association represents more than 
+500 members working as independent  freelancers as well as in na tional and tribal 
+media outlets, associations, acad emic institutions, and other o rganizations.  It Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 18 of 42 
+12 
+ assists journalists by providing resources to Native and non-Na tive media, and 
+promotes accurate media c overage of Indian Country.  
+Amicus  Native American Law Students Associ ation at the University of 
+Washington  School of Law  is a community of Native la w students and their peers 
+interested in the study of Indian  law, providing networking, ed ucational, and 
+practice opportunities. It works to encourage and support Nativ e undergraduate and 
+high school students in pursuing a career at law. 
+Amicus  Scholars of Stereotypes of  Native Americans in Sport  is 
+composed of Native and non-Native scholars who have studied ste reotyping of 
+Native Americans in sport team n ames and imagery.  Its members have degrees in 
+a variety of disciplines, includi ng sociology, anthropology, ps ychology, counseling 
+psychology, cultural studies, Eng lish, education, management, a nd sport studies, 
+and most members are professors at colleges and universities in  United States.  
+Amicus  Society of American Indian Government Employees is a national 
+organization of federal employ ees who are Native American.  Its  mission is to 
+promote the recruitment, reten tion, development, and advancemen t of government 
+employees who are Native American. 
+Amicus  Society of Indian Psychologists  is an organization of Native 
+psychologists who advocate for th e mental well-being of Native peoples by 
+increasing the knowledge and awar eness of issues impacting Nati ve mental health. Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 19 of 42 
+13 
+ Amicus  Southern California Tribal  Chairmen’s Association  is a multi-
+service non-profit corporation es tablished in 1972 as a consort ium of 19 federally-
+recognized Indian tribes in South ern California. Its primary mi ssion is to serve the 
+health, welfare, safety, educati on, cultural, economic, and emp loyment needs of its 
+tribal members and descendants in the San Diego County urban ar eas.  Its board of 
+directors is comprised of tribal  chairpersons from each of its member Tribes.  
+Amicus  The Morning Star Institute , founded in 1984,  is a national, non-
+profit Indigenous rights organi zation based in Washington, D.C.  and devoted to 
+traditional and cultural advocacy , arts promotion, and research .  It is governed by a 
+national Board of Directors who are tribal, traditional, cultur al rights, and arts 
+leaders.  It leads in the areas  of Native Peoples’ religious fr eedom and repatriation, 
+protection of sacred lands and cu ltural property rights, and in  campaigns to 
+eliminate stereotyping of Na tive Peoples in popular culture.  T hrough its Just Good 
+Sports  project, Morning Star assists schools, students, and families who are 
+addressing race-based names and imagery in their local athletic  programs.  It was 
+the organizational sponsor for the first seven years of Harjo et al v. Pro Football, 
+Inc.  
+Amicus United South & Eastern Tribes is an intertribal organization 
+comprised of 26 federally recogni zed Indian Tribes in the south ern and eastern 
+United States.  USET is dedicated  to enhancing the development of federally Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 20 of 42 
+14 
+ recognized Indian Tribes, impr oving the capabilities of Tribal governments, and 
+assisting USET Members and thei r governments in dealing effecti vely with public 
+policy issues and serving the br oad needs of Indian people.   
+Amicus UNLV Native American Community is comprised of Native 
+American students, alumni, and f aculty at the University of Nev ada at Las Vegas 
+(UNLV) that serves to reinforce the diversity of American India n student 
+autonomy at UNLV.  
+Amicus  Wisconsin Network fo r Peace and Justice  is a state-wide non-
+profit organization which repr esents a coalition of activist gr oups working 
+towards a world free from violen ce and injustice with an emphas is on racial justice 
+and equity.   Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 21 of 42 
+15 
+ SUMMARY OF ARGUMENT  
+ 
+Pro-Football’s use of a racially d isparaging term as a mascot f or the football 
+team in our Nation’s capital has resulted in real harm to Nativ e Americans.  The 
+REDSK *NS marks should never have been gr anted federal registration.  Th e first 
+REDSK *NS mark was disparaging when it was registered in 1967 and it and  the five 
+subsequently registered R EDSK *NS marks have continued to subject Native 
+Americans to contempt and ridicule since.   
+ARGUMENT  
+ 
+I. The District Court Corr ectly Held That the R EDSK *NS Marks 
+Must Be Cancelled Because They  Consist of Matter That (1) May 
+Disparage a Substantial Composit e of Native Americans During 
+the Relevant Time Period, 1967- 1990, and (2) Bring Native 
+Americans into ‘Conte mpt or Disrepute.’ 
+ 
+The basis for the District Court’s findings that the R EDSK *NS marks may 
+disparage a substantial composite  of Native Americans and bring  Native 
+Americans into contempt or disre pute is extensively documented in the Record and 
+the District Court’s decision s hould be affirmed by this Court . 
+Section 2(a) of the Lanham Act pr ovides that registration shoul d be denied 
+to any mark that “[c]onsists of  . . . matter which may disparag e . . . persons, living 
+or dead, institutions, beliefs, or national symbols, or bring t hem into contempt, or 
+disrepute . . . .” 15 U.S.C. § 1052(a).  Section 2(a) protects underrepresented 
+groups from being subjected to contempt and ridicule, particula rly in commercial Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 22 of 42 
+16 
+ advertising, as the central purpo se of a trademark is to identi fy goods or services 
+sold to consumers.  
+To be subject to cancellation, the mark must consist of matter that may be 
+disparaging to a substantial co mposite of the “referenced group .”  A substantial 
+composite is not necessarily a majority.  In re Boulevard Ent., Inc. , 334 F.3d 1336, 
+1340 (Fed. Cir. 2003).  In addition , in “may disparage” actions , the inquiry focuses 
+on the registration dates of the  marks at issue (here 1967, 197 4, 1978, and 1990).  
+Id.    
+The Trademark Trial and Appeal  Board (“TTAB”) looks to the view s of 
+Native Americans when determining whether a mark may be dispara ging.  One 
+category of evidence that is used  to determine wh ether a term “ may disparage” is 
+statements of individuals or gro up leaders of the referenced gr oup (here Native 
+Americans) regar ding the term.  In re Heeb Media, LLC , 89 U.S.P.Q.2d 1071, 
+2008 WL 5065114, at *5 (T.T.A.B. 2008); In re Squaw Valley Dev. Co. , 80 
+U.S.P.Q.2d 1264, 2006 WL 154650 0, at *10-*14 (T.T.A.B. 2006).  In addition, as 
+the District Court explained, whe ther a word is disparaging to a group referenced 
+in the underlying term may also be inferred through usage label s, such as 
+dictionary definitions.  (Op. 37, 42-46); see also Heeb Media, 2008 WL 5065114, 
+at *1 (looking to dictionary def initions to support a finding t hat a substantial 
+composite of the referenced gr oup found the word disparaging).  Intent to Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 23 of 42 
+17 
+ disparage by the holder of the mar k is not required to deny or cancel a registration.  
+(PFI Br. 50); see also Blackhorse, et al. v. Pro-Football, Inc. , 111 U.S.P.Q.2d 
+1080, 2014 WL 2757516, at *9 -*10 (T.T.A.B. 2014) (citing Heeb Media , 2008 
+WL 5065114, at *8; Squaw Valley , 2006 WL 1546500).  
+A. Amici  Represent a Substantial Comp osite of Native Americans. 
+ 
+It has been the consistent and strong opinion of amici  that Pro-Football’s 
+REDSK *NS marks were disparaging to Nativ e Americans in 1967 and remain so 
+today. 
+Amicus  National Congress of American I ndians (“NCAI”) was founded in 
+1944 and is the oldest, largest, and most representative Native  American 
+organization serving the broad in terests of tribal governments and communities.  
+(D.E.73-20at6;71-3¶5;71-2¶¶7,12; 71-5¶11.)  In 1967, NCAI repres ented 156 tribal 
+members. (D.E.73-20at6;71-3¶6.)   By 1984, NCAI represented over  300 tribal 
+members. (D.E.71-5¶13.)  Today, N CAI represents over 250 tribes , nations, 
+pueblos, and Alaska Native village s with a combined enrollment of over 1.2 
+million.  “Through its tribal memberships, NCAI represents the majority of Native 
+Americans in federally recognized  Native American tribes.  If o ne wanted to know 
+the consensus position of Native Americans on a given issue, NC AI would be the 
+best organization to consult.”  (D.E.71-2¶12.) Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 24 of 42 
+18 
+ In addition to Amicus NCAI, the other forty Native  American organizations 
+included under the Interest of Amici Curiae above represent a b road cross-section 
+of Native peoples and their intere sts.  The understanding and p osition of each of 
+these organizations is that the  term “Redsk*n” is disparaging.  This list represents a 
+substantial composite of Native  Americans, yet it is still not exhaustive of the 
+Native Americans who find Pro-Foot ball’s trademarks disparaging .  As former 
+Executive Director of  NCAI, Suzan Harjo, obs erved, “the overwhe lming majority 
+of Native American people and or ganizations with whom I have di scussed the 
+subject have agreed with my view point that “redsk[*]n(s)” is a racial epithet and 
+that the Washington NFL team’s n ame is abominable.”  (D.E.71-5¶ 14.)   
+As is plainly demonstrated by th e descriptions of the Native Am erican 
+organizations participating in thi s brief, the Native Americans  who find the term 
+“Redsk*ns” disparaging are not a  “small group of radicals,” nor  is the Native 
+American community “deeply div ided” on the issue.  (Bettelyoun Amicus  Br. 13, 
+15.)  To the contrary, the vast  majority of Native Americans fi nd the term 
+“Redsk*ns,” when used as a sports  mascot as well as in other co ntexts, to be 
+deeply offensive and disparaging.  
+ 
+ Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 25 of 42 
+19 
+ B. Leaders of the Native American Co mmunity Have Historically 
+Opposed the R EDSK *NS Marks Because The y Disparage Native 
+Americans.  
+ 
+Amici NCAI , National Indian Youth Counc il (“NIYC”), and Americans fo r 
+Indian Opportunity (“AIO”) as we ll as other leaders of the Nati ve American 
+community have actively opposed the use of “Redsk*ns” as the ma scot for the 
+Washington team for nearly five decades. 
+Pro-Football states that “the Tea m adopted the name [“Redsk*ns” ] to 
+associate itself with and honor Na tive Americans, including its  four Native 
+American players and Native Am erican head coach.”  (PFI Br. 59. )  Pro-Football’s 
+statement is directly contradicted  by the statements of foundin g team owner, 
+George Preston Marsha ll, who selected the name “Redsk*ns” in 19 33.  Marshall 
+denied selecting the name to honor Native Americans.  Instead, the reason the team 
+chose the racial epithet was tha t “so much confusion has been c aused by our 
+football team wearing the same n ame as the Boston National Leag ue baseball club 
+[Boston Braves] . . . that a chang e appeared to be absolutely n ecessary.  The fact 
+that we have in our head coach, Lone Star Dietz, an Indian,2 together with several 
+                                                 
+2 Additionally, many have questione d the veracity of Lone Star D ietz’s claim that 
+he was born a Native American. See, e.g. , Linda M. Waggoner, The Washington 
+R*dskins’ Wily Mascot: Coach William “Lone Star” Dietz , MONTANA THE 
+MAGAZINE OF WESTERN HISTORY  (Spring 2013),   
+http://nmai.si.edu/sites/1/files/pdf/seminars-symposia/Waggoner WEBSpr2013.pdf . Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 26 of 42 
+20 
+ Indian players has not, as may be susp ected, inspired me to select the name 
+Redsk[*]ns .”  (D.E.72-4.) 
+Many of the most publicized event s surrounding the Native Ameri can 
+community’s opposition to the r acial slur occurred in the early  70s, just a few years 
+after Pro-Football fi rst registered a R EDSK *NS mark.  It is hard to understand how 
+Pro-Football can claim that it re ceived no notice that the mark  may be disparaging 
+to Native Americans.  (PFI Br. 34-39.)   During an NCAI Executi ve Council 
+meeting in January 1972, Amicus NCAI and representatives from Amicus NIYC, 
+Amicus AIO, and the American Indian Move ment “agreed that the Washingt on 
+football team’s name was bigoted , discriminatory, and offensive  to Native 
+Americans” and that “opposing th e Washington football team’s na me, and seeking 
+a change in that name would be t he first issue on which we coul d unite in a 
+common effort.”  (D.E.71-3¶¶9-10. )  Agreement was reached on th is common 
+cause despite the significantly d ifferent goals and priorities of each of these Native 
+American organizations at the time.  (D.E.71-3¶10.)  The Native  American 
+organizations agreed that the “n ext step would be to contact th e Washington 
+football team directly to begin a dialogue aimed at changing th e team’s name . . . .” 
+(Id.) 
+Shortly thereafter, Harold Gross , Director of the Indian Legal Information 
+Development Services (“ILIDS”) a nd attorney for NCAI, wrote to the Washington Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 27 of 42 
+21 
+ football team’s President explai ning why the team should change  its name.  He 
+stated that “Native American” s ports imagery “perpetuates stere otypes in which 
+American Indians are seen as pa rticipating in scalp taking, war -whooping, and 
+expressing themselves in ungramma tical grunts, ughs and other t ontoisms” and 
+“many of the 25 million Americans  who watch televi sed professio nal football 
+know nothing more about American  Indians . . . .”  (D.E.73-25at 2.) 
+ As a result of these efforts, a  meeting was held in March 1972  between 
+leaders of the Native American c ommunity and Washington team Pr esident 
+Williams.  (D.E.71-3¶11.)  NCAI Present, Leon Cook, attended th e meeting on 
+behalf of NCAI.  Also in attenda nce were LaDonna Harris, the Pr esident of AIO; 
+Ron Aguila, the District Represe ntative for NIYC; Dennis Banks,  the District 
+Representative for the American  Indian Movement; Hanay Geigomah , the Director 
+of Youth Programs for the Bureau  of Indian Affairs; Richard LaC ourse, the 
+Washington Bureau Chief for the A merican Indian Press Associati on; and Laura 
+Wittstock, the Editor of the ILI DS Legislative Review among oth ers.  ( Id.)  As 
+President Cook recalled,“[a]t the meeting, each of the leaders of the various 
+[Native American] organizations  took turns explaining our unite d reason as to why 
+the Washington football team’s n ame should be changed, namely t hat we believe 
+the name to be discriminatory , demeaning, and offensive to Nati ve Americans.”  
+(Id.)   Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 28 of 42 
+22 
+ The next day Williams wrote to NF L Commissioner Pete Rozelle ab out the 
+meeting stating that the “de legation of American Indian leaders . . . are vigorously 
+objecting to the continued use of  the name Reds k*ns.”  (D.E.73- 3No.73 (emphasis 
+added).)  Following the meeting , the Washington team changed th e cheerleaders’ 
+costumes to remove the fake Ch erokee hair extensions and revise d the fight song to 
+remove certain admittedly offens ive language such as “Scalp 'em , swamp 'em — 
+we will take 'em big score / Rea d 'em, weep 'em, touchdown! — w e want heap 
+more!”.  (D.E.72-3Nos.75,76,82;73-14.) 
+ While these actions in 1972 sign aled Pro-Football’s acknowledg ment of the 
+offensiveness of the Washington  team’s representations of Nativ e Americans, Pro-
+Football continued to use the r acial slur “Redsk*ns” as its tea m name.  In response, 
+at NCAI’s annual convention in 1973 , Reuben Snake, the Winnebag o Tribal 
+Chairman, won unanimous support for a resolution demanding that  the Washington 
+team change its name, citing the name as a prime example of nam e-calling.  Many 
+Native Americans living today pe rsonally witnessed this event a nd Pro-Football’s 
+implication that these individual s are lying has no support in the Record.  (PFI Br. 
+45,55-56,57; D.E.71- 3¶14;71-5¶15.)  
+The Native American community’s  public opposition to the Washin gton 
+team’s mascot continued thro ughout the 70s, 80s, and 90s.  Exec utive Director of 
+NCAI, Suzan Harjo, “carried out  the position of NCAI to oppose the name of the Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 29 of 42 
+23 
+ Washington NFL team and to call for its elimination” during her  tenure from 1984 
+to 1989.  (71-5¶13.)  In addition , each of the NCAI Presidents she served with 
+“opposed the dreadful name of the Washington NFL team and calle d for its 
+elimination.”  ( Id.)  NCAI demonstrated its opp osition through “statements, 
+speeches, telephone calls, intervi ews, educational outreach, an d coalition building 
+meetings, as well as in . . . faile d attempts to contact the Wa shington NFL team’s 
+owner.”  ( Id.)  The Washington football team’s owner at the time “only 
+acknowledged [NCAI’s] position thro ugh the media, to a UPI repo rter, answering 
+it by saying there was ‘not a cha nce in hell’ that the name wou ld be changed.” 
+(D.E.71-5¶16.)  In 1984, Amicus The Morning Star Institute’s Board voted 
+unanimously to establish a project called Just Good Sports  to oppose the 
+Washington football team’s name.   (D.E.71-5¶18.)  In 1988, Fans  Against Indian 
+Racism sponsored a banner flown above the Washington team’s sta dium during 
+Pro-Football’s 1988 championship ga me demanding: “MAKE WASHINGT ON 
+AMERICA’S TEAM. CHANGE THE NAM E.” (D.E.73-2;73-3;73-44.)  In 19 91, a 
+group of Native Americans protes ted the “Redsk*ns” team name at  the 
+Washington team’s Stadium.  ( A1282.)  In 1992, the Super Bowl p rompted four 
+days of actions by approximately  3,000 Native Americans and the ir allies.  
+(D.E.73-42;73-58;73:59;A1284-A1285.)  Amicus Association on American Indian 
+Affairs resolved to join “with  those who object to . . . the us e of the ‘Redsk[*]ns’ Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 30 of 42 
+24 
+ nickname . . . an outright pejor ative of the type that no other  ethnic or racial group 
+would be subjected to in 1992.  Ye t, once again, Indians are su pposed to be 
+different – somehow.”  ( A1318.)  In March 1992, Amicus  National Indian 
+Education Association sent a l etter to the Council of the Distr ict of Columbia 
+explaining that the insult of the  “Redsk[*]ns” mascot went beyo nd the name itself 
+to “fans in the stadium . . . a cting out the worst possible Ind ian stereotypes.”  
+(A1304.) 
+In 1993, NCAI adopted two resolut ions to stop the use of the ra cial slur 
+“Redsk*ns” as a team name.  The  adoption of these resolutions b y representatives 
+of NCAI’s tribal members is we ll-supported by the Record.  The first resolution 
+was adopted by the Executive Counc il during its meeting of Janu ary 18-19 and 
+stated in part:  
+[T]he term REDSK[*]NS is not and has never been one of honor or  
+respect, but instead, it has alwa ys been and continues to be a 
+pejorative, derogatory, denigra ting, offensive, scandalous, 
+contemptuous, disreputable, dispa raging and racist designation . . . 
+and continues to be . . . dam aging to Native Americans. 
+  
+(D.E.73-68.)  The Executive Counc il consists of delegates from each of NCAI’s 
+member tribes and a quorum of thos e tribal delegates must be pr esent for the 
+consideration of any resolutio n.  (D.E.73-43at54:11-54:19.)  At  Executive Council 
+meetings, resolutions come directly from the floor, are typical ly read out loud, and 
+are debated by NCAI membership .  (D.E.73-43at57:16-57:18;62:8-6 2:13.)  All Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 31 of 42 
+25 
+ resolutions considered at an Ex ecutive Council meeting must be of national 
+significance and urgent in natu re.  (D.E.73-43at58:3-58:5;58:15 -59:1.) 
+The second resolution adopted on  December 3rd by the General As sembly at 
+the Annual Convention referenced  a Senate Bill called “the RFK Stadium Bill” 
+that stated “(no building) until the team changes the name.”  ( D.E.73-69;73-61.)  
+At an Annual Convention resolutio ns are considered and debated among the 
+general membership and are typi cally voted on by a voice vote o f the delegates, 
+who generally attend the Convention to c onduct business on beha lf of their tribes.  
+(D.E.73-43at42:1-42:16.) 
+These are just a few of the ma ny examples of wide-spread opposi tion to the 
+use of “Redsk*ns” as a team na me.  All of these opponents of th e name understand 
+what social science research has  proven:  the marketing and pro motion of this 
+racial slur has destructive cons equences for Native Americans.  
+C. The Personal Experiences of Native Americans Plainly 
+Demonstrate That the Use of “Re dsk*ns” as a Sports Mascot 
+Exposes Native Americans  to Contempt, Ridicule, and 
+Disrepute.   
+Many Native Americans have per sonally experienced being called a 
+“Redsk*n” as racial slur.  For  example, Raymond Apodaca, who gr ew up in New 
+Mexico in the 60s and 70s and who is an enrolled member of the Ysleta Del Sur 
+Pueblo, recalled the following experience:  Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 32 of 42 
+26 
+ I have heard the term “redsk[*] n” or “redsk[*]ns” used on many 
+occasions to refer to Native Amer icans in a disparaging way. In  one 
+very memorable occasion, when I  was in high school, I was at a bus 
+stop in Lubbock, Texas, which had racially segregated lunch cou nters. 
+At that time, I was told that I  was “a redsk[*]n” and that I wo uld need 
+to eat my lunch outside the bus  stop, and leave through the doo r 
+marked “Black” as opposed to sittin g at the “White,” “Mexican,”  or 
+“Other” counter.  
+(D.E.71-2¶14,15.)  Mr. Apodaca has  “served in a number of leade rship roles for 
+NCAI, including as Chairman of the NCAI Commission on Human Rig hts and 
+Religious and Cultural concer ns, from 1986-1999, and as Albuque rque Area Vice 
+President . . . from 1990-199 3.”  (D.E.71-2¶7.)  
+Suzan Harjo, who grew up in Okla homa in the 50s and 60s and who  is an 
+enrolled member of the Cheyenne  and Arapaho tribes of Oklahoma recalled:  
+Growing up in El Reno, I heard th e term “redsk[*] n” used often as a 
+slur. Many times, my friends, fam ily members and I would be cal led 
+the epithet “redsk[*]ns” or, mo re frequently, a “lazy redsk[*]n ” or a 
+“dirty redsk[*]n.” In the 1950s, my brothers, cousins, and Chey enne 
+friends were often called “redsk [*]ns by white children at scho ol (an 
+El Reno public school) and someti mes by their parents. On one 
+especially upsetting and painfu l occasion, an elementary school  
+teacher argued with me about my family history and the Battle o f 
+Little Big Horn, and he angrily called me names, including 
+“redsk[*]n.”  
+ 
+ (D.E.71-5¶5.)  Ms. Harjo served as Executive Director of NCAI from 1984 to 
+1989, has served as President of The Morning Star Institute sin ce 1984, and in 
+2014 was awarded a Presidential Me dal of Freedom by President O bama for her 
+work on behalf of Native Ameri cans.  (D.E.71-5¶¶13,18,20.)  In 1962, Ms. Harjo Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 33 of 42 
+27 
+ was selected by the Business Co mmittee of Cheyenne and Arapaho Tribes of 
+Oklahoma to be part of a delega tion to Washington, D.C.  While there, the tribal 
+delegation noticed many signs pro moting the Washington NFL team . She recalled 
+saying at the time “No wonder su ch bad Indian policy comes out of D.C.; look 
+what bad things they ca ll us.”  (D.E.71-5¶10.) 
+Kevin Gover, who grew up in the  60s and 70s and who is a citize n of the 
+Pawnee Indian Nation recalled:  
+[W]hen I played for my junior h igh school football team, member s of 
+opposing teams sometimes would ca ll me a “redsk[*]n” as a form of 
+bullying and “trash tak ing” on the field.  
+ 
+(D.E.71-4¶5.)  Mr. Gover was nom inated by President Clinton to serve as Assistant 
+Secretary of the Interior for In dian Affairs, where he oversaw the Bureau of Indian 
+Affairs.  (D.E.71-4¶7.)  He is cu rrently a Professor of Law at the Sandra Day 
+O’Connor College of Law at Arizona  State University and the Dir ector of the 
+Smithsonian Institution’s National Museum of the American India n.  (D.E.71-
+4¶¶8,9.) 
+Leon Cook, former NCAI president, stated: 
+I have traveled extensively th roughout Indian country, met with  
+Native American leaders on dozen s of reservations, and talked w ith 
+Native Americans from all walks of life. I have only rarely 
+encountered a Native American w ho has expressed disagreement wi th 
+my understanding that the Washi ngton football team’s name is 
+disparaging, discriminatory, and offensive to Native Americans.   
+ Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 34 of 42 
+28 
+ (D.E.71-3¶16.)  Mr. Cook served  as President of NCAI from 1971 to 1973. 
+(D.E.71-3¶¶6,15.) 
+As one Native American, Fred Ve illeux (Ojibway), explained:  “T here is 
+nothing more disrespectful or dem eaning than to call an Indian a redsk[*]n.  It 
+would be like calling a black man a n[*]gger.” (D.E.72-37.) 
+D. The Use of “Redsk*ns” as a Sports Mascot Harms Native 
+Americans and Misinforms the  Public about Contemporary 
+Native Americans.  
+ 
+Native Americans are underrepresen ted in nearly every aspect of  American 
+society.  Thus what most people learn and believe about contemp orary Native 
+Americans are the images and ster eotypes provided via the media , particularly the 
+immensely popular and widely -viewed games of the NFL.  
+Contemporary Native Americans ar e bombarded by Pro-Football’s n egative 
+and inaccurate stereotypes that portray Native Americans “as ei ther aggressive 
+savages or buffoons [with, for e xample] many headlines refer[ri ng] to the 
+‘Redsk[*]ns’ team, players or ma nagers ‘scalping’ opponents, se eking ‘revenge,’  
+‘on the warpath,’ and holding ‘ pow wows;’ or us[ing] pidgin Eng lish, such as ‘Big 
+Chief Choo Choo – He Ponder.’”  Harjo v. Pro-Football, Inc. , 50 U.S.P.Q.2d 
+1705, 1999 WL 375907, at *46 (T.T.A.B. 1999).  Below are just a few examples of 
+the images of Native Americans that are dispersed throughout th e country solely as 
+a result of Pro-Football’s use of the R EDSK *NS marks.    Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 35 of 42 
+29 
+  
+ 
+Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 36 of 42 
+30 
+ (D.E.74-8at15;75-18;74-95;A1048. )  Pro-Football’s argument that  the term 
+“Redsk*ns” may be disparaging i n some contexts but is not dispa raging in the 
+context of football is deeply f lawed.  (PFI Br. 52.)  An empiri cal study conducted 
+in 2008 concluded that “American  Indian mascots have harmful ps ychological 
+consequences for the group that i s caricaturized by the mascots .”  Of Warrior 
+Chiefs and Indian Princesses:  The Ps ychological Consequences of American 
+Indian Mascots , BASIC AND APPLIED SOCIAL PSYCHOLOGY , 30: 208-18 (2008).  
+Stereotypes of American Indians ar e particularly powerful becau se most 
+Americans have no direct persona l experience with Native people .  As a result, 
+“the views of most Americans a bout American Indians are formed and fostered by 
+indirectly acquired information (e.g. media representations of American In dians).”  
+The study suggests that “American  Indian mascots are harmful be cause they 
+remind American Indians of the l imited ways others see them and , in this way, 
+constrain how they can see thems elves.”  Frustration with the a pparent social 
+acceptance of the harm caused by the “Redsk*ns” team name has b een expressed 
+for decades by the Native commun ity:  “There is this feeling th at this is a new 
+issue with us.  It’s nothing new.  It’s just that no one was li stening.”  (D.E.73-42.) 
+ 
+ 
+ Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 37 of 42 
+31 
+ II. The Amicus  Brief Filed by Native and  Non-Native Americans on 
+Behalf of Pro-Football Is Unpersuasive.  
+ 
+A.  Amici in Support of Pro-Football Do Not Represent a 
+Substantial Composite of Native Americans.  
+ 
+Amici  for Pro-Football represent an i ncredibly small minority of Nat ive 
+Americans: three individuals (no tably, the Native American orga nizations of which 
+these individuals are members did  not participate in its brief) ; one Native 
+American tribe; and a group of N ative and non-Native Americans that calls itself 
+the Native American Guardians A ssociation.  As discussed in Sec tion I.A above, 
+amici in support of Blackhorse Defendant s and Appellees represent a s ubstantial 
+composite of Native Americans w ho find the “Redsk*ns” slur disp araging to 
+Native Americans.  
+B.  Amici’s Description of the First Use of “Redsk*ns” in the 
+1700s and 1800s Is Irrelevant.   
+Amici  for Pro-Football’s description of  the first use of the word “R edsk*n” 
+in the 1700s and continued used  in the 1800s is irrelevant as t he period in question 
+here is from 1967 to 1990.  (Bettelyoun Amicus  Br. 5-7.)  Even assuming, 
+arguendo , that Native Americans were the  first to use the word, the fir st page of 
+the article relied upon by amici  for Pro-Football to make its point about origin also 
+states that the origin of the  word does not control whether its  later use is 
+objectionable.  (Bettelyoun Amicus  Br. 5.)  Moreover, Appellees’ expert linguist, 
+Geoffrey Nunberg, explained the di sparaging connotation of “red skin” throughout Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 38 of 42 
+32 
+ the twentieth century.  (D.E.72- 16.)  As early as 1898, a dicti onary usage label 
+stated that “redskin” was an “of ten contemptuous” term.  (D.E.7 2-6.) 
+In addition, it is illogical to c onclude that because there may  be some 
+positive symbolism associated with  the color red by some Native  American tribes, 
+the term “Redsk*n” must be honorific.  (Bettelyoun Amicus  Br. 7-9.)  It is not the 
+color red with which a substan tial composite of Native American s take issue. 
+Rather, Native Americans take i ssue with the racial slur “Redsk *n.”  The color red 
+simply bears no relationship to  the many reasons Native America ns oppose 
+“Redsk*ns” as a sports mascot.   
+C. The Use of “Redsk*ns” Mascots Has Significantly 
+Decreased Over the Past Forty Years.   
+Amici  for Pro-Football’s suggestion th at the use of “Redsk*ns” masco ts 
+throughout the country has not  decreased significantly is inacc urate.  (Bettelyoun 
+Amicus  Br. 13.)  In 1972, the University  of Utah chose to stop using the racial slur 
+“Redsk*n” to identify its sports  teams because it was offensive  to Native people.  
+(D.E.73-36,73-37.)  Following the  University of Utah’s lead, at  least twenty-one 
+high schools and colleges have s ince decided to stop using the slur “Redsk*ns” as 
+a team name.  (D.E.73-20at20.)  At  least five newspapers have a dopted policies 
+forbidding the use of “Redsk*ns” to identify sports teams.  Mos t recently, in 2015, 
+California banned the use of the  term “Redsk*n” in public schoo ls state-wide.  
+California Racial Mascots Act , A.B. 30, 2015 Leg. (Cal. 2015).  All of these Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 39 of 42 
+33 
+ changes were the result of a wi despread recognition that the te rm “Redsk*ns” is 
+racially disparaging and should not be used to identify sports teams in the United 
+States. 
+CONCLUSION  
+For the foregoing reasons, the District Court’s decision that t he R EDSK *NS 
+marks may disparage a substantia l composite of Native Americans  and bring 
+Native Americans into contempt or disrepute should be affirmed.  
+ 
+Dated:  February 11, 2016  By: /s/ Larry S. Gondelman  
+Larry S. Gondelman 
+Brandi A. Taylor 
+POWERS PYLES SUTTER &  
+VERVILLE PC 
+1501 M Street NW, Seventh Floor 
+Washington, DC 20005 
+COUNSEL FOR AMICI CURIAE 
+ 
+Richard A. Guest 
+NATIVE AMERICAN RIGHTS FUND 
+1712 N Street, NW 
+Washington, DC 20036 
+COUNSEL FOR AMICI CURIAE 
+ 
+ Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 40 of 42 
+ 
+  
+CERTIFICATE OF  COMPLIANCE  
+ I certify, pursuant to Federal  Rule of Appellate Procedure 32( a)(7)(C), that 
+the attached Brief of Amici Curiae  contains 6,795 words and complies with the 
+typeface requirements of Federal  Rule of Appellate Procedure 32 (a)(5) and the 
+type style requirements of Fed eral Rule of Appellate Procedure 32(a)(6) because it 
+has been prepared in a proporti onally spaced typeface using Wor d 2010, in 14-
+point Times New Roman font.   
+Dated: February 11, 2016    B y :  / s /  L a r r y  S . Gondelman  
+              Larry S. Gondelman 
+ 
+  Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 41 of 42 
+ 
+ CERTIFICATE OF SERVICE 
+ I hereby certify that on Febr uary 11, 2016, I electronically f iled the 
+foregoing document with the Unite d States Court of Appeals for the Fourth Circuit 
+by using the appellate  CM/ECF system. I certify that all partic ipants in the case are 
+registered CM/ECF users and that  service will be accomplished b y the appellate 
+CM/ECF system.   
+Dated: February 11, 2016    B y :  / s /  L a r r y  S . Gondelman  
+              Larry S. Gondelman 
+  
+ 
+ 
+ 
+ Appeal: 15-1874      Doc: 59-1            Filed: 02/11/2016      Pg: 42 of 42Appeal: 15-1874      Doc: 59-2            Filed: 02/11/2016      Pg: 1 of 1General Information
+Court United States Court of Appeals for the Fourth Circuit; United
+States Court of Appeals for the Fourth Circuit
+Federal Nature of Suit Property Rights - Trademark[3840]
+Docket Number 15-01874Pro-Football, Inc. v. Amanda Blackhorse, Docket No. 15-01874 (4th Cir. Aug 06, 2015), Court Docket
+© 2016 The Bureau of National Affairs, Inc. All Rights Reserved. Terms of Service
+   // PAGE 44

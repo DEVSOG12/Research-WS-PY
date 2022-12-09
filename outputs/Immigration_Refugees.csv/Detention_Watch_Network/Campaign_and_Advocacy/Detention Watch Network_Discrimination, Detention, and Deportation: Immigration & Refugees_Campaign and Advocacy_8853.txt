@@ -1,0 +1,1794 @@
+F A T A L 
+NEGLECT
+How ICE Ignores Deaths in Detention
+2 Fatal Neglect: How ICE Ignores Deaths in DetentionAmerican Civil Liberties Union
+For nearly 100 years, the ACLU has been our nation’s 
+guardian of liberty, working in courts, legislatures, and 
+communities to defend and preserve the individual 
+rights and liberties that the Constitution and the laws of 
+the United States guarantee everyone in this country. 
+aclu.org
+Detention Watch Network
+Detention Watch Network (DWN) works through the 
+collective strength and diversity of its members to 
+expose and challenge injustices of the U.S. immigration 
+detention and deportation system and advocate for 
+profound change that promotes the rights and dignity 
+of all persons.
+detentionwatchnetwork.org 
+National Immigrant Justice Center
+With offices in Chicago, Indiana, and Washington, D.C., 
+Heartland Alliance’s National Immigrant Justice Center 
+(NIJC) is a nongovernmental organization dedicated 
+to ensuring human rights protections and access to 
+justice for all immigrants, refugees, and asylum seekers 
+through a unique combination of direct services, policy 
+reform, impact litigation, and public education.
+immigrantjustice.org  This report was a collaborative effort of the ACLU, DWN, 
+and NIJC. Primary contributors were: Carl Takei of the 
+ACLU; Mary Small and Carol Wu of DWN; and Jennifer 
+Chan of NIJC.
+Other staff and interns also contributed crucial research 
+and editing, including David Fathi, Joanne Lin, Judy 
+Rabinovitz, and Chris Rickerd of ACLU; Carly Perez, Ana 
+Carrion and Silky Shah of DWN; Tara Tidwell Cullen, 
+Mary Meg McCarthy, Royce Bernstein Murray, Ross 
+Noecker, and Katherine Rivera of NIJC.
+Design by: Strictly District, LLC.
+Translation by: Eleana Gómez
+Cover Image: Alonso Yáñez/La Opinión
+© February 2016 American Civil Liberties Union, 
+Detention Watch Network, and Heartland Alliance’s 
+National Immigrant Justice CenterAcknowledgements
+3 Fatal Neglect: How ICE Ignores Deaths in DetentionDespite the Obama administration’s stated commitment to reform the U.S. 
+immigration detention system, driven in part by outrage over the high number of 
+deaths in custody,1 failure to provide adequate medical care has continued to result 
+in unnecessary deaths. The New York Times  2010 investigative report on deaths in 
+immigration detention found evidence of a “culture of secrecy” and a failure to address 
+fatal flaws at detention centers.2 According to an analysis of newly public government 
+death reviews, these problems persist and poor medical care contributes to the death 
+of immigrants in federal immigration custody with alarming frequency. 
+This report examines egregious violations of U.S. Immigration and Customs 
+Enforcement’s (ICE) own medical care standards that played a significant role in 
+eight in-custody deaths from 2010 to 2012. An American Civil Liberties Union (ACLU), 
+Detention Watch Network (DWN), and National Immigrant Justice Center (NIJC) review 
+of ICE death investigations and facility inspection reports reveals that even though 
+ICE’s own death reviews identified violations of ICE medical standards as contributing 
+factors in these deaths, ICE detention facility inspections conducted before and after 
+these deaths failed to acknowledge—or sometimes dismissed—the critical flaws 
+identified in the death reviews. The findings underscore how ICE’s deficient inspections 
+system, first exposed by DWN and NIJC in the October 2015 report Lives in Peril, exacts 
+a tragic human toll.3
+The ACLU obtained ICE Office of Detention Oversight (ODO) Detainee Death Review 
+documents summarizing investigations into detention-center deaths through a 
+Freedom of Information Act (FOIA) request. These requests followed up on the ACLU’s 
+2007-2009 FOIA requests on deaths in ICE detention, which formed the basis for an 
+investigative series by The New York Times  that, along with widespread NGO advocacy, 
+pushed the Obama administration to adopt its 2009 detention reforms.4 The death 
+reviews are a component of these 2009 reforms, and are carried out by a centralized 
+team of ICE personnel and subject-matter experts who interview local personnel 
+and review medical and custody records to evaluate the medical care related to 
+the death. The ACLU’s updated FOIA request sought the ODO reviews of 24 deaths 
+that occurred in ICE custody from January 2010 through May 2012. In response, ICE 
+produced documents regarding 17 deaths, but did not provide investigations for seven 
+individuals. Of these seven outstanding cases, four remained under investigation at 
+the time of ICE’s final document production, more than 400 days after these deaths 
+occurred. In the remaining three deaths, ICE did not conduct its own detainee death 
+review; in two cases, this was because the Office of Inspector General (OIG) in the 
+Department of Homeland Security (DHS) conducted the investigation, and in one case 
+(discussed below), it is not clear if anyone conducted an investigation.5 In nearly half of 
+the death reviews produced by ICE, the documentation suggests that failure to comply 
+with ICE medical standards contributed to deaths.Introduction
+Methodology
+The ACLU, DWN, and NIJC 
+analyzed 24 ICE death reviews 
+that the ACLU received through 
+its FOIA request. The eight cases 
+discussed in this report were 
+identified based on whether 
+ICE investigators found that 
+detention centers were non-
+compliant with ICE detention 
+standards for medical care. 
+The case summaries for these 
+deaths provide a summary of 
+the evidence provided in the 
+death reviews as well as ICE’s 
+own findings on facility lack of 
+compliance with ICE detention 
+standards.Pablo
+Gracida-Conte
+Pablo Gracida-Conte died at 
+the Eloy Detention Center--the 
+deadliest detention center in 
+the nation--after four months 
+of worsening, untreated 
+medical problems including 
+vomiting after every meal. A 
+doctor concluded that Mr. 
+Gracida’s death could have been 
+prevented. Remarkably, the 
+ODO inspection claimed that 
+Mr. Gracida’s death was the first 
+death “to ever occur” at Eloy 
+when, in fact, it was the 10th 
+death at the facility.4 Fatal Neglect: How ICE Ignores Deaths in DetentionIn addition to creating the death review process, ICE instituted 
+other reforms intended to reduce the number of in-custody 
+deaths. These included the creation of a new detention facility 
+inspection process under ODO that was intended to provide 
+a more rigorous review of detention standards compliance 
+than the routine Enforcement and Removal Operations (ERO) 
+inspections6, centralization of healthcare under the ICE Health 
+Service Corps (IHSC), and the introduction of a more robust set 
+of detention standards, the 2011 Performance-Based National 
+Detention Standards (PBNDS 2011).7
+The PBNDS 2011, which were not in operation at the time of 
+the deaths examined in this report, are the most thorough 
+standards promulgated by ICE. Even these standards, 
+however, fall short in significant respects compared to the 
+National Commission on Correctional Health Care (NCCHC) 
+standards for medical care in prison and jail settings.8 And 
+although PBNDS 2011 are an improvement over ICE’s earlier 
+standards, ICE’s adoption of them has been slow; as of 
+January 2014, 139 facilities holding 44 percent of detained 
+immigrants still operated under other, outdated standards 
+that were promulgated as early as 2008 or even in 2000, prior 
+to the creation of ICE.9 Further, as of January 2014, ICE held 
+19 percent of detained immigrants in facilities where ICE did 
+not directly contract with the facility and instead contracted 
+through the U.S. Marshals Service (USMS). As two death 
+reviews from such USMS facilities noted, ICE did not have 
+contracts requiring those facilities to comply with any ICE 
+detention standards.10 This is of particular concern since most 
+USMS contracts are indefinite in duration, and may not be 
+easily modified.11
+Congress also instituted an important reform in 2009. Since 
+then, congressional appropriations have included a provision 
+that ICE cannot expend funds to immigration detention 
+facilities that fail two consecutive ERO inspections.12 Although 
+the number of deaths in ICE custody has decreased in recent 
+years,13 comparison of the death reviews from 2010-2012 
+with ODO and ERO inspections conducted at facilities before 
+and after deaths occurred demonstrates that the inspection 
+reforms have failed to hold detention facilities accountable for 
+providing adequate medical care. The ACLU, DWN, and NIJC 
+call on ICE to take immediate action to improve the detention-
+center inspections process and the quality of medical care.Contract Types
+•	 Contract 	Detention 	Facilities 	(CDFs)	are owned and 
+operated by private corporations that contract directly with IC E. 
+•	 Service 	Processing 	Centers	(SPCs)	are owned and 
+operated by ICE. However, ICE hires contractors to handle 
+many services within the facilities, such as transportation 
+and guard services.
+•	 Intergovernmental 	Service	Agreements 	(IGSAs)	are 
+owned and operated by local governmental entities, 
+typically county or city governments. Many local 
+governments subcontract to private corporations to 
+administer the facilities and/or to provide other services.
+•	 U.S.	Marshals 	Service	(USMS)	Intergovernmental 	
+Agreements 	(IGAs)	are under contract with the 
+Department of Justice’s U.S. Marshals Service. Many of 
+these contracts pre-date the 2003 creation of DHS and 
+frequently do not reference clear applicable standards for 
+detaining immigrants. Further, the majority of the USMS 
+IGA contract terms are indefinite, meaning that there 
+is no clear opportunity to renegotiate facility contracts, 
+upgrade them to the most recent detention standards, or 
+contractually address other concerns.
+Photo: Alonso Yáñez/La Opinión5 Fatal Neglect: How ICE Ignores Deaths in DetentionKey Findings
+There have been 56 deaths in ICE custody 
+during the Obama administration, including 
+six suicides14 and at least one death after an 
+attempted suicide.15 This report focuses on 
+the eight deaths where ODO identified non-
+compliance with ICE medical standards as 
+contributing causes; the ODO identified four 
+of these deaths as preventable. However, this 
+focus should not excuse several other cases 
+in which ODO identified similar violations 
+of ICE medical standards without drawing 
+causal links between these violations and 
+the deaths.16 The risks posed by substandard 
+medical care will continue to endanger 
+people detained in these facilities until the 
+violations are corrected. Indeed, forcing such 
+corrections is perhaps the most important 
+reason to conduct death reviews in the 
+first place. In hospitals, for example, it is 
+a common practice to conduct root cause 
+analyses of serious adverse events (such as 
+death, permanent harm, or severe temporary 
+harm) to identify changes to culture, 
+systems, and processes that could reduce 
+the probability of such events in the future.17 
+Our investigation shows that in ICE detention 
+facilities, this process is broken; even in 
+the eight cases where ODO death reviews 
+concluded that violations of ICE medical 
+standards contributed to people’s deaths, 
+ICE’s deficient inspections system essentially 
+swept those findings under the rug.
+Moreover, not all deaths are reviewed. In 
+one case, ICE claimed that it did not have 
+responsibility to review the death because 
+the individual had been in ICE custody for 
+less than six hours in a short-term hold 
+facility, and had not yet been transferred to a 
+detention facility designated for stays longer 
+than 72 hours.18 This response raises the Facility TypeDeaths 
+Attributable  
+to Substandard 
+Care  
+Jan. 2010–  
+May 2012Total 
+Deaths
+Jan. 2010–  
+May 2012
+Intergovernmental Service Agreement (IGSA) 3 10
+Adelanto Detention Facility (CA) 1 1
+Clinton County Correctional Facility (PA) 0 1
+Columbia Regional Care Center (SC) 0 1
+Eloy Detention Center (AZ) 1 1
+Immigration Centers of America – Farmville (VA) 1 1
+Mira Loma Detention Center (CA) 0 1
+North Georgia Detention Center (GA) 0 1
+Orleans Parish Prison (LA) 0 1
+Theo Lacy Facility (CA) 0 1
+York County Prison (PA) 0 1
+Contract Detention Facility (CDF) 2 4
+Denver CDF (CO) 1 1
+Elizabeth Detention Center (NJ) 1 1
+Houston CDF (TX) 0 2
+Service Processing Center (SPC) 1 3
+El Paso Processing Center (TX) 1 1
+ICE ERO Processing Center (NV) 0 1
+Krome SPC (FL) 0 1
+U.S. Marshals Service (USMS) IGSA 2 2
+Weber County Correctional Facility (UT) 1 1
+Albany County Corrections Facility (NY) 1 1
+Bureau of Prisons (BOP) 0 3
+Oakdale Federal Detention Center (LA) 0 2
+Butner Federal Correctional Institute (NC) 0 1
+Hold Facility 0 1
+San Bernardino Hold Room (CA) 0 1
+Staging Area 0 1
+Broadview Service Staging Area (IL) 0 1There have been 56 deaths in 
+ICE custody during the Obama 
+administration, including six 
+suicides and at least one death 
+after an attempted suicide.DEATHS6 Fatal Neglect: How ICE Ignores Deaths in DetentionThe ODO death review documents that indicate 
+violations of ICE medical standards reveal a failure to:
+1. Meet health care needs in a timely manner
+2. Refer individuals to higher-level medical care 
+providers, including transfer to external services 
+such as emergency services
+3. Adequately staff medical personnel
+4. Communicate critically important information 
+about individuals’ medical conditions between staff 
+and especially during transfers
+5. Adequately screen individuals for illnesses
+6. Proactively identify and rectify concerns about 
+medical care during ERO and ODO facility 
+inspectionsThe ERO and ODO inspections should have detected gaps 
+and flawed protocols that ICE or other facility operators 
+should have fixed. Instead, in some inspections, inspectors 
+failed even to mention deaths that had occurred at the 
+facilities under investigation. Also, for all but one of the 
+eight deaths described in this report, ICE ERO inspectors 
+gave facilities passing ratings prior to and following deaths 
+related to egregiously substandard medical care, even 
+where ODO inspections found facilities failed to meet 
+medical care standards, and even where ODO death 
+reviews explicitly identified the deaths as preventable.
+Overall, the systems designed to provide health care and 
+hold facilities accountable failed these eight individuals, 
+and may well have cost them their lives.Failures in Medical Care Cost Livesquestion of who is responsible for the care of individuals 
+in ICE’s short-term detention facilities, and whether such 
+gaps in responsibility are endangering other lives.
+Three of the eight deaths profiled here—Fernando 
+Dominguez-Valdivia (also written as Valivia in many ICE 
+documents and some media reports), Irene Bamenga, and 
+Amra Miletic—led to wrongful death lawsuits by surviving 
+family members.19 However, not only are wrongful death 
+lawsuits an insufficient resolution for families who must 
+still live with the loss of their loved ones, they do not 
+resolve the systemic problems highlighted in this report. 
+As described in further detail below, ICE must take 
+effective measures to improve delivery of medical care 
+in detention and overhaul the inspections process so 
+that both can function to stop more people from dying preventable deaths in ICE custody.
+In addition, six out of the eight deaths involving 
+substandard medical care occurred at privately run 
+facilities.20 The highest number of deaths during the 
+period covered by the death reviews occurred at facilities 
+in which ICE contracted with local governments through 
+Intergovernmental Service Agreements (IGSA), and the 
+local governments then subcontracted with private, for-
+profit prison companies to run the facilities. Private prison 
+companies like Corrections Corporation of America (CCA) 
+and the GEO Group, which operate eight of the 10 largest 
+immigration detention centers,21 have long been criticized 
+by advocacy organizations, government agencies, and the 
+press for inadequate medical care, understaffing, violence, 
+and other issues.22 7 Fatal Neglect: How ICE Ignores Deaths in DetentionEvalin-Ali Mandza, a 46-year-old citizen of Gabon, died of a 
+heart attack after receiving inexcusably delayed emergency 
+care on April 12, 2012, after 171 days in custody at the 
+Denver Contract Detention Facility (DCDF) in Aurora, 
+Colorado. DCDF is operated by GEO Group. 
+On April 12, 2012, a code-blue emergency was 
+activated at DCDF at approximately 5:24 a.m. when 
+other detained individuals got an officer’s attention 
+to report that Mr. Mandza was experiencing chest 
+pain.23 At approximately 5:50 a.m., a doctor was finally 
+alerted to the situation, determined that Mr. Mandza 
+needed to go to the emergency room, and directed a 
+nurse to call 911.24 However, the call was not placed 
+to 911 until approximately 6:20 a.m., nearly one hour 
+after the activation of the code-blue emergency.25 This 
+unconscionably long delay clearly violated ICE PBNDS 
+2008, which requires “detainees who need health care 
+beyond facility resources to be transferred in a timely 
+manner to an appropriate facility where care is available.”26 Multiple other failures beyond the delays also occurred 
+within that hour. Despite the fact that GEO’s nursing 
+protocol for chest pain27 requires vital signs to be taken 
+every five minutes, Mr. Mandza’s vital signs were taken at 
+5:28 a.m. and then not again until 6:20 a.m.28 Also, during 
+this time an electrocardiogram (EKG) was performed, 
+but the nurse performing the test was initially unable 
+to get a reading because she was unfamiliar with the 
+machine.29 Then she performed the wrong test.30 Once she 
+performed the correct test, she was unable to interpret 
+the results because she was not trained on the use of an 
+EKG or in the interpretation of EKG test results.31 Instead, When Substandard Medical Care Can Kill
+Death #1:  
+Evalin-Ali Mandza
+Age 46
+Country of Origin Gabon
+Cause of DeathHeart attack after egregious delays in calling 911and referring Mr. Mandza to a higher-
+level provider.
+Date of Death April 12, 2012
+Detention Standards PBNDS 2008
+Non-Compliance with
+Detention Standards for
+Medical CareSection (II)(2):  Meet healthcare needs in a timely and efficient manner;
+Section (II)(7):  Timely transfe r to an appropriate facility where care is available for 
+individuals whose healthcare needs are beyond facility resources;
+Section (V)(O):  Medical and safety equipment is available and maintained, and staff is 
+trained in proper use of equipment.
+Length of Detention 171 days
+Detention Facility Denver Contract Detention Facility, Aurora, CO
+Facility Operator GEO Group
+Facility Contract Type CDF
+The call to 911 also was delayed 
+because medical staff prioritized 
+filling out transfer paperwork 
+rather than placing the call.8 Fatal Neglect: How ICE Ignores Deaths in Detentionthe nurse reports relying on her “gut instinct” to send 
+Mr. Mandza to the hospital.32 These are violations of ICE 
+PBNDS requirements that medical and safety equipment 
+be available and maintained, and that staff be trained in 
+proper use of the equipment.  The call to 911 also was 
+delayed because medical staff prioritized filling out transfer 
+paperwork rather than placing the call.33
+The death review conducted by ODO contractor Creative 
+Corrections found that DCDF medical staff were unfamiliar 
+with the institution’s Chest Pain Protocol, that appropriate 
+cardiac medication was not administered, and that there 
+was a delay in transporting the patient to a higher-level care 
+facility, “all of which may have been contributing factors to 
+Mr. Mandza’s death.”34 An IHSC review, included in the death 
+review, similarly found that Mr. Mandza “did not have access to appropriate medical care while detained in the DCDF.”35
+Despite these documented failings, DCDF passed its ERO 
+inspections immediately before and after Mr. Mandza’s 
+death, including the medical standards with which the 
+facility is found non-compliant in the death review. In 
+the 2012 ERO inspection, there are two descriptions of 
+Mr. Mandza’s death. These summaries are worryingly 
+inaccurate, describing Mr. Mandza as being from Ghana 
+rather than Gabon and failing to mention any concerns. 
+Instead, inspectors state, “He received a timely and 
+comprehensive medical and mental health screening and 
+physical assessment, reported no significant past medical 
+history and denied any significant risk factors for heart 
+disease,”36 effectively whitewashing the quality of  
+medical care. 
+Death #2:  
+Amra Miletic
+Age 47
+Country of Origin Bosnia-Herzegovina
+Cause of DeathComplications of chronic bowel inflammation and heart arrhythmia after nearly two 
+months of substandard care that failed to address Ms. Miletic’s rectal bleeding, vomiting, 
+abdominal pain, and nausea.
+Date of Death March 20, 2011
+Detention Standards NDS
+Non-Compliance with
+Detention Standards for
+Medical CareSection (II)(2):  Facilities will provide its detained population with initial medical 
+screening, cost-effective primary medical care, and emergency care;
+Section (III)(D):  All new arrivals shall receive initial medical and mental health screening 
+immediately upon arrival by a healthcare provider or an officer 
+trained to perform this function, and health appraisals and physical 
+examinations will occur within 14 days of arrival in accordance with 
+NCCHC and JCAHO standards.
+Length of Detention 47 days
+Detention Facility Weber County Correctional Facility, Ogden, UT
+Facility Operator Weber County Sheriff’s Office
+Facility Contract Type USMS IGA
+While detained for nearly two months, Ms. Miletic suffered 
+from rectal bleeding, vomiting, abdominal pain, rapid 
+weight loss, and nausea—conditions that ought to raise 
+alarms even if experienced for a much shorter period of time. Ms. Miletic, originally from Bosnia-Herzegovina, 
+passed away on March 20, 2011, at the McKay Dee Hospital 
+in Ogden, Utah, from “complications of chronic colitis 
+and atrial fibrillation,”37 or chronic bowel inflammation 9 Fatal Neglect: How ICE Ignores Deaths in Detentionand heart arrhythmia, after 47 days in ICE 
+custody while detained at the Weber County 
+Correctional Facility (WCCF). Colitis is an 
+inflammation of the lining of the colon; it 
+should not be fatal if treated properly. The 
+review completed after her death concluded 
+that “the WCCF was not in compliance with 
+the ICE NDS Medical Care Standard,”38 citing 
+various egregious violations including failure 
+to provide Ms. Miletic with immediate “off-site 
+specialty care for her medical condition” after 
+serious documented complaints of “rectal 
+bleeding, nausea, vomiting, and diarrhea”39 
+as well as failure to document missed meals 
+(even while Ms. Miletic was on medical watch) 
+or to note missed medication.40
+Despite arriving with seven different 
+medications and complaints of feeling sick 
+and vomiting, Ms. Miletic was not given a full 
+medical and mental health screening.41 Within 
+her first month at WCCF, Ms. Miletic also 
+submitted three sick call slips (February 8, 21, 
+and 26) with complaints of feeling sick, finding 
+blood in her stool, lower abdominal pain, and 
+a persistent fever.42 In response, the medical 
+staff prescribed Metamucil, hemorrhoidal 
+suppositories, and Tylenol.43 Although Ms. 
+Miletic was becoming visibly sicker and 
+thinner (losing 15 pounds in nine days)44 and 
+other detained women complained about 
+her hygiene and smell due to her medical 
+condition, the medical staff delayed placing 
+Ms. Miletic under observation.45 Even then, 
+because there was no room in the medical 
+segregation unit, Ms. Miletic was placed in a 
+separate housing unit where no one noticed 
+that she was unresponsive for almost 45 
+minutes,46 clearly delaying her transfer to the 
+hospital where she ultimately died.
+Ms. Miletic had rectal bleeding for almost two 
+months and yet she did not see a physician 
+until 37 days after her arrival and lab tests 
+FEb. 1 FEb. 8 FEb. 11 FEb. 23 MAR. 9 MAR. 20 MAR. 18Ms. Miletic is taken into ICE custody with complaints 
+of nausea, vomiting, fever, and diarrhea.47 She is not 
+given a full medical and mental health screening.48
+ 
+Ms. Miletic submits a sick slip saying that she is 
+sick, cold, that her stomach has been bleeding, and 
+that she is in pain.49 She is scheduled for a medical 
+appointment two days later. Medical staff do not 
+record her weight (despite complaints of weight loss) 
+and do not order lab tests.50
+ 
+Ms. Miletic has a urinalysis and three stool tests. 
+According to the facility, Ms. Miletic submits one stool 
+sample which tests positive for blood.51 
+The doctor refuses to see Ms. Miletic in the 
+evening because she had not come for an earlier 
+appointment.52
+Ms. Miletic is seen by the medical unit 10 days after 
+submitting a sick slip, with complaints of diarrhea 
+and abdominal cramping.53 Her stool is described 
+as “bloody, bright red and has some clots.” 54 She 
+weighs 134 pounds. Her first lab test is ordered after 
+five weeks in detention. This is also the first record of 
+the facility attempting to obtain Ms. Miletic’s medical 
+records.
+ 
+Multiple times throughout the day, Ms. Miletic 
+reports feeling like she is dying. She weighs 119 
+pounds, a 15 pound weight loss in nine days, yet a 
+chart notes that “[Ms. Miletic’s] vitals do not reflect 
+her distress.”55 When Ms. Miletic requests new 
+underwear because she is bleeding rectally, she is 
+asked to place the dirtied underwear outside of her 
+cell and a deputy is asked “to visualize [the] amount 
+of blood.”56
+Ms. Miletic states that she has not eaten for seven 
+days and is bleeding heavily with severe abdominal 
+pains. There is no documentation of the facility staff 
+informing medical that Ms. Miletic was not eating. 
+According to video surveillance, Ms. Miletic shows 
+signs of distress at 6:25 p.m. Four minutes later, she 
+displays her last movement. At	both	6:39	and	6:49	
+p.m.,	two	deputies 	walk	by	her	cell.	At	7:13	p.m.,	
+a	nurse	discovers 	Ms.	Miletic,	unresponsive.Fatal Timeline: Amra Miletic10 Fatal Neglect: How ICE Ignores Deaths in DetentionDeath #3:  
+Pablo Gracida-Conte
+Age 54
+Country of Origin Mexico
+Cause of DeathMr. Gracida succumbed to cardiomyopathy, a treatable disease of the heart muscle. He 
+died after four months of persistent requests for medical treatment that were ignored.
+Date of Death October 30, 2011
+Detention Standards PBNDS 2008
+Non-Compliance with
+Detention Standards for
+Medical CareSection (II)(2):  Meet healthcare needs in a timely and efficient manner;
+Section (II)(7):  Timely transfer t o an appropriate facility where care is available for 
+individuals whose healthcare needs are beyond facility resources.
+Length of Detention 142 days
+Detention Facility Eloy Detention Center, Eloy, AZ
+Facility Operator Corrections Corporation of America (CCA)
+Facility Contract Type IGSA with the City of Eloy, AZwere not ordered until 11 days before she died. Despite a 
+rapid, substantial weight loss and visual evidence that she 
+was sick, WCCF’s medical staff repeatedly failed to respond 
+appropriately to the signs that Ms. Miletic’s condition was 
+deteriorating. Even while she was ostensibly under their 
+observation, they failed to notice she was unresponsive for 
+45 minutes. 
+According to the doctor who was hired to conduct the 
+mortality review as part of the death review, “this was a 
+death that was preventable.”57 The consultant criticized the 
+qualifications of WCCF’s medical staff, writing  
+“[c]ompetence in the practice of contemporary medicine and nursing must be questioned. The nursing staff, 
+based on documentation, appears to be working outside 
+the scope of nursing practice. There is a general lack of 
+knowledge and application of the nursing triage process. 
+…The physician’s lack of understanding of the urgency 
+of colonoscopy and referral to emergency care begs to 
+question his competency.”58 ERO and ODO inspections are 
+not available for review.
+Mr. Gracida died of heart disease after repeated failures 
+to provide him with timely and efficient care. After four 
+months of worsening, untreated medical problems, Mr. 
+Gracida died on October 30, 2011, at the University of 
+Arizona’s University Medical Center in Tucson, Arizona. He 
+became the 10th person since October 2003 to die while 
+incarcerated at the 1,550-bed, CCA-run Eloy Detention 
+Center in Eloy, Arizona.59 The autopsy report states the 
+cause of death for the 54-year-old as cardiomyopathy, a 
+treatable disease of the heart muscle.60 During Mr. Gracida’s 142 days in detention, he complained 
+of ongoing health issues such as vomiting after every 
+meal and extreme upper abdominal pain. Eloy staff had 
+difficulty communicating with Mr. Gracida, who spoke 
+Mixteco. Although the facility has access to telephonic 
+interpreters and had ample time to find an interpreter, 
+it never obtained one.61 Mr. Gracida’s long list of sick 
+call requests reads as a desperate, repeated cry for help 
+that was ignored until it was too late. [See timeline on the 
+following page]No one noticed that she was 
+unresponsive for almost 45 minutes.11 Fatal Neglect: How ICE Ignores Deaths in DetentionICE detains Mr. Gracida at Eloy.
+Mr. Gracida visits the medical clinic for vomiting and profuse sweating. 
+Mr. Gracida reports decreased appetite and is examined by a reg istered nurse (RN) on August 12.
+An RN examines Mr. Gracida for complaints of nausea/vomiting, upper abdominal pain, and 
+bloating. 
+Mr. Gracida reports a 10 out of 10 pain level,62 burning abdominal pain, and daily vomiting. 
+Medical staff schedule laboratory tests which occur on October 11 and tell him to eat  
+a bland diet.
+Mr. Gracida complains of headache, nausea, and vomiting. He reports an eight-out-of-10 
+pain level and that upper abdominal pain has kept him from sleeping for one month. An RN 
+refers Mr. Gracida to a nurse practitioner (NP). 
+Mr. Gracida reports that his nausea, vomiting, and diarrhea has subsided.
+Mr. Gracida appears at the medical unit with shortness of breath and reports an increased 
+level of pain during meals, pain while lying down, and difficulty sleeping. When the licensed 
+practical nurse (LPN) asks the NP to see Mr. Gracida because of his shortness of breath, the 
+NP refuses. The LPN seeks assistance from an RN.63 Later, Mr. Gracida refuses to receive his 
+evening medications.
+Mr. Gracida requests to discontinue his medications because they make him feel ill and 
+dizzy, and give him heartburn. He again refuses to take his medication.
+An RN examines Mr. Gracida and finds that he has an irregular heart rate, rapid respiratory 
+rate, low blood pressure, and a weight gain of five pounds within six days. He complains 
+of abdominal pain after taking his medications resulting in insomnia, poor appetite, and 
+persistent weakness and dizziness. In addition, he discloses that he had a heart attack in 
+2000. The NP conducts an electrocardiogram (EKG), which is abnormal. Instead of referring 
+Mr. Gracida to higher-level care, the NP schedules a follow-up visit for the next day after his 
+court hearing, noting that he would be referred to cardiology if he remained in custody.64
+Mr. Gracida is unable to complete a sentence without stopping to breathe. He has a second 
+abnormal EKG and the facility finally refers him to the Casa Grande Regional Medical Center 
+(CGRMC) Emergency Room. CGRMC diagnoses Mr. Gracida with severe cardiomyopathy and 
+possible pneumonia. 
+A CGRMC doctor notes that Mr. Gracida is ailing from complex cardiac issues and 
+recommends transfer to the University Medical Center in Tucson (UMC).
+Mr. Gracida is admitted to UMC on October 28 and dies after transfer to the hospital’s 
+intensive care unit on October 30. JUN. 10
+JUL. 19
+AUG. 10
+OCT. 5
+OCT. 8
+OCT. 14
+OCT. 18
+OCT. 22
+OCT. 23
+OCT. 24
+OCT. 25
+OCT. 27
+OCT. 28-30Fatal Timeline: Pablo Gracida-Conte12 Fatal Neglect: How ICE Ignores Deaths in DetentionAfter Mr. Gracida’s death, the ODO conducted a 
+death review in December 2011 and concluded that:  
+1. Eloy failed to provide medical care in accordance with 
+PBNDS 2008. 
+2. Eloy’s medical provider had failed to provide him with 
+timely and efficient care. A doctor who participated  
+in the ODO’s death review concluded that  
+“[Mr.] Gracida’s death might have been prevented  
+if the providers, including the physician at [Eloy],  
+had provided the appropriate medical treatment  
+in a timely manner.”65 
+3. Eloy failed to send Mr. Gracida to the emergency room. 
+In the ODO’s investigation, a doctor stated that Mr. 
+Gracida’s condition on October 24 “should have been 
+considered urgent, and he should have been referred to 
+a cardiologist.”66 
+4. Communication with Mr. Gracida happened only 
+at a “very basic level.” Although Spanish-speaking 
+staff documented that Mr. Gracida spoke “very little 
+Spanish,” they never obtained a Mixteco interpreter.67
+5. Language and cultural barriers were contributing 
+factors in the failure to address Mr. Gracida’s medical 
+needs. 
+Despite these concerns, the ODO death investigator 
+chose not to cite Eloy as non-compliant with ICE PBNDS 
+standards related to interpretation assistance.68 In 
+addition, the ODO investigation uncovered evidence that 
+Eloy staff were well aware of Mr. Gracida’s deteriorating 
+condition, revealing that a guard reported that Mr. Gracida 
+had been vomiting after every meal.69 The ODO death 
+investigator expressed concern that at the time of review, 
+Eloy did not have a clinical director, noting that an Eloy 
+doctor stated that the clinic is understaffed and she  
+“badly needs help.”70 In its investigation, the ODO states 
+that Eloy had been without a clinical director for four of 
+the five years it had been open; however, in its 2012 facility 
+inspection, the ODO states that Eloy opened in 1994.71 It 
+is unclear how long the facility has been without a clinical 
+director based on these documents.
+Eloy passed its 2011 ERO and ODO inspections before Mr. 
+Gracida’s death.72 Both the January 2012 ERO inspection and July 2012 ODO inspection mention his death, but do 
+not identify any problems at Eloy. ODO inspectors claim 
+that people at Eloy are seen for sick call in a timely manner 
+and sick call slips are effectively and expediently triaged. 
+They conclude that medical staffing is adequate; however, 
+they also encourage Eloy to fill the clinical director position, 
+which they claim had been vacant since May 2009, as soon 
+as possible.73 This assertion contradicts the ODO’s state -
+ment that Eloy had been without a clinical director for the 
+past four years. Remarkably, the ODO inspection claims 
+that Mr. Gracida’s death was the first death “to ever occur” 
+at Eloy when, in fact, it was the 10th death at the facility.74 
+Today, Eloy is known as the deadliest immigration deten -
+tion center in the nation. Four years after Mr. Gracida’s 
+death, the facility still does not have a doctor on staff.75 
+Recent deaths at the facility led Rep. Raúl Grijalva (D-AZ) 
+to write a letter to DHS Secretary Jeh Johnson express -
+ing alarm and calling for greater transparency of facility 
+operations.76 If ODO and ERO inspectors held Eloy to ICE 
+detention standards for medical care, Mr. Gracida’s death 
+and possibly four other deaths since 2011 could have been 
+prevented.77
+Photo: Diane Ovalle of PuenteRemarkably, the ODO inspection 
+claims that Mr. Gracida’s death  
+was the first death “to ever occur” 
+at Eloy when, in fact, it was the 10th 
+death at the facility.13 Fatal Neglect: How ICE Ignores Deaths in DetentionDeath #4:  
+Anibal Ramirez-Ramirez
+Age 35
+Country of Origin El Salvador
+Cause of DeathLiver failure following failure to communicate critically important information, 
+inadequate medical screenings, and inexcusable delays in referral to higher-level care.
+Date of Death October 2, 2011
+Detention Standards PBNDS 2008
+Non-Compliance with
+Detention Standards for
+Medical CareSection (II)(2):  Meet healthcare needs in a timely and efficient manner;
+Section (II)(28) and (V)(B):  Clinical decisions are the sole province of the clinical medical 
+authority and in no event should clinical decisions be made by 
+non-clinicians;
+Section (V)(I):  Assessment of pain required;
+Section (V)(O):  Medical personnel must be immediately notified when 
+emergency care may be required;
+Section (V)(C):  Facilities required to develop written procedures governing 
+management of administrative segregation units consistent 
+with detention standards. 
+Length of Detention 5 days (Mr. Ramirez-Ramirez was in ICE custody 2 days prior to his placement at ICAF) 
+Detention Facility Immigration Centers of America – Farmville (ICAF), VA
+Facility Operator Immigration Centers of America, LLC
+Facility Contract Type IGSA
+Failure to communicate critically important information, 
+negligent medical screenings, and inexcusable delays in 
+referral to higher-level care could have been contributing 
+factors78 to Anibal Ramirez-Ramirez’s death at the age 
+of 35. Originally from El Salvador, Mr. Ramirez-Ramirez 
+passed away from liver failure on October 2, 2011, seven 
+days after entering ICE custody and five days after being 
+processed into the privately operated Immigration Centers 
+of America in Farmville, Virginia (ICAF).79
+The narrative of the last week of Mr. Ramirez-Ramirez’s 
+life is a chronicle of medical symptoms ignored or 
+misinterpreted as non-cooperative behavior. The Virginia 
+state troopers who initially took Mr. Ramirez-Ramirez into 
+custody,80 the magistrate before whom he appeared,81 
+officers at the Prince William-Manassas Regional Adult 
+Detention Center (PWMRAD),82 and the officers who 
+transported Mr. Ramirez-Ramirez to ICAF83 all had evidence 
+that something was very wrong. A state trooper report 
+stated that Mr. Ramirez-Ramirez “dropped to the ground and picked himself up on several occasions” and vomited 
+at least three times in the patrol car.84 While appearing 
+before a magistrate, he defecated on himself and 
+acted oddly enough that the judge made a note that he 
+appeared ill.85 At PWMRAD, Mr. Ramirez-Ramirez defecated 
+on himself again and facility staff had to support him to 
+keep him from falling when being taken to the shower.86 
+During his transfer to ICAF, a driver reported hearing 
+Mr. Ramirez-Ramirez dry heaving, and Mr. Ramirez-
+Ramirez repeatedly lay across the laps of other men being 
+transferred.87 None of this was relayed to staff at ICAF, a 
+failure which was then compounded by inadequate care 
+upon arrival there. 
+In its comprehensive review as part of the death review, 
+ICE contractor Creative Corrections found that in addition 
+to information about Mr. Ramirez-Ramirez’s vomiting, 
+involuntary bowel movements, and extreme disorientation 
+not being communicated upon transfer between facilities, 
+the intake screening at ICAF was inadequate, and when 14 Fatal Neglect: How ICE Ignores Deaths in Detentionthe nurses checked on Mr. Ramirez-Ramirez, they failed to 
+take his vital signs.88 They also concluded that the multiple 
+delays in referring him to higher-level care may have 
+contributed to Mr. Ramirez-Ramirez’s death,89 violating 
+medical-care standards which require detainees’ medical 
+needs to be met in a timely manner.90 
+The ICE Health Services Corp (IHSC) investigation, also 
+included in the death review, similarly lists several 
+concerns about Mr. Ramirez-Ramirez’s time at ICAF, 
+including that he was placed on suicide watch for non-
+cooperative behavior during transfer early in the morning 
+of September 29 but he was not scheduled to see a 
+doctor until the afternoon of October 1,91 despite several 
+nurses raising concerns, including one nurse reporting 
+her belief that Mr. Ramirez-Ramirez’s behavior was not 
+due to a “psychological issue but a medical issue.”92 IHSC 
+investigators also note that he was monitored every two 
+hours instead of every 15 minutes while on suicide watch.
+Even more concerning, Creative Corrections inspectors 
+document allegations that non-medical facility staff 
+interfered with medical recommendations from nurses93 
+violating standards which require clinical decisions to be 
+the sole province of the clinical medical authority and 
+never made by non-clinicians.94 On October 1, a nurse 
+requested access to Mr. Ramirez-Ramirez’s cell in order to 
+take his vital signs, but facility staff told her to wait since 
+he was already scheduled to see a doctor 15 hours later.95 
+When she insisted, she was told to take his vital signs 
+through the slot in the solitary confinement cell door. She 
+further insisted that he required a “higher level of medical 
+care, including intravenous hydration and laboratory 
+tests.”96 When she was finally allowed to take his vital signs, 
+she discovered that he had a “perilously high” heart rate 
+and recommended that he be transferred to emergency 
+care. Instead, corrections staff decided to wait for the 
+doctor’s appointment 14 hours later. Mr. Ramirez-Ramirez 
+never made this appointment; three hours later nurses 
+called 911 after finding him lying on the ground with blood 
+coming out of his mouth.97
+Ultimately, after being transferred to the community 
+hospital and then quickly airlifted to a larger regional hospital, Mr. Ramirez-Ramirez died at 3:10 p.m., 10 
+minutes after his scheduled appointment with a 
+psychiatrist, who would have been the first doctor ever to 
+see him at ICAF. 
+The inspection which preceded Mr. Ramirez-Ramirez’s 
+death indicates that ICE was aware of the problems 
+at ICAF. The ODO’s April 2011 inspection found seven 
+deficiencies, which included failing a mandatory 
+component regarding staff responsiveness to medical 
+emergencies.98 ICE has not made ERO inspections prior to 
+Mr. Ramirez-Ramirez’s death publicly available; however, 
+the October 2011 ERO inspection two days after  
+Mr. Ramirez-Ramirez’s death concluded that the facility 
+did not meet standards,99 though it did give ICAF a 
+passing rating on its medical care. If these failings had 
+been addressed during the six months between the ODO 
+inspection and Mr. Ramirez-Ramirez’s death, then Mr. 
+Ramirez-Ramirez would likely have received the care he 
+critically needed in a timely manner. 
+Photo: Diane Ovalle of Puente15 Fatal Neglect: How ICE Ignores Deaths in DetentionDeath #5:  
+Irene Bamenga
+Age 29
+Country of Origin France
+Cause of DeathMs. Bamenga died after being given the incorrect dosages of medication. Although the 
+death certificate indicates that cardiomyopathy was the immediate cause of death, a 
+doctor reviewing Ms. Bamenga’s death questioned this conclusion.
+Date of Death July 27, 2011
+Detention Standards NDS
+Non-Compliance with
+Detention Standards for
+Medical CareSection (I):  Access to med ical services that promote detainee health and general 
+well-being;
+Section (III)(D):  all new arrivals shall receive tuberculosis screening;
+Section (III)(F):  healthcare pro vider shall review request slips and determine when 
+detainees will be seen.
+Length of Detention 12 days
+Detention Facility Albany County Corrections Facility, Albany, NY
+Facility Operator Albany County Sheriff’s Office
+Facility Contract Type USMS IGA
+Ms. Bamenga’s case—which is currently the subject of 
+a wrongful death lawsuit filed by her widower100 —is 
+painfully straightforward. After only 12 days in ICE custody, 
+the French citizen died after being given the incorrect 
+dosages of medication. She passed away on July 27, 
+2011,101 at the Albany Memorial Hospital in Albany, New 
+York.102 The certificate of death lists the immediate cause 
+of death as cardiomyopathy103 although the mortality 
+review report conducted by a doctor104 as part of the death 
+review questions this conclusion.105 The August 2011 death 
+investigation following Ms. Bamenga’s death revealed 
+“the [Allegany County Jail] (ACJ) and the [Albany County 
+Correctional Facility] (ACCF) were not in compliance with 
+the ICE NDS, Medical Care [Standard],”106 including specific 
+complaints that the ACCF and ACJ “failed to dispense 
+ordered medications, delayed in starting medications, 
+failed to verify medications, and provided incorrect dosing 
+of medications.”107
+Ms. Bamenga was consecutively held at two different 
+facilities— first at the ACJ in Belmont, New York, for five days 
+and then ACCF in Albany, New York, for the remaining seven 
+days. ODO identified substandard care in both facilities. Ms. Bamenga did not begin receiving medication at ACJ 
+until her fourth day in detention.108 Despite Ms. Bamenga 
+submitting two health-services request forms at ACCF in 
+the days preceding her death,109 the ACCF medical staff 
+did not take steps to address Ms. Bamenga’s concerns 
+or deteriorating condition.110 The first request on July 25, 
+2011, stated: “I am not being given the full dosage of my 
+medications. Two of the six different meds are meant to 
+be take [sic] twice a day and so far I have only be[en] given 
+1 dosage in the morning.” The second request reported       
+“[s]hortness of breath at night especially when laying down, 
+palpitations when laying down. Dizziness upon standing up 
+when palpitation and shortness of breath occur.” This was 
+exacerbated by ACCF medical staff administering incorrect 
+medicine dosages—both in missed and excessive dosages—
+which contributed directly to Ms. Bamenga’s death.111 In 
+fact, on the morning of July 27, 2011, before Ms. Bamenga 
+was found unresponsive in her jail cell, an ACCF nurse 
+practitioner gave Ms. Bamenga a physical assessment and 
+found nothing wrong even though Ms. Bamenga insisted 
+that she was receiving incorrect medicine dosages.112
+Upon reviewing the symptoms noted in Ms. Bamenga’s 
+medical file, a doctor participating in the death review 16 Fatal Neglect: How ICE Ignores Deaths in Detentionstates that Ms. Bamenga’s death could have resulted 
+from a cardiac arrhythmia brought on by “digoxin toxicity 
+and alterations in potassium levels” due to incorrectly 
+prescribed high dosages of her medications.113 According 
+to the doctor, “missed medication dosing as well as 
+incorrect medication dosing were significant factors that 
+contributed to the decompensation of [Ms. Bamenga’s] 
+congestive heart failure.”114 Regardless, the doctor 
+concludes that, even if “this patient’s death was indeed 
+[caused by] cardiomyopathy due to congestive heart 
+failure, then this death could have been prevented if the 
+appropriate steps were taken to determine the severity 
+of her congestive heart failure followed by an appropriate treatment plan to control her cardiac condition.”115
+ERO and ODO inspections were not available for 
+either facility around the time of Ms. Bamenga’s death. 
+Administering untimely and incorrect dosages of 
+medication, especially for life-threatening conditions like 
+congestive heart failure, is an obvious violation of even  
+the outdated detention standards that ICE applied to 
+ACCF.116 Ms. Bamenga’s death is a clear failure by ACJ and 
+ACCF medical staff to treat Ms. Bamenga’s worsening 
+condition and to appropriately medicate her for a  
+known medical condition.
+Death #6:  
+Fernando Dominguez-Valdivia117
+Age 58
+Country of Origin Mexico
+Cause of DeathPneumonia, a preventable and treatable illness, following facility failures to perform 
+proper physical examinations and provide timely and appropriate access to off-site 
+treatments.
+Date of Death March 4, 2012
+Detention Standards PBNDS 2008
+Non-Compliance with
+Detention Standards for
+Medical Care“Failure to perform proper physical examinations in response to symptoms and 
+complaints, failure to pursue any records critical to continuity of care, and failure to 
+facilitate timely and appropriate access to off-site treatments”118 (specific standards not 
+cited within ODO inspection).
+Length of Detention 82 days
+Detention Facility Adelanto Detention Facility, Adelanto, CA
+Facility Operator GEO Group
+Facility Contract Type IGSA
+Mr. Dominguez-Valdivia contracted pneumonia—a 
+preventable and treatable illness—during his 82 days in 
+immigration detention, but died from it after receiving 
+what ODO described as an “unacceptable level of medical 
+care.”119 He passed away on March 4, 2012, at the Victor 
+Valley Community Hospital in Victorville, California. 
+Originally from Mexico, Mr. Dominguez was 58 years old at 
+the time and had been detained at the Adelanto Detention 
+Facility (ADF) in Adelanto, California, since November 26, 2011. The autopsy report, according to the 2012 ERO 
+inspection of ADF, lists the cause of death as “multi-organ 
+failure due to sepsis, due to bronchopneumonia and 
+chronic alcoholic liver disease.”120
+In the three months leading up to his death, Mr. 
+Dominguez-Valdivia was taken to the hospital twice with 
+“complaints of dizziness.” He was subsequently given a 
+“stress test and an echocardiogram” but there was “no 17 Fatal Neglect: How ICE Ignores Deaths in Detentiondefinitive diagnosis.”121 On the morning of February 16, 
+2012, a nurse administering medications observed Mr. 
+Dominguez in the housing unit. It is unclear what she 
+observed, but Mr. Dominguez was taken to the medical 
+department with complaints of “dizziness, tiredness and 
+weakness.”122 He was later admitted to the emergency 
+room at the Victor Valley Community Hospital where he died. 
+According to the 2012 ODO inspection of ADF, a death 
+review was conducted after Mr. Dominguez’s death. 
+The death review is not publicly available; it was one of 
+four that remained incomplete at the time of ACLU’s 
+FOIA request. The ACLU submitted a follow-up request 
+for these reviews, but ICE denied the organization’s 
+request for expedited processing, claiming that there is 
+no “urgency to inform your limited audience about past 
+ICE actions” and that the information in Mr. Dominguez’ 
+death review would not “have a bearing on immediate or 
+resultant future situations.” Because it is not clear when 
+ICE will produce the full death review, report authors 
+have instead relied on a summary of the death review in 
+the 2012 ODO inspection. The review found that ACF123 
+medical staff failed to provide adequate health care to [Mr. 
+Dominguez], and failed to comply with the requirements of the ICE PBNDS 2008. The death review disclosed several 
+egregious errors committed by ACF medical staff in Mr. 
+Dominguez’s case, including “failure to perform proper 
+physical examinations in response to symptoms and 
+complaints, failure to pursue any records critical to continuity 
+of care, and failure to facilitate timely and appropriate 
+access to off-site treatments.”124 The death review summary 
+concludes that Mr. Dominguez’s death “could have been 
+prevented and that [he] received an unacceptable level of 
+medical care while detained at ACF.”125 
+Despite this unambiguous finding of medical neglect by 
+ODO, ADF passed its October 2012 ERO inspection later 
+that year following Mr. Dominguez’s death. However, 
+ADF had failed the 2011 ERO inspection prior to Mr. 
+Dominguez’s death126 because of a deficient mandatory 
+medical standard component. The component required 
+health appraisals and physical examinations to be 
+performed within 14 days of arrival, and review of 
+25 medical records showed that this was not being 
+done.127 The summary of Mr. Dominguez’s death review 
+demonstrates that this and other fatal deficiencies 
+persisted, making it even more troubling that ADF passed 
+its 2012 inspection. 
+Photo: Christina Fialho18 Fatal Neglect: How ICE Ignores Deaths in DetentionDeath #7:  
+Victor Ramirez-Reyes
+Age 56
+Country of Origin Ecuador
+Cause of DeathHeart disease after health care providers failed to monitor and control Mr. Ramirez’s 
+blood pressure.
+Date of Death September 26, 2011
+Detention Standards PBNDS 2008
+Non-Compliance with
+Detention Standards for
+Medical CareSection (V)(F):  Accountability for administering or distributing medications in a timely 
+manner and according to licensed provider orders;
+Section (II)(5):  Timely follow-up to healthcare requests
+Length of Detention 20 days
+Detention Facility Elizabeth Detention Center, Elizabeth, NJ
+Facility Operator CCA
+Facility Contract Type CDF
+Victor Ramirez-Reyes died of heart disease—a treatable 
+condition—after health care providers delivered grossly 
+substandard care by failing to monitor and control Mr. 
+Ramirez’s blood pressure. The 56-year-old Ecuadorian died 
+on September 26, 2011, at Trinitas Hospital in Elizabeth, 
+New Jersey, following 20 days in ICE custody at the CCA-run 
+Elizabeth Detention Center in New Jersey. According to the 
+New York State Medical Examiner, the immediate cause of 
+death was hypertensive and atherosclerotic cardiovascular 
+disease, or heart problems related to high blood pressure 
+and plaque buildup of the arteries.128
+ 
+Despite Mr. Ramirez’s disclosure at his initial interviews 
+with ICE and subsequent interview with Elizabeth medical 
+staff that he had a medical history of high blood pressure, 
+medical staff did not properly monitor his vital signs to 
+ensure his blood pressure was under control. Mr. Ramirez 
+received double doses of his medications on a daily basis 
+because medical staff did not follow proper protocols.129 A 
+sick call slip submitted by Mr. Ramirez was not forwarded 
+to medical staff scheduled to see him. Consequently, 
+medical staff failed to address the symptoms documented 
+on the slip, including trouble breathing.130 On the morning 
+of Mr. Ramirez’s death, he collapsed after receiving his 
+medication. Cardiopulmonary resuscitation and use of an automated external defibrillator machine did not begin 
+until emergency medical technicians arrived approximately 
+10 minutes later.131 A doctor declared Mr. Ramirez dead 
+nearly an hour later, after he arrived at the hospital.
+The ERO and ODO inspections after Mr. Ramirez’s death 
+draw mutually inconsistent conclusions about the quality 
+of care at Elizabeth. ERO’s October 2011 inspection 
+occurred 22 days after Mr. Ramirez’s death. The inspection 
+notes his death, but does not flag any areas of concern 
+about the quality of medical care. In fact, the ERO 
+inspectors found the facility in compliance with all 66 
+medical standards reviewed. The inspectors note that the 
+health services unit is “appropriately” staffed and provides 
+coverage 24 hours a day, seven days a week.132 At the time 
+of inspection, the facility was in the process of expanding, 
+making it even more critical to identify and address 
+existing deficiencies.133 It is troubling that Elizabeth’s 
+November 2011 expansion was allowed to continue given 
+Mr. Ramirez’s death and the clear failure to improve the 
+quality of medical care.134Medical staff did not properly 
+monitor Mr. Ramirez’s vital signs.19 Fatal Neglect: How ICE Ignores Deaths in Detention
+Photo: American Friends Service Committee Immigrant Rights Program
+In contrast, the January 2012 ODO inspection found 22 
+deficiencies. Four of the deficiencies are for failure to meet 
+PBNDS medical care standards related to inadequate 
+medical staffing and failure to provide timely and 
+appropriate medical care.135 ODO notes that staffing levels 
+are “inadequate to address the health care needs of the 
+detainee population” and that the staff vacancy rate is 
+particularly concerning given that the facility does not have 
+an on-site physician or weekend provider coverage.136 
+The ODO inspection does not mention Mr. Ramirez’s 
+death, but it does identify a case very similar to Mr. 
+Ramirez’s in which an individual also reported a history of hypertension and was not given appropriate care. 
+Although this second case occurred less than one month 
+after Mr. Ramirez’s death, the facility made the same 
+mistakes that led to Mr. Ramirez’s death. For instance, 
+healthcare providers did not refer the individual to higher-
+level care or to an external provider despite the person’s 
+having a “dangerously” high blood pressure for more than 
+24 hours.137 Although this second individual was released, 
+it is deeply concerning that Elizabeth had not made 
+changes to its medical procedures to address the flaws 
+that led to Mr. Ramirez’s death. It is unclear whether ICE 
+has addressed all medical-care deficiencies because ICE 
+has not publicly released more recent inspections. 20 Fatal Neglect: How ICE Ignores Deaths in DetentionDeath #8:  
+Mauro Rivera Romero
+Age 43
+Country of Origin El Salvador
+Cause of DeathDisseminated cryptococcosis, an infection associated with immune-suppressed 
+individuals, following inadequate medical screenings, failure to transfer critical medical 
+information, and failure to timely address Mr. Rivera’s medical issues and refer him to a 
+higher-level provider.
+Date of Death October 5, 2011
+Detention Standards PBNDS 2008
+Non-Compliance with
+Detention Standards for
+Medical CareSection (II)(2):  Meet healthcare needs in a timely and efficient manner
+Length of Detention 3 days 
+Detention Facility El Paso Processing Center, El Paso, TX
+Facility Operator ICE, Doyon-Akal JV oversees the detained population.138 
+Facility Contract Type SPC
+Negligent medical screening and failure to transfer critical 
+medical information led to Mauro Rivera Romero’s death 
+from an infection at the age of 43. Mr. Rivera, a Salvadoran 
+citizen, died on October 5, 2011, at the Del Sol Medical 
+Center in El Paso, Texas, following three days in detention 
+at the El Paso Processing Center (EPC). The County of El 
+Paso Office of the Medical Examiner found that the cause 
+of death was disseminated cryptococcosis, an infection 
+associated with immune-suppressed individuals.139
+The ODO investigation of Mr. Rivera’s death found that 
+medical personnel at EPC failed to review information 
+in Mr. Rivera’s medical record, and should have referred 
+Mr. Rivera to a higher-level medical care provider. The 
+ODO also found that important medical information was 
+not transferred from U.S. Border Patrol when Mr. Rivera 
+was taken into ICE custody, and that EPC medical staff 
+consistently failed to properly document his medical 
+encounters.140 The ODO notes that Mr. Rivera’s death 
+could have been prevented if he had accepted medical 
+care from Border Patrol or disclosed earlier that he 
+was HIV positive.141 However, individuals with HIV are 
+typically hesitant to disclose their status due to the stigma 
+associated with the disease. Though the ODO death review does not examine this possibility, a thorough and private 
+screening process sensitive to this dynamic may have been 
+able to induce Mr. Rivera to disclose his HIV status during 
+his initial screening. Regardless, the ODO found that EPC 
+failed to provide adequate care in several instances. [See 
+timeline on the following page]
+The ODO concluded that EPC failed to comply with PBNDS 
+requiring healthcare needs to be met in a timely and 
+efficient manner. Although the ODO does not cite failure 
+to follow up with Mr. Rivera’s doctor following his October 
+2 screening as a technical deficiency, it acknowledges 
+that such lack of action compromised Mr. Rivera’s initial 
+medical screening and missed “an opportunity to obtain 
+more accurate medical history critical to his care.”142
+The inspections process failed to meaningfully address 
+inadequate medical care beforehand or account for 
+failure to provide adequate care afterwards. For example, 
+the 2010 ODO inspection cites interviews with people in 
+detention who complained about the facility’s medical 
+care, specifically that “the wait to receive medical care 
+after submitting a sick call request is too long, that medical 
+personnel complain about detainees having medical 21 Fatal Neglect: How ICE Ignores Deaths in Detentionproblems, and that there is a lack of attention 
+to detainee complaints about pain.”143 The 
+September 2011 ERO inspection gave EPC 
+passing ratings on medical care, although it 
+found one deficiency related to dental care.144 
+EPC passed its September 2012 ERO 
+inspection.145 Similar to the 2011 ERO 
+inspection, it finds no deficiencies with 
+EPC’s medical care. In addition to the ERO 
+inspections, ODO inspected EPC in March 
+2012 – just five months after Mr. Rivera’s 
+death – but failed to mention his death 
+in the report and did not identify any 
+deficiencies with medical care. If ODO and 
+ERO inspections properly documented and 
+investigated medical care failures at detention 
+facilities, Mr. Rivera’s death may well have 
+been prevented.
+Photo: Diane Ovalle of PuenteFatal Timeline: Mauro Rivera Romero
+OCT. 1
+OCT. 2
+OCT. 3
+OCT. 5OCT. 3-4Border Patrol apprehends Mr. Rivera aboard a 
+Greyhound bus at a checkpoint in Texas. Mr. Rivera 
+reports experiencing stomach pains and nausea 
+and states that he had been diagnosed with a 
+stomach infection and released from a hospital on 
+Sept. 29. He declines Border Patrol medical care 
+and is transferred to EPC.
+Mr. Rivera discloses at his initial medical screening 
+that he had been hospitalized in 2011for gastritis 
+(related to stomach inflammation), but could not 
+remember the medication he was prescribed for  
+his condition. 
+During Mr. Rivera’s first sick visit to the medical 
+unit, a registered nurse (RN) finds that he has an 
+elevated pulse of 129, but fails to refer Mr. Rivera 
+for review by a higher-level provider.146 
+Mr. Rivera submits written complaints on three 
+separate occasions regarding his ailments, 
+including abdominal discomfort and his inability to 
+walk. Despite the seriousness of these complaints, 
+approximately 24 hours pass between Mr. Rivera’s 
+first complaint and when he was first seen  
+for treatment.147
+Mr. Rivera dies.22 Fatal Neglect: How ICE Ignores Deaths in Detention1. Immediately reduce immigration detention.
+a. Release people with serious medical and mental 
+health needs, particularly when individuals require 
+higher-level care.
+b. Immediately terminate contracts for facilities with 
+repeated preventable deaths, such as the Eloy 
+Detention Center in Arizona.
+c. Shift current funding for detention to community-
+based alternatives, which will allow people to seek 
+medical attention and receive support from family, 
+legal counsel, and community.
+d. Apply current ICE detention standards to all 
+facilities used by ICE and discontinue contracts 
+where current standards are not being met. 
+2. Improve delivery of medical care in detention.
+a. Revise PBNDS 2011 to require that medical care 
+providers be held responsible for meeting the 
+health care needs of individuals in ICE custody  
+as opposed to simply providing “access” to  
+health care.
+b. Revise PBNDS 2011 medical care standards to  
+meet or exceed all analogous NCCHC standards  
+for prison and jail health care.
+c. End the use of private for-profit detention facilities 
+and for-profit medical care sub-contractors. 
+Instead, ensure that IHSC is the direct health care 
+provider at all immigration detention facilities.
+d. Remove IHSC from ICE supervision to maintain 
+clinical independence and independent oversight.
+e. Ensure all detention facilities have appropriate 
+clinical staffing plans, and include whether or not 
+positions are filled as a compliance component 
+during ERO and ODO inspections. 3. Ensure inspections provide meaningful oversight.
+a. Improve the inspections process by ensuring  
+that inspections are more effectively used to hold 
+facilities accountable, as set forth in the appendix.
+b. Require ERO and ODO inspectors to read the death 
+review documents for all deaths that have occurred 
+at a given facility under inspection, and explicitly 
+and publicly report on whether the issues raised  
+in the death reviews have been addressed.
+c. In response to each death where an ODO death 
+review identifies violations of ICE standards, 
+concludes the death was preventable, or identifies 
+other areas of concern, require ERO and IHSC 
+to develop a corrective action plan with clear 
+deadlines to reduce the risk of future deaths or 
+other significant events, and to provide those 
+corrective action plans to ODO.
+4. Increase transparency of inspections, deaths, and 
+serious medical incidents in detention.
+a. Make the inspections process more transparent 
+by making ERO inspections, ODO inspections, and 
+ODO death reviews available to the public within 
+three months of being finalized, and by providing 
+regular public and congressional reporting on the 
+frequency and circumstances of sentinel events  
+(as defined by the Joint Commission148) in detention.
+b. Require ICE to publish all death reviews that occur, 
+including by the Office of Inspector General and 
+Office for Civil Rights and Civil Liberties.
+c. Create an independent medical advisory committee 
+to investigate deaths that occur in detention.Conclusion
+Deaths in detention are the most egregious and permanent consequence of an unaccountable and negligent immigration 
+detention system. DWN, NIJC, and ACLU’s review of deaths that occurred from 2010 to 2012 provide new evidence that ICE 
+inspections fail to hold detention centers accountable. The difficulties that the ACLU has experienced in obtaining additional 
+deaths reviews demonstrate that DHS’s culture of secrecy persists. Based on the findings in this report, the ACLU, DWN, and 
+NIJC call on DHS and ICE to:23 Fatal Neglect: How ICE Ignores Deaths in DetentionIn addition to the recommendations provided in the conclusion, inspections recommendations from DWN and NIJC’s 
+inspections report, Lives in Peril are included below, recognizing the need for meaningful, robust reforms to ICE’s  
+inspections system:149
+1. Increase Transparency and Oversight of the Inspections Process
+a. Make ERO and ODO inspections available to the public in a timely manner. To date, ICE has released its inspections 
+to the public only as a result of FOIA requests. FOIA requests are unnecessarily time-consuming and expensive 
+obstacles to accessing information about how the federal government treats thousands of people in its custody and 
+spends billions of taxpayer dollars. Instead, this information should be freely available.
+b. Provide public reporting on suicide attempts, hunger strikes, work program stoppages, use of solitary confinement, 
+use of force, and other significant events at detention centers.
+c. Submit quarterly reporting to Congress on inspection and oversight activities of detention facilities, which should be 
+made publicly available.
+2. Improve the Quality of Inspections
+a. Establish a DHS ombudsman outside of ICE to conduct unannounced inspections of immigration detention facilities 
+at least once per year, with complete findings made available to the public. These third-party inspections should 
+examine compliance with applicable detention standards and determine whether contracts will be renewed in 
+accordance with congressional appropriations requirements.
+b. Prohibit facilities from taking an “à la carte” approach to compliance and make all detention standards provisions 
+mandatory during inspections. ICE must stop permitting some facilities to opt out of detention standards they have 
+been contracted to apply. If a facility cannot abide by detention standards in their entirety then it should not be 
+permitted to enter into or continue a contract with ICE.
+c. Ensure that inspections involve more than checklists. Inspectors must rely on more than assurances by jail 
+administrators of compliance with detention standards and instead seek and document proof of their effective 
+implementation.
+d. Engage detained immigrants during inspections, as well as other stakeholders such as legal service providers 
+and those who regularly conduct visitation, in order to capture the range of concerns at a facility that may not be 
+reported through formal institutional channels. Inspectors should document the content of those interviews.
+3. Institute Consequences for Failed Inspections
+a. Place detention facilities on probation and subject them to more intensive inspections after the first finding of 
+substantial non-compliance.
+b. Terminate contracts within 60 days for those facilities with repeat findings of substantial non-compliance, including 
+inadequate or less than the equivalent median score in two consecutive inspections.Appendix24 Fatal Neglect: How ICE Ignores Deaths in Detention1. Nina Bernstein, “Officials Hid Truth of Immigrant Deaths in Jail,” The 
+New York Times,  Jan. 9, 2010, available at: http://www.nytimes.
+com/2010/01/10/us/10detain.html ; Dana Priest & Amy Goldstein, 
+“System of Neglect,” The Washington Post , May 11, 2008, available at: 
+http://www.washingtonpost.com/wp-srv/nation/specials/immigration/
+cwc_d1p1.html . 
+2. Id.
+3. Detention Watch Network and National Immigrant Justice Center, Lives 
+in Peril: How Ineffective Inspections Make ICE Complicit in Immigration 
+Detention Abuse,  Oct. 2015, available at: http://immigrantjustice.org/
+sites/immigrantjustice.org/files/THR-Inspections-FOIA-Report-October-
+2015-FINAL.pdf  [hereinafter “Lives in Peril”].
+4. The New York Times, In Custody Deaths,  available at: http://topics.
+nytimes.com/top/reference/timestopics/subjects/i/immigration_
+detention_us/incustody_deaths/index.html  (collecting reporting 
+on deaths); Nina Bernstein, “U.S. to Reform Policy on Detention of 
+Immigrants,” The New York Times , at A1, Aug. 5, 2009, available at: 
+http://www.nytimes.com/2009/08/06/us/politics/06detain.html .
+5. Since then, the ACLU has issued two FOIA requests seeking additional 
+death reviews, including the four investigations that were still in 
+progress at the time of the original FOIA request. ICE has not yet 
+produced documents in response to either of the new FOIA requests, 
+and responded to each by claiming, among other things, that the 
+ACLU had not established “why you feel there is an urgency to 
+inform your limited audience about past ICE actions [i.e., deaths in 
+ICE custody],” concluding that the FOIA request would not make a 
+“significant” contribution to public understanding of government 
+operations or activities, and further concluding that the FOIA request 
+was “primarily in the commercial interest” of the ACLU. The ACLU has 
+filed an administrative appeal with the ICE Office of the Principal Legal 
+Advisor and is awaiting the results of this appeal.
+6. For more information about the creation of the ODO, see U.S. 
+Department of Homeland Security (DHS), Written testimony of U.S. 
+Immigration and Customs Enforcement Office of Detention Policy and 
+Planning Assistant Director Kevin Landy for a House Committee on 
+the Judiciary, Subcommittee on Immigration Policy and Enforcement 
+hearing on Performance-Based National Detention Standards 
+(PBNDS) 2011 (Mar. 27, 2012), available at: http://www.dhs.gov/
+news/2012/03/27/written-testimony-us-immigration-and-customs-
+enforcement-house-judiciary . 
+7. U.S. Immigration & Customs Enforcement (ICE), 2011 Operations 
+Manual ICE Performance-Based National Detention Standards,  
+available at: https://www.ice.gov/detention-standards/2011 . 
+8. ACLU, Written Statement of the American Civil Liberties Union, Holiday 
+on ICE: The U.S. Department of Homeland Security’s New Immigration 
+Detention Standards: Hearing Before the Subcomm. on Immigration Policy 
+and Enforcement of the H. Comm. on the Judiciary, 112th Congress  
+(Mar. 28, 2012), available at: https://www.aclu.org/files/assets/aclu_
+detention_standards_hearing_statement_final_2.pdf .
+9. Gov’t Accountability Office, Immigration Detention: Additional Actions 
+Needed to Strengthen Management and Oversight of Facility Costs 
+and Standards , at 30-32 (Oct. 10, 2014), available at: http://gao.gov/
+assets/670/666467.pdf . 
+10. DHS, Death Investigation for Irene Bamenga, Jan. 12, 2012 , available 
+at: https://www.documentcloud.org/documents/2695498-Bamenga-
+Irene.html#document/p21/a272801 , p. 21 [hereinafter “Bamenga”]; 
+DHS, Death Investigation for Amra Miletic, Aug. 17, 2011, available at: 
+https://www.documentcloud.org/documents/2695509-Miletic-Amra.
+html #document/p29/a272804 , p. 29 [hereinafter “Miletic.”]11. National Immigrant Justice Center, Freedom of Information Act Litigation 
+Reveals Systemic Lack of Accountability in Immigration Detention 
+Contracting, Aug. 2015 , available at: http://immigrantjustice.org/sites/
+immigrantjustice.org/files/images/NIJC%20Transparency%20and%20
+Human%20Rights%20Project%20August%202015%20Report%20
+FINAL3.pdf , p. 6.
+12. Department of Homeland Security Appropriations Act, 2010, H.R. 
+2892, P.L. 111-83, 111th Cong., available at: https://www.gpo.gov/
+fdsys/pkg/PLAW-111publ83/pdf/PLAW-111publ83.pdf , p. 9. 
+13. Megan Granski, Allen Keller & Homer Venters, Death Rates among 
+Detained Immigrants in the United States,  International Journal of 
+Environmental Research and Public Health , Nov. 2015.
+14. According to ICE’s 2016 list of deaths in custody, there were five 
+suicides during the Obama Administration. The authors counted Jose 
+Nelson Reyes-Zelaya’s July 2010 death as the sixth suicide because 
+initial reports from ICE and news outlets indicate that the death was a 
+suicide. The 2012 ICE list of deaths in custody indicates Mr. Reyes-
+Zelaya’s death was due to asphyxia, but ICE changed the cause of 
+death in more recent lists to “Cancer.” ICE, List of Deaths in ICE Custody: 
+October 2003-January 25, 2016 , Accessed Jan. 26, 2016, available at: 
+https://www.ice.gov/sites/default/files/documents/Report/2016/
+DetaineeDeaths2003Jan2016.pdf  [hereinafter “ICE Deaths List 2016”]; 
+ICE, List of Deaths in ICE Custody, October 2003-December 6, 2012 , 
+available at: http://immigrantjustice.org/sites/immigrantjustice.org/
+files/Detainee%20Deaths%20in%20ICE%20Custody%202003-2012.pdf ; 
+Seth Freed Wessler, Salvadoran Man Commits Suicide in Immigration 
+Detention, Colorlines,  Jul. 21, 2010, http://www.colorlines.com/articles/
+salvadoran-man-commits-suicide-immigration-detention ; Man Held 
+on Immigration Charges Dies in Orleans Prison, The Times-Picayne , Jul. 
+18, 2010, available at: http://www.nola.com/crime/index.ssf/2010/07/
+man_held_on_immigration_charge.html . 
+15. Nina Bernstein, Officials Say Detainee Fatalities Were Missed, The 
+New York Times , Aug. 17, 2009, available at: http://www.nytimes.
+com/2009/08/18/us/18immig.html?_r=0  (describes Huluf Negusse’s 
+death following a suicide attempt). 
+16. Qi Gen Guo (died 2/23/2011, detained at Clinton County Correctional 
+Facility, Pennsylvania): The ODO concluded that the facility was in 
+compliance with ICE NDS; however, the ODO noted that the facility did 
+not meet NDS standards related to intake screening, communication 
+during medical evaluation and examinations, completion of thorough 
+physical examination, medical visits in Special Management Unit, and 
+documentation of refusal of medications. DHS, Death Investigation 
+for Qi Gen Guo , Jun. 16, 2011, https://www.documentcloud.org/
+documents/2698743-Guo-Qi-Gen.html , pp. 12-13. Jose Aguilar-
+Espinoza (died 1/31/2011, detained at Theo Lacy Facility, California): 
+The ODO found that the facility was not compliant with PBNDS on 
+medical care, specifically the initial screening form was incomplete, 
+consent forms were not adequately documented, and a physical 
+exam was not completed. DHS, Death Investigation for Jose Aguilar-
+Espinoza, Mar. 6, 2012 , available at: https://www.documentcloud.org/
+documents/2698802-Aguilar-Espinoza-Jose.html , pp. 11-12. Ricardo 
+Rojas-Martinez (died 12/19/2011, detained at Houston Contract 
+Detention Facility, Texas): The ODO identified issues with clinical 
+processes that require improvement. DHS, Death Investigation for 
+Ricardo Rojas-Martinez , Aug. 16, 2012, available at: https://www.
+documentcloud.org/documents/2698740-Rojas-Martinez-Ricardo.
+html , pp. 147-148.Endnotes25 Fatal Neglect: How ICE Ignores Deaths in Detention17. The Joint Commission, Sentinel Events Policy,  available at: http://www.
+jointcommission.org/assets/1/6/CAMH_24_SE_all_CURRENT.pdf . 
+18. DHS, Death Investigation for Miguel Angel Sarabia-Ortega,  Oct. 1, 2012, 
+available at: https://www.documentcloud.org/documents/2698741-
+Sarabia-Miguel.html#document/p8/a273595 , p. 8.
+19. Shea Johnson, Wrongful Death Suit Headed to Mediation, Hesperia 
+Star,  Dec. 1, 2014, available at: http://www.hesperiastar.com/
+article/20141201/NEWS/141209983 ; Milton J. Valencia, Lawsuit Over 
+Death of Lynn Woman Allowed to go to Jury,  The Boston Globe , Sept. 15, 
+2015, available at: https://www.bostonglobe.com/metro/2015/09/15/
+lawsuit-over-death-lynn-woman-who-was-detained-immigration-
+violations-allowed-jury/CON7Q7jUPmHT12rDFBRTiO/story.html  
+[hereinafter “Valencia”]; Roxana Orellana, Family of Woman Who Died in 
+Jail Files Federal Lawsuit,  Salt Lake City Tribune , June 21, 2012, available 
+at http://archive.sltrib.com/story.php?ref=/54350757 .
+20. Two deaths occurred at: GEO Group-run detention centers: Adelanto 
+Correctional Facility (IGSA) and Denver (CDF); two at Corrections 
+Corporation of America (CCA)-run detention centers: Eloy Detention 
+Center (IGSA) and Elizabeth Detention Center (CDF); one at a service 
+processing center (SPC) operated by Doyon-Akal JV: El Paso SPC; and 
+one at a facility operated by Immigration Centers of America, LLC: 
+Immigration Centers of America - Farmville (IGSA).
+21. Grassroots Leadership, Payoff: How Congress Ensures Private Prison 
+Profit with an Immigrant Detention Quota,  Apr. 2015, available at: http://
+grassrootsleadership.org/reports/payoff -how-congress-ensures-
+private-prison-profit-immigrant-detention-quota#1 . 
+22. ACLU, Warehoused and Forgotten: Immigrants Trapped in Our Shadow 
+Private Prison System,  Jun. 2014, available at: https://www.aclu.org/
+sites/default/files/assets/060614-aclu-car-reportonline.pdf ; Grassroots 
+Leadership, The Dirty Thirty: Nothing to Celebrate About 30 Years of 
+Corrections Corporation of America,  Jun. 2013, available at: http://
+grassrootsleadership.org/sites/default/files/uploads/GRL_Dirty_
+Thirty_formatted_for_web.pdf  ; Detention Watch Network & CIVIC, 
+Abuse in Adelanto: An Investigation Into a California Town’s Immigration 
+Jail, Oct. 2015, available at: http://www.detentionwatchnetwork.org/
+sites/detentionwatchnetwork.org/files/civicdwn_adelanto_report.pdf ; 
+Grassroots Leadership, For-Profit Family Detention: Meet the Private 
+Prison Corporations Making Millions by Locking Up Refugee Families, 
+Oct. 2014,  available at: http://grassrootsleadership.org/sites/default/
+files/uploads/For-Profit%20Family%20Detention.pdf ; Civil Rights 
+Division, U.S. Dep’t of Justice, Investigation of the Walnut Grove Youth 
+Correctional Facility,  Mar. 20, 2012, available at: http://www.justice.
+gov/sites/default/files/crt/legacy/2012/04/09/walnutgrovefl.pdf ; 
+Inspector General, U.S. Dep’t of Justice, Audit of the Federal Bureau 
+of Prisons Contract No. DJB1PC007 Awarded to Reeves County, Texas to 
+Operate the Reeves County Detention Center I/II,Pecos, Texas,  Apr. 2015, 
+available at: https://oig.justice.gov/reports/2015/a1515.pdf; Brendan 
+Fischer , Violence, Abuse, and Death at For-Profit Prisons: A GEO Group 
+Rap Sheet, PR Watch , Nov. 10, 2015, available at: http://www.prwatch.
+org/news/2013/09/12255/violence-abuse-and-death-profit-prisons-
+geo-group-rap-sheet ; Jerry Mitchell, Private Prisons Face Suits, Federal 
+Probes, The Clarion-Ledger , Oct. 15, 2014, available at:  
+http://www.clarionledger.com/story/news/2014/10/11/private-prisons-
+face-suits-federal-probes/17122977 ;. 
+23. DHS, Death Investigation for Evalin-Ali Mandza,  Oct. 2012, available 
+at: https://www.documentcloud.org/documents/2695514-Mandza-
+Evalin-Ali.html , pp. 153-164 (describes timeline of events) [hereinafter 
+“Mandza.”]
+24. Mandza, available at: https://www.documentcloud.org/
+documents/2695514-Mandza-Evalin-Ali.html#document/p156/a273085 , p. 156.
+25. Non-compliance with ICE PBNDS, Medical Care, Section (II)(7); Mandza, 
+available at: https://www.documentcloud.org/documents/2695514-
+Mandza-Evalin-Ali.html#document/p18/a273086 , p. 18.
+26. Mandza, available at: https://www.documentcloud.org/
+documents/2695514-Mandza-Evalin-Ali.html#document/p156/
+a273085 , p. 156.
+27. Id., available at: https://www.documentcloud.org/documents/2695514-
+Mandza-Evalin-Ali.html#document/p19/a273177 , p. 19.
+28. Id., available at: https://www.documentcloud.org/documents/2695514-
+Mandza-Evalin-Ali.html#document/p155/a273178 , p. 155.
+29. Non-compliance with ICE PBNDS, Medical Care, Section (V)(O); Mandza, 
+available at: https://www.documentcloud.org/documents/2695514-
+Mandza-Evalin-Ali.html#document/p12/a273179 , p. 12.
+30. Mandza, available at: https://www.documentcloud.org/
+documents/2695514-Mandza-Evalin-Ali.html#document/p155/
+a273196 , p. 155.
+31. Id., available at: https://www.documentcloud.org/documents/2695514-
+Mandza-Evalin-Ali.html#document/p12/a273179 , p. 12.
+32. Id., available at: https://www.documentcloud.org/documents/2695514-
+Mandza-Evalin-Ali.html#document/p19/a273180 , p. 19.
+33. Id., available at: https://www.documentcloud.org/documents/2695514-
+Mandza-Evalin-Ali.html #document/p13/a273193 , p. 13.
+34. Id., available at: https://www.documentcloud.org/documents/2695514-
+Mandza-Evalin-Ali.html#document/p16/a273194 , p. 16.
+35. Id., available at: https://www.documentcloud.org/documents/2695514-
+Mandza-Evalin-Ali.html#document/p15/a273195 , p. 15.
+36. 2012 Denver Contract Detention Facility ODO Inspection, availab le at: 
+https://www.documentcloud.org/documents/1699764-denver-county-jail-
+geo-group-2012-ero-inspection.html#document/p105/a271519 , p. 105.
+37. Miletic, available at: https://www.documentcloud.org/
+documents/2695509-Miletic-Amra.html#document/p134/a273127 , 
+p. 134 (State of Utah, Department of Health, Office of the Medical 
+Examiner Report).
+38. Id., available at: https://www.documentcloud.org/documents/2695509-
+Miletic-Amra.html#document/p26/a273128 , p. 26.
+39. Id., available at: https://www.documentcloud.org/documents/2695509-
+Miletic-Amra.html#document/p27/a273129 , p. 27. 
+40. Id., available at: https://www.documentcloud.org/documents/2695509-
+Miletic-Amra.html#document/p28/a273131 , p. 28.
+41. Non-compliance with ICE NDS, Medical Care, section (III)(D), 
+Medical Screening (New Arrivals); Miletic, available at: https://
+www.documentcloud.org/documents/2695509-Miletic-Amra.
+html#document/p149/a273141 , p. 149.
+42. Miletic, available at: https://www.documentcloud.org/
+documents/2695509-Miletic-Amra.html , pp.75-77.
+43. Id., available at: https://www.documentcloud.org/documents/2695509-
+Miletic-Amra.html #document/p9/a273145 , p. 9. 
+44. Id., available at: https://www.documentcloud.org/documents/2695509-
+Miletic-Amra.html#document/p28/a273146 , p. 28.
+45. Id., available at: https://www.documentcloud.org/documents/2695509-
+Miletic-Amra.html#document/p16/a273600 , p. 16. 
+46. Id., available at: https://www.documentcloud.org/documents/2695509-
+Miletic-Amra.html#document/p22/a273147 , p. 22.
+47. Id., available at: https://www.documentcloud.org/
+documents/2695509-Miletic-Amra.html , pp. 148-149.
+48. Non-compliance with ICE NDS, Medical Care, section (III)(D); Miletic, 
+available at: https://www.documentcloud.org/documents/2695509-
+Miletic-Amra.html#document/p149/a273141 , p. 149.Endnotes cont.26 Fatal Neglect: How ICE Ignores Deaths in Detention49. Miletic, available at: https://www.documentcloud.org/
+documents/2695509-Miletic-Amra.html#document/p75 , p. 75.
+50. Id., available at: https://www.documentcloud.org/
+documents/2695509-Miletic-Amra.html , pp.150-151.
+51. Id., available at: https://www.documentcloud.org/documents/2695509-
+Miletic-Amra.html#document/p151/a273152 , p. 151.
+52. Id., available at: https://www.documentcloud.org/documents/2695509-
+Miletic-Amra.html#document/p153/a273156 , p. 153.
+53. Id., available at: https://www.documentcloud.org/documents/2695509-
+Miletic-Amra.html#document/p154 , p. 154.
+54. Id., available at: https://www.documentcloud.org/documents/2695509-
+Miletic-Amra.html#document/p154/a273159 , p. 154.
+55. Id., available at: https://www.documentcloud.org/documents/2695509-
+Miletic-Amra.html#document/p162/a273603 , p. 162.
+56. Id., available at: https://www.documentcloud.org/documents/2695509-
+Miletic-Amra.html#document/p162/a273164 , p. 162.
+57. Id., available at: https://www.documentcloud.org/documents/2695509-
+Miletic-Amra.html#document/p176/a273170 , p. 176.
+58. Id., available at: https://www.documentcloud.org/documents/2695509-
+Miletic-Amra.html#document/p177/a273171 , p. 177.
+59. ICE Deaths List 2016.
+60. DHS, Death Investigation for Pablo Gracida-Conte,  Aug. 15, 2012, 
+available at: https://www.documentcloud.org/documents/2695513-
+Gracida-Conte-Pablo.html#document/p1/a272669 , p. 1 [hereinafter 
+“Gracida.”]
+61. Non-compliance with PBNDS 2008, Medical Care, section (II)(37) or 
+section (V)(I), require translation assistance for non-English speaking 
+detainees; Gracida, available at: https://www.documentcloud.org/
+documents/2695513-Gracida-Conte-Pablo.html#document/p14/
+a272707 , p. 14.
+62. Health professionals use this pain scale as a way to measure pain.  
+Ten describes the worst pain the person has ever known.
+63. Non-compliance with PBNDS 2008, Medical Care, section (II)(2) 
+requiring that health care needs be met in a timely and efficient 
+manner; Gracida, available at: https://www.documentcloud.org/
+documents/2695513-Gracida-Conte-Pablo.html#document/p13/
+a272770 , p. 13.
+64. Non-compliance with PBNDS 2008, Medical Care, section (II)(7), 
+available at: https://www.documentcloud.org/documents/2695513-
+Gracida-Conte-Pablo.html#document/p13/a272773 , p. 13.
+65. Gracida, available at: https://www.documentcloud.org/
+documents/2695513-Gracida-Conte-Pablo.html#document/p12/
+a272776 , p. 12.
+66. Non-compliance with PBNDS 2008, Medical Care, section (II)(7) 
+requiring that “A detainee who needs health care beyond facility 
+resources will be transferred in a timely manner to an appropriate 
+facility where care is available.” Gracida, available at:  
+https://www.documentcloud.org/documents/2695513-Gracida-Conte-
+Pablo.html#document/p9/a272777 , p. 9.
+67. Gracida, available at: https://www.documentcloud.org/
+documents/2695513-Gracida-Conte-Pablo.html#document/p6/
+a272778 , p. 6; Gracida, available at: https://www.documentcloud.
+org/documents/2695513-Gracida-Conte-Pablo.html#document/p14/
+a272707 , p. 14.
+68. Non-compliance with PBNDS 2008, Medical Care, section (II)(37) or 
+section (V)(I), require translation assistance for non-English speaking 
+detainees; Gracida, available at: https://www.documentcloud.org/
+documents/2695513-Gracida-Conte-Pablo.html#document/p14/
+a272707 , p. 14.69. Gracida, available at: https://www.documentcloud.org/
+documents/2695513-Gracida-Conte-Pablo.html#document/p6/
+a272760 , p. 6.
+70. Id., available at: https://www.documentcloud.org/documents/2695513-
+Gracida-Conte-Pablo.html#document/p13/a272779 , p. 13.
+71. Id., available at: https://www.documentcloud.org/
+documents/2695513-Gracida-Conte-Pablo.html#document/p14/
+a272780 , p. 14; 2012 Eloy Inspection, available at: https://www.
+documentcloud.org/documents/2644422-Eloy.html , p. 1.
+72. 2011 Eloy ODO Inspection, available at: https://www.documentcloud.
+org/documents/1865603-eloy-az-2011-odo-inspection.html , p. 16.
+73. Id., available at: https://www.documentcloud.org/
+documents/2644422-Eloy.html#document/p3/a266239 , p. 3.
+74. 2012 Eloy ODO Inspection, available at: https://www.documentcloud.
+org/documents/2644422-Eloy.html#document/p4/a266241 , p. 4; ICE 
+Deaths List 2016. 
+75. Megan Jula & Daniel González, Eloy Detention Center: Why so many 
+suicides?, The Arizona Republic,  Jul. 29, 2015, available at: http://www.
+azcentral.com/story/news/arizona/investigations/2015/07/28/eloy-
+detention-center-immigrant-suicides/30760545  [hereinafter “Jula & 
+González”].
+76. Letter from Raúl Grijalva, Representative, Arizona’s 3rd District, to Jeh 
+Johnson, Secretary, U.S. Department of Homeland Security, Jul. 14, 
+2015, available at: http://grijalva.house.gov/uploads/2015_7_14EloyDe
+tentionLetter.pdf ; Jula & González.
+77. ICE Deaths List 2016.
+78. DHS, Death Investigation for Anibal Ramirez-Ramirez,  May 31, 2012, 
+available at: https://www.documentcloud.org/documents/2695511-
+Ramirez-Ramirez-Anibal.html#document/p26/a273198 , p. 26 
+[hereinafter “Ramirez-Ramirez.”]
+79. ICAF is owned by a group of investors and run by Immigration Centers 
+of America, LLC.
+80. Ramirez-Ramirez, available at: https://www.documentcloud.org/
+documents/2695511-Ramirez-Ramirez-Anibal.html , pp. 3-4 (describes 
+apprehension of Mr. Ramirez-Ramirez by Virginia State Police).
+81. Id., available at: https://www.documentcloud.org/documents/2695511-
+Ramirez-Ramirez-Anibal.html#document/p4/a5 , p. 4.
+82. Ramirez-Ramirez, pp. 5-7 (describes interactions between PWMRADC 
+staff and Mr. Ramirez-Ramirez).
+83. Id., available at: https://www.documentcloud.org/
+documents/2695511-Ramirez-Ramirez-Anibal.html#document/p10/
+a273301 , pp. 10-11.
+84. Id., available at: https://www.documentcloud.org/documents/2695511-
+Ramirez-Ramirez-Anibal.html#document/p3/a273307 , pp. 3-4.
+85. Id., available at: https://www.documentcloud.org/documents/2695511-
+Ramirez-Ramirez-Anibal.html#document/p4/a273220 , p. 4.
+86. Id., available at: https://www.documentcloud.org/documents/2695511-
+Ramirez-Ramirez-Anibal.html#document/p5/a273221 , p. 5.
+87. Id., available at: https://www.documentcloud.org/documents/2695511-
+Ramirez-Ramirez-Anibal.html#document/p10/a273301 , pp. 10-11.
+88. Id., available at: https://www.documentcloud.org/documents/2695511-
+Ramirez-Ramirez-Anibal.html#document/p119/a273314 , p. 119
+89. Id., https://www.documentcloud.org/documents/2695511-Ramirez-
+Ramirez-Anibal.html#document/p120/a273318 , p. 120.
+90. Non-compliance with ICE PBNDS 2008 Medical Care, section (II)(2), 
+Ramirez-Ramirez, available at: https://www.documentcloud.org/
+documents/2695511-Ramirez-Ramirez-Anibal.html#document/p27/
+a273319 , pp. 27-28.Endnotes cont.27 Fatal Neglect: How ICE Ignores Deaths in Detention91. Ramirez-Ramirez, available at: https://www.documentcloud.org/
+documents/2695511-Ramirez-Ramirez-Anibal.html#document/p114/
+a273320 , pp. 114-115.
+92. Id., https://www.documentcloud.org/documents/2695511-Ramirez-
+Ramirez-Anibal.html#document/p19/a273322 , p. 19.
+93. Id., available at: https://www.documentcloud.org/documents/2695511-
+Ramirez-Ramirez-Anibal.html#document/p114/a273320 , pp. 114-115.
+94. Non-compliance with ICE PBNDS, Medical Care, sections (II)(28) and (V)
+(B), Ramirez-Ramirez, available at: https://www.documentcloud.org/
+documents/2695511-Ramirez-Ramirez-Anibal.html#document/p28/
+a273327 , p. 28.
+95. Ramirez-Ramirez, available at: https://www.documentcloud.org/
+documents/2695511-Ramirez-Ramirez-Anibal.html#document/p19/
+a273322 , p. 19.
+96. Id., available at: https://www.documentcloud.org/documents/2695511-
+Ramirez-Ramirez-Anibal.html#document/p19/a273333 , p. 19.
+97. Id., available at: https://www.documentcloud.org/documents/2695511-
+Ramirez-Ramirez-Anibal.html#document/p21/a273334 , p. 21.
+98. 2011 Immigration Center of America – Farmville (ICAF) ODO 
+Inspection, available at: http://www.documentcloud.org/
+documents/2388774-ica-farmville-va-2011-odo-inspection.html  
+99. 2011 ICAF ERO Inspection, available at: https://www.documentcloud.
+org/documents/2388770-ica-farmville-va-2011-ero-inspection.
+html#document/p166/a267849 , p. 166.
+100.  Valencia. 
+101.  Bamenga, available at: https://www.documentcloud.org/
+documents/2695498-Bamenga-Irene.html , pp. 14-15 (Although the 
+Certificate of Death lists time of death at 1:17 a.m., the emergency 
+room physician announced it at 1:15 a.m. as stated in ODO’s DDR 
+narrative).
+102.  Id., available at: https://www.documentcloud.org/documents/2695498-
+Bamenga-Irene.html#document/p2/a273341 , pp. 1-2.
+103. Id., available at: https://www.documentcloud.org/documents/2695498-
+Bamenga-Irene.html#document/p120/a273285 , p. 120 (Certificate of 
+Death).
+104. This doctor’s name was redacted under (b)(6), (b)(7)c exemptions.
+105. Bamenga, available at: https://www.documentcloud.org/
+documents/2695498-Bamenga-Irene.html#document/p137/a273344 , 
+pp. 136-138.
+106.  Id., available at: https://www.documentcloud.org/documents/2695498-
+Bamenga-Irene.html#document/p20/a272807 , p. 19; “INS Detention 
+Standard, Medical Care,” available at:  
+https://www.ice.gov/doclib/dro/detention-standards/pdf/medical.pdf .
+107.  Bamenga, available at: https://www.documentcloud.org/
+documents/2695498-Bamenga-Irene.html#document/p20/a273346 , 
+p. 20.
+108.  Id., available at: https://www.documentcloud.org/documents/2695498-
+Bamenga-Irene.html#document/p10/a273421 , p. 10.
+109.  On July 25, 2011, Ms. Bamenga submitted two health services request 
+forms. The first stated that, “I am not being given the full dosage 
+of my medications. Two of the six different meds are meant to be 
+take [sic] twice a day and so far I have only be given 1 dosage in the 
+morning.” The second stated that the problem was “[s]hortness of 
+breath at night especially when laying down, palpitations when laying 
+down. Dizziness upon standing up when palpitation and shortness of 
+breath occur.” Bamenga, available at: https://www.documentcloud.
+org/documents/2695498-Bamenga-Irene.html#document/p77/
+a273348 , p. 77; Id., available at: https://www.documentcloud.org/
+documents/2695498-Bamenga-Irene.html#document/p78/a273349 , 
+p. 78.110.  Non-compliance with ICE NDS, Medical Care, section (III)(F), Sick 
+Call; Bamenga, available at: https://www.documentcloud.org/
+documents/2695498-Bamenga-Irene.html#document/p131/a273422 , 
+p. 131. 
+111.  Non-compliance with ICE NDS, Medical Care, section (III)(I), Delivery 
+of Medication; Bamenga, available at: https://www.documentcloud.
+org/documents/2695498-Bamenga-Irene.html , pp. 127, 130-132; Id., 
+available at: https://www.documentcloud.org/documents/2695498-
+Bamenga-Irene.html#document/p135 , p. 135. Id., available at:  
+https://www.documentcloud.org/documents/2695498-Bamenga-
+Irene.html#document/p139 , p. 139.
+112.  Bamenga, available at: https://www.documentcloud.org/
+documents/2695498-Bamenga-Irene.html#document/p132/a273426 , 
+p. 132.
+113. The results of digoxin toxicity and alterations in potassium levels 
+would not have been detectable in an autopsy. Regardless, results 
+of the autopsy were withheld from DHS due to New York privacy 
+laws. Bamenga, available at: https://www.documentcloud.org/
+documents/2695498-Bamenga-Irene.html#document/p138/
+a273432 , p. 138; Id., available at: https://www.documentcloud.org/
+documents/2695498-Bamenga-Irene.html#document/p122 , p. 122.
+114. Bamenga, available at: https://www.documentcloud.org/
+documents/2695498-Bamenga-Irene.html#document/p139/a273434 , 
+p. 139.
+115. Id., available at: https://www.documentcloud.org/documents/2695498-
+Bamenga-Irene.html#document/p139/a273436 , p. 139.
+116.  Non-compliance with NDS, Medical Care, Section (I), Policy, indicates 
+all detainees shall have access to medical services that promote 
+detainee health and general well-being; Bamenga, available at: https://
+www.documentcloud.org/documents/2695498-Bamenga-Irene.
+html#document/p19/a273447 , p. 19.
+117.  The results of Mr. Dominguez-Valdivia’s death review have not been 
+released yet. The account of his death in this report is based on ODO 
+inspection reports.
+118.  2012 Adelanto ODO Inspection, available at: https://www.
+documentcloud.org/documents/2644420-2012-09-18-Adelanto.
+html#document/p4/a266231 , p. 4
+119.  Mr. Dominguez-Valdivia arrived at ADF on November 26, 2011 and 
+although the 2012 ERO inspection notes are vague, it is believed 
+that he was transferred to the hospital on February 16, 2012; 
+2012 Adelanto East ERO Inspection, available at: https://www.
+documentcloud.org/documents/1692931-adelanto-east-2012-ero-
+inspection.html#document/p110/a237926 , p. 111.
+120.  2012 Adelanto East ERO Inspection, available at: https://www.
+documentcloud.org/documents/1692931-adelanto-east-2012-ero-
+inspection.html#document/p110/a237926 , p. 111.
+121.  Id.
+122.  Id.
+123. The Adelanto Detention Facility (ADF) is also referred to as the 
+Adelanto Correctional Facility (ACF).
+124. 2012 Adelanto ODO Inspection, available at: https://www.
+documentcloud.org/documents/2644420-2012-09-18-Adelanto.
+html#document/p4/a266231 , p. 4.
+125. Id.
+126.  Although the facility was marked as not having met standards at the 
+end of the review, this was changed to having met standards in the 
+final memo to the Los Angeles Field Office Director. 2011 Adelanto 
+East ERO Inspection, available at: https://www.documentcloud.org/
+documents/1692930-adelanto-2011-ero-inspection.html#document/
+p161/a248078 , p. 161; Id, available at: https://www.documentcloud.Endnotes cont.28 Fatal Neglect: How ICE Ignores Deaths in Detentionorg/documents/1692930-adelanto-2011-ero-inspection.
+html#document/p162/a248079 , p. 162.
+127.  2011 Adelanto East ERO Inspection, available at: https://www.
+documentcloud.org/documents/1692930-adelanto-2011-ero-
+inspection.html#document/p91/a248080 , p. 91.
+128.  Chronic obstructive pulmonary disease was also listed as a 
+contributing factor in Mr. Ramirez’s death, although it was not 
+considered an underlying cause; DHS, Death Investigation for 
+Victor Ramirez-Reyes, Feb. 29, 2012, available at: https://www.
+documentcloud.org/documents/2695510-Ramirez-Reyes-Victor.
+html#document/p1/a272787 , p. 1 [hereinafter “Ramirez-Reyes.”]
+129.  Non-compliance with PBNDS, Medical Care, section (V)(F) which 
+requires “[a]ccountability for administering or distributing medications 
+in a timely manner and according to licensed provider orders;” 
+Ramirez-Reyes, available at: https://www.documentcloud.org/
+documents/2695510-Ramirez-Reyes-Victor.html#document/p12/
+a272788 , p. 12.
+130. Non-compliance with PBNDS, Medical Care, section (II)(5), which 
+requires timely follow-up to health care requests; Ramirez-Reyes, 
+available at: https://www.documentcloud.org/documents/2695510-
+Ramirez-Reyes-Victor.html#document/p12/a272790 , p. 12.
+131. ODO did not name these as deficiencies, but expressed concern 
+that the staff nurse was unaware of 2010 guidelines for basic life 
+support and failing to respond to the situation by using an AED 
+machine; Ramirez-Reyes, available at: https://www.documentcloud.
+org/documents/2695510-Ramirez-Reyes-Victor.html#document/p13/
+a272792 , p. 13.
+132. 2011 Elizabeth ERO Inspection, available at: https://www.
+documentcloud.org/documents/1735436-elizabeth-nj-2011-ero-
+inspection.html#document/p117/a267558 , p. 117. 
+133. Id., available at: https://www.documentcloud.org/documents/1735436-
+elizabeth-nj-2011-ero-inspection.html#document/p117/a267555, p. 
+117.
+134. Id, available at: https://www.documentcloud.org/documents/1735436-
+elizabeth-nj-2011-ero-inspection.html#document/p117/a267555 . 
+135. 2012 Elizabeth ODO Inspection, available at: https://www.
+documentcloud.org/documents/2647144-2012-ODO-Inspection-
+Elizabeth-NJ.html#document/p20/a267550 . 
+136. Id, available at: https://www.documentcloud.org/documents/2647144-
+2012-ODO-Inspection-Elizabeth-NJ.html#document/p5/a267552 . 
+137. Id, available at: https://www.documentcloud.org/documents/2647144-
+2012-ODO-Inspection-Elizabeth-NJ.html#document/p19/a267551 . 
+138. 2012 El Paso SPC ODO Inspection, available at: https://www.
+documentcloud.org/documents/2644418-El-Paso-SPC-TX-2012-ODO-
+Inspection.html .
+139. DHS, Death Investigation for Mauro Rivera-Romero, 2011, available at: 
+https://www.documentcloud.org/documents/2695515-Rivera-Romero-
+Mauro.html#document/p4/a272643 , p.4 [hereinafter “Rivera.”]140. U.S. Border Patrol apprehended Mr. Rivera on October 1, 2011 at a 
+checkpoint in Arizona. At the time, Mr. Rivera disclosed that he had 
+recently been discharged from the Los Angeles County Medical Center 
+in California and had been diagnosed with a stomach infection. In 
+addition, he complained of stomach pains and nausea for which he 
+refused medical attention. This is documented in his Form I-213, 
+Record of Deportable/Inadmissible Alien; however, no documented 
+proof exists demonstrating that this information was relayed to EPC 
+upon his transfer on October 2 to await removal proceedings.
+141. Rivera, available at: https://www.documentcloud.org/
+documents/2695515-Rivera-Romero-Mauro.html#document/p12/
+a272698 , p. 13. 
+142. Rivera, available at: https://www.documentcloud.org/
+documents/2695515-Rivera-Romero-Mauro.html#document/p45/
+a272664 , p. 45.
+143. 2010 El Paso Service Processing Center ODO Inspection, available at: 
+https://www.documentcloud.org/documents/1865586-el-paso-spc-tx-
+2010-odo-inspection.html#document/p9/a263165 , p. 5.
+144. 2011 El Paso Service Processing Center ERO Inspection, available at: 
+https://www.documentcloud.org/documents/1865569-el-paso-spc-tx-
+2011-ero-inspection.html#document/p83/a263156 , p. 83.
+145. 2012 El Paso Service Processing Center ERO Inspection, available at: 
+https://www.documentcloud.org/documents/1865570-el-paso-spc-tx-
+2012-ero-inspection.html#document/p102/a263147 , p. 102.
+146. Non-compliance with PBNDS, Medical Care, section (II)(2) requiring 
+that health care needs be met in a timely and efficient manner; Rivera, 
+available at: https://www.documentcloud.org/documents/2695515-
+Rivera-Romero-Mauro.html#document/p13/a272700 , p. 13.
+147. Non-compliance with PBNDS, Medical Care, section (II)(2) requiring 
+that health care needs be met in a timely and efficient manner; Rivera, 
+available at: https://www.documentcloud.org/documents/2695515-
+Rivera-Romero-Mauro.html#document/p13/a272701 , p. 13.
+148. The Joint Commission, Sentinel Events Policy, available at: http://
+www.jointcommission.org/assets/1/6/CAMH_24_SE_all_CURRENT.
+pdf (defining a sentinel event as a patient safety event, not primarily 
+related to the natural course of the patient’s illness or underlying 
+condition, that reaches a patient and results in death, permanent 
+harm, severe temporary harm, or certain other specified harms).
+149. Lives in Peril.Endnotes cont.

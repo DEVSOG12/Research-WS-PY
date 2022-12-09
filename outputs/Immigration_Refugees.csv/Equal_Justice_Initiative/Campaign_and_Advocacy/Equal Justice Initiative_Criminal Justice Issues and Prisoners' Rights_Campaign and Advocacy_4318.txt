@@ -1,0 +1,1077 @@
+No.  15-892  
+WILSON -EPES PRINTING CO., INC.   –   (202)  789-0096    –   WASHINGTON , D. C. 20002 IN THE 
+Supreme Court of the United States 
+———— 
+LEE CARROLL BROOKER , 
+Petitioner , 
+v. 
+STATE OF ALABAMA , 
+Respondent . 
+———— 
+On Petition for Writ of Certiorari to the  
+Alabama Court of Criminal Appeals 
+———— 
+BRIEF OF AMICUS CURIAE  
+FAMILIES AGAINST MANDATORY MINIMUMS 
+IN SUPPORT OF PETITIONER 
+———— 
+MARY PRICE  
+General Counsel  
+FAMILIES AGAINST  
+MANDATORY MINIMUMS  
+1100 H Street, NW 
+Washington, DC 20005 
+(202) 822-6700 
+PETER GOLDBERGER  
+50 Rittenhouse Place 
+Ardmore, PA  19003 
+(610)  649-8200 STEPHEN M. NICKELSBURG  
+Counsel of Record 
+ADAM C. GOLDSTEIN  
+REBECCA S. HEKMAN  
+KATIE BARLOW  
+CLIFFORD CHANCE  US LLP 
+2001 K Street, NW 
+Washington, DC 20006 
+(202) 912-5000 steve.nickelsburg@ 
+cliffordchance.com 
+ 
+February 12, 2016  
+(i) QUESTIONS PRESENTED 
+1. Is a mandatory life imprisonment without 
+parole sentence inherently excessive under the Eighth 
+Amendment when the predicate for its imposition is a conviction for possession of marijuana merely for 
+personal use? 
+2. Does equating possession of marijuana for 
+personal use with the most  heinous and aggravated 
+crimes in a State’s criminal code, for purposes of 
+repeat-offender sentencing, violate the proportionality requirement of the Eighth Amendment? 
+3. Does a mandatory life imprisonment without 
+parole sentence, imposed on an individual with prior convictions whose current offense is nothing more 
+than the mere possession of marijuana for personal 
+use, violate the Eighth Amendment’s evolving standards of decency when such an extreme sentence 
+for similarly situated offenders is unauthorized in 
+almost every American jurisdiction? 
+(iii) TABLE OF CONTENTS 
+Page 
+QUESTIONS PRESEN TED ...............................  i 
+TABLE OF AUTHO RITIES ................................  iv 
+INTEREST OF AMICUS CURIAE  .....................  1 
+INTRODUCTION AND SUMMARY OF 
+ARGUMENT ....................................................  2 
+ARGUMENT ........................................................  5 
+I. THE ELIMINATION OF ALL 
+JUDICIAL DISCRETION CAN LEAD TO ARBITRARY, EXTREME, AND 
+UNFAIR PUNISH MENTS .......................  5 
+II. MANDATORY MINIMUMS IMPOSE 
+SUBSTANTIAL COSTS FOR LITTLE 
+DETERRENT BEN EFIT ..........................  19 
+III. MANDATORY MINIMUMS ARE RE-
+SISTANT TO LEGISLATIVE CHANGE .  23 
+CONCLUSION  ....................................................  24 iv 
+ TABLE OF AUTHORITIES 
+CASES Page(s) 
+Alleyne v. United States ,  
+133 S. Ct. 2151 (2013) ..................................  7 
+Almendarez-Torres v. United States ,  
+523 U.S. 224 (1998) ......................................  11 
+Ewing v. California ,  
+538 U.S. 11 ( 2003) ........................................  2, 4 
+Gates v. United States ,  
+No. 98 Cr. 1496, 2003 U.S. Dist. LEXIS 8595 (S.D.N.Y. May 21, 2003) ......................  9 
+Graham v. Florida ,  
+560 U.S. 48 ( 2010) ........................................  2, 3 
+Harmelin v. Michigan ,  
+501 U.S. 957 ( 1991) ......................................  2, 3 
+Harris v. United States ,  
+536 U.S. 545 (2002) ......................................  7 
+Hutto v. Davis ,  
+454 U.S. 370 ( 1982) ......................................  2, 3 
+Montgomery v. Louisiana ,  
+No. 14-280, 2016 WL 280758 (U.S. Jan. 25, 
+2016), as revised (Jan. 27, 2016) ..................  2 
+Rummel v. Estelle ,  
+445 U.S. 263 ( 1980) ......................................  2, 4 
+Solem v. Helm ,  
+463 U.S. 277 ( 1983) ......................................  3, 4 
+United States v. Abbott ,  
+30 F.3d 71 (7th Cir. 1994)  ............................  9 
+United States v. Angelos ,  
+345 F. Supp. 2d 1227 (D. Utah 2004) ... 6, 8, 12-15  v 
+ TABLE OF AUTHORITIES—Continued 
+ Page(s) 
+United States v Brigham ,  
+977 F.2d 317 (7th Cir. 1992) ........................  17  
+United States v. Harris ,  
+154 F.3d 1082 (9th Cir. 1998)  ......................  8 
+United States v. Hiveley ,  
+61 F.3d 1358 (8th Cir. 1995) ........................  19 
+United States v. Kupa , 
+976 F. Supp. 2d 417 (E.D.N.Y. 2013), aff’d, 
+616 Fed. App’x 33 (2d Cir. 2015) ..................  5, 16 
+United States v. Madkour ,  
+930 F.2d 234 (2d Ci r. 1991) ..........................  8 
+Sent’g Tr., United States v. Moore , 
+No. 09-CR-00260 (W.D. Tex Aug. 25, 
+2010), ECF No. 67 ........................................  17 
+United States v. Powell ,  
+404 F.3d 678 (2d Ci r. 2005) ..........................  8 
+Sent’g Tr., United States v. Prikakis , No. 91-
+03099 (N.D. Fla. Feb. 5, 1992) .....................  8, 14 
+United States v. Trader ,  
+No. CR 04-680-06, 2015 U. S. Dist. LEXIS 
+109287 (E.D. Pa. Aug. 18, 2015) ..................  15 
+United States v. Vasquez ,  
+No. 09-CR-259, 2010 WL 1257359 (E.D.N.Y. Mar. 30,  2010) ..............................  17 
+Sent’g Op., United States v. Young , No. CR 
+12-4107-MWB (N.D. Iowa 2013), ECF No. 93 ...................................................................  15 
+ vi 
+ TABLE OF AUTHORITIES—Continued 
+CONSTITUTION Page(s) 
+U.S. Const. amen d. VIII ..................................  2, 4 
+STATUTES 
+18 U.S.C. § 924(c) .............................................  13 
+18 U.S.C. § 3553(e) ...........................................  17 
+21 U.S.C. § 841(b) ............................................  11 
+21 U.S.C. § 851 .................................................  15 
+OTHER AUTHORITIES 
+Letter from John D. Bates, Sec’y, Jud. Conf., 
+to Sen. Patrick J. Leahy, Chairman, Comm. 
+on Judiciary (Dec.  19, 2013) .........................  9 
+Allen J. Beck & Bernard E. Shipley, 
+Recidivism of Prisoners Released in 1983 , 
+U.S. Dep’t of Justice Bureau of Justice 
+Statistics, 10 (Apr. 1989), http://www.bjs. 
+gov/content/pub/pd f/rpr83.pdf ......................  22-23 
+Letter from Robert Holmes Bell, Chairman, 
+Comm. on Crim. Law of Jud. Conf. to Sen. Patrick J. Leahy, Chairman, Comm. on 
+Judiciary (Sept. 17, 2013), http://www. 
+uscourts.gov/file/2612/down load .... 8, 9-10, 17, 20 
+Frank O. Bowman, III, Mr. Madison Meets a 
+Time Machine: The Political Science of 
+Federal Sentencing Reform , 58 S
+TAN. L. 
+REV. 235 (2005)  .............................................  7 
+ 
+ vii 
+ TABLE OF AUTHORITIES—Continued 
+ Page(s) 
+Statement of J., Julie E. Carnes, Chair, 
+Criminal Law Comm., on behalf of the Judicial Conference,  Mandatory Minimum 
+Sentences: Hearing Before Subcomm. on 
+Crime, Terrorism, and Homeland Sec. H. Comm. on Judiciary , 111th Cong. (2009) ....  18 
+Statement & Testimony of Paul G. Cassell, J., 
+Mandatory Minimum Sentencing Laws—The Issues: Hearing Before Subcomm. On 
+Crime, Terrorism, and Homeland Sec. H. 
+Comm. on Judiciary , 110th Cong. 
+(2007) ............................................ 5, 10,  18, 21, 22 
+Charles Colson Task Force on Fed. Corr., 
+Drivers of Growth in the Federal Prison Population  (Mar. 2015), http://www.urb 
+an.org/sites/default/files/alfresco/publicat 
+ion-pdfs/2000141-Drivers-of-Growth-in-the-Federal-Prison-P opulation.pdf ..............  20 
+Charles Colson Task Force on Fed. Corr., 
+Transforming Prisons, Restoring Lives (Jan. 2016), http://colsontaskforce.org/ 
+final-recommendations/Colson-Task-Force-
+Final-Recommendations-January-2016 .pdf ................................................................  20, 21 
+Letter from James C. Duff, Sec’y, Jud. Conf., 
+to Rep. Bob Goodlatte, Chairman, Comm. on Judiciary (Nov . 13, 2015) ........................  9 
+FAMM,  Arlana Moore , http://famm.org/arl 
+ana-moore/ (last visited Feb. 4, 2016) ..........  16, 21 
+ viii 
+ TABLE OF AUTHORITIES—Continued 
+ Page(s) 
+FAMM,  My Story: Sara S. , http://famm. 
+org/my-story-sara-s/ (last visited Feb. 3, 2016) ..............................................................  21 
+FAMM, Sentencing Reform and Corrections 
+Act of 2015 (S. 2123) , http://famm.org/ 
+sentencing-reform-and-corrections-act-of-
+2015/ (last visited Fe b. 5, 2016) ...................  23 
+Fed. Bureau of Prisons, Statistics , http:// 
+www.bop.gov/about/statistics/population_s
+tatistics.jsp (last updated Feb. 4, 2016) .......  19 
+Mary Pat Flaherty & Joan Biskupic, Rules 
+Often Impose Toughest Penalties on Poor, 
+Minorities , W
+ASH. POST (Oct. 9, 1996), 
+https://www.washington post.com/archive/p
+olitics/1996/10/09/rules-often-impose-
+toughest-penalties-on-poor-minorities/19 
+029236-3d2d-4dbd-a3fa-d22436438967/ ......  8 
+Lawrence A. Greenfeld & Tracy L. Snell, 
+Women Offenders , Bureau of Justice 
+Statistics Special Report (revised Oct. 3, 2000), http://www.bjs.g ov/content/pub/pdf/ 
+wo.pdf ............................................................  18 
+Terry Hatter & Edward Prado, Feature: 
+Sentencing— The Miscarriage of Mandatory 
+Minimums , 20 C
+HAMPION  16 (July 1996) ....  7 
+Eric Holder Mem. to  U.S. Att’ys, et al. 
+(Aug. 12, 2013), http: //www.justice.gov/ 
+sites/default/files/oip/legacy/2014/07/23/ag-
+memo-department-policypon-charging-mandatory-minimum-sentences-recidivist-
+enhancements-in-certain-drugcases.pdf ......  23 ix 
+ TABLE OF AUTHORITIES—Continued 
+ Page(s) 
+Sari Horwitz, Former Federal Judge to 
+President Obama: Free the Man I Sentenced 
+to 55 Years in Prison , WASH. POST (Feb. 9, 
+2016), https://www.washingtonpost.com/ 
+news/post-nation/wp/2016/02/09/former-federal-judge-to-president-obama-free-the-
+man-i-sentenced-to-55-years-in-prison/ .......  14 
+Testimony of Irene Keeley, J., Chair, Comm. 
+on Criminal Law,  Over-Criminalization 
+Task Force of 2014—Agency Perspectives: 
+Hearing Before H. Comm. on Judiciary , 
+113th Cong. (2014), http://judiciary.house. 
+gov/_cache/files/ade342df-6e0b-428f-a3cf-
+28c46eca8122/keeley-testimony.pdf ............  9 
+Anthony M. Kennedy, Speech, Am. Bar Ass’n 
+Annual Meeting (Aug. 9, 2003), http:// 
+www.supremecourtus.gov/publicinfo/speeches/sp_08-09-03. html ...................................  6 
+Matthew C. Lamb, A Return to Rehabilita-
+tion: Mandatory Minimum Sentencing in an Era of Mass Incarceration , 41 J. L
+EGIS. 
+126 (2015), http://scholarship.law.nd.edu/ 
+cgi/viewcontent.cgi?article=1638&context=jleg .................................................................  22 
+Testimony of Michael Nachmanoff, Pub. Hr’g 
+Before U.S. Sent’g Comm’n, Mandatory 
+Minimum Sentencing Provisions Under 
+Federal Law (May 27, 2010), http://www. 
+ussc.gov/sites/default /files/pdf/amendment-
+process/public-hearings-and-meetings/ 
+20100527/Testimony_Nachmanoff.pdf ........  22 x 
+ TABLE OF AUTHORITIES—Continued 
+ Page(s) 
+Nat’l Inst. of Justice, Effects of Judges’ 
+Sentencing Decisions on Criminal Careers , 
+Research in Brief (Nov. 1999), https:// 
+www.ncjrs.gov/pdffile s1/nij/178889.pdf .......  22 
+Pew Charitable Trusts, Federal Drug 
+Sentencing Laws Bring High Cost, Low 
+Return  (Aug. 2015), http://www.pewtrus 
+ts.org/~/media/assets/2015/08/pspp_feddrug_brief.pdf ............................................... 19, 20, 21 
+William H. Rehnquist, Luncheon Address , 
+U.S. Sent’g Comm’n, Drugs and Violence in America: Proceedings  of the Inaugural 
+Symposium on Crime and Punishment in 
+the United Stat es (1993) ..............................  7 
+Statement of Patti B. Saris, J., Chair, 
+U.S. Sent’g Comm’n,  Reevaluating the 
+Effectiveness of Federal Mandatory Minimum Sentences: Hearing Before the 
+S. Comm. on Judiciary , 113th Cong. (Sept. 
+18, 2013) .................................................. 14, 17, 19 
+Stephen J. Schulhofer, Rethinking Mand-
+atory Minimums , 28 W
+AKE FOREST L. REV. 
+199 (1993) .....................................................  10 
+Interview by John Shattuck with Stephen 
+Breyer, at the John F. Kennedy Library 
+(Sept. 21, 2003), http ://www.jfklibrary.org/ 
+~/media/assets/Education%20and% 
+20Public%20Programs/Forum%20Transcri
+pts/2003/2003%20A%20Conversation%20with%20Stephen%20Bre yer.pdf ..................  4, 6 xi 
+ TABLE OF AUTHORITIES—Continued 
+ Page(s) 
+Ram Subramanian & Ruth Delaney, 
+Playbook for Change? States Reconsider 
+Mandatory Sentences , Vera Inst. of Justice 
+(Feb. 2014), http://www.vera.org/sites/de 
+fault/files/resources/downloads/mandatory-
+sentences-policy-repo rt-v3.pdf ..................... 21, 23 
+U.S. Sent’g Comm’n, Quick Facts  (Jan. 2015), 
+http://www.ussc.gov/sites/default/files/pdf/ research-and-publications/quick-facts/ 
+Quick-Facts_BOP .pdf ...................................  20 
+U.S. Sent’g Comm’n, Report on the 
+Continuing Impact of United States v. 
+Booker on Federal Sentencing Part A  
+(2012), http://www.ussc .gov/sites/default/ 
+files/pdf/news/congressional-testimony-
+and-reports/booker-reports/2012-booker/ Part_A.pdf  .....................................................  7 
+U.S. Sent’g Comm’n, Report to the Congress: 
+Mandatory Minimum Penalties in the 
+Criminal Justice System  (Oct. 2011), 
+http://www.ussc.gov/news/congressional-testimony-and-reports/mandatory-minim 
+um-penalties/report-congress-mandatory-
+minimum-penalties-federal-criminal-justice-system  ...............................................  10, 14 
+U.S. Sent’g Comm’n, Special Report to the 
+Congress: Mandatory Minimum Penal-ties 
+in the Criminal Justice System  (Aug. 1991), 
+http://www.ussc.gov/sites/default/files/pdf/news/congressional-testimony-and-reports/ 
+mandatory-minimum-penalties/1991_ 
+Mand_Min_Report. pdf .................................  10, 11 xii 
+ TABLE OF AUTHORITIES—Continued 
+ Page(s) 
+Barbara S. Vincent & Paul J. Hofer, The 
+Consequences of Mandatory Minimum Prison Terms: A Summary of Recent 
+Findings , Fed. Judicial Ctr. (1994), 
+http://www.fjc.gov/public/pdf.nsf/lookup/ conmanmin.pdf/$file/conmanmin.pdf ..........  22 
+Lydia Wheeler, Sentencing Reform Bill 
+Advances in House, T
+HE HILL (Nov. 18, 
+2015), http://thehill.com/regulation/legis 
+lation/260577-sentencing-reform-bill-adv 
+ances-in-ho use ..............................................  23 
+Valerie Wright, Deterrence in Criminal 
+Justice: Evaluating Cert ainty vs. Severity of 
+Punishment , The Sentencing Project 
+(2010), http://www.sentencingproject.org 
+/doc/Deterrence%20Briefing%20.pdf ...........  22 
+Sally Quinlan Yates, Deputy Att’y Gen., Dep’t 
+of Justice, Remarks at the Bipartisan 
+Summit on Fair Justice (July 22, 2015), 
+http://www.justice.gov/opa/speech/deputy-attorney-general-sally-quillian-yates-
+delivers-remarks-bipartisan-summit-fair ...  19 
+David M. Zlotnick, The Future of Federal 
+Sentencing Policy , 79 U. C
+OLO. L. REV. 1 
+(2008) ............................................................  9, 18 INTEREST OF AMICUS CURIAE1 
+Amicus  Families Against Mandatory Minimums 
+(“FAMM”) is a national, nonprofit, nonpartisan organ-
+ization dedicated to promoting fair and proportionate sentencing policies and challenging inflexible and 
+excessive penalties required by mandatory sentencing 
+laws. For twenty-five years, FAMM has worked to restore discretion to judges to distinguish between 
+individually situated defendants according to their 
+role in the offense, the seriou sness of the offense, their 
+potential for rehabilitation, and other individual 
+characteristics. Since its founding in 1991, FAMM has 
+grown to include 70,000 supporters, including prison-ers, family members, practitioners, and concerned 
+citizens.  
+FAMM’s vision is a nation in which sentencing 
+is individualized, humane, and sufficient to impose 
+just punishment, secure public safety, and support 
+successful rehabilitation. FAMM accomplishes its purposes through education of the general public, 
+selected amicus  filings in important cases, congres-
+sional testimony, and advocacy.  
+FAMM submits this Brief because Petitioner Lee 
+Brooker has been subjected to an extreme, arbitrary, 
+disproportionate, and unjust life-without-parole sen-tence. His sentence was triggered by the mere posses-
+sion of marijuana for perso nal use, and was imposed 
+solely because of a mandat ory sentencing provision 
+                                            
+1 Pursuant to Rule 37.6, Amicus  states that no Counsel for any 
+Party authored this Brief in whole or in part, and no person or entity other than Amicus  made a monetary contribution to fund 
+or intended to fund the preparation or submission of this Brief. All Parties have consented to the filing of this Brief, and copies of 
+their consents have been filed with the Clerk of the Court. 2 
+that removed discretion from his judge. Both Mr. 
+Brooker’s trial and appellate tribunals stated they 
+would not have imposed this sentence on this now-
+seventy-six-year-old disabled  veteran if they had any 
+discretionary authority whatsoever.  
+The injustice Mr. Brooker faces demonstrates the 
+arbitrary and unfair results that can occur when the most extreme sentence short of death must be imposed 
+in a vacuum, with individualized consideration of the 
+circumstances of the offense and the offender abso-lutely forbidden to the decisionmaker best positioned 
+to exercise that judgment—the sentencing judge. 
+FAMM urges the Court to grant review in this case to address whether the Constitution tolerates the 
+injustice of such sentences.  
+INTRODUCTION AND  
+SUMMARY OF ARGUMENT 
+“Protection against disproportionate punishment is 
+the central substantive guarantee of the Eighth Amendment.”
+2 While the Court has made clear 
+that determining types of punishments for specific 
+crimes “is purely a matter of legislative prerogative,”3 
+and reviewing courts should hesitate “to review 
+legislatively mandated terms of imprisonment,”4 the 
+Court also has observed  that “no penalty is per se  
+                                            
+2 Montgomery v. Louisiana , No. 14-280, 2016 WL 280758, at 
+*12 (U.S. Jan. 25, 2016), as revised (Jan. 27, 2016); see also 
+Graham v. Florida , 560 U.S. 48, 59 (2010) (“The concept of 
+proportionality is central to the Eighth Amendment.”). 
+3 Harmelin v. Michigan , 501 U.S. 957, 962 (1991) (citing 
+Rummel v. Estelle , 445 U.S. 263, 274 (1980)). 
+4 Ewing v. California , 538 U.S. 11, 22 (2003) (citing Hutto v. 
+Davis , 454 U.S. 370 (1982) (per curiam)). 3 
+constitutional.”5 Implicit in this promise is the 
+assumption that “courts are competent to judge the 
+gravity of an offense” and to measure that gravity 
+against the severity of the punishment imposed—and courts “traditionally have made these judgments.”
+6 
+Courts, including trial and appellate courts, “do have 
+a responsibility—expressed in the proportionality principle—not to shut their eyes to grossly dispropor-
+tionate sentences that are manifestly unjust.”
+7 FAMM 
+respectfully submits that mandatory minimum sen-tences are particularly likely to be disproportional. 
+Sentences of life imprisonment without the 
+possibility of parole should be especially subject to judicial scrutiny. The Court has recognized these 
+sentences reside in their own category as “the second 
+most severe penalty permitted by law.”
+8 Applying this 
+principle, FAMM supports Petitioner’s claim that 
+a mandatory sentence of life without parole for the 
+nonviolent offense of possession of marijuana for personal use, even by a person with prior convictions, 
+presents precisely the “extreme circumstance” under 
+which a legislative penalty should be invalidated.
+9 
+Indeed, a straightforward application of this Court’s 
+precedent in Solem v. Helm , which invalidated the 
+mandatory life-without-parole sentence of a seven-time recidivist for the “passi ve felon[y]” of issuing a 
+                                            
+5 Solem v. Helm , 463 U.S. 277, 290 (1983). 
+6 Id. at 292. 
+7 Hutto , 454 U.S. at 377 (Powell, J., concurring) (emphasis 
+removed). 
+8 Graham , 560 U.S. at 69-70 (citation omitted). 
+9 Harmelin , 501 U.S. at 1007 (Kennedy, J., concurring). 4 
+bad check, virtually commands a reversal of the 
+sentence in this case.10 
+It is hard to understand how, in a civilized society, 
+the law can tolerate that a seventy-six-year-old decorated, disabled, combat veteran is sentenced to die 
+in prison for growing marijuana in his backyard for 
+personal use. Only this Court can instruct the States’ legislatures that the Eighth Amendment does not 
+allow such injustice.  
+Mr. Brooker’s case presents an extreme example of 
+the myriad flaws of mandatory sentencing regimes, 
+which jurists and commentators have long recognized. 
+Mandatory minimums—especially in the context of recidivist statutes—may punish low-level conduct 
+with the severest of penalties, regardless of what the 
+wisest of judges may consider appropriate. Where, as here, the judiciary views it self as precluded from 
+exercising any judgment to ameliorate those effects, 
+even in “the unusual or exceptional case,”
+11 the indi-
+vidual defendant, his or her family, society at large, 
+and respect for the law all bear the consequences. And 
+while some reforms are underway in the Department of Justice, Congress, and so me States, those efforts 
+                                            
+10 463 U.S. at 296; see also Ewing , 538 U.S. at 20-22, 28 
+(comparing Rummel  (upholding sentence of “incarceration for 
+life, subject only to the State’s judgment as to whether to grant him parole”) with Solem  (rejecting a life-without-parole sentence 
+as cruel and unusual because “the penultimate sentence for relatively minor criminal conduc t” was “signifi cantly dispro-
+portionate to  his crime”). 
+11 Interview by John Shattuck with Stephen Breyer, at the 
+John F. Kennedy Library 30 (Sept. 21, 2003), http://www.jfk library.org/~/media/assets/Education%20and%20Public%20Programs/Forum%20Transcripts/2003/2003%20A%20Conversation%
+20with%20Stephen%20Breyer.pdf. 5 
+will not assist Mr. Brooker or eliminate all of the 
+extreme and arbitrary effects of mandatory minimums 
+on sentencing. This Court’s intervention is required. 
+ARGUMENT 
+I. THE ELIMINATIO N OF ALL JUDICIAL 
+DISCRETION CAN LEAD TO ARBITRARY, 
+EXTREME, AND UNFAIR PUNISHMENTS. 
+As Mr. Brooker’s case illustrates, mandatory mini-
+mums shift sentencing discretion from neutral judges 
+(who exercise that discretion through public, trans-parent sentencing procedures) to adversarial prosecu-
+tors (who exercise that dis cretion through unilateral, 
+unreviewable charging decisions). Charging incen-tives are dramatically different from sentencing 
+incentives. The purpose of se ntencing is to impose a 
+sanction that recognizes the gravity of the offense while also balancing individ ual circumstances, fair-
+ness, costs, and other societal concerns, but the 
+incentives behind charging include maximizing lever-age in plea discussions and “wins” for the prosecutor’s 
+office.
+12 By shifting discretion from the independent 
+judiciary to the adversar ial prosecutor, mandatory 
+minimum statutes can lead to arbitrary, capricious, 
+                                            
+12 See, e.g., United States v. Kupa , 976 F. Supp. 2d 417, 420 
+(E.D.N.Y. 2013) aff’d, 616 Fed. App’x 33 (2d Cir. 2015) (“To coerce 
+guilty pleas, and sometimes to  coerce cooperation as well, 
+prosecutors routinely threaten ultra-harsh, enhanced mandatory sentences that no one —not even the prosecutors themselves—
+thinks are appropriate.” (footnote omitted)); Mandatory Mini-
+mum Sentencing Laws—The Issues: Hearing Before Subcomm. On Crime, Terrorism, and Homeland Sec. H. Comm. on Judiciary , 110th Cong. 79 (2007) [hereinafter Cassell, 2007 
+Hearing] (statement & testimony of Paul G. Cassell, J.) (“[W]hen mandatory minimum sentences are in play, the only individuals 
+with discretion are the prosecutors . . . .”). 6 
+and unfair sentences for similarly situated 
+defendants.13 
+Members of this Court have acknowledged that this 
+shift undermines transparency, reason, and ulti-mately fairness. Justice Kenne dy has noted that “[t]he 
+trial judge is the one actor in the system most 
+experienced with exercising discretion in a transpar-ent, open, and reasoned way.”
+14 “[A]ccept[ing] neither 
+the necessity nor the wisdom of federal mandatory 
+minimum sentences,” Justice Kennedy stated that “[i]n too many cases, mandatory minimum sentences 
+are unwise and unjust.” Mandatory minimums “give[] 
+the decision to an assistant prosecutor not trained in the exercise of discretion,” and the defendant’s fate is 
+often sealed before he ever sees a courtroom. This 
+“transfer of sentencing discretion from a judge to an Assistant U.S. Attorney, ofte n not much older than the 
+defendant, is misguided.”
+15 
+Justice Breyer has further observed that “manda-
+tory minimums are bad policy”—because they are 
+unfair and do not deter crime.16 And former Chief 
+Justice Rehnquist noted that “one of the best argu-ments against any more mandatory minimums, and 
+perhaps against some of th ose that we already have, 
+                                            
+13 See, e.g., United States v. Angelos , 345 F. Supp. 2d 1227, 
+1246, 1263 (D. Utah 2004) (noting the unfairness of sentencing a first-time drug-and-gun offender  to mandatory sentence “more 
+severe than criminals who committ ed, for example, three aircraft 
+hijackings, three second-degree mu rders, three kidnappings, or 
+three rapes”). 
+14 Anthony M. Kennedy, Speech, Am. Bar Ass’n Annual 
+Meeting 3 (Aug. 9, 2003), h ttp://www.supremecourtus.gov/ 
+publicinfo/speeches/sp_08-09-03.html. 
+15 Id. at 2-3. 
+16 Interview, supra note 11, at 31. 7 
+is that they frustrate the careful calibration of 
+sentences.”17 But the “combination of complex [Sent-
+encing] Guidelines overlaid on a system of statutory 
+minimum mandatories and fact-based enhancements 
+has turned prosecutors into primary decisionmakers 
+whose choices can, to a far greater extent than was 
+ever before possible, unilaterally constrain the judge’s discretion.”
+18 According to Justice Breyer, “[m]andat-
+ory minimum statutes are f undamentally inconsistent 
+with Congress’ simultaneous effort to create a fair, 
+honest, and rational sentencing system through the 
+use of Sentencing Guidelines.”19 
+For decades, judges from the Courts of Appeals and 
+the District Courts who have been forced to implement 
+these sentences have lamented  that their obligation to 
+follow their oath of office co nflicts with their moral and 
+judicial duty to ensure due process and fairness in 
+                                            
+17 William H. Rehnquist, Luncheon Address , U.S. Sent’g 
+Comm’n, Drugs and Violence in America: Proceedings of the Inaugural Symposium on Crime and Punishment in the United 
+States 283, 287 (1993). 
+18 Frank O. Bowman, III, Mr. Madison Meets a Time Machine: 
+The Political Science of Federal Sentencing Reform , 58 S TAN. L. 
+REV. 235, 248 (2005); see also  Terry Hatter & Edward Prado, 
+Feature: Sentencing —The Miscarriage of Mandatory Minimums , 
+20 C HAMPION  16, 17 (July 1996) (“It’s no lo nger up to the judge to 
+decide. . . . Mandatory minimums are applied inconsistently. The 
+prosecutor decides who gets them.”). 
+19 Harris v. United States , 536 U.S. 545, 570 (2002) (Breyer, J., 
+concurring), overruled on other grounds by Alleyne v. United 
+States , 133 S. Ct. 2151, 2155 (2013); see also  U.S. Sent’g Comm’n, 
+Report on the Continuing Impact  of United States v. Booker on 
+Federal Sentencing Part A , at 5 (2012), http://www.ussc.gov/sites/ 
+default/files/pdf/news/congressional-testimony-and-reports/book er-reports/2012-booker/Part_A.pdf (“The guidelines have re-mained the essential starting point for all federal sentences and 
+have continued to influence sentences significantly.”). 8 
+individual cases. Former Judge J. Lawrence Irving 
+resigned from the bench after observing that “the 
+system is run by the U.S. attorneys. When they decide 
+how to indict, they fix the sentence.”20 Stripped of any 
+opportunity to apply their own judgment, federal 
+judges have described their role when doling out 
+“terribly cruel,”21 “unjust,”22 “and even irrational”23 
+mandatory minimum sentences as that of a 
+“machine”24 or a “computer”25—often in circumstances 
+where the mandatory minimum results in “what are essentially life sentences.”
+26 
+The Federal Reports are replete with statements by 
+judges regarding arbitrary and unfair sentences they have been forced to impo se over their moral 
+objections.
+27 And the Federal Judicial Conference has 
+                                            
+20 Mary Pat Flaherty & Joan Biskupic, Rules Often Impose 
+Toughest Penalties on Poor, Minorities , W ASH. POST (Oct. 9, 
+1996), https://www.washingtonpost .com/archive/politics/1996/10 
+/09/rules-often-impose-toughest-penalties-on-poor-minorities/19 029236-3d2d-4dbd-a3fa-d22436438967/ (“Judge J. Lawrence Irving . . . quit the bench six ye ars ago after concluding that in-
+creasingly harsher sentences for drug defendants and increased 
+prosecutorial power had created . . . an ‘absurd’ situation.”). 
+21 Letter from Robert Holmes Bell, Chairman, Comm. on Crim. 
+Law of Jud. Conf. to Sen. Patrick J. Leahy, Chairman, Comm. on Judiciary, at 5 (Sept. 17, 2013) , http://www.uscourts.gov/file/ 
+2612/download. 
+22 Angelos , 345 F. Supp. 2d at 1230. 
+23 Id. 
+24 Sent’g Tr. at 16, United States v. Prikakis , No. 91-03099 
+(N.D. Fla. Feb. 5, 1992). 
+25 United States v. Madkour , 930 F.2d 234, 239 (2d Cir. 1991). 
+26 United States v. Harris , 154 F.3d 1082, 1085 (9th Cir. 1998). 
+27 See, e.g., United States v. Powell , 404 F.3d 678, 683 (2d Cir. 
+2005) (“We understand the district court’s obvious reluctance to impose a life sentence on a de fendant whose prior felony drug 9 
+year after year urged Congress that “[m]andatory 
+minimum sentences waste valuable taxpayer dollars, 
+create injustice in sentencing, undermine guideline 
+sentencing, and ultimately fo ster a lack of confidence 
+in the criminal justice system.”28 
+                                            
+convictions were committed years earlier, when the defendant 
+was a minor. . . . It is, however,  Congress’ prerogative to set 
+mandatory minimums, and in this case the mandatory minimum is life imprisonment.” (citations omitted)); United States v. 
+Abbott , 30 F.3d 71, 72 n.1 (7th Cir. 1994) (quoting district court 
+judge that this is “another illustration of the lack of wisdom in mandatory minimum sentences, but I cannot take it upon myself to change the law that Congress has written,” while imposing the sentence “Congress has told me that I must” (internal quotations omitted)); Gates v. United States , No. 98 Cr. 1496, 2003 U.S. Dist. 
+LEXIS 8595, at *13 (S.D.N.Y. May 21, 2003) (“[T]he lowest [sentence the court] could impose . . . [is] an extremely harsh one,” but the court is “bound by the sentencing scheme—including mandatory minimums—put in place by Congress.”); see also  
+David M. Zlotnick, The Future of Federal Sentencing Policy , 79 U. 
+C
+OLO. L. REV. 1, 22 (2008) (collecting cases). 
+28 L e t t e r  f r o m  J a m e s  C .  D u f f ,  S e c ’ y ,  J u d .  C o n f . ,  t o  R e p .  B o b  
+Goodlatte, Chairman, Comm. on Judiciary (Nov. 13, 2015), at 1; see also Over-Criminalizatio n Task Force of 2014—Agency 
+Perspectives: Hearing Before H. Comm. on Judiciary , 113th Cong. 
+6 (2014), http://judiciary.house.go v/_cache/files/a de342df-6e0b-
+428f-a3cf-28c46eca8122/keeley-testimo ny.pdf [hereinafter Keeley, 
+2014 Hearing] (testimony of Irene Keeley, J., Chair, Comm. on Criminal Law) (“[S]tatutory minimums cost taxpayers exces-sively in the form of unnecessary  prison and supervised release 
+costs,” “impair the efforts of the United States Sentencing Commission to fashion Guidelines according to the principles of the Sentencing Reform Act,” and “often lead to inconsistent and disproportionately severe sent ences.”); Letter from John D. 
+Bates, Sec’y, Jud. Conf., to Se n. Patrick J. Leahy, Chairman, 
+Comm. on Judiciary (Dec. 19, 2013), at 3 (stating mandatory minimums “waste valuable tax payer dollars, create tremendous 
+injustice in sentencing, undermine guideline sentencing, and ultimately could foster disres pect for the criminal justice 10 
+The rigid nature of mand atory minimums creates 
+perverse effects, which sentencing judges are power-
+less to correct and which Mr. Brooker’s case tragically 
+illustrates: (1) the “tariff ef fect,” under which a specific 
+offense carries the same sentence in every instance, 
+regardless of context or circumstances; and (2) the 
+“cliff effect,” under which “sharp differences” in sentences result from falling just under or just over a 
+statutory threshold, such as a specific quantity of 
+drugs.
+29 This Court has observed that by “eliminat[ing] 
+a sentencing judge’s discretion in its entirety,” and 
+thus eliminating the judge’s ability to ameliorate these 
+effects, mandatory minimums “can produce unfairly 
+                                            
+system”); Letter, supra  note 21, at 3 (noting mandatory 
+minimums “cost taxpayers excessiv ely in the form of unnecessary 
+prison and supervised release costs,” “are inherently rigid and often lead to inconsistent an d disproportionately severe 
+sentences,” and “impair the efforts of the Sentencing Commission to fashion Guidelines”); Cassell, 2007 Hearing, supra  note 12, at 
+84 (“Over the years, dozens of academics have criticized such 
+provisions, and scores of federal judges have echoed the condemnation of the Judicial Conference in questioning the 
+wisdom of mandatory minimum terms.”). 
+29 U.S. Sent’g Comm’n, Report to the Congress: Mandatory 
+Minimum Penalties in the Criminal Justice System , Chapter 5 at 
+91 (Oct. 2011), http://www.ussc.gov/news/congressional-testimo ny-and-reports/mandatory-minimum-penalties/report-congress-mandatory-minimum-penalties-federal-criminal-justice-system [hereinafter 2011 Report]; U.S. Sent’g Comm’n, Special Report to 
+the Congress: Mandatory Minimum Penalties in the Criminal Justice System  26, 29 (Aug. 1991), http://www.ussc.gov/sites 
+/default/files/pdf/news/congression al-testimony-and-reports/manda 
+tory-minimum-penalties/1991_Mand _Min_Report.pdf [hereinafter 
+1991 Report]; Stephen J. Schulhofer, Rethinking Mandatory 
+Minimums , 28 W
+AKE FOREST L. REV. 199, 209 (1993). 11 
+disproportionate impacts on certain kinds of 
+offenders.”30 
+The U.S. Sentencing Commission described the 
+tariff effect in relation to  the mandatory minimums set 
+forth in 21 U.S.C. § 841(b), applicable to defendants 
+convicted of trafficking in common street drugs: 
+For those convicted of drug trafficking under 
+this section, one offense-related factor, and 
+only one, is determi native of whether the 
+mandatory minimum applies: the weight of the drug or drug mixture. Any other sentence 
+individualizing factors that might pertain in 
+a case are irrelevant as far as the statute is concerned. Thus, for example, whether the 
+defendant was a peripheral participant or the 
+drug ring’s kingpin, whether the defendant used a weapon, whether the defendant 
+accepted responsibility or, on the other 
+hand, obstructed justice, have no bearing on the mandatory minimum to which each 
+defendant is exposed.
+31 
+The “cliff effect” is equally pernicious. Under this 
+aspect of mandatory sentencing, individuals who 
+engaged in nearly identical conduct can receive vastly 
+different sentences based on whether they fall just over or just under a statutory threshold—again, often 
+relating to drug quantities.  
+As Mr. Brooker’s case show s, a small difference in 
+drug quantity can yield an enormous impact at 
+sentencing—demonstrating both the tariff and cliff 
+                                            
+30 Almendarez-Torres v. United States , 523 U.S. 224, 245 (1998) 
+(noting tariff and cliff effects). 
+31 1991 Report, supra  note 29, at 26. 12 
+effects. The Record makes c lear that if the sentencing 
+judge could have considered anything other than the 
+quantity of marijuana and Mr. Brooker’s twenty-year-
+old prior convictions, he would have imposed a different sentence. And it is undisputed that the 
+prosecution charged Mr. Brooker with possession of 
+2.8 pounds of marijuana—just over one-half pound more than the threshold to trigger the felony statute 
+under which he was convicted. If the prosecutor had 
+charged him with possessing one-quarter less—2.1 pounds—perhaps by excluding the dead and unusable 
+plants, or by excluding the unusable parts of the 
+plants, such as the vines, stalks, and leaves (as would have been required in many jurisdictions, including 
+federal courts), Mr. Brooker could have been charged 
+with a misdemeanor punishable by no more than one year in prison, which would not have triggered the 
+habitual offender statute and the resulting mandatory 
+life-without-parole sentence.  
+Judges and commentators have described other 
+prosecutorial tactics—unreviewable under a manda-
+tory minimum regime—as ar bitrary and unfair. For 
+example, “charge stacking” occurs when a prosecutor 
+chooses to file multiple counts rather than a single 
+count, triggering a harsh mandatory provision. This may even occur as a result of police officers inducing 
+multiple counts during the course of a single under-
+cover or surveillance operation.  
+Weldon Angelos, FAMM me mber and father of 
+three, is a first-offender serving a mandatory sentence 
+of more than fifty-five years due to charge-stacking.
+32 
+According to then-Judge Paul  Cassell of the District of 
+Utah, “[t]he original indictment issued against Mr. 
+                                            
+32 Angelos , 345 F. Supp. 2d at 1248. 13 
+Angelos contained three counts of distribution of 
+marijuana, one § 924(c) count for the firearm at the 
+first controlled buy, and two other lesser charges.” But 
+after Mr. Angelos refused to  plead guilty, which could 
+have reduced his exposure to sixteen years, the 
+Government “obtained two superseding indictments, 
+eventually charging twenty total counts, including five § 924(c) counts which alone carried a potential mini-
+mum mandatory sentence of 105 years.”
+33 
+The counts were all based on a series of “controlled 
+buys” that the Government set up using an informant. 
+Mr. Angelos initially sold the informant eight ounces 
+of marijuana for $350. “[T]he government did not arrest Mr. Angelos immediately after the first 
+‘controlled buy,’ but instead arranged two more such 
+buys . . . .”
+34 
+Judge Cassell noted this piling-on and called the 
+mandatory sentence “unjust,  cruel, and even irra-
+tional,” emphasizing that “‘co unt stacking’ . . . for first-
+time offenders—has lead [sic] to an unjust result in 
+this case and will lead to unjust results in other cases.” 
+Although he opined that a fifty-five-year sentence “is 
+not ‘just punishment,’” Judge Cassell followed his 
+“legal[] obligat[ion] to impose ” it notwithstanding that 
+Mr. Angelos was “a first offe nder who will receive a life 
+sentence for crimes far less serious than those 
+committed by many other offenders—including violent 
+offenders and even a murderer—who have been before 
+                                            
+33 Id. at 1231-32. 
+34 Id. at 1231, 1253 (“It is not clear to the court that other law 
+enforcement agents would have allowed Mr. Angelos to continue to deal drugs after the first buy rather than taking him into 
+custody immediately.”). 14 
+[him].”35 Now retired from the bench, Judge Cassell 
+continues to “[c]all[] the sentence one of the most 
+troubling that I ever faced in my five years on the 
+federal bench,” and says  “the mandatory minimum 
+sentence he was required to impose on Angelos was 
+one of the chief reasons he chose to step down as a 
+judge.”36 
+Mandatory minimums may also arbitrarily result 
+from the accident of geography—for example, Mr. 
+Brooker’s misfortune that hi s backyard is located in 
+Alabama—because different jurisdictions classify 
+conduct in different ways, or even apply the same 
+provision differently.37 Judge Mark Bennett of the 
+Northern District of Iowa de scribed this problem when 
+he was forced to sentence Douglas Young to a 
+mandatory minimum after the prosecutor elected to 
+                                            
+35 Id. at 1230, 1243, 1261, 1263-64. Judge Roger Vinson of the 
+Northern District of Florida si milarly described charge-stacking 
+as “the most absurd . . . abuse of the prosecutorial discretion,” resulting in a “minimum mandatory consecutive sentence for” what is essentially “one drug bust.” Prikakis , No. 91-03099, 
+Sent’g Tr. at 15, 43. 
+36 Sari Horwitz, Former Federal Judge to President Obama: 
+Free the Man I Sentenced to 55 Years in Prison , WASH. POST (Feb. 
+9, 2016), https://www.washington post.com/news/post-nation/wp 
+/2016/02/09/former-federal-judge- to-president-obama-free-the-m 
+an-i-sentenced-to-55-years-in-prison/ (internal quotations omitted). 
+37 See, e.g., Reevaluating the Effectiveness of Federal Manda-
+tory Minimum Sentences: Hear ing Before the S. Comm. on 
+Judiciary , 113th Cong. 2 (Sept. 18, 2013) [hereinafter Saris, 2013 
+H e a r i n g ]  ( s t a t e m e n t  o f  J .  P a t t i  B .  S a r i s ,  C h a i r ,  U . S .  S e n t ’ g  Comm’n) (“[C]ertain severe mandatory minimum sentences lead to disparate decisions by prosecutors and to vastly different results for similarly situat ed offenders.”); 2011 Report, supra  
+note 29, Chapter 6 at 108 (“Prosecutors in several districts noted possible variations in charge bargaining practices as a result of 
+decisions made by individual prosecutors.”). 15 
+file an information pursuant to 21 U.S.C. § 851 based 
+on prior drug convictions.38 Judge Bennett observed 
+that a ninety-minute drive—from Iowa to neighboring 
+States—yielded the “jaw-dropping, shocking dispar-ity” between receiving a term of years and a sentence 
+to die in prison. According to Judge Bennett, defend-
+ants are twenty-five times more likely to receive a doubled or tripled sentence in Iowa than those 
+convicted on the same fact s in neighboring Nebraska. 
+And in Minnesota, defendants are “less than one-tenth as likely to be subjected to a § 851 enhancement [than] 
+in the N.D. of Iowa.”
+39 
+Judge Bennett observed that these charging deci-
+sions “are still solely within the unreviewed discretion 
+of the DOJ without any requirement that the basis for 
+the decisions be disclosed or stated on the record,” and opined that prosecutorial discretion is “shrouded in 
+such complete secrecy that they make the proceedings 
+of the former English Court of Star Chamber appear to be a model of criminal justice transparency.”
+40 
+                                            
+38 Sent’g Op. at 3, United States v. Young , No. CR 12-4107-
+MWB (N.D. Iowa 2013), ECF No. 93 (noting § 851 is triggered in that District “any time a drug defendant, facing a mandatory minimum sentence in federal cour t, has a prior qualifying drug 
+conviction in state or federal co urt . . . no matter how old that 
+conviction is”). 
+39 Id. at 3, 30-31. 
+40 Id. at 3; see also United States v. Trader , No. CR 04-680-06, 
+2015 U.S. Dist. LEXIS 109287, *47 (E.D. Pa. Aug. 18, 2015) (calling on prosecutor to withdr aw § 851 Information “so that the 
+Court may impose a sentence . . . that better serves the interests of justice”); Angelos , 345 F. Supp. 2d at 1253-54 (“Because of the 
+lack of guidance on these prosecutory and investigative issues, Mr. Angelos is probably receiving a sentence far in excess of what many other identically-situated offenders will receive for 
+identical crimes in other federal districts.”). 16 
+While sentencing a defendant to more than ten 
+years for a nonviolent drug trafficking offense, Judge 
+John Gleeson of the Eastern District of New York 
+condemned prosecutorial manipulation, which pres-sures defendants to plead guilty. In that case, the 
+defendant would “have been [sentenced to] 30 years in 
+prison if he had proceeded to trial and the jury had 
+found him guilty.”
+41 In an extensive review of prose-
+cutorial practices, Judge Gleeson accused prosecutors 
+of “abus[ing] [their] po wer to file prior felony 
+informations in drug trafficking cases,” resulting in 
+“sentences so excessively seve re they take your breath 
+away.”42 In those federal cases,  as in Mr. Brooker’s 
+state case, the existence of a stale prior record gave the 
+prosecutor the sole power to remove the court’s 
+discretion to impose a just and proportionate sentence. 
+The effects of a prior criminal record can be stun-
+ning. FAMM member Arlana Moore was sentenced to 
+die in prison for supplying pseudoephedrine pills to a dealer in exchange fo r drugs to support her 
+methamphetamine addiction because she had two 
+prior possession convictions that resulted in probation. 
+Ms. Moore was indicted a long with two dozen other 
+individuals as a member of a methamphetamine 
+conspiracy. The other individuals received sentences ranging from fifteen mont hs to twenty years, but 
+Ms. Moore received a mand atory life-without-parole 
+sentence.
+43 When sentencing Ms. Moore to die in 
+prison, Judge Robert Junell of the Western District of 
+Texas described the penalty as “so severe, I took extra 
+                                            
+41 Kupa , 976 F. Supp. 2d at 434. 
+42 Id. at 419-20. 
+43  FAMM, Arlana Moore , http://famm.org/arlana-moore/ (last 
+visited Feb. 4, 2016). 17 
+time yesterday making sure that this was correct.” But 
+he “couldn’t find anyplace [in the Presentence 
+Investigation Report] where there was an error made 
+that would change it from life,”44 so life without parole 
+is what she got. 
+Mandatory minimums have the additional perverse 
+effect of penalizing lower-level criminals more harshly than leaders. Prosecutors can waive otherwise-
+mandatory sentences as a re ward for cooperation, and 
+because higher-ranking criminals know more about their operations, drug kingpins routinely enjoy better 
+treatment than associates who have no information 
+about the larger criminal conspiracy.
+45 “[T]he most 
+culpable offenders are able to avoid mandatory 
+minimums by cooperating with prosecutors because 
+they have more knowledge of the drug conspiracy”46—
+leading to what Judge Frank Easterbrook of the 
+Seventh Circuit described as a “topsy-turvy” and 
+“draconian” situation that “accords with no one’s theory of appropriate punishments.”
+47 
+                                            
+44 Sent’g Tr. at 13, United States v. Moore , No. 09-CR-00260 
+(W.D. Tex Aug. 25, 2010), ECF No. 67. 
+45 See, e.g. , 18 U.S.C. § 3553(e); Saris, 2013 Hearing, supra  note 
+37, at 2 (“in the drug context, statutory mandatory minimum penalties [are] often applied to lo wer-level offenders, rather than 
+just to the high-level drug offe nders that it appears Congress 
+intended to target”). 
+46 Letter, supra  note 21, at 5. 
+47 United States v Brigham , 977 F.2d 317, 318 (7th Cir. 1992); 
+see also United States v. Vasquez , No. 09-CR-259, 2010 WL 
+1257359, at *5 (E.D.N.Y. Mar. 30, 2010) (“The mandatory mini-mum senten ce in this ca se suppla nted any effor t to do justic e, leaving in its place the heavy wooden club that was explicitly 
+meant only for mid-level manage rs of drug operations.”). 18 
+Female partners of kingpins are a special example 
+of this phenomenon. Girlfrien ds may play a trivial role 
+in the crime, such as “tak[ing] messages,” or “stor[ing] 
+drugs,”48 and “rarely ma[ke] a substantial profit” since 
+“their primary motivation for criminal conduct [is] 
+their relationship with a man who [is] a drug dealer.”49 
+Because they play an insignificant role, they have no valuable information to provide and no leverage to 
+avoid a charge bearing a mandatory minimum.  
+Mandatory minimum statutes  not only affect indi-
+vidual defendants like Mr. Angelos, Mr. Young, Ms. 
+Moore, and Mr. Brooker, they also have a corrosive 
+effect on society. “To fun ction successfully, our judicial 
+system must enjoy the respect of the public. The 
+robotic imposition of sentences that are viewed as 
+unfair or irrational greatly undermines that respect.”
+50 
+The resulting “truly bizarre se ntences . . . can seriously 
+undermine public confidence in the system.”51 
+Deputy Attorney General Sally Yates made this 
+point last year, invoking the “public confidence in our 
+criminal justice system” necessary for public legiti-
+macy and opining that “our mandatory minimum laws do not calibrate a defendant’s sentence to match the 
+                                            
+48 Zlotnick, supra  note 27, at 40. 
+49 Id. Studies consistently suggest more than half of incarcer-
+ated women were victims of sexual and/or physical abuse. See, 
+e.g., Lawrence A. Greenfeld & Tracy L. Snell, Women Offenders , 
+Bureau of Justice Statistics Special Report (revised Oct. 3, 2000), 
+http://www.bjs.gov/content/pub/pdf/wo.pdf. 
+50 Mandatory Minimum Sentences: Hearing Before Subcomm. 
+on Crime, Terrorism, and Homela nd Sec. H. Comm. on Judiciary , 
+111th Cong. 2 (2009) (statement of Julie E. Carnes, J., Chair, 
+Criminal Law Comm., on behalf of the Judicial Conference). 
+51 Cassell, 2007 Hearing, supra  note 12, at 43. 19 
+threat that he or she poses to our safety.”52 This Court 
+should grant certiorari to address how the 
+Constitution can control the worst of these injustices. 
+II. MANDATORY MINIMUMS IMPOSE SUB-
+STANTIAL COSTS FOR LITTLE DETER-
+RENT BENEFIT.  
+In addition to creating unfair results and undermin-
+ing faith in the judicial sy stem, mandatory minimums 
+impose costs on society that far outweigh their 
+benefits. “These unwise sentencing policies which put men and women in prison for years, not only ruin lives 
+of prisoners and often their family members, but also 
+drain the American taxpayer s of funds which can be 
+measured in billions of dollars.”
+53 
+“[M]andatory minimum penalties have contributed 
+significantly to the overall federal prison popula-tion.”
+54 Since 1980, the federal prison population has 
+exploded, growing from fewer than 25,000 federal 
+prisoners to nearly 200,000.55 Mandatory minimums—
+particularly for drug-related offenses—have fueled 
+this growth. One-in-two fe deral inmates is serving a 
+sentence for a drug-related crime—up from one-in-five 
+                                            
+52 Sally Quinlan Yates, Deputy Att’y Gen., Dep’t of Justice, 
+Remarks at the Bipartisan Summit on Fair Justice (July 22, 2015), http://www.justice.gov/opa/ speech/deputy-attorney-gene 
+ral-sally-quillian-yates-delivers-remarks-bipartisan-summit-fair. 
+53 United States v. Hiveley , 61 F.3d 1358, 1363 (8th Cir. 1995) 
+(Bright, Sr. J., concurring). 
+54 Saris, 2013 Hearing, supra note 37, at 2. 
+55 Fed. Bureau of Prisons, Statistics , http://www.bop.gov/ 
+about/statistics/population_statist ics.jsp (last updated Feb. 4, 
+2016); Pew Charitable Trusts, Federal Drug Sentencing Laws 
+Bring High Cost, Low Return  8-9 (Aug. 2015), http://www. 
+pewtrusts.org/~/media/assets/ 2015/08/pspp_feddrug_brief.pdf. 20 
+in 1980—and sixty percent of incarcerated drug 
+offenders were sentenced under a mandatory mini-
+mum.56 During the same period, the average sentence 
+imposed on drug offenders increased by nearly twenty months, to more than six years.
+57 A 2015 federal task 
+force found the “biggest driver  of growth in the prison 
+population is in federally sentenced drug offenders,” and the “length of stay for [t hose] drug offenders, [is] 
+often dictated by stat utory mandatory minimum 
+penalties.”
+58 
+Incarcerating more people for longer durations 
+imposes substantial costs.59 The average annual cost 
+to incarcerate a federal prisoner in 2014 was $30,620.60 
+Annual federal prison spending has grown from $970 
+                                            
+56 U.S. Sent’g Comm’n, Quick Facts  2 (Jan. 2015), 
+http://www.ussc.gov/sites/default/f iles/pdf/research-and-publicat 
+ions/quick-facts/Quick-Facts_BO P.pdf; Charles Colson Task 
+Force on Fed. Corr., Drivers of Growth in the Federal Prison 
+Population  2 (Mar. 2015), http://www.urban.org/sites/default/ 
+files/alfresco/publication-pdfs /2000141-Drivers-of-Growth-in-the- 
+Federal-Prison-Population.pdf. 
+57 Pew, supra  note 55, at 2. 
+58 Colson Task Force, supra note 56, at 1-2. 
+59 Letter, supra  note 21, at 3 (“Mandatory minimums have a 
+significant impact on correctional costs,” noting prison “growth is 
+the result of several changes to the federal criminal justice system, including expanding the use of mandatory minimum penalties; the federal government taking jurisdiction in more criminal cases; and eliminating parole for federal inmates.” 
+(internal quotation omitted)). 
+60 Charles Colson Task Force on Fed. Corr., Transforming 
+Prisons, Restoring Lives  14 n.xii (Jan. 2016), http://colsontask 
+force.org/final-recommendations/C olson-Task-Force-Final-Recom 
+mendations-January-2016.pdf. 21 
+million in 1980 to nearly $7 billion in 2014 in inflation-
+adjusted dollars.61 
+The picture in state prisons is similar, as prison 
+populations have grown with the proliferation of mandatory minimums. In 1986, the number of state 
+prisoners sentenced to at least one year was less than 
+500,000. In 2012, that numbe r was more than 1.3 
+million. During that time, st ate prison spending rose 
+from $7.7 billion to $46 billion.
+62 
+Lengthy mandatory minimums also impose heavy 
+tolls on the families and co mmunities of the inmates. 
+Children spend years without the emotional and 
+financial support of incarce rated parents, placing 
+them at risk for negative behavioral, academic, and 
+emotional outcomes; spouses, partners, and extended 
+families are left to struggle without a key wage earner; and the inmate suffers lost employment opportunity, 
+stigma, and often mental health problems.
+63 Countless 
+examples are available of  the human toll exacted by 
+mandatory minimum sentences.64 
+It has even been suggested that mandatory mini-
+mums “harm crime victims” because of the message communicated by disproportionate sentences for 
+minor versus major crimes.
+65 “When the sentence for 
+actual violence inflicted on a victim is dwarfed by a 
+                                            
+61 Pew, supra  note 55, at 2. 
+62 Ram Subramanian & Ruth Delaney, Playbook for Change? 
+States Reconsider Mandatory Sentences , Vera Inst. of Justice, 7 
+(Feb. 2014), http://www.vera.org/sit es/default/files/resources/dow 
+nloads/mandatory-sentenc es-policy-report-v3.pdf. 
+63 Colson Task Force, supra  note 60, at 15. 
+64 See, e.g., FAMM, My Story: Sara S. , http://famm.org/my-
+story-sara-s/ (last visited Feb. 3, 2016); FAMM, supra note 43. 
+65 Cassell, 2007 Hearing, supra  note 12, at 47. 22 
+sentence for carrying guns to several drug deals, the 
+implicit message to victims is that their real pain and 
+suffering counts for less than some abstract ‘war on 
+drugs.’”66 
+All of this might be tolerable if mandatory mini-
+mums had a corresponding deterrent effect or other 
+social benefit, but that has not been shown to be true.67 
+Extensive research shows that the likelihood of being 
+caught—not the severity of punishment—has the 
+greatest deterrent effect.68 “The length of time the 
+offender actually was confined made little difference” 
+to whether he was going to commit the crime.69 
+                                            
+66 Id. 
+67 Matthew C. Lamb, A Return to Rehabilitation: Mandatory 
+Minimum Sentencing in an Era of Mass Incarceration , 41 J. 
+LEGIS. 126, 144 (2015), http://scholarship.law.nd.edu/cgi/viewcon 
+tent.cgi?article=1638&context=jl eg; Michael Nachmanoff, Testi-
+m o n y  i n  P u b .  H r ’ g  B e f o r e  U . S .  S e n t ’ g  C o m m ’ n ,  Mandatory 
+Minimum Sentencing Provisions Under Federal Law (May 27, 
+2010), http://www.ussc.gov/sites/def ault/files/pdf/amendment-pro 
+cess/public-hearings-and-meetings/20100527/Testimony_Nachm anoff.pdf (“[T]here is insufficient credible evidence to conclude that 
+mandatory penalties have signific ant deterrent effects.” (internal 
+quotation omitted)); Barbara S.  V i n c e n t  &  P a u l  J .  H o f e r ,  The 
+Consequences of Mandatory Minimum Prison Terms: A Summary of Recent Findings , Fed. Judicial Ctr., 14 (1994), http://www. 
+fjc.gov/public/pdf.nsf /lookup/conmanmin.pdf/$file/conmanmin.pdf 
+(comparing criminal victimizatio n rates and drug availability 
+“fail[s] to demonstrate any re duction in crime that can be 
+attributed to” mandatory minimums). 
+68 Lamb, supra  note 67, at 144; Valerie Wright, Deterrence 
+in Criminal Justice: Evaluating  Certainty vs. Severity of 
+Punishment , The Sentencing Project, 2 (2010), http://www. 
+sentencingproject.org/doc/Deterrence%20Briefing%20.pdf. 
+69 Nat’l Inst. of Justice, Effects of Judges’ Sentencing Decisions 
+on Criminal Careers , Research in Brief, 2 (Nov. 1999), 
+https://www.ncjrs.gov/pd ffiles1/nij/178889.pdf; see also  Allen J. 23 
+III. MANDATORY MINIMUMS ARE RESIST-
+ANT TO LEGISLATIVE CHANGE. 
+Although there has been substantial recent recogni-
+tion in the Department of Justice and the legislative sphere regarding the lack of wisdom of mandatory 
+minimums, and as of the f iling of this Brief certain 
+reforms are under consideration, these efforts are little consolation to Mr. Broo ker and others affected by 
+these sentences. For example,  the measures currently 
+under consideration in Congress would not fully reform recidivist statutes and would not protect 
+individuals from excessive statutory minimums under 
+state laws.
+70 And while some States have begun to 
+implement sentencing reforms,71 other States are 
+under no compulsion to do so. If the Court does not 
+define the constitutional limits on severe sentences, States without a legislative interest in reform may 
+                                            
+Beck & Bernard E. Shipley, Recidivism of Prisoners Released in 
+1983 , U.S. Dep’t of Justice Bureau of Justice Statistics, 10 (Apr. 
+1989), http://www.bjs.gov/content/ pub/pdf/rpr83.pdf (“In general 
+. . . no relationship was found be tween recidivism and length of 
+time served in prison.”). 
+70 See, e.g. , FAMM, Sentencing Reform and Corrections Act of 
+2015 (S. 2123) , http://famm.org/sentenci ng-reform-and-correct 
+ions-act-of-2015/ (last visited Feb. 5, 2016); Lydia Wheeler, 
+Sentencing Reform Bill Advances in House, THE HILL (Nov. 18, 
+2015), http://thehill.com/regulati on/legislation/260577-sentencin 
+g-reform-bill-advances-in-house; see also  Eric Holder Mem. 
+to U.S. Att’ys, et al. (Aug. 12, 2013), http://www.justice. 
+gov/sites/default/files/oip/lega cy/2014/07/23/ag-m emo-department-
+policypon-charging-mandatory-minimum-sentences-recidivist-en hancements-in-certain-drugcases.pdf (announcing Justice Depart-ment policy of avoiding mandatory minimum sentences in low-
+level, nonviolent drug cases). 
+71 See, e.g. , Subramanian & Delaney, supra  note 62. 24 
+continue to impose harsh, irrational, and unconstitu-
+tional sentences. This Court’s intervention in an 
+appropriate case, such as Mr. Brooker’s, is needed to 
+define the constitutional limits of arbitrary mandatory sentencing.  
+CONCLUSION 
+For the foregoing reasons, the Court should grant 
+the Petition. 
+Respectfully Submitted, 
+MARY PRICE  
+General Counsel  
+FAMILIES AGAINST 
+MANDATORY MINIMUMS  
+1100 H Street, NW 
+Washington, DC 20005 
+(202) 822-6700 
+PETER GOLDBERGER  
+50 Rittenhouse Place 
+Ardmore, PA  19003 
+(610)  649-8200 STEPHEN M. NICKELSBURG  
+Counsel of Record 
+ADAM C. GOLDSTEIN  
+REBECCA S. HEKMAN  
+KATIE BARLOW  
+CLIFFORD CHANCE  US LLP 
+2001 K Street, NW Washington, DC 20006 
+(202) 912-5000 
+steve.nickelsburg@ 
+cliffordchance.com 
+ 
+February 12, 2016 
+ 

@@ -1,0 +1,666 @@
+Banking On Detention:
+local lockup quotas & the immigrant dragnetAbout Us
+Detention Watch Network (DWN) is a national coalition of organizations and  individuals working to expose and 
+challenge the injustices of the U.S. immigration detention and deportation syst em and advocate for profound 
+change that promotes the rights and dignity of all persons. Founded in 1997 in r esponse to the explosive 
+growth of the immigration detention and deportation system in the United Sta tes, DWN is today the only 
+national network that focuses exclusively on immigration detention and depo rtation issues and is known as a 
+critical national advocate for just policies that promote an eventual end  to immigration detention. As a 
+member-led network, DWN unites diverse constituencies to advance the civ il and human rights of those 
+impacted by the immigration detention and deportation system through col lective advocacy, public education, 
+communications, and field-and-network-building.
+Website: http://detentionwatchnetwork.org 
+The Center for Constitutional Rights (CCR) is dedicated to advancing  and protecting the rights guaranteed by 
+the U.S. Constitution and the Universal Declaration of Human Rights. Founded i n 1966 by attorneys who 
+represented civil rights movements in the South, CCR is a non-profit legal and  educational organization 
+committed to the creative use of law as a positive force for socia l change. CCR employs litigation, education, 
+and advocacy to advance the law in a positive direction, to empower poo r communities and communities of 
+color, to guarantee the rights of those with the fewest protections and le ast access to legal resources, to train 
+the next generation of constitutional and human rights attorneys, and to streng then the broader movement 
+for social justice.
+Website: http://ccrjustice.org
+The primary researchers, writers and editors of this report were Silky S hah, Mary Small and Carol Wu of 
+Detention Watch Network.
+With contributions from:
+Omar Farah, Ian Head and Ghita Schwarz of Center for Constitutional Rights
+Jenny-Brooke Condon of Seton Hall University School of Law
+For their help with our FOIA litigation, including reviewing Freedom of Inf ormation Act documents, we would 
+like to thank Mihal Ansik, Scott Foletta, Madhuri Grewal, Orlando Gudino, Antonia H ouse, Christina Le, 
+Thomas Lehman, Sunita Patel, Carly Perez, Bettina Scholdan, Aimee Thompson, and Fre d Tsao.
+Design & Layout: Janani Balasubramanian
+Cover Image: San Diego Contract Detention Facility (Otay Mesa), image court esy of BBC World Service
+© 2015, Detention Watch Network
+All Rights Reserved.Introduction
+The United States government manages the largest immigration detention sys tem in the world.  Immigration 
+and Customs Enforcement (ICE), an agency within the Department of Homeland Secur ity (DHS), oversees the 
+detention of hundreds of thousands of individuals charged with civil immig ration violations each year in a 
+sprawling network of over 200 immigration jails across the U.S. In 2009, Cong ress began including a 
+requirement to fund a minimum number of beds (currently 34,000) dedicated t o detention at any given time 
+in its annual appropriations bill. Since the policy, often referred to as the  national detention bed quota, went 
+into effect, the number of people detained each year has increased from 3 83,524 in FY (fiscal year) 2009 to 
+a record breaking 477,000 in FY 2012.1  
+In the last decade the detention system has grown by 75 
+percent,2 an expansion that depends heavily on ICE’s 
+increasing use of private contractors to operate and 
+provide services at immigration jails across the country. 
+Sixty-two percent of immigration detention beds are 
+operated by private prison companies,3  such as 
+Corrections Corporation of America (CCA) and the Geo 
+Group (GEO). Many government-owned facilities also rely 
+on privately contracted detention-related services such 
+as food, security, and transportation. This 
+interdependent relationship with private industry has 
+produced a set of government-sanctioned detention 
+quotas that ensure profits for the companies involved 
+while incentivizing the incarceration of immigrants. 
+Accordingly, a large portion of the over $2 billion in the 
+FY 2016 budget4  for detention operations will ultimately 
+go to for-profit contractors.  
+ICE’s contracts with private detention companies have exacerbated t he effects of the federal detention bed 
+quota by imposing local “lockup” quotas, contractual provisions that o bligate ICE to pay for a minimum 
+number of immigration detention beds at specific facilities, referre d to in contracts as “guaranteed 
+minimums.” Because guaranteed minimums require payment to private contrac tors whether beds are filled 
+or not, ICE faces considerable pressure to fill them.  Local lockup quotas  that serve to protect the bottom line 
+of private companies thus incentivize the imprisonment of immigrants. 
+This report aims to expose the use of guaranteed minimums at the local level a nd its potential influence over 
+ICE’s detention practices. Although this report offers the most comprehe nsive information to date on the use 
+of guaranteed minimums, the information presented herein provides only a part ial picture of the use of these 
+local lockup quotas across the U.S. due to ICE’s reticence regarding the d etails of their detention facility 
+contracts. The report draws on data obtained from a current Freedom  of Information Act (FOIA) request filed 
+by Detention Watch Network and the Center for Constitutional Rights5 in November 2013.  Information has 
+also been gathered from solicitations listed and archived at the Federa l Business Opportunities website, 
+where the government posts requests for business proposals.6  Additionally, where possible, contracts from 
+the National Immigrant Justice Center’s ICE FOIA request7 were also reviewed and utilized.
+- 1 -
+Figure 1: Taken from ICEʼs Broward Transitional 
+Center contract with the GEO Group.- 2 -National Detention Bed Quota
+The Intelligence Reform and Terrorism Prevention Act of 2004 required ICE  to increase, in each fiscal year 
+from 2006 to 2010, the number of immigration detention beds available by 8,0 00 above the preceding fiscal 
+year’s number.8  Beyond a requirement to create additional capacity, ICE was also under  pressure to use it. In 
+February 2006, then Assistant Secretary of ICE Julie Myers Wood met wit h then Chairman of the House 
+Subcommittee on Homeland Security Harold Rogers (R-KY) and Representat ives Louis Gohmert (R-TX), John 
+Culberson (R-TX), and Judge John Carter (R-TX).9  In that meeting, Representatives Culberson and Carter 
+highlighted that “[d]etention facilities in Laredo are only one-third full,” a nd that there are “[h]undreds of 
+empty beds.” Chairman Rogers noted that as one of his “key issues,” he wante d “‘no’ empty beds.”10  
+ 
+The use of arbitrary numerical 
+goals escalated in 2009 when 
+Congress began formally 
+including the national bed quota 
+in annual appropriations bills.  
+Since then, the detention bed 
+quota has been written into the 
+DHS Appropriations Act, which 
+states, “… funding made 
+available under this heading 
+shall maintain a level of not less 
+than 34,000 detention beds.”11  
+In addition to requiring that ICE 
+maintain the physical capacity to 
+detain at least 34,000 people at 
+any time, many members of 
+Congress have urged ICE to 
+interpret this language to require 
+that all detention beds be in use 
+at all times—that is, that a minimum of 34,000 beds not only be funded, but also fille d, every day. Over time, 
+congressional frustration over empty beds has grown. In April 2015, after  a heated exchange with ICE Director 
+Sarah Saldaña, Representative John Culberson (R-TX) suggested that the c urrent quota language be altered 
+to replace the word “maintain” with “fill.”12  Congressional staff have also repeatedly, if incorrectly,13  told ICE 
+that keeping an average of at least 34,000 detained per day is a statut ory requirement.14  
+These criticisms make clear that ICE faces substantial pressure to fu nnel immigrants into detention in order 
+to keep beds filled, despite the arbitrariness of quotas at both the na tional and local levels. Former ICE 
+Director John Sandweg expressed this frustration in a September 201 3 interview with Bloomberg , saying that 
+“[h]aving a mandate out there that says you have to detain a certain number –  regardless of how many folks 
+are a public safety threat or threaten the integrity of the system – doesn’t s eem to make a lot of sense. You 
+need the numbers to drive the detention needs, not set an arbitrary number tha t then drives your 
+operation.”15  No other law enforcement agency is subject to a national quota system for inca rceration. 
+Prominent law enforcement officials have decried the national quota as “un precedented” with a “corrupting 
+influence on the entire process” of enforcement and removal.16   
+Northwest Detention Center, image courtesy of Seattle Global ist
+No other law enforcement agency is subject to 
+a  national quota system for incarceration.”“While members of Congress continue to stress the importance of “filling” t he mandated 34,000 immigration 
+detention beds, local lockup quotas for immigrants in the form of guarante ed minimums also place pressure 
+on ICE to fill beds. Guaranteed minimums are contractual provisions that obli gate ICE to pay for a minimum 
+number of immigration detention beds at specific facilities. Because  guaranteed minimums require payment 
+to private contractors whether beds are filled or not, they function as lo cal lockup quotas, incentivizing ICE to 
+fill detention beds because of the contract stipulation. Present exclu sively in contracts with private 
+companies, the growth of local lockup quotas is inextricably linked to the r ise of corporate interests in 
+immigration detention.  
+A. Guaranteeing Proﬁt for Private Companies
+Guaranteed minimums predate the national quota’s inception and have existed  at least since 2003. Their 
+use can be understood in the context of the private prison industry’s pas t instability and its successful 
+pursuit of guaranteed profit. 
+In 1984, CCA built the first private prison in 
+the U.S., the Houston Processing Center, an 
+immigration detention center in Houston, 
+TX. Although the private prison system has 
+grown considerably since then, in the late 
+1990s, the industry lost steam as CCA 
+almost went bankrupt and the stock of 
+Wackenhut Corrections Corporation (now 
+GEO) fell significantly.17  After being bailed 
+out by the now-defunct hedge fund Lehman 
+Brothers, the private prison industry saw 
+the government’s post-9/11 interest in 
+expanding immigration detention as a 
+potential cash cow and began vying for 
+more federal contracts to incarcerate 
+immigrants.18  
+Revitalized after the period of crisis, the 
+private prison industry moved to secure its 
+future by pursuing the incorporation of guaranteed minimums into contrac ts.   CCA’s 2003 contract for the 
+Houston Processing Center was one of the first to include a guaranteed  minimum, this one for 375 
+persons.19   Since then, an increasing number of contracts between ICE and private contra ctors for detention 
+or detention-related services have included guaranteed minimums. These g uarantees act as 
+taxpayer-funded insurance for private companies against any changes  in immigration enforcement policy or 
+prioritization, because the companies are paid regardless of how ma ny individuals ICE detains. Guaranteed 
+minimums have now spread to every type of immigration detention facility. 
+- 3 -Houston Processing Center, image courtesy of Sin Huellas
+Local Lockup QuotasB. Guaranteed Minimums in Both Public & Private Facilities 
+     
+Field Office Guranteed Minimums Guranteed Minimums
+(based on ICE 1/28/2013 spreadsheet) (based on accessible contracts and so licitations)
+Buffalo 400 400
+Denver
+El Paso
+Houston
+Los Angeles
+Miami
+Newark
+New Orleans
+Phoenix
+San Antonio
+San Diego
+Seattle350 300
+500 500
+750 750
+488 488
+750 950
+285 285
+0 770
+374 374
+2,791 2,005
+872 900
+1,181 800
+TOTAL: 8,741 8,522
+-  4 -i. The 24 field offices are Atlanta, Baltimore, Boston, Buffalo, Chicago, Dallas , Denver, Detroit, El Paso, Houson, Los Angeles, Miami, New Orleans, 
+New York City, Newark, Philadelphia, Phoenix, Salt Lake City, San Antonio, San Die go, San Francisco, Seattle, St. Paul, and Washington.
+ii. DWN v. ICE,  No. 14-cv-583 LGS (2013), “2013 ADP Targets,” produced by ICE on December 1 5, 2014. Available at 
+http://ccrjustice.org/sites/default/files/attach/2015/06/DW N%20v%20ICE%20FOIA%20-%202013%20ADP%20Targets%2028526.pd f; New 
+Orleans Field Office has a guaranteed minimum. See also DWN v. ICE , No. 14-cv-583 LGS (2013), Bates No. ICE 2014FOIA03585.001228-001789.  
+Available at http://ccrjustice.org/sites/default/files/attach/ 2015/06/DWN%20v%20ICE%20FOIA%20-%20ICE%201228-1789.pdf  
+       
+   Northwest: 800
+Adelanto: 488
+Otay Mesa: 900Aurora: 300
+El Paso: 500Florence: 374
+Pearsall: 725
+Karnes: 480
+Port Isabel: 800Houston: 750Jena/LaSalle: 770
+Broward: 500
+Krome: 450Buffalo/Batavia: 400
+Elizabeth: 285ICEʼs Enforcement and Removal Office (ERO), which oversee s detention operations,
+is divided into 24 field officesi nationwide. Of those, 1 2 have guaranteed minimums.iiICE categorizes its detention facilities into three primary categor ies: Service Processing Centers, which are 
+owned and administered by ICE; Contract Detention Facilities, in which ICE cont racts directly with a private 
+company; and Intergovernmental Service Agreements (IGSAs), through which ICE r ents out space in local or 
+state facilities. In reality, however, the arrangements are more complica ted, and these categories can 
+obscure the involvement of private companies even at public facilit ies. Service Processing Centers, those 
+facilities owned and operated by ICE, do sometimes contract out for det ention-related services such as 
+security, transportation, and food. Similarly, many local governments sign the IG SA with ICE and then 
+sub-contract with private companies to operate the detention cente r or to provide detention-related services. 
+Although guaranteed minimums are found formally only in contracts with private co mpanies, sub-contracting 
+within IGSAs and SPCs means that private companies can be involved and mini mums can occur in all three 
+types of contract categories including public facilities, as outlined  in the chart below. When the contractor 
+operates the entire facility, whether contracted or sub-contracted, t hey receive the per-bed payment as if the 
+guaranteed population was detained. This functions in the same way for pr ivate contractors providing other 
+services. For example, in a food service contract with a guaranteed mi nimum, the contractor will be paid as if 
+they provided food for the guaranteed population, even if the number of pe ople actually detained was lower. 
+-  5  -ICE searches for 
+detention capacity
+ICE contracts with 
+private company to own 
+and operate facility 
+(Contract Detention 
+Facility)ICE owns and operates 
+facility 
+(Service Processing 
+Center)ICE contracts with local 
+government to own and 
+operate facility 
+(Intergovernmental 
+Service Agreement)
+Guaranteed minimum 
+included contractICE sub-contracts for 
+detention-related servicesLocal government 
+sub-contracts with private 
+company for detention
+ related servicesLocal government 
+sub-contracts with private 
+company to operate facility
+Guaranteed minimum 
+found in sub-contractGuaranteed minimum
+found in sub-contractGuaranteed minimum
+found in sub-contract        Guaranteed Minimums in Detention ContractsC. Guaranteed Minimums as Local Lockup Quotas     
+Contracts with guaranteed minimums are understood at the field office le vel as general priorities within their 
+relevant geographic area, and create incentives for heightened enforce ment in order to fill beds. This 
+pressure to fill beds and fulfill the mandate is felt acutely at local field of fices where facilities with 
+guaranteed minimums are prioritized and privately-contracted beds a nd services are perceived as being 
+more “cost efficient.” 
+Crucial to the cost-efficiency calculus is the use of “tiered pricing,”  in which ICE receives a discount on each 
+person detained above the guaranteed minimum.  Tiered pricing creates d irect financial incentives for ICE 
+not only to meet the guaranteed minimum, but also to fill guaranteed-minimum facilit ies to capacity in order 
+to take advantage of discounts for additional immigrants.
+When ICE fails to make the most of its financial arrangements with private com panies, it risks critique. In 
+October 2014, for example, the U.S. Government Accountability Office (GAO ) produced a report on 
+immigration detention criticizing ICE for underutilizing cost-effici ent bed space.20  Per the contracts, ICE paid 
+certain facilities their guaranteed minimums even when the beds went unoccu pied. The GAO further 
+censured ICE for failing to capitalize on the tiered pricing model and r ecommended that ICE develop “an 
+oversight mechanism to ensure that field offices comply with guidance to p lace detainees, whenever 
+possible, in facilities with guaranteed minimums and tiered pricing [to]  provide ICE with better assurance 
+that it is cost-effectively managing detainee placement.”21   
+ICE officials pass this message from headquarters to the field offic e level. According to the same GAO report, 
+if “ICE ERO headquarters officials…notice that a particular area o f responsibility [field office] has open space 
+in facilities with guaranteed minimums, they can call the field office directo r to find out why the guaranteed 
+minimum is not being met.”22 
+ 
+Indeed, during the 2013 budget sequestration in which ICE released 2,226  immigrants23  from detention due 
+to budget cuts, ERO Assistant Director for Operations Support, Wi lliam C. Randolph, and then Acting 
+Assistant Director for Field Operations, Philip T. Miller, advised local o ffices in an email that “[t]he first 
+priorities for funding are the 11iii  [field offices] that have detention facilities with guaranteed minimum 
+beds.”24  In another email, Miller emphasized again that field offices should “[e]nsure  that all mandatory 
+minimum detention bed guarantees are being met and that any net cost benefits  of tiered pricing or low cost 
+beds are being realized.”25 
+Repeating this directive from headquarters, Washington Field Offic e Director Mary Evans wrote, “Ensure that 
+all mandatory minimum detention bed guarantees are being met and that any net cost  benefits of tiered 
+pricing or low costs beds are being realized. For our purposes that me ans that Farmville [Detention Center] 
+should stay at a population of 505 or above.”26  
+Because GEO Group has been the most successful company in getting guarant eed minimums incorporated 
+into their contracts, their facilities are often prioritized in ord er to fill local quotas. Denver’s then Field Office 
+Director John P. Longshore wrote an email in 2013 saying, “we must ensure we ar e maximizing GEO beds for 
+cost savings—I believe that our usage has improved again. We will be get ting emails and calls from HQ [ICE 
+headquarters] if they note we are not making good use of those cheaper be ds. They already call me enough 
+on stuff.”46  Longshore also mentions an interest in raising “GEO usage” to “the full contra ct amount of 
+525.”47 
+- 6 -  iii  11 field offices are listed in a January 2013 ICE spreadsheet, but DWN and  CCR’s FOIA request revealed that the New Orleans Field Office also has a 
+guaranteed minimum at the Jena/LaSalle Detention Facility. See footnote ii. - 7-A marked preference for GEO beds is also seen in the Miami field office whe re then Deputy Assistant Director 
+of Field Operations Jack Bennett wrote to the local field office that, “[ g]iven the fact that the beds beyond 
+your minimum at Broward are $6.24 each, please fill them up to your max. Field op s will make the necessary 
+adjustments to your ADP [average daily population].”48  Internal communications also indicate that GEO has 
+placed pressure on ICE field offices to increase bed usage. An employe e at the Northwest Detention Center 
+wrote in an email that, “our AFOD [Assistant Field Office Director] over  the [sic] NWDC has reported that the 
+Warden/Administrator of the NWDC has stated that ‘he wouldn’t be surprise d, if we go down to 500 
+detainees, that GEO might not give ICE 60 days notice’, [sic] meaning to cancel the contract.”49 
+The financial incentives and bureaucratic pressures associated wi th the local lockup quotas are particularly 
+worrying when combined with easily manipulated enforcement, detention and relea se practices. Through 
+mechanisms like these, financial considerations and private profit can aff ect government decisions to 
+deprive immigrants of liberty at a concrete, local level.
+Ultimately, ICE has significant control over the pipeline of immigrants entering  and leaving detention. ICE 
+controls the pace and aggressiveness of its enforcement operations, a nd the field offices that determine 
+when and how to conduct enforcement operations are the recipients of dire ct pressure to fill beds. Within 
+this system, a single guaranteed minimum risks influencing decisions in an entire f ield office jurisdiction.51   
+In addition to controlling the number of people coming into detention, ICE contro ls the release of individuals 
+from detention through the manipulation of bond and parole decisions. A rece nt example of ICE’s power to 
+keep people detained was their virtual “no bond” or “high bond” policy rela ting to asylum-seeking Central 
+American families, in which mothers and children who had passed an initial eligibi lity screening for the 
+asylum process—after which they would previously have been released—wer e instead detained for long 
+periods of time.52  Although this change in practice was driven by a desire to deter future a sylum-seekers 
+from migrating to the U.S., it demonstrates how vulnerable bond and parole de cisions are to manipulation in 
+order to ensure guaranteed bed minimums are met. 
+        Guaranteed Minimums by Private Contractor
+Private Contractor50Services Total Guaranteed Minimums
+Ahtna T echnical Services, Inc.
+(www.atsiak.com)
+Akal Security 
+(www.akalsecurity.com)Akima Global Services LLC
+(www.akimaglobal.com)
+Corrections Corporation of America
+(www.cca.com)Doyon Government Group 
+(www.doyongovgrp.com)
+The Geo Group, Inc.
+(www.geogroup.com)Facility operations and maintenace
+support, guard services
+Security Officer ServicesDetention ManagementPatrol and security guard services
+Owns and manages private prisons
+Owns and manages private prisonsAsset Protection & Security 
+Services LP
+Security Services
+800iv
+900850374
+1,935500
+4,063
+ iv 800 is the guaranteed minimum written into the most recent solicitation for  Port Isabel Detention Center (PIDC). See endnote 39. And 500 is 
+the guaranteed minimum written into Ahtna’s prior contract for PIDC. See endnot e 38.        Guaranteed Minimums by Facility
+Field Office Facility Name Private Company Involved Guaranteed Minimum*
+Buffalo Buffalo (Batavia) Service 
+Processing CenterAkal-Akima JV27 400
+Denver Denver (Aurora) Contract
+Detention FacilityThe GEO Group, Inc.28300
+El Paso El Paso Service Processing
+CenterDoyon-Akal JV29500
+Houston Houston Processing Center Corrections Corporation of America30750
+Los Angeles Adelanto Detention Facility The GEO Group, Inc.31 48832
+Miami Broward Transitional Center The GEO Group, Inc.33
+Krome North Services 
+Processing CenterMiami Akima Global Services LLC34500
+450
+Newark Elizabeth Detention Center Corrections Corporation of America 28566
+Phoenix Florence Service Processing
+CenterAsset Protection & Security
+Services LP35374
+San Antonio South T exas Detention 
+Complex (Pearsall)The GEO Group, Inc.3672537
+San Antonio Port Isabel (PIDC) Ahtna T echnical Services, Inc3880039
+San Antonio Karnes County Correction
+CentervThe GEO Group, Inc. 48040
+San DiegoSan Diego Contract 
+Detention Facility (Otay Mesa)41Corrections Corporation 
+of America90042
+Seattle Northwest Detention Center The GEO Group, Inc. 80043New Orleans Jena/LaSalle Detention
+ FacilityThe GEO Group, Inc.4477045
+- 8 -Service Processing Center Contract Detention Facility Intergovernmental Service
+Agreement (IGSA)
+  v Karnes was converted into a family detention facility on August 1, 2014. It i s still operated by the GEO Group, but it is unclear whether there is a 
+guaranteed minimum. We currently have no direct evidence of a family quota. * Italicized numbers are from solicitations- 9 -Stealth Contracting
+The outsourcing of detention promotes a lack of transparency regarding c ontracts and relationships between 
+localities and the federal government. While ICE publishes select IGSA contrac ts on its website, agreements 
+for detention space and detention-related services with private cont ractors are considerably more obscure 
+—whether ICE contracts with the company directly, or the company is sub-c ontracted by a local government. 
+In response to FOIA requests, ICE redacts crucial details, including pric ing information, of contracts or 
+sub-contracts with private companies by claiming the information is exe mpt from disclosure because it may 
+constitute “trade secrets and commercial or financial information obt ained from a person and privileged or 
+confidential.”53  The Freedom of Information Act further permits ICE to engage in a lengthy proc ess to seek 
+permission from the companies themselves to release such information to the  public.54  Thus, even when ICE 
+has released detention facility contracts, information regarding guara nteed minimums is almost always 
+redacted. 
+The absence of transparency about what exactly is promised and gained in de tention facility contracts is 
+further obscured by the way in which these contracts are quietly renewed, o ften on an annual schedule, 
+sometimes with higher negotiated guaranteed minimums. For example, the Hous ton Processing Center’s 
+guaranteed minimum increased from 37555  to 75056  between 2003 and 2008, and at Port Isabel Detention 
+Center, the guaranteed minimum increased from 50057  to 80058  between 2008 and 2014. Krome 
+Detention Center’s guaranteed minimum also saw an increase from 250 to 450 b etween 2008 and 2014.59  
+For each of these, there is no publicly available information as to why such dra matic increases were 
+necessary.
+Guaranteed minimums are far from the only source of pressure at the local level. W hen ICE has been forced 
+by budget cuts to detain fewer immigrants, state and county jails have exer ted political pressure to combat 
+the decreases and push for a return to capacity. 
+Like private contractors, local and state government actors also exer t pressure to fill local beds in order to 
+access federal funds. In anticipation of budget cuts due to the seques tration of funding in early 2013, ICE 
+attempted to lower the number of individuals held in immigration detentio n facilities. ERO headquarters 
+warned the field offices to expect questions or pushback from local “c ontract partners.” The New York field 
+office anticipated hearing from concerned wardens,60  while the Atlanta Assistant Field Office Director wrote 
+in an email that “[i]f the management of NGDC [North Georgia Detention Center], ACDC  [Atlanta Contract 
+Detention Center], or ICDC [Irwin Contract Detention Center] wish to voice the ir population concerns (or any 
+other concerns), you are welcome to refer them to me.”61  
+Representatives from Chicago and Sacramento jails sent emails to their r espective field offices in 2013 
+inquiring as to when detention numbers would increase again.62  And an individual from the Frederick County 
+Jail in Maryland requested that the period of performance on its contra ct be extended “as far as the 
+remaining funding will go[.]”63  A captain from Boone County Jail in Illinois wrote in a February 2013 email 
+that, “[t]he jailer and I were just curious if you knew anymore [sic] than we di d about this situation and if we 
+should look at trying to refill these beds with state inmates or if there is an y hope that our numbers will 
+increase.”  
+Beyond the pressure to fill beds, some extremely sub-par facilities have  also stayed open to retain jobs in 
+counties that are dependent on federal contracts to pad low and often dwi ndling budgets. Etowah County 
+Detention Center, which has been singled out as one of the worst detention cent ers in the country for its 
+abysmal conditions64  was slated to close in 2010. Local Dependence on Detention Dollars- 10 -Representative Robert Aderholt (R-AL) 
+and other members of Congress from 
+Alabama immediately acted to 
+countermand ICE’s plan to close the 
+facility because of the potential loss of 
+jobs in the county. Senator Richard 
+Shelby (R-AL), who sits on the DHS 
+Appropriations Committee, threatened 
+ICE’s funding if it moved forward with 
+terminating Etowah’s contract, after 
+which ICE rescinded its decision and 
+cancelled plans to close the facility.65  
+Despite ICE’s efforts to end the contract 
+due to the facility’s remote location and 
+lack of immigrants’ access to counsel, 
+Etowah continues to detain immigrants 
+today.
+Recommendations
+There is a growing consensus that the mass detention of immigrants is unneces sary and inhumane. The 
+U.S. government should move towards ending the use of immigration detention a ltogether. Unfortunately, 
+corporate interests and the absence of job growth have converted the d etention of human beings into a 
+market-based activity. However, detention capacity and infrastruct ure must not be a determining factor in 
+immigration enforcement and deportation policy. As immediate next steps, t his report calls on:
+ICE to remove guaranteed minimums, tiered pricing or any oth er provisions that could 
+function as a local lockup quota, from all detention contra cts. 
+ICE to make all information pertaining to detention contrac ts and the bidding process 
+publicly accessible and transparent. 
+ICE to stop contracting with private companies that lobb y to pervert public policy via 
+guaranteed minimums and other contractual giveaways.
+ICE to bar (1) the transfer of individuals between detent ion facilities; (2) the manipulation of 
+bond or parole determinations; and (3) the initiation of enf orcement actions based in whole 
+or in part on empty detention beds, unmet guaranteed min imums, or tiered pricing. 
+Congress to remove the national detention bed quota fro m the FY 2016 DHS Appropriations 
+bill.
+Etowah County Detention Center in Gadsden, Alabama- 11 -By requiring ICE to fill a certain number of detention beds on a daily basis at  specific facilities, the U.S. 
+government is allowing private interests a hand in setting policy on immigra tion enforcement and 
+detention, while at the same time padding their bottom line. As long as the guara nteed minimums are in 
+place, especially if they are reinforced by a national detention bed quota, the  profits and the business 
+model of these facilities are protected from the potential effects of  immigration reform legislation, any 
+expansion of prosecutorial discretion, or other administrative act ions. 
+Even more disconcerting is the way in which local lockup quotas and the nationa l immigration detention 
+quota may influence ICE’s decision-making. More research is needed to determi ne the extent to which 
+these quotas have prompted ICE to more vigorously collaborate with loca l law enforcement solely for the 
+purpose of finding additional people to detain, as well as how decisions a bout transfers between facilities 
+are made and whether or not meaningful access to bond and parole are affec ted at facilities with 
+guaranteed minimums.
+The private sector should not be rewarded for placing a price tag on the  deprivation of liberty, and the 
+government should be held accountable for being a willful participant in this c orrupted system. The practice 
+of immigration detention, once rarely used, has become a rigid part of the U nited States’ immigration and 
+budget policy. Before any real immigration reform can be realized, the nat ional and local lockup quotas 
+have to be addressed. As a first step towards the ultimate closure of  all detention facilities, ICE should end 
+the use of guaranteed minimums and tiered pricing, and Congress should elimina te the national detention 
+bed quota. Conclusion- 12 -APPENDIX: Contracts’ Periods of Performance
+Facility Name Private Contractor Guaranteed Minimum Periods of Performance*
+Buffalo (Batavia) Service
+Processing CenterAkal-Akima JV 2/1/2015-1/31/2016, option
+to extend annually until 2025400
+Denver Contract
+Detention FacilityThe GEO Group, Inc. 9/1/2011-8/31/2013, option
+to extend every 2 years until 2021300
+El Paso Service Processing
+CenterDoyon-Akal JV 9/1/2008-6/30-2009, option to 
+extend annually until 2013500
+Houston Contract Detention
+FacilityCorrections Corporation
+of America4/1/2009-2/28/2010, option to
+extend annually until 2014750
+Adelanto Detention Facility The GEO Group, Inc. 6/1/2011-5/31/2016 488
+Broward Transitional Center The GEO Group, Inc. 4/1/2009-2/28/2010, option to
+extend annually until 2014500
+Krome North Services
+Processing CenterAkima Global Services
+LLC2014-2015, option to extend 
+annually for the next 10 years450
+Florence Services
+Processing CenterAsset Protection &
+Security Services LP2009-2010, option to extend 
+annually for the next 4 years374
+South T exas Detention
+Complex (Pearsall)The GEO Group, Inc. 12/1/2012-11/30/2013, option to
+extend annually until 2016725
+Port Isabel (PIDC) Ahtna T echnical 
+Services, Inc.11/1/2014-8/31/2015, option to
+extend annually until 2022800
+Karnes County
+Correctional CenterThe GEO Group, Inc. 12/07/2010-12/6/2015 480
+San Diego Contract
+Detention Facility (Otay Mesa)Corrections Corporation
+of America7/1/2005-6/30/2008, with option
+to extend every 3 years900
+Northwest Detention 
+CenterThe GEO Group, Inc. 4/1/2015-3/31/2016,
+option to extend800
+Jena/LaSalle Detention
+FacilityThe GEO Group, Inc. 10/01/2008-9/30/2009, option to
+extend every year until 2014770
+*Italicized information was taken from solicitations
+- 12  -1. Transactional Records Access Clearinghouse, “Growth in Number Detaine d,” Syracuse University, Feb. 11, 2010. Available at 
+http://trac.syr.edu/immigration/reports/224/include/1.html; Departme nt of Homeland Security Annual Report, Immigration 
+Enforcement Actions : 2012 (December 2013). Available at 
+https://www.dhs.gov/sites/default/files/publications/ois_enfor cement_ar_2012_1.pdf 
+2. In 2003, the funded bed space was 19,444. See Department of Homeland Securi ty, Office of Inspector General, Detention and 
+Removal of Illegal Aliens , pg. 17 (April 2006). Available at https://www.oig.dhs.gov/assets/Mgmt /OIG_06-33_Apr06.pdf 
+3. Carson, Bethany, and Eleana Diaz. Grassroots Leadership. Payoff: How Congress Ensures Private Prison Profit with an Immig rant 
+Detention Quota , pg. 3 (April 2015). Available at 
+http://grassrootsleadership.org/sites/default/files/repor ts/quota_report_final_digital.pdf 
+4. Department of Homeland Security. “Congressional Budget Justificati on FY 2016.” Available at 
+http://www.dhs.gov/sites/default/files/publications/DHS_FY2016 _Congressional_Budget_Justification_15_0325.pdf 
+5. Center for Constitutional Rights, Detention Watch Network v. Immigration and Customs Enforcement  (November 2013). Available at 
+http://ccrjustice.org/bed-quota-foia  
+6. Federal Business Opportunities website. Available at https://www .fbo.gov/?s=main&mode=list&tab=list
+7. NIJC v. DHS . No. 12-cv-05358 (2012). Available at http://foiaproject.org/dc_view /?id=396216-iln-1-2012cv05358-complaint 
+8. Public Law 108-458, Sec. 5204(a) (Dec. 17, 2004).
+9. DWN v. ICE , No. 14-cv-583 LGS (2013), Bates No. DHS-001-0002416-17. Available at 
+http://ccrjustice.org/sites/default/files/attach/2015/06/DW N%20v%20ICE%20FOIA%20-%20DHS%202416-17.pdf
+10. During his tenure as the head of a committee with power over DHS’s budget , Chairman Rogers was found to have funneled large 
+amounts of money to benefit businesses within his home state of Kentucky. In re turn, Rogers was lavished with expensive vacations 
+and political donations. Rogers is now Chairman of the House Appropriati ons Committee. See Lipton, Eric. “In Kentucky Hills, a 
+Homeland Security Bonanza.” The New York Times  (May 14, 2006); see also  U.S. congressman Hal Rogers website. Available at 
+http://halrogers.house.gov/ 
+11. The quota was first introduced in 2009 by then Senator and Chairman of A ppropriations Subcommittee on Homeland Security 
+Robert Byrd (D-WV).  See National Immigrant Justice Center, Detention bed quota timeline  (March 20, 2014). Available at 
+http://www.immigrantjustice.org/eliminate-detention-bed-quota#.VVuru flViko; see also  Department of Homeland Security 
+Appropriations Act of 2015 (March 4, 2015). Government Printing Office . Available at 
+https://www.congress.gov/114/plaws/publ4/PLAW-114publ4.pdf  
+12. Budget Hearing on Immigration and Customs Enforcement (April 15, 2015). A vailable at 
+http://appropriations.house.gov/calendar/eventsingle.aspx?EventID= 394119
+13. The appropriations bill language speaks only to the funding of 34,000 bed s. Further, under Article II of the Constitution, the 
+executive branch is given “significant prosecutorial discretion no t to take enforcement action against violators of a federal law.” See In 
+re Aiken Cnty ., 725 F.3d 255, 262-63 (D.C. Cir. 2013). For this reason, Congress “may not mandate  that the President prosecute a 
+certain type of offense or offender,” and therefore cannot require that  the executive branch hold a certain number of people in 
+immigration detention. 
+14. Department of Homeland Security, Office of Inspector General, ICE’s Release of Immigration Detainees , pg. 10 (August 2014). 
+Available at https://www.oig.dhs.gov/assets/Mgmt/2014/OIG_14-116_Au g14.pdf 
+15. DWN v. ICE,  No. 14-cv-583 LGS (2013), Bates No. ICE 2014FOIA03585.000859-61 (refe rencing the reporter’s conversation with 
+then-Director of ICE, John Sandweg). Available at 
+http://ccrjustice.org/sites/default/files/attach/2015/06/DW N%20v%20ICE%20FOIA%20-%20ICE%20859-61.pdf  
+ 
+16. Morgenthau, Robert, “Immigrants jailed just to hit a number.”  NY Daily News  (January 19, 2014).
+17. Coyle, Andrew, et al. Capital Punishment: Prison Privatization & Human Rights.  Atlanta: Clarity Press, 2008. 
+18. Pens, Dan. “Prison Realty/CCA Verges on Bankruptcy.” Prison Legal News  (July 15, 2000). Available at 
+https://www.prisonlegalnews.org/news/2000/jul/15/prison-realtycca -verges-on-bankruptcy/ 
+19. NIJC v. DHS , No. 12-cv-05358 (2012), ICE Bates No. ICE 2012FOIA03030.0029996. Toda y, it has a guaranteed minimum of 750. ENDNOTES
+- 13 -- 14 -20. Government Accountability Office. Immigration Detention: Additional Actions Needed to Strengthen Man agement and Oversight of 
+Facility Costs and Standards , pg. 18 (October 2014). 
+21. Id. at 21.
+22. Id. at 19.
+23. Department of Homeland Security, Office of Inspector General, ICE’s Release of Immigration Detainees, pg. 12 (August 2014). 
+Available at https://www.oig.dhs.gov/assets/Mgmt/2014/OIG_14-116_Au g14.pdf 
+24. DWN v. ICE,  No. 14-cv-583 LGS (2013), Bates No. ICE 2014FOIA03585.0006819. Availab le at 
+http://ccrjustice.org/sites/default/files/attach/2015/06/DW N%20v%20ICE%20FOIA%20-%20ICE%206819.pdf
+25. DWN v. ICE, No. 14-cv-583 LGS (2013), Bates No. ICE 2014FOIA03585.000120 7. Available at 
+http://ccrjustice.org/sites/default/files/attach/2015/06/DW N%20v%20ICE%20FOIA%20-%20ICE%201207.pdf
+26. DWN v. ICE, No. 14-cv-583 LGS (2013), Bates No. ICE 2014FOIA03585.000786 5. Available at 
+http://ccrjustice.org/sites/default/files/attach/2015/06/DW N%20v%20ICE%20FOIA%20-%20ICE%207865.pdf
+27. Buffalo Federal Detention Facility Solicitation No. HSCEDM-14-R-00005  for detention, transportation, and food services (August 19, 
+2014). Available at
+https://www.fbo.gov/?s=opportunity&mode=form&id=f098075ff49 9050bd11957deb7cb69d6&tab=core&_cview=1; Akal Security 
+and Akima Global Services Joint Venture announcement on taking over operations  at the Buffalo facility on February 1, 2015. Available 
+at http://detentionofficerjobs.com/
+28. Contract No. HSCEDM-11-D-00003 for a DHS/ICE contractor owned contrac tor operated detention facility in Denver Metro 
+(September 15, 2011), citing to the original solicitation. Available at 
+https://www.fbo.gov/index?s=opportunity&mode=form&tab=core& id=3edf8804c9ebbb17957bcbf04ce2f321&_cview=0; DWN v. ICE, 
+No. 14-cv-583 LGS (2013), Bates No. ICE 2014FOIA03585.005256. Available  at 
+http://ccrjustice.org/sites/default/files/attach/2015/06/DW N%20v%20ICE%20FOIA%20-%20ICE%205256.pdf
+29. El Paso Service Processing Center Contract No. HSCEDM-09-D-00004 fo r detention services (February 25, 2009), citing to the 
+original solicitation. Available at 
+https://www.fbo.gov/?s=opportunity&mode=form&id=7ad34147f6e 1934336ce7dececa0cc5b&tab=core&_cview=1; Contract was 
+extended to March 8, 2015. Available at http://www.doyongovgrp.com/se curity/security-contracts-vehicles/ and 
+http://government-contracts.findthebest.com/l/2559287/Doyon-Akal-J v-Ii-U-S-Immigration-and-Customs-Enforcement-HSCEDM09D00
+004 
+30. Contract No. HSCEDM-09-D-00007 for detention services in Houston, Tex as (April 30, 2009), citing to the original solicitation. 
+Available at https://www.fbo.gov/index?s=opportunity&mode=form&i d=4fb212a693f78c357f02d32cf3acb323&tab=core&_cview= 1
+31. DWN v. ICE , No. 14-cv-583 LGS (2013), Bates No. ICE 2014FOIA03585.003826-004010. A vailable at 
+http://ccrjustice.org/sites/default/files/attach/2015/06/DW N%20v%20ICE%20FOIA%20-%20ICE%203826-4010.pdf
+32. NIJC v. DHS,  No. 12-cv-05358 (2012), Bates No. ICE2012FOIA3030Adelanto.000004, 00 0070
+33. Solicitation No. HSCEDM-09-R-00005 for a contract detention facilit y in the Miami area (January 28, 2009). Available at 
+https://www.fbo.gov/?s=opportunity&mode=form&id=da740c04109 0f54247b2055e7dfbe71c&tab=core&_cview=0; Contract No. 
+HSCEDM-09-D-00006 for a four-month extension (August 28, 2014). Available  at 
+https://www.fbo.gov/index?s=opportunity&mode=form&id=9f2b96 fae5bba23fca82dc824e94283d&tab=core&_cview=0; DWN v. ICE, 
+No. 14-cv-583 LGS (2013), ICE Bates No. 2596, 2761  
+34. Krome Service Processing Center Contract No. HSCEDM-13-R-00001 fo r detention management, transportation and food services 
+(April 11, 2014), citing to the original solicitation. Available at 
+https://www.fbo.gov/?s=opportunity&mode=form&id=406cf615481 70f006941dfc6580e0858&tab=core&_cview=1; Akima Global 
+Services LLC announcement of winning the 10-year contract for full detentio n services at Krome. Available at 
+http://www.akimaglobal.com/2014/05/13/dhs-awards-akima-global-service s-contract-to-support-krome-detention-center/; Krome’s 
+contract used to be with Doyon-Akal JV and the guaranteed minimum was 250. A vailable at 
+http://www.ice.gov/doclib/foia/contracts/hscedm-08-d-00003-doyo nakaljv.pdf
+35. Contract No. HSCEDM-09-D-00003 for detention services (May 29, 2009) , citing to the original solicitation. Available at
+https://www.fbo.gov/?s=opportunity&mode=form&id=c474c1c4907 c2370e509da47a69bdb60&tab=core&_cview=1
+36 DWN v. ICE , No. 14-cv-583 LGS (2013), Bates No. ICE 2014FOIA03585.001987-002228. A vailable at 
+http://ccrjustice.org/sites/default/files/attach/2015/06/DW N%20v%20ICE%20FOIA%20-%20ICE%201987-2228.pdf- 15 -37. South Texas Detention Center Contract No. ACD-4-C-0001 for guard serv ices with The GEO Group (June 19, 2008). Available at 
+http://www.ice.gov/doclib/foia/contracts/geogrouphscedm09f0 0001.pdf
+38. Port Isabel Detention Center Contract No. HSCEDM-08-D-00002 for operat ion of the detention processing facility (February 28, 
+2008). Available at http://www.ice.gov/doclib/foia/contracts/hsc edm-08-d-00002-ahtnatechnicalservicesinc.pdf; PIDC special notice 
+for an interim contract award not to exceed 12 months. Available at 
+https://www.fbo.gov/index?s=opportunity&mode=form&id=e40f1e a201d3434f08504907f6230856&tab=core&_cview=0
+39. Solicitation No. HSCEDM-14-R-00003 for detention guard, food and loca l transportation services (January 24, 2014). Available at 
+https://www.fbo.gov/?s=opportunity&mode=form&id=2c0a16fd909 49bfb227cbb065b86638f&tab=core&_cview=1  
+40. DWN v. ICE , No. 14-cv-583 LGS (2013), Bates No. ICE 2014FOIA03585.003226-003459 ( guaranteed minimum listed on 003332, 
+003225). Available at 
+http://ccrjustice.org/sites/default/files/attach/2015/06/DW N%20v%20ICE%20FOIA%20-%20ICE%203226-3459.pdf
+41.  San Diego Otay Mesa Contract No. ODT-5-C-0003 for comprehensive secu re detention services (July 1, 2005). Available at 
+http://www.justice.gov/archive/ofdt/otay-mesa-contract.pdf; CCA i s building a new facility with greater detention capacity to replace San 
+Diego. Available at https://www.cca.com/insidecca/a-new-facility-is-und erway; Another facility in the area, El Centro SPC (closed down in 
+2014), was managed by Asset Protection & Security Services LLP and had  a guaranteed minimum of 225 beds. Contract No. 
+HSCEDM-09-D-00001 for detention services (May 22, 2009), citing to the or iginal solicitation. Available at  
+https://www.fbo.gov/?s=opportunity&mode=form&tab=core&id=ba b95d17227113f8db7e219f9df5fc06&_cview=0
+42. 900 from ICE and 300 from USMS. See endnote 41.
+43. Solicitation No. HSCEDM-15-R-00001 for a contractor owned and contra ctor operated detention facility (November 20, 2014). 
+Available at https://www.fbo.gov/index?s=opportunity&mode=form&t ab=core&id=5070ee30860d8093cb1f7abe0aa9f741&_cview=0 ; 
+The guaranteed minimum was increased from 750. See Henterly, Lael. The Seattle Globalist . “Fewer Immigrants filling Tacoma detention 
+center, as doubts grow about new contract.” (April 2, 2015). Available a t 
+http://seattleglobalist.com/2015/04/02/tacoma-detention-center-i mmigrant-ice-contract/35475; In 2009, the guaranteed minimum 
+was 1181. See Krell, Alexis. The News Tribune . “GEO expected to get new contract to run Tacoma immigrant detention cente r.” (March 
+30, 2015). Available at http://www.thenewstribune.com/2015/03/30/37 17088_geo-expected-to-get-new-contract.html?rh=1
+44. The Geo Group operates this facility. Available at http://www.geogro up.com/Maps/LocationDetails/7
+45. DWN v. ICE , No. 14-cv-583 LGS (2013), Bates No. ICE 2014FOIA03585.001228-001789 ( minimum stated on ICE Bates No. 
+001318, 001454, 001578, 001587). Available at 
+http://ccrjustice.org/sites/default/files/attach/2015/06/DW N%20v%20ICE%20FOIA%20-%20ICE%201228-1789.pdf
+46. DWN v. ICE , No. 14-cv-583 LGS (2013), Bates No. ICE 2014FOIA03585.0006631-32. Avai lable at 
+http://ccrjustice.org/sites/default/files/attach/2015/06/DW N%20v%20ICE%20FOIA%20-%20ICE%206631-32.pdf
+47. DWN v. ICE, No. 14-cv-583 LGS (2013), Bates No. ICE 2014FOIA03585.0008673. Availab le at 
+http://ccrjustice.org/sites/default/files/attach/2015/06/DW N%20v%20ICE%20FOIA%20-%20ICE%208672.pdf
+48. DWN v. ICE , No. 14-cv-583 LGS (2013), Bates No. ICE 2014FOIA03585.006765. Available  at 
+http://ccrjustice.org/sites/default/files/attach/2015/06/DW N%20v%20ICE%20FOIA%20-%20ICE%206765.pdf
+49. DWN v. ICE , No. 14-cv-583 LGS (2013), Bates No. ICE 2014FOIA03585.007807. Available  at 
+http://ccrjustice.org/sites/default/files/attach/2015/06/DW N%20v%20ICE%20FOIA%20-%20ICE%207807-09.pdf
+50. In a 2013 email exchange, an ICE official provided a list of private comp anies that ICE contracted with to Bloomberg  reporter 
+Kathleen Miller. The private contractors included: GEO, CCA, AHTNA, M&TC, Doyo n-AKAL, CEC, LCS, ICA, Emerald, Paladin, and MVM.  See 
+DWN v. ICE,  No. 14-cv-583 LGS (2013), Bates No. ICE 2014FOIA03585.001045-50. Availa ble at 
+http://ccrjustice.org/sites/default/files/attach/2015/06/DW N%20v%20ICE%20FOIA%20-%20ICE%201045-1050.pdf
+51. As a potential consequence, immigration enforcement in regions with guar anteed minimums may be affected by the requirement to 
+fill a local bed quota. For example, the San Diego Field Office has two detent ion facilities, but only the Otay Mesa Detention Center has a 
+guaranteed minimum. Enforcement actions anywhere in the jurisdiction of that  Field Office could be wholly, or in part, motivated by the 
+need to meet Otay Mesa’s guaranteed minimum. 
+52. This case is currently being litigated and addresses the use of a det errence justification at an initial screening in order to keep 
+Central American asylum-seeking families detained. RILR v. Johnson , No. 15-cv-11 JEB (2015). Available at 
+https://www.aclu.org/sites/default/files/field_document/order_ 0.pdf - 16 -53. 5 U.S.C. §552(b)(4).
+54. 6 C.F.R. §5.8.
+55. NIJC v. DHS , No. 12-cv-05358 (2012), Bates No. ICE 2014FOIA03585.00029996.
+56. Solicitation No. HSCEDM-09-R-00002 (December 9, 2008) for detention s ervices. Available at 
+https://www.fbo.gov/index?s=opportunity&mode=form&id=4fb212 a693f78c357f02d32cf3acb323&tab=core&_cview=1
+57. Contract No. HSCEDM-08-D-00002. Available at 
+http://www.ice.gov/doclib/foia/contracts/hscedm-08-d-00002-ahtnat echnicalservicesinc.pdf  
+58. Solicitation No. HSCEDM-14-R-00003 (January 24, 2014) for detention g uard, food and local transportation services. Available at 
+https://www.fbo.gov/?s=opportunity&mode=form&id=2c0a16fd909 49bfb227cbb065b86638f&tab=core&_cview=1  
+59. Contract No. HSCEDM-08-J-00087. Available at http://www.ice.gov/doc lib/foia/contracts/hscedm-08-d-00003-doyonakaljv.pdf
+60. DWN v. ICE , No. 14-cv-583 LGS (2013), Bates No. ICE 2014FOIA03585.0000228. Availab le at 
+http://ccrjustice.org/sites/default/files/attach/2015/06/DW N%20v%20ICE%20FOIA%20-%20ICE%20228.pdf
+61. DWN v. ICE , No. 14-cv-583 LGS (2013), Bates No. ICE 2014FOIA03585.0000086. Availab le at 
+http://ccrjustice.org/sites/default/files/attach/2015/06/DW N%20v%20ICE%20FOIA%20-%20ICE%20086.pdf
+62. DWN v. ICE , No. 14-cv-583 LGS (2013), Bates Nos. ICE 2014FOIA03585.0001211, 6595. A vailable at 
+http://ccrjustice.org/sites/default/files/attach/2015/06/DW N%20v%20ICE%20FOIA%20-%20ICE%201211.pdf; 
+http://ccrjustice.org/sites/default/files/attach/2015/06/DW N%20v%20ICE%20FOIA%20-%20ICE%206594-95.pdf
+63. DWN v. ICE,  No. 14-cv-583 LGS (2013), Bates No. ICE 2014FOIA03585.0011542. Availab le at 
+http://ccrjustice.org/sites/default/files/attach/2015/06/DW N%20v%20ICE%20FOIA%20-%20ICE%2011542.pdf
+64. Expose & Close. Detention Watch Network. Etowah County Jail Alabama . Available at 
+http://www.detentionwatchnetwork.org/sites/detentionwatchnetw ork.org/files/expose-etowahnov12.pdf   
+65. Seville, Lisa Riordan and Hannah Rappleye. “When feds sought to shutter immi gration jail, politics intervened.” NBC News (August 
+22, 2012) Available at: 
+http://investigations.nbcnews.com/_news/2012/08/22/13398156-whe n-feds-sought-to-shutter-immigration-jail-politics-intervened
+66. NIJC v. DHS , No. 12-cv-05358 (2012), Bates No. ICE 2012FOIA03030.0029953

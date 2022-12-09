@@ -1,0 +1,1063 @@
+1
+The Death Lottery:
+How Race and Geography 
+Determine Who Goes to
+Ohio’s Death Row
+OHIOANS TO
+   STOP EXECUTIONS1 Introduction
+In 1998, the General Assembly enacted section 109.97 of the Ohio Revised Code to “require the 
+Attorney General to annually prepare and file with specified individuals a capital case status report.”1   
+The Annual Capital Crimes Report is a valuable source of information. It contains vast amounts of 
+quantitative data and pertinent sections of the Ohio Revised Code that provide the reader with 
+information about the history, use, and legal provisions related to Ohio’s death penalty; however, 
+the Atorrney General’s report lacks a fuller, qualitative look at the people and cases upon which the 
+report is built. Accordingly, Ohioans to Stop Executions (OTSE) offers this report to provide context 
+and detail to complement the numbers and statutes provided in the Annual Capital Crimes Report.
+Perspectives presented here are those of Ohioans to Stop Executions unless otherwise explicitly 
+stated. All research done in this report has been performed and compiled by OTSE. This report was 
+developed using information available from the following sources: Office of the Attorney General, 
+the Ohio Supreme Court, the Ohio Supreme Court Joint Task Force to Review the Administration 
+of the Death Penalty, the Ohio Department of Rehabilitation and Correction, the Office of the Ohio 
+Public Defender, the Office of the Federal Public Defender, Southern Division, and the Office of the 
+Federal Public Defender, Northern Division. 
+ Executive Summary
+The title of this new report from Ohioans to Stop Executions, “The Death Lottery: How Race and 
+Geography Determine Who Goes to Death Row,” says it all. The numbers speak for themselves. 
+While Ohio’s overall use of the death penalty is slowing, it has become more apparent than ever 
+before that the race of the victim and location of the crime are the most accurate predictors of death 
+sentences in the Buckeye State.
+When looking at all capitally-indicted murders across Ohio over the history of the current statute, 
+40% of capital indictments come out of Cuyahoga County. Two-thirds of all Ohio murder victims are 
+people of color, yet in 2013 three out of four new death sentences were for the murder of White 
+people. Since executions resumed in Ohio nearly 77% have been for the murder of White people. 
+These statistics belie the words carved into the face of the U.S. Supreme Court building: “Equal 
+Justice Under Law.” 
+Even as the numbers demonstrate drastic disparities in its use, the data available from the Ohio 
+Supreme Court, the Ohio Attorney General, the Office of the Ohio Public Defender and others 
+demonstrates convincingly that Ohio’s use of the death penalty is in decline.
+Ohio prosecutors filed the fewest number of capital indictments in 2013 since the death penalty was 
+reinstated in 1981.2 According to the Ohio Supreme Court Clerk’s Office, 21 death penalty cases 
+were filed in 2013, down 28% from 2012 and down 63% from 2011.
+Four new death sentences were issued in 2013.3 This decrease continues a steady decline in death 
+sentences since Life Without Parole first became a sentencing option in Ohio in 1996.2 Capital Indictments in 2013
+Capital indictments in Ohio continue to decline significantly. When the death penalty returned in 
+1981, capital indictments soared to 1,288 over the subsequent ten years. However, indictments have 
+declined 53.6% since that initial surge. 
+In 2013, capital indictments hit an all-time low since the death penalty’s reintroduction. Twenty-one 
+new indictments were filed, indicating a 28% decline from 2012 and a 63% decline from 2011.Even though 320 death sentences have been assigned in Ohio, a significant number of those cases 
+never conclude in the execution chamber. Six men were scheduled for execution in 2013, but only 
+three executions took place.4 One condemned inmate received a sentence commutation (from 
+Death to Life Without Parole);5 another received a seven-month reprieve;6 and one condemned 
+inmate committed suicide days before his scheduled execution.7
+The decline in death penalty cases cannot be explained by a single factor. This decline may be 
+attributed to factors ranging from available county resources and the exorbitant cost and duration 
+of capital cases to the changing attitudes of Ohioans toward the death penalty and three decades 
+of experience administering the ultimate punishment. No matter the reasons for the decline, there 
+is growing consensus by death penalty experts that Ohio’s death penalty is in need of significant 
+reforms.  
+In October 2013, Ohio changed its execution protocol for the sixth time in four years. The new 
+procedure includes a lethal dose of Pentobarbital acquired from a manufacturer, distributor or 
+compounding pharmacy. These frequent changes by the State are a clear indication of two things: 
+one, Ohio Department of Rehabilitation and Correction personnel have difficulty adhering to written 
+protocol and procedures; and second, obtaining drugs to execute prisoners presents an ongoing 
+problem for which there is no permanent solution in sight.   
+The Supreme Court of Ohio and the Ohio Bar Association concluded a two-year review of the death 
+penalty system in November 2013. The outcome of this joint project is soon expected to produce a 
+report outlining needed recommendations to address Ohio’s long-standing deficiencies. This report 
+will likely confirm what the American Bar Association found in a 2007 assessment: Ohio fails to meet 
+93% of the guidelines to ensure fairness and accuracy in its death penalty system.
+As a result of Ohio’s inability to administer the death penalty fairly and without error, a growing 
+consensus of prominent Ohioans has concluded Ohio is no longer well-served by the death penalty. 
+Noteworthy individuals expressing concern include Ohio Supreme Court Justice William O’Neill, 
+retired Justice Evelyn Lundberg Stratton and current Lucas County Prosecutor Julia Bates.
+Time will tell whether Ohio leaders are willing to address issues of fairness and accuracy raised by 
+the American Bar Association and confirmed by the Joint Task Force to Review the Administration of 
+Ohio’s Death Penalty. 
+Ohio Supreme Court Justice Paul Pfeifer, author of Ohio’s current death penalty statute, now calls 
+the death penalty in Ohio “The Death Lottery,” and urges its repeal. This report is intended to give 
+Ohioans additional perspective as our state continues to tinker with the machinery of death.3Each of Ohio’s 88 elected county 
+prosecutors is given the authority to 
+make charging decisions in criminal 
+cases. With regard to the use of capital 
+punishment, each county prosecutor has 
+sole discretion whether or not to seek 
+the death penalty in a case that would 
+be death-eligible. That is, if a murder is 
+committed and contains one or more 
+of the aggravating factors enumerated 
+in Ohio Revised Code 2929.04, the 
+county prosecutor has the discretion to 
+seek a capital indictment or to seek a 
+noncapital indictment. If an indictment 
+does not include a death penalty 
+specification, then the death penalty will 
+not be available for that case – even if 
+aggravating factors were present. For 
+instance, in a robbery-murder situation, 
+one prosecutor could charge a defendant 
+with aggravated robbery and involuntary 
+manslaughter, which could lead to a 
+maximum sentence of seven to twenty-five years on the victim’s death; while another prosecutor on 
+the same facts could charge aggravated robbery and simple murder which could lead to a maximum 
+sentence of 15 years to life on the victim’s death; yet another prosecutor in another county could 
+charge on the same facts aggravated murder with an aggravating circumstance (a felony-murder 
+specification), that could lead to a death sentence. As a result of this unfettered prosecutorial 
+discretion, crimes with similar circumstances may be charged differently from one county to another 
+and even from one case to another within the same county.
+OTSE draws attention to those counties which most frequently employ the death penalty system in 
+criminal cases. Historically, those counties are Cuyahoga (1254 indictments), Franklin (497), Hamilton 
+(176), Lucas (131), Summit (109), Mahoning (102), Stark (78), Trumbull (58), Clark (56) and Butler (50).8
+Cuyahoga County had fewer capital indictments in 2013 (4) than in any year during the modern 
+death penalty (1981-present). In 1983, Cuyahoga County filed 82 capital indictments. Thirty years 
+later, the county filed four. Even within one county, the 
+subjectivity of varying prosecutors demonstrates a vast 
+discrepancy in the number of capital indictments from 
+year to year. Cuyahoga County is an example of the 
+difference a new prosecutor can make in the number 
+of capital indictments. Data from the county, which 
+historically contributed the overwhelming majority of 
+new capital indictments, shows the death penalty is 
+sought much less often under the current prosecutor. The 
+past three years further demonstrate a dramatic decline 
+in indictments, with 23 in 2011, 11 in 2012 and only four 
+in 2013.Capital Indictments in Ohio9
+Capital Indictments Since 1981, By County
+CountyNumber of 
+indictments 
+since 1981Contributed x% 
+of total capital 
+indictments since 
+1981
+Cuyahoga 1254 39.6%
+Frankllin 497 15.68%
+Hamilton 176 5.56%
+Lucas 131 4.13%
+Summit 109 3.36%
+Mahoning 102 3.22%
+Stark 78 2.46%
+Trumbull 58 1.83%
+Clark 56 1.77%
+Butler 50 1.58%
+Remaining 78 
+Counties657 20.73%
+Total 
+Indictments3168 100.00%4Current Cuyahoga County prosecutor Timothy McGinty 
+publicly stated he would take a different approach to using the 
+death penalty than his predecessors.
+Prosecutor McGinty told the Cleveland Plain Dealer  in May 
+2013, “I don’t want to waste the victim’s time, the police time, 
+the court time, the prosecutor’s time and all those resources 
+chasing down a case that won’t win that won’t uphold…I want 
+to get the right case that deserves it and can be upheld. Those 
+are very few.”10 Prosecutor McGinty went so far as to form a 
+special review committee to reexamine older death penalty 
+cases. As a result of this review committee, the Cuyahoga 
+County prosecutor joined defense attorneys in a request for 
+executive clemency for Billy Slagle in July 2013. The rationale 
+the prosecutor provided was that the offense took place in the 
+1980’s and that if the case were brought in 2013, under the 
+same facts and circumstances it would not proceed as a death 
+penalty case.11
+This example shows the variation within the same county under 
+different prosecutors. Though the defendant and facts of the 
+case did not change, the policy of the prosecutor did and the 
+outcomes could not be more divergent. 
+Franklin County’s current prosecutor, Ron O’Brien, was elected 
+in 1996. In his first year as county prosecutor, Franklin County 
+filed 58 death penalty indictments, more than any Franklin 
+County prosecutor in the modern era. During Prosecutor 
+O’Brien’s first eight years in office (1997-2004), Franklin County 
+averaged 30 capital indictments each year. More recently, from 
+2005-2013, Franklin County averaged just over 2 death penalty 
+indictments each year. 
+Franklin County’s track record shows 
+that even within the same county, 
+the same prosecutor may change the 
+approach taken with death penalty 
+cases. Were there many more death-
+eligible homicides in Columbus from 
+1997-2004 warranting the higher 
+number of indictments? Since there 
+were no indictments filed in Franklin 
+County in 2012 or 2013, were Capital Indictments
+County 2011 2012 2013
+Allen 0 0 1
+Ashtabula 1 0 0
+Belmont 0 2 0
+Butler 1 0 0
+Clermont 1 0 0
+Clinton 1 0 0
+Coshocton 0 1 0
+Cuyahoga 22 11 4
+Erie 1 4 0
+Franklin 3 0 0
+Gallia 0 2 0
+Geauga 1 1 0
+Hamilton 6 3 1
+Hocking 2 0 0
+Knox 1 0 0
+Lake 2 0 0
+Lucas 3 0 0
+Mahoning 0 1 2
+Mercer 0 0 1
+Montgomery 2 1 1
+Muskingum 0 3 0
+Ottawa 0 0 1
+Portage 0 3 0
+Richland 0 0 1
+Shelby 0 0 2
+Stark 2 1 1
+Summit 0 3 6
+Trumbull 1 0 0
+Vinton 2 0 0
+Wayne 1 0 0
+Murder Rate and Capital Indictment Comparison12
+Do capital indictments track homicides across Ohio? While both 
+have decreased over time, there is no clear correlation between 
+the two. Sometimes, as it was between 1990-1993, Ohio‘s 
+counties watch their indictments fall while homicides rise.5there zero death-eligible 
+homicides in those years? 
+The key question is  what 
+has changed in Franklin 
+County?
+Hamilton County’s 
+prosecutor Joseph T. 
+Deters uses strict criteria 
+for death penalty cases. 
+The first criterion considers 
+whether there are any 
+“proof problems.” If there 
+are proof problems, the 
+case may not proceed 
+as a death penalty case. 
+The second criterion is 
+that once the decision to 
+seek death is made, there 
+is no plea bargaining or 
+reconsideration of the 
+indictment. Compared to 
+previous Hamilton County 
+prosecutors, Mr. Deters has 
+sought the death penalty 
+in fewer instances but 
+Hamilton County has the highest death penalty conviction rate in the state at 34.7%.
+In 2013 capital indicting counties were Summit (6 indictments), Cuyahoga (4), Mahoning (2), Shelby 
+(2), Hamilton (1), Stark (1), Montgomery (1), Richland (1), Ottawa (1), Mercer (1) and Allen (1).13Population and Capital Indictment Comparison
+Do variations in population account for varying capital indictment counts 
+in counties across Ohio? The numbers don‘t add up. While Cuyahoga 
+County‘s population is only 11.09% of Ohio‘s total population, the county 
+accounts for almost 40% of the capital indictments filed in Ohio.
+Details on New Capital Indictments in 2013
+Name of 
+DefendantCountyName(s) 
+and Age(s) 
+if known of 
+Victim(s)Details of Indictment
+David A. 
+StoddardSummitAnna Karam, 16 
+and unborn childIndicted on January 23 with aggravated murder, attempted 
+murder, aggravated burglary, felonious assault and aggravated 
+robbery
+Dameon 
+WesleyMontgomeryBriona Rodgers, 
+13Indicted on March 8 with four counts of aggravated murder, 
+four counts of attempted aggravated murder, one count of 
+aggravated burglary, one count of aggravated robbery, one count 
+of kidnapping, one count of menacing by stalking and one count 
+of having weapons while under disability. (Dameon Wesley was 
+found dead in his jail cell of natural causes before the trial 
+began.)
+Randall Ross Ottawa Amy Ross, 43Indicted on May 15 with aggravated murder charges plus 
+additional counts for kidnapping, aggravated burglary and 
+trespassing6Name of 
+DefendantCountyName(s) 
+and Age(s) 
+if known of 
+Victim(s)Details of Indictment
+Willie Gene 
+Wilks Jr.MahoningOroro Wilkins, 
+20, and 
+Alexander 
+Morales, Jr.Indicted May 23 with aggravated murder, attempted aggravated 
+murder, felonious assault, improperly discharging a firearm at or 
+into a habitation and illegal possession of a weapon.
+Derrick 
+BrantleySummitKem Delaney, 
+Ronald Roberts, 
+Maria Nash, and 
+Kiana WelchIndicted on June 6 on 46 counts, including aggravated murder 
+and kidnapping.
+Deshanon 
+HaywoodSummitKem Delaney, 
+Ronald Roberts, 
+Maria Nash, and 
+Kiana WelchIndicted on June 6 on 46 counts, including aggravated murder 
+and kidnapping.
+Bryant L. 
+RhoadesMercerRobert and 
+Colleen GrubeIndicted on June 13 on with aggravated murder.
+John Deloney Hamilton Richard EvansIndicted on June 21 with aggravated murder and aggravated 
+robbery
+Sean 
+HammenRichland Richard Parr Indicted on July 8 with murder
+Robert 
+Thomas PittsSummitJeremy Putra and 
+Brian MayIndicted on August 2 with four counts of aggravated murder, two 
+counts of murder, two counts of aggravated robbery, and one 
+count of injuring animals
+Bryan Giles SummitJarrell 
+Cunningham, 27Indicted on February 28 and April 11 with aggravated murder, 
+aggravated robbery, and aggravated burglary
+James 
+McAlpineCuyahogaKeisha Freeman 
+and Reshaun 
+FosterIndicted on September 5 with thirteen charges including 
+aggravated murder, aggravated robbery and kidnapping
+Nicos Travail 
+ElderStarkJamar E. 
+Johnson, 30Indicted on October 8 with nine charges including aggravated 
+murder and aggravated robbery
+Hager 
+ChurchAllenMassie “Tina” 
+Flint, 45, and Rex 
+Hall, 54Indicted on October 18 with two counts of aggravated murder 
+and one count of aggravated arson
+Michael 
+MadisonCuyahogaShetisha 
+Sheeley, 28, 
+Angela Deskins, 
+38, and Shirellda 
+Terry, 18Indicted with 14 charges on October 28 including six count of 
+aggravated murder and three counts of kidnapping
+David 
+HackettMahoningCollena 
+Carpenter, 30Indicted on October 24 with aggravated murder, two counts of 
+kidnapping, and one count of rape
+Daniel Tighe SummitWendy Ralston, 
+31, and Peyton, 5Indicted on October 8 with aggravated murder
+Matthew 
+FullerCuyahogaLeandre 
+MeredithIndicted on November 14 with nine counts including aggravated 
+murder and aggravated robbery
+Hernandez 
+WarrenCuyahoga Gloria Pointer, 14Indicted on December 4 with eight counts including two counts of 
+aggravated murder, one count of rape, four counts of kidnapping, 
+and one count of aggravated robbery. Gloria Pointer was 
+murdered in 1984.
+Michael 
+WoodShelby James N. ColeIndicted on two separate occasions, November 14 and November 
+21 with aggravated murder.7The race of murder victims is an extralegal factor, 
+that is, it falls outside the scope of criteria for 
+eligibility for the death penalty in the criminal 
+justice system. Judges and juries are not 
+permitted to consider the victims’ race in death 
+penalty cases; however, the data indicate that the 
+race of the victim does matter in Ohio’s death 
+penalty system. 
+Where crimes of executed men involving 
+White murder victims occurred, 40 of 52 
+(76.92%) executions have been carried out.14 
+Comparatively, crimes of executed men 
+involving Black murder victims occurred in 
+14 of 52 executions or 26.92% of the time.15                                                      
+And for crimes of men executed where the murder 
+victims’ race is identified as “other,” executions took 
+place in 4 of 52 (7.69%) cases.16 This information 
+includes four instances where victims of more than 
+one race were involved.
+Under Ohio’s current death penalty law, 320 death 
+sentences have been issued. White murder victims 
+were killed in 222 of 320 cases resulting in a death 
+sentence (69.4%).17 Black murder victims were 
+killed in 96 of 320 cases (30%) resulting in death 
+as the sentence.18 Where the race of the victims’ is 
+identified as other than Black or White, 10 of 320 
+cases (3.13%) resulted in a capital conviction.19 Impact of Race of Victim
+In Ohio death penalty cases where only a single murder victim was involved, 161 sentences were 
+issued when the victim was White compared to 56 where only a single murder victim was Black. In 
+crimes where a single murder victim was identified as other than Black or White, 10 sentences were 
+issued.20
+Ohio’s death penalty system runs contrary to race of victim demographics. In Ohio, homicide victims 
+are African American or people of color 66% of the time.21Victims, by Executions 
+Carried Out Since 1981
+OtherBlack
+Whit e 
+Victims, by Death 
+Sentences Issued Since 
+1981 
+OtherBlack
+Whit e 8 New Death Sentences in 2013
+Four new death sentences were issued in 2013, down from five sentences in 2012.
+Inmate 
+NameCounty Race Date 
+SentencedSummary of 
+Relevant Charges Name(s) and Age(s) of 
+Victim(s), if knownRace of 
+Victim(s)
+Dawud 
+SpaldingSummit Black February 15 Aggravated Murder Ernest Thomas and Erica 
+SingletonBlack
+Richard 
+BeasleySummit White April 4 Aggravated Murder Ralph Geiger, 56, David 
+Pauley, 51 and Timothy 
+Kern, 47White
+Steven 
+CepacMedina White April 25 Aggravated Murder, 
+Aggravated Robbery 
+and Aggravated 
+BurglaryFrank Munz, 73 White
+Curtis 
+ClintonErie Black November 14 Felony murder, 
+Aggravated murder, 
+Rape, and Aggravated 
+Burglary, among 
+othersHeather Jackson, 23, 
+Celina, 3 and Wayne Jr., 20 
+monthsWhiteDetails on New Death Sentences in 2013Victims, by Death Penalty 
+Cases with 1 VictimVictims, All Ohio 
+Homicides
+ Executions Scheduled for 2013
+Although Ohio schedules executions frequently, many are not carried out. Between 2011 and 2013, 
+a total of 23 executions were scheduled, yet only 11 were completed.22 Specifically, ten executions 
+were scheduled in 2011 with five completed; seven were scheduled in 2012 with three completed; 
+and six were scheduled in 2013 with three completed. This section of the report discusses all six men 
+who were scheduled to die in 2013.OtherBlack
+Whit e Whit e
+People of Col or9Executed
+Frederick Treesh
+Convicted of the 1994 murder of Henry Dupree, Frederick Treesh of Lake County was executed 
+on March 6, 2013. In the dissenting opinion of Frederick‘s initial appeal, Judge O’Neil wrote that 
+the police failed to properly advise Mr. Treesh of his Miranda  rights and that the state would not 
+have been able to disprove mitigating factors without the inferences drawn from the improperly 
+obtained statements.23 In the clemency proceedings, Mr. Treesh‘s lawyers argued that the police 
+interrogated him when he was obviously high on crack cocaine.24 Additionally, they highlighted the 
+disparity of sentencing between their client and his co-defendant, Benjamin Brooks, who received 40 
+years to life.25 Lawyers cited an evolving national trend away from death sentences and questioned 
+whether or not this would have been a death penalty case in today’s court and noted that their 
+client suffered from Attention Deficiency/Hyperactivity Disorder which was compounded by his 
+crack cocaine abuse.26 Although Mr. Treesh was sentenced to death for the murder of Henry Dupree, 
+the family members of a different alleged victim, Gus Danno, were allowed to make statements at 
+the clemency hearing and to attend the execution.27 He had never been tried or convicted for the 
+murder of Gus Danno in Michigan.  
+Frederick Treesh was pronounced dead at 10:37 a.m.28 Executioners needed a couple of tries before 
+they were able to insert the IVs into Mr. Treesh‘s arm through which he received a single powerful 
+dose of Pentobarbital.29 Mr. Treesh was 48 years old when he died – more than 18 years after he was 
+sentenced to death.
+Steven Smith
+Convicted of the 1998 murder of Autumn Frye, Steven Smith of Richland County was executed on 
+May 1, 2013. During the clemency proceedings, lawyers argued that Mr. Smith was significantly 
+impaired by alcohol at the time of the crime – his blood-alcohol content was 0.123 eight hours 
+after the victim died and was estimated by experts to be as high as 0.6 at the time of the crime.30 
+Lawyers further argued that he did not intend to kill the victim.31 Intent to cause death is one of the 
+elements of aggravated murder.  Expert testimony revealed that death by asphyxiation could have 
+occurred within three to five minutes as an accidental result of Mr. Smith being on top of the victim.32 
+Additionally, lawyers argued that Mr. Smith was an alcoholic who was good with children and had a 
+shattered childhood.33 According to his lawyers, because Mr. Smith was not charged with rape, the 
+jury faced a decision of convicting him of murder or nothing at all.34
+Steven Smith was pronounced dead at 10:29 a.m. at the Southern Ohio Correctional Facility.35 Mr. 
+Smith was 46 years old at the time of his death.36
+Harry Mitts, Jr.
+Sentenced to death for the 1994 murders of John Bryant and Garfield Heights Police Sargent Dennis 
+Glivar, Harry Mitts, Jr. of Cuyahoga County was executed on September 25, 2013. Mr. Mitts told the 
+Ohio Parole Board that at the time of the crime, he was distraught over his divorce, was drinking 
+heavily, and he wanted the police to shoot him.37 He explained that in his mind Sgt. Glivar, who 
+was shot while using his body to shield a woman and her young son from the gunfire, was a hero 
+and that he has felt great remorse for 19 years for killing the victims.38 Mr. Mitts said he found God 
+while he was in the Cuyahoga County Jail and that he has tried to spread God’s word to others.39 He 
+told the board that Sgt. Glivar’s mother and sister gave him a Bible and read a letter in which Sgt. 
+Glivar’s mother and sister state that they forgive him and encourage him to seek forgiveness from 10God.40 Mr. Mitt‘s clemency lawyer told the parole board that he had been abandoned and betrayed 
+by the lawyer who handled the trial and that the trial was a calamity.41 He emphasized that Mr. Mitts 
+accepted responsibility for his crimes, is a good man, and he should not be another in a long line of 
+inmates executed as part of a broken system.42
+Harry Mitts walked into the death chamber at 10:05 a.m. He then received the last available dose of 
+Pentobarbital and was pronounced dead at 10:39 a.m. Mr. Mitts was 61 years old at the time of his 
+death.43
+Clemency/Commutation
+Ronald Post
+Sentenced to death for the 1983 murder of Helen Vantz, Ronald Post was schedule to be executed 
+on January 16, 2013.  Instead, Governor Kasich commuted the sentence to Life Without Parole 
+a month earlier.44 Although concerns were raised in lawsuits about whether or not the execution 
+protocol would be able to accommodate his morbid obesity, that issue was not raised at the 
+clemency hearing.  Mr. Post‘s lawyers instead focused on legal issues, specifically, ineffective 
+assistance of counsel at trial and in post-conviction proceedings.45 Five of the eight participating 
+parole board members voted to make a favorable clemency recommendation citing ineffective 
+assistance of counsel.46 As the majority wrote in the parole report, “[we] find it impossible to 
+overlook the glaring omissions, missed opportunities, and questionable decisions made by Post’s 
+several attorneys.  The various deficiencies in Post’s representation, viewed in totality, call into 
+question whether Post’s death sentence was imposed through the kind of just and credible process 
+called for by a punishment of this magnitude.”47
+On December 17, 2012, Governor Kasich granted executive clemency and commuted Mr. Post‘s 
+sentence to Life Without Parole.48 In his press release, Governor Kasich stated, “Regardless of the 
+heinous nature of their crime, a criminal defendant is entitled to an effective defense, especially 
+in a death penalty case. The Parole Board’s conclusion is that Ronald Post did not come close to 
+receiving such a defense. After my own careful review, I agree. Therefore I am ordering that he 
+spend the rest of his life in prison with no possibility of ever getting out. This decision should not 
+be viewed by anyone as diminishing this awful crime or the pain it has caused.”49 In response to 
+complaints by the victim’s family, the governor later announced that he would personally notify the 
+victims’ family members whenever he decided to grant clemency.50 Ronald Post was transferred to 
+Franklin Medical Center, a prison hospital, on January 3, 2013; he died of natural causes on July 25, 
+2013, at the age of 53 and after spending 30 years on death row.51
+Ronald Phillips
+Sentenced to death for the 1993 murder of Sheila Marie Evans, Ronald Phillips was scheduled to 
+be executed on November 14, 2013.  Instead, on November 13, 2013 Governor Kasich granted 
+a stay of execution so that medical experts could explore the feasibility of Mr. Phillips donating 
+organs or tissues to his mother and possibly others.52 However, in March of 2014, Mr. Phillips‘ 
+was denied the opportunity to donate his organs because the procedure would not allow him 
+enough time to recover prior to his new execution, scheduled to take place on July 2, 2014.53 The 
+governor’s temporary stay came after the parole board unanimously recommended against clemency 
+despite the arguments by his lawyers that Mr. Phillips grew up in and was a product of an abusive, 
+dysfunctional environment and that his trial lawyers failed to investigate his childhood for possible 
+mitigation evidence.5411 Post-Conviction Developments
+Ohio may be considered an active death penalty state, yet many cases that are capitally sentenced 
+end in a result other than an execution. 
+Capital cases that are appropriately charged, prosecuted, defended and adjudicated should show 
+relatively low rates of reversal or post-conviction relief by courts of appeals.The figures, though, 
+show the opposite, producing an almost one-quarter (25%) conviction reversal rate. At a minimum, 
+40% of all death sentences handed down since 1981 resulted in some outcome other than 
+execution.
+According to the Ohio Attorney General’s 2013 Capital Crimes Report, 74 people have received 
+post-conviction relief. 18 death sentences were commuted, and six men have been exonerated 
+completely. 26 men died prior to execution including suicide, natural death, accidental death and 
+other causes. Six individuals are pending re-sentencing, and there are 145 active death sentences. 
+52 men have been executed as of December 31, 2013. The Ohio Attorney General’s 2013 report 
+includes individuals who are pending re-sentence (6) as active death sentences because those 
+offenders are housed on death row. There are 138 inmates currently under a sentence of death in 
+Ohio.61Suicide
+Billy Slagle
+Sentenced to death for the 1987 murder of Mari Anne Pope, Billy Slagle committed suicide in his 
+cell on August 4, 2013 – 3 days before his scheduled execution.  Mr. Slagle‘s clemency hearing was 
+somewhat unusual in that the current Cuyahoga County Prosecutor, Timothy McGinty, joined his 
+counsel in their request for clemency, noting that the case would not have been tried as a capital 
+case today.55 Despite the fact that the county that obtained the conviction and sentence no longer 
+supported the sentence and the vast amounts of mitigating evidence presented at the hearing, 
+the Parole Board voted 6-4 on July 8, 2013, to give an unfavorable clemency recommendation.56 
+Notwithstanding the close vote and the evidence in favor of commutation, Governor Kasich denied 
+Mr. Slagle‘s request for clemency just 16 days later.57
+Billy Slagle‘s suicide occurred about 36 hours after his lawyers learned about an old plea offer made 
+by prosecutors that he was never told about.58 As reported in The Atlantic , “But just as no one 
+evidently told Billy Slagle about the plea deal 25 years ago, no one was able to get to Slagle in time 
+last month to tell him the news about the plea negotiations and the hope it represented. Thus this 
+story of crime and punishment, of law and order, morphed into a work of Shakespeare: Billy Slagle 
+killed himself for lack of hope, even though hope was careening toward him in the form of this 
+material new information that cast doubt upon the fairness of his trial.”59
+A review conducted by the Ohio Department of Rehabilitation and Correction following his suicide 
+found that several errors had been made in surveillance and protocol, including untrained guards on 
+duty, tampering with video recording devices, and improper transfer of the body to an ambulance.6012Name of 
+DefendantDetails of Post-Conviction Relief
+Reginald JellsA three-judge panel of the U.S. 6th Circuit Court of Appeals held that 
+Reginald Jells had ineffective legal counsel in the penalty phase of his 
+trial and that prosecutors withheld certain evidence that could have been 
+favorable to his defense. Mr. Jells was re-sentenced to 30 years to life.
+Maxwell White Jr.The U.S. 6th Circuit Court of Appeals vacated the death sentence and 
+ordered White to be resentenced. He was then re-sentenced to 30 years to 
+life. As part of the agreement White will waive his right to ever again appeal 
+his conviction or sentence.
+ Ohio Changes Protocols Again
+Ohio changed its execution protocol six times in the past five years.62
+The changes to the execution protocol began when Ohio was unable to complete the execution of 
+Romell Broom on September 15, 2009. The execution team failed to access his veins and after two 
+hours, then-Governor Ted Strickland called the execution attempt to a halt. This remains the first and 
+only time an execution process was halted in the United States since 1947. Romell Broom remains on 
+death row to this day while litigation takes place as to whether the state of Ohio should be allowed a 
+second execution attempt.
+Following the failed execution attempt of Romell Broom, Ohio changed its protocol in November 
+2009. The new protocol included a clause that stated, “Every effort shall be made to anticipate and 
+plan for foreseeable difficulties in establishing and maintaining the intravenous (IV) lines.” The new 
+protocol also made Ohio the first state to move from the traditional three-drug cocktail to one lethal 
+dose of Sodium Thiopental.63
+The protocol was amended again in November 2010, adding more components to the psychological 
+debriefing process for prison staff following an execution. The updated protocol also gave the 
+warden the authority to cut an inmate’s last statement short if it was deemed offensive to victims’ 
+family members or witnesses.64
+In February of 2011, the lethal injection procedure was revised to a single lethal dose of 
+Pentobarbital rather than Sodium Thiopental.65
+Not long after, in March 2011, the protocol was edited so that the IV insertion occurred in the 
+execution chamber with closed circuit camera recording. The warden was also to accompany the 
+execution team to confirm that the IV insertion went smoothly and the IV sites were undisturbed. The 
+revised protocol also added that if an “appropriate medical professional cannot confirm that death 
+has occurred, the curtain [allowing a view of the execution chamber] shall be reopened until an 
+appropriate time has passed to reevaluate the offender.”66Details on Post-Conviction Relief in 201313US District Court Judge Gregory Frost granted a temporary stay of execution to Kenneth W. Smith 
+in July 2011. The Court ruled that the state haphazardly enforces some of its execution policies. 
+“Ohio pays lip service to standards it then often ignores without valid reasons, sometimes with 
+no physical ramifications and sometimes with what have been described as messy if not botched 
+executions,” Frost wrote.67 Governor John Kasich then granted reprieves to both Brett Hartman and 
+Billy Slagle. The Governor said the postponement will allow the Ohio Department of Rehabilitation 
+and Correction to fix problems found by Judge Frost.
+In September 2011, the execution protocol was significantly rewritten to include “an auxiliary team 
+member” or a physician to advise the execution team, the production of an execution timeline, 
+as well as a clause that states, “…variations from the requirements of the policy directive may 
+sometimes be necessary. Any member of the Execution Team who determines for any reason it 
+is difficult, impractical, or impossible to strictly follow the procedures in this policy directive shall 
+immediately report the same to the Warden or the Director.”68 In effect, the protocol concedes 
+that even within the confines of the strictest protocol, changes may have to be made during an 
+execution.
+In November 2011 Reginald Brooks, 66, was executed after a series of same-day delays to allow 
+Courts to make rulings on litigation. Parole Board documents show Brooks had a long history of 
+serious mental illness before the crime for which he was convicted.69
+More irregularities with the execution procedure used for Reginald Brooks led Ohio back to federal 
+court. Judge Frost granted stays of execution to Charles Lorrain and Michael Webb in January 2012. 
+The federal court criticized the Ohio Department of Rehabilitation and Correction for, again, not 
+following its own written rules. Judge Frost accused the Ohio Department of Rehabilitation and 
+Correction of engaging in a “policy of sporadic adherence to the execution protocol that allows, if 
+not endorses, institutional incompetence.”70
+Reluctantly, the Court allowed executions to resume in April 2012. Judge Frost wrote, “The court 
+14reaches this conclusion with some trepidation given Ohio’s history of telling this court what (they) 
+think they need to say in order to conduct executions and then not following through on promised 
+reforms.”71
+In May of 2013 a lawyer representing the Ohio Department of Rehabilitation and Correction 
+(ODRC) addressed the Joint Task Force to Review the Administration of Ohio’s Death Penalty. In his 
+presentation, the attorney related that in 2013, Ohio’s supply of Pentobarbital would expire. He said 
+the Ohio Department of Rehabilitation and Correction was seeking the Task Force’s help to produce 
+a recommendation protecting physicians and compounding pharmacies against professional 
+sanctions so they could participate in the execution process. ODRC’s intention was to purchase 
+execution drugs from compounding pharmacies rather than obtain drugs from FDA regulated 
+manufacturers. The Task Force formed a special subcommittee to explore the execution protocol, 
+but made no recommendations during the review process. When ODRC announced its plan to 
+incorporate doctors and pharmacies in the execution process, the Ohio State Medical Association 
+refused to support the idea and cited the long-standing maxim that doctors pledge to do no harm. 
+Participation in executions would violate the Hippocratic Oath.72
+In October 2013, ODRC announced they would proceed with a new execution protocol using 
+Pentobarbital from compounding pharmacies and a backup method of Hydromorphone and 
+Midazolam. However, because sufficient quantities of Pentobarbitol could not be acquired, ODRC 
+switched to the backup method two weeks after announcing the newest protocol. No state in the 
+US or country in the world has ever used the combination of Hydromorphone and Midazolam for an 
+execution. 
+US District Judge Gregory Frost allowed the execution of Dennis McGuire to proceed in early 2014 
+with the untested drugs.  The Court wrote, “There is absolutely no question that Ohio’s current 
+protocol presents an experiment in lethal injection processes. The science involved, the new mix 
+of drugs employed at doses based on theory but understandably lacking actual application in 
+studies, and the unpredictable nature of human response make today’s inquiry at best a contest of 
+probabilities…There is always a possibility of human error or unfortunate misadventure.”73
+Ohio Supreme Court Justice William O’Neill called the death 
+penalty unconstitutional in January 2013, when he dissented 
+in an order setting an execution date for Jeffrey Wogenstahl, 
+a Hamilton County man convicted of the 1991 murder of 
+Amber Garrett.
+Justice O’Neill wrote, “I would hold that capital punishment 
+violates the Eighth Amendment to the Constitution of 
+the United States and Article I, Section 9 of the Ohio 
+Constitution. The death penalty is inherently both cruel and 
+unusual and therefore is unconstitutional. Capital punishment 
+dates back to the days when decapitations, hangings, and 
+ Support for Repeal Grows15brandings were also the norm. Surely, our society has evolved since those barbaric days....To date, 
+17 states and the District of Columbia have eliminated the death penalty altogether. It is clear that 
+the death penalty is becoming increasingly rare both around the world and in America. By definition 
+it is unusual.” He concluded, “The time to end this outdated form of punishment in Ohio has 
+arrived. While I recognize that capital punishment is the law of the land, I cannot participate in what I 
+consider to be a violation of the Constitution I have sworn to uphold.”74
+Retired Ohio Supreme Court Justice Evelyn Stratton 
+announced her opposition to the death penalty in June 2013. 
+“I have evolved to where I don’t think the death penalty is 
+effective.” She noted its failure as a deterrent and its inability 
+to provide closure to victim’s family members. In closing she 
+said, “I don’t have a moral inhibition...Overall, it’s just not the 
+best way to deal with it on a number of different levels.”75 
+Justice Stratton, a Republican, reviewed the cases of the 49 
+inmates who were executed during her time on the court from 
+1996 to 2011.
+Julia Bates, the current Lucas County prosecutor, challenged 
+the death penalty in an article in The Toledo Blade  in 
+November of 2013.76 In the article, Prosecutor Bates stated, 
+“If you’ve done a purposeful killing or a felony murder you 
+can get life without parole — you can try it, plead to it — but 
+we can get that, and we don’t have to go through what is 
+torturous really.” 
+Former Attorney General Jim Petro and his wife, Nancy, 
+spoke to the Joint Task Force to Review the Administration 
+of Ohio’s Death Penalty in August of 2013. At the meeting, 
+the Petros raised their concerns about wrongful convictions 
+and the possibility that innocent people are on death 
+row. Jim Petro told the Task Force, “My simple standard 
+is this: I believe society has the right to exact the ultimate 
+punishment. I don’t have any moral objection to the death 
+penalty,” noting his concerns are entirely practical. “It 
+doesn’t work.”77
+“Death-penalty cases are ‘torturous,’” she said, “for juries 
+and judges charged with deciding whether someone should 
+live or die, torturous for defense lawyers and prosecutors 
+whose work really just begins when a defendant is convicted, 
+torturous for victims’ families who must suffer through 15 to 
+20 years of appeals, and torturous for defendants sitting for 
+years in solitary confinement on Death Row. It just seems 
+there ought to be a better way.”
+Finally, at a luncheon for the Cleveland City Club in 
+December 2013, the retired director of the Ohio Department 
+16 Task Force Developments
+Ohio Supreme Court Chief Justice Maureen O’Connor, in conjunction with the Ohio State Bar 
+Association, assembled a task force of death penalty experts in September 2011. The task force 
+was created to “review the 2007 American Bar Association report titled ‘Evaluating Fairness and 
+Accuracy in State Death Penalty Systems: The Ohio Death Penalty Assessment Report’ and offer an 
+analysis of its findings; assess whether the death penalty in Ohio is administered in the most fair and 
+judicious manner possible; and determine if the administrative and procedural mechanisms for the 
+administration of the death penalty in Ohio are in proper form or in need of adjustment.”79
+The Task Force was comprised of judges, prosecutors, defense attorneys, legislators and academics. 
+These experts met and discussed the problems outlined by the ABA report. After two years of 
+review, the Task Force concluded its work in November of 2013. A final report with approximately 60 
+recommendations to address the identified problems is expected in the Spring of 2014.80
+In their totality, the recommendations, if adopted, would reform the death penalty system in its 
+application and administration. Some reforms could have an immediate impact on the fairness and 
+accuracy of the death penalty system.
+ Conclusion
+Thirty-three years have passed since the death penalty was reinstated in Ohio under the legal 
+precept of “guided discretion” as mandated by the United States Supreme Court in Gregg v. 
+Georgia. Yet, Ohio’s death penalty system continues to demonstrate just as arbitrary an application 
+as when the Court struck down the death penalty in 1972. Ohio lawmakers who resurrected the 
+death penalty in 1981 intended the law to be for Ohio’s “worst of the worst offenders.” A careful 
+analysis of the death penalty’s administration over three decades reveals that the race of the victim, 
+the county in which a crime occurs and the views of the county prosecutor are far more predictive 
+of death sentences than any other factors. The premise that Ohio’s death penalty is reserved for the 
+“worst of the worst” offenders is a fallacy. It is, however, reserved disproportionately for those who 
+kill White victims, who commit murders in select counties and those on death row who are unlucky 
+enough to hit the death lottery.
+The ongoing revisions to Ohio’s lethal injection protocol and procedures indicate a much larger 
+problem than the state’s inability to follow its own rules and obtain execution drugs without resorting 
+to experimentation. Ohio has not been able to consistently administer the ultimate punishment 
+without error, misapplication or in a manner that sufficiently holds violent offenders accountable in 
+the interest of justice. of Rehabilitation and Corrections, Terry J. Collins, spoke openly about his opposition to the death 
+penalty.  The moderator of the discussion asked the former Director, who oversaw 33 executions 
+during his career, why he has become a public opponent of the death penalty. Mr. Collins 
+responded: “Every time I did an execution…that question remaining, ‘did we get this right?’ and 
+knowing we have the greatest justice system in the world but we can still make mistakes. If you make 
+a mistake and you execute someone, that’s it.”7817The Ohio Supreme Court Joint Task Force to Review the Administration of Ohio’s Death Penalty 
+has largely concluded that the American Bar Association’s 2007 assessment and critique of the 
+death penalty is valid. The recommendations expected by this Task Force underscore the litany of 
+deficiencies in Ohio’s system warranting drastic changes. The disparity across counties amounts to a 
+system that is grossly uneven in its application and administration. In the rare circumstances a death 
+verdict is given, human errors, mistakes and extra-legal factors result in an alarming number of cases 
+that are reversed or lead to some outcome other than an execution being carried out.
+Any public policy that demonstrates such consistent unevenness in its application requires 
+transformative changes. If fairness cannot be achieved in the application of the death penalty, the 
+more effective and efficient criminal justice policy is repeal.18 Appendix
+County Indictments- 
+Convictions% 
+Indictment-
+Conviction% 
+of Entire State 
+(Indictments, 
+Convictions)Post-
+Conviction 
+Relief (%)Commutations (C), 
+Natural Death (ND), 
+Other Death (OD), 
+Exoneration (E)ExecutionsCurrently 
+on Death 
+Row
+Adams 1 - 0 0.00% 0.00%, 0.00%
+Allen 28 - 3 10.71% 0.88%, 0.94% 1 (33.33%) 2
+Ashland 4 - 1 25.00% 0.13%, 0.31% 1 (100%)
+Ashtabula 17 - 1 5.88% 0.01%, 0.31% 1
+Athens 7 - 0 0.00% 0.22%, 0.00%
+Auglaize 1 - 0 0.00% 0.00%, 0.00%
+Belmont 9 - 2 22.22% 0.28%, 0.63% 1 2
+Brown 10 - 1 10.00% 0.32%, 0.31% 1
+Butler 50 - 10 20.00% 1.58%, 3.13% 2 (20%) 1 7
+Carroll 1 - 0 0.00% 0.00%, 0.00%
+Champaign 6 - 0 0.00% 0.19%, 0.00%
+Clark 56 - 7 12.50% 1.77%, 2.19% 2 (28.57%) 5
+Clermont 17 - 3 17.65% 0.54%, 0.94% ND (1) 2
+Clinton 8 - 2 25.00% 0.25%, 0.63% OD (1) 1
+Columbiana 3 - 1 33.33% 0.09%, 0.31% ND (1)
+Coshocton 12 - 0 0.00% 0.00%, 0.00%
+Crawford 3 - 1 33.33% 0.95%, 0.31% C (1)
+Cuyahoga 1254 - 62 4.94% 39.60%, 
+19.38%28 (45.16%) C (2), ND (2), OD 
+(2), E (1)8 18
+Darke 2 - 0 0.00% 0.06%, 0.00%
+Defiance 0 - 0 0.00% 0.00%, 0.00%
+Delaware 17 - 1 5.88% 0.54%, 0.31% 1
+Erie 14 - 1 7.14% 0.44%, 0.31% 1
+Fairfield 10 - 0 0.00% 0.32%, 0.00%
+Fayette 3 - 0 0.00% 0.09%, 0.00%
+Franklin 497 - 21 4.23% 15.69%, 6.56% 3 (14.29%) C (1), ND (1), E (2) 2 13
+Fulton 4 - 0 0.00% 0.13%, 0.00%
+Gallia 5 - 0 0.00% 0.16%, 0.00%
+Geauga 11 - 1 9.09% 0.36&, 0.31% ND (1)
+Greene 17 - 4 23.52% 0.54%, 1.25% 1 (25%) 1 2
+Guersney 11 - 3 27.27% 0.36%, 0.94% 1 (33.33%) 1
+Hamilton 176 - 61 34.66% 5.56%, 19.06% 9 (14.75%) C (7), ND (4), OD 
+(1), E (1)10 28
+Hancock 9 - 1 11.11% 0.28%, 0.31% OD (1)
+Hardin 1 - 0 0.00% 0.00%, 0.00%
+Harrison 0 - 0 0.00% 0.00%, 0.00%
+Henry 7 - 0 0.00% 0.22%, 0.00%Table 1: Indictments, Convictions, Post-Conviction Relief, and 
+Executions Data, by County19County Indictments- 
+Convictions% 
+Indictment-
+Conviction% 
+of Entire State 
+(Indictments, 
+Convictions)Post-
+Conviction 
+Relief (%)Commutations (C), 
+Natural Death (ND), 
+Other Death (OD), 
+Exoneration (E)ExecutionsCurrently 
+on Death 
+Row
+Highland 3 - 0 3.00% 0.09%, 0.00%
+Hocking 11 - 1 9.09% 0.36%, 0.31% E (1)
+Holmes 0 - 0 0.00% 0.00%, 0.00%
+Huron 1 - 0 0.00% 0.00%, 0.00%
+Jackson 3 - 0 0.00% 0.09%, 0.00%
+Jefferson 9 - 3 33.33% 0.03%, 0.94% 2 (66.67%) 1
+Knox 4 - 1 25.00% 0.13%, 0.31%
+Lake 28 - 3 10.71% 0.88%, 0.94% 2 1
+Lawrence 9 - 1 11.11% 0.03%, 0.31% 1
+Licking 10 - 5 50.00% 0.32%, 1.57% 1 (20%) OD (1) 1 2
+Logan 7 - 0 0.00% 0.22%, 0.00%
+Lorain 33 - 10 30.30% 1.04%, 3.13% 3 (30%) C (1), ND (2), OD (2) 2 2
+Lucas 131 - 23 17.56% 4.14%, 7.19% 7 (30.43%) ND (1) 4 11
+Madison 4 - 1 25.00% 0.13%, 0.31% 1
+Mahoning 102 - 11 10.78% 3.22%, 3.44% 3 (27.27%) C (3), ND (1) 2 5
+Marion 6 - 2 33.33% 0.19%, 0.63% C (1) 1
+Medina 8 - 1 12.50% 0.25%, 0.31% 1
+Meigs 1 - 0 0.00% 0.00%, 0.00%
+Mercer 2 - 0 0.00% 0.06%, 0.00%
+Miami 6 - 0 0.00% 0.19%, 0.00%
+Monroe 6 - 0 0.00% 0.19%, 0.00%
+Montgomery 32 - 10 31.25% 1.01%, 3.13% ND (1) 3 6
+Morgan 0 - 0 0.00% 0.00%,0.00%
+Morrow 2 - 0 0.00% 0.06%, 0.00%
+Muskingum 24 - 1 4.16% 0.76%, 0.31% 1 (100%)
+Noble 3 - 1 33.33% 0.09%, 0.31% 1
+Ottawa 6 - 0 0.00% 0.19%, 0.00%
+Paulding 0 - 0 0.00% 0.00%, 0.00%
+Perry 1 - 0 0.00% 0.00%, 0.00%
+Pickaway 2 - 0 0.00% 0.06%, 0.00%
+Pike 6 - 0 0.00% 0.19%, 0.00%
+Portage 23 - 4 17.39% 0.73%, 1.25% 1 3
+Preble 6 - 1 16.67% 0.19%, 0.31% 1*
+Putnam 3 - 1 33.33% 0.10%, 0.31% 1 (100%)
+Richland 22 - 3 13.64% 0.69%, 0.94% 2 1
+Ross 13 - 1 7.69% 0.41%, 0.31% 1
+Sandusky 6 - 1 16.67% 0.19%, 0.31% 1 (100%)
+Scioto 25 - 1 4.00% 0.79%, 0.31% ND (1)
+Seneca 6 - 0 0.00% 0.19%, 0.00%
+Shelby 14 - 2 14.29% 0.44%, 0.63% 2 (100%)
+Stark 78 - 7 8.97% 2.46%, 2.19% C (1) 5
+Summit 109 - 20 18.35% 3.44%, 6.25% 5 (25%) ND (1) 6 7
+Trumbull 58 - 10 17.24% 1.83%, 0.03% 3 720County Indictments- 
+Convictions% 
+Indictment-
+Conviction% 
+of Entire State 
+(Indictments, 
+Convictions)Post-
+Conviction 
+Relief (%)Commutations (C), 
+Natural Death (ND), 
+Other Death (OD), 
+Exoneration (E)ExecutionsCurrently 
+on Death 
+Row
+Tuscarawas 5 - 0 0.00% 0.16%, 0.00%
+Union 1 - 0 0.00% 0.00%, 0.00%
+Van Wert 5 - 1 20.00% 0.16%, 0.31% 1 (100%) C (1)
+Vinton 10 - 1 10.00% 0.32%, 0.31% 1
+Warren 14 - 3 21.43% 0.44%, 0.94% 1 (33.33%) 1 1
+Washington 4 - 0 0.00% 0.13%, 0.00%
+Wayne 14 - 1 7.14% 0.44%, 0.31% 1
+Williams 3 - 0 0.00% 0.09%, 0.00%
+Wood 17 - 2 11.76% 0.54%, 0.63% 1 1
+Wyandot 0 - 0 0.00% 0.00%, 0.00%
+*Dennis McGuire of Preble County was executed on January 16, 2014
+Name Description
+Judge James Brogan, ChairRetired Judge, Ohio Second District Court of 
+Appeals
+Sara AndrewsDeputy Director of Parole & Community Services, 
+Ohio Department of Rehabilition & Correction
+Richard BellAssistant Prosecutor, Cuyahoga County 
+Prosecutor’s Office
+Prof. Douglas BermanProfessor, The Ohio State University Moritz College 
+of Law
+Representative Margaret 
+CondittOhio House of Representatives, District 52
+Prof. Phyllis L. Crocker Professor, Cleveland-Marshall College of Law
+Joseph T. Deters Prosecutor, Hamilton County Prosecutor’s Office
+Judge Michael P. Donnelly Judge, Cuyahoga County Common Pleas Court
+Judge Linda J. Jennings Judge, Lucas County Common Pleas Court
+Judge Kathleen Keough Judge, Ohio Eighth District Court of Appeals
+Judge Stephen L. McIntosh, 
+Vice-ChairJudge, Franklin County Common Pleas Court
+Ron O’Brien Prosecutor, Franklin County Prosecutor’s OfficeTable 2: Members of the Joint Task Force to 
+Review the Administration of Ohio’s Death Penalty21Name Description
+John Parker Criminal Defense Attorney
+Jon Paul Rion Attorney, Rion, Rion & Rion Co., LPA
+Sheriff Tim Rodenberg Sheriff, Clermont County Sheriff’s Office
+Judge John Russo Judge, Cuyahoga County Common Pleas Court
+Stephen SchumakerDeputy Attorney General for Law Enforcement, 
+Ohio Attorney General’s Office
+Senator Bill Seitz Ohio Senate, District 8
+Senator Shirley Smith Ohio Senate, District 21
+Judge John Solovan Judge, Belmont County Common Pleas Court
+Representative Michael 
+StinzianoOhio House of Representatives, District 18
+Judge Roger Wilson Judge, Champaign County Common Pleas Court
+Tim Young Director, Office of the Ohio Public Defender22Citations
+1. Ohio Revised Code Section 109.97 Capital case status report, effective January 30, 1998. Avail -
+able at http://codes.ohio.gov/orc/109.97.
+2. The Supreme Court of Ohio and the Ohio Judicial System, “Capital Indictment Filings.” Last 
+modified 2014. Accessed December 4 , 2013. https://www.supremecourt.ohio.gov/Clerk/capi -
+talIndictment/.
+3. The Ohio Attorney General, “2013 Annual Capital Crimes Report.” April 1, 2014. Accessed 
+April 1, 2014. http://www.ohioattorneygeneral.gov/getattachment/e2990af9-1c19-4f0a-96d1-
+457756b3bca8/2013-Annual-Report.aspx.
+4. Ohio Department of Rehabilitation and Correction, “Ohio Executions.” Last modified January 
+16, 2014. Accessed February 11, 2014. http://www.drc.ohio.gov/web/Executed/executed25.
+htm.
+5. Press Release, Governor of Ohio, “Kasich Commutes Sentence of Ronald Post.” Last modified 
+December 17, 2013. Accessed February 11, 2014. http://www.governor.ohio.gov/Portals/0/pd -
+f/12.17.12PostCommutation.pdf.
+6. Press Release, Governor of Ohio, “Kasich Stays Execution of Ronald Phillips to Assess Medical 
+Feasibility of Organ Donation.” Last modified November 13, 2013. Accessed February 12, 2014. 
+http://www.scribd.com/doc/183992185/press-release-kasich-stays-execution-of-ronald-phil -
+lips-to-assess-medical-feasibility-of-organ-donation-jeff-gamso.
+7. Welsh-Huggins, Andrew. Newsnet 5 Cleveland , “Coroner: Ohio death row inmate Billy Slagle 
+hanged self with nylon belt.” Last modified September 17, 2013. Accessed February 12, 2014. 
+http://www.newsnet5.com/news/state/coroner-ohio-death-row-inmate-billy-slagle-hanged-self-
+with-nylon-belt.
+8. See note 2 above.
+9. See note 2 above.
+10. Krouse, Peter. Northeast Ohio Media Group , “Cuyahoga County Prosecutor Timothy J. McGinty 
+will be practical when seeking the death penalty.” May 25, 2013. Accessed March 30, 2014. 
+http://www.cleveland.com/metro/index.ssf/2013/05/cuyahoga_county_prosecutor_tim_3.html.
+11. Ohio Department of Rehabilitation and Correction, “In Re: Billy Slagle, A203-172.” September 
+1, 2011. Accessed March 30, 2014. http://www.drc.ohio.gov/public/SlagleA203-172clemency.
+pdf.
+12. The Disaster Center, “Ohio Crime Rates 1960-2012.” Accessed April 1, 2014. http://www.disas -
+tercenter.com/crime/ohcrime.htm.
+13. See note 2 above.
+14. Office of the Ohio Public Defender, “Executed under 1981 Law.” Last modified January 2014. 
+Accessed April 1, 2014. http://www.opd.ohio.gov/DP_ResidentInfo/dp_ExecutedUnder1981.pdf
+15. See note 15 above.
+16. See note 15 above.
+17. Office of the Ohio Public Defender, “Death Penalty Proportionality Statistics.” January 2014. 
+Accessed March 30, 2014. http://www.opd.ohio.gov/DP_ResidentInfo/dp_Proportionality.pdf.
+18. See note 17 above.
+19. See note 17 above.
+20. See note 17 above.
+21. See note 17 above.
+22. Ohio Department of Rehabilitation and Correction, “Execution Schedule.” Accessed April 1, 
+2014. http://www.drc.ohio.gov/public/executionschedule.htm.  
+See note 4 above.2323. Ohio Department of Rehabilitation and Correction, “In Re: Frederick Treesh, CCI. #A307-703” 
+Last modified February 8, 2013. Accessed March 30, 2014. http://www.drc.ohio.gov/public/
+treesh_2013clemency.pdf.
+24. See note 23 above.
+25. See note 23 above.
+26. See note 23 above.
+27. Welsh-Huggins, Andrew. The Huffington Post , “Fredrick Treesh Executed for Fatally Shooting 
+Security Guard in 1994.” Last modified March 6, 2013. Accessed March 30, 2014. http://www.
+huffingtonpost.com/2013/03/06/frederick-treesh-executed_n_2819736.html.
+28. See note 27 above.
+29. See note 27 above.
+30. Ohio Department of Rehabilitation and Correction, “In Re: Steven Smith, CCI #A369-054.” Last 
+modified April 10, 2013. Accessed February 21, 2014. http://www.drc.ohio.gov/public/clemen -
+cy_stevensmith2013.pdf.
+31. See note 30 above.
+32. Daily Mail , “Ohio death row inmate who raped and killed girlfriend’s baby EXECUTED after 
+parole board finds him ‘worst of the worst’.” Last modified May 1, 2013. Accessed February 22, 
+2014. http://www.dailymail.co.uk/news/article-2317685/Steven-Smith-case-Ohio-death-row-in -
+mate-raped-killed-girlfriends-baby-EXECUTED-parole-board-finds-worst-worst.html.
+33. See note 32 above.
+34. Myers, Amanda Lee. The Huffington Post , “Steve Smith, Ohio Man Who Raped, Killed 6-Month-
+Old Baby, Executed.” Last modified May 1, 2013. Accessed February 22, 2014. http://www.
+huffingtonpost.com/2013/05/01/steve-smith-execution_n_3191783.html.
+35. See note 34 above.
+36. See note 34 above.
+37. Ohio Department of Rehabilitation and Correction, “In Re: Harry Mitts Jr., CCI, #A305-433 .” 
+Last modified August 23, 2013. Accessed March 1, 2014. http://www.drc.ohio.gov/public/clem -
+ency_mittsharry305433.pdf.
+38. See note 37 above.
+39. See note 37 above.
+40. See note 37 above.
+41. See note 37 above.
+42. Blackwell, Brandon. Northwest Ohio Media Group , “Harry Mitts Jr. executed by lethal injection 
+this morning at Lucasville, following 20 years in prison.”Last modified September 25, 2013. Ac -
+cessed March 30, 2014. http://www.cleveland.com/metro/index.ssf/2013/09/harry_mitts_jr_exe -
+cuted.html
+43. See note 42 above.
+44. See note 5 above.
+45. Ohio Department of Rehabilitation and Correction, “In Re: Ronald Post, FMC #A183-812” Last 
+modified December 14, 2012. Accessed March 1, 2014. http://www.drc.ohio.gov/public/clem -
+ency_rpost12142012.pdf.
+46. See note 45 above.
+47. See note 45 above.
+48. See note 5 above.
+49. See note 5 above.
+50. Welsh-Huggins, Andrew. Record-Courier , “Ohio Governor to Alert Families to Execution 
+Mercy.”  May 17, 2013. Accessed March 30, 2014. http://staging.recordpub.com/ap%20
+state/2013/05/17/ohio-governor-to-alert-families-to-execution-mercy.
+51. Carr Smyth, Julie. The Huffington Post , “Ronald Post, Obese Ohio Inmate Spared Death Penalty, 
+Dies Week Before Birthday.” July 26, 2013. Accessed March 30, 2014. http://www.huffington -24post.com/2013/07/26/ronald-post-obese-ohio-in_n_3659348.html.
+52. Press Release, Governor of Ohio, “Kasich Stays Execution of Ronald Phillips to Assess Feasibility 
+of Organ Donation. November 13, 2013. Accessed March 30, 2014. http://www.governor.ohio.
+gov/Portals/0/11.13.13%20Kasich%20Stays%20Execution%20of%20Ronald%20Phillips.pdf.
+53. Pelzer, Jeremy. Northest Ohio Media Group , “Convicted killer Ronald Phillips won’t be allowed 
+to donate organs before execution.” March 21, 2014. Accessed March 31, 2014. http://www.
+cleveland.com/open/index.ssf/2014/03/convicted_killer_ronald_philli.html.
+54. Ohio Department of Rehabilitation and Correction, “In Re: Ronald Phillips, CCI #A279-109.” 
+October 24, 2013. Accessed March 30, 2014. http://www.drc.ohio.gov/public/Clemency_phil -
+lipsronaldA279109.pdf.
+55. Ohio Department of Rehabilitation and Correction, “In Re: Billy Slage, A203-172.” July 16, 
+2013. Accessed March 30, 2014. http://www.drc.ohio.gov/public/clemency_slaglebilly2013.pdf.
+56. See note 55 above.
+57. Higgs, Robert. Northest Ohio Media Group , “Governor rejects clemency for convicted Cleve -
+land murderer Billy Slagle.” http://www.cleveland.com/open/index.ssf/2013/07/governor_re -
+jects_clemency_for.html
+58. Cohen, Andrew. The Atlantic , “The Shakespearean Death of Billy Slagle.” September 24, 2013. 
+Accessed March 30, 2014. http://www.theatlantic.com/national/archive/2013/09/the-shake -
+spearean-death-of-billy-slagle/279844/.
+59. See note 58 above.
+60. Ohio Department of Rehabilitation and Correction, “Operation Support Center After-Action 
+Report Billy Slagle (A203-172) Self-Inflicted Death Chillicothe Correctional Institution: August, 
+4 2013.” August 4, 2013. Accessed March 30, 2014. http://www.10tv.com/content/down -
+loads/2013/09/Slagle_After_Action_Review_Report.pdf.
+61. See note 3 above.
+62. Ohio Department of Rehabilitation and Correction, Lethal Injection Protocol, 01-COM-11, effec -
+tive dates November 30, 2009; November 15, 2010; March 9, 2011; April 11, 2011; September 
+18, 2011; October 10, 2013.
+63. Ohio Department of Rehabilitation and Correction, 01-COM-11, effective November 30, 2009.
+64. Ohio Department of Rehabilitation and Correction, 01-COM-11, effective November 15, 2010.
+65. Ohio Department of Rehabilitation and Correction, 01-COM-11, effective February, 2011.
+66. See note 62 above.
+67. Welsh-Huggins, Andrew. The Columbus Dispatch , “Judge delays execution, rips ‘haphazard’ 
+process.” July 9, 2011. Accessed April 1, 2014 http://www.dispatch.com/content/stories/lo -
+cal/2011/07/09/judge-delays-execution-rips-haphazard-process.html
+68. See note 62 above.
+69. Ohio Department of Rehabilitation and Correction, Adult Parole Authority. “In re: Reginald 
+Brooks, OSP# A179-740. Access at  http://www.drc.ohio.gov/public/Brooks_clemencyA179740.
+pdf
+70. Palmer, Kim. Reuters , “Judge says fixes allow Ohio to resume executions.” April 5, 2012. 
+Accessed at http://www.reuters.com/article/2012/04/05/us-usa-execution-ohio-ruling-idUS -
+BRE8341CR20120405
+71. Fields, Reginald. Cleveland Plain Dealer , “Ohio executions can resume with judge’s ruling” April 
+4, 2012. Accessed March 30, 2014. http://www.cleveland.com/open/index.ssf/2012/04/ohio_ex -
+ecutions_can_resume_wit.html.
+72. Welsh-Huggins, Andrew. The Canton Repository , “Ohio wants doctors to assist with execu -
+tions.“ February 15, 2013. Accessed April 1, 2014. http://www.cantonrep.com/x1433784321/
+Ohio-wants-doctors-to-assist-with-executions
+73. McGuire  (In re: Ohio Execution Protocol Litigation ), No. 2:11-cv-1016, 2014 U.S. Dist. LEXIS 
+3800, at *24-25 (S.D. Ohio Jan. 13, 2014)25
+215 E. 14th St. Cincinnati, Ohio 45202 | www.otse.org© 2014 Ohioans to Stop Executions1. Image used on report cover is courtesy of thegilmanator. https://www.flickr.com/photos/
+thegilmanator/3824680210.
+2. Image of Terry Collins is courtesy of the Ohio Department of Rehabilitation and Correction. 
+http://www.drc.state.oh.us/web/iej_photos.htm.
+3. Image of Justice William O‘Neill is courtesy of the Supreme Court of Ohio Website. http://www.
+supremecourt.ohio.gov/SCO/justices/oneill/.Image Attribution74. State v. Wogenstahl , 134 Ohio St. 3d 1437, 1437-1438 (2013) (O’Neill, J., dissenting)
+75. Johnson, Alan. The Columbus Dispatch , “Former Justice Stratton says she’s now opposed to 
+death penalty.” June 14, 2013. Accessed March 30, 2014. http://www.dispatch.com/content/
+stories/local/2013/06/13/Former-Justice-Stratton-says-shexs-against-death-penalty.html.
+76. Feehan, Jennifer. The Toledo Blade , “Death penalty cases ebb in Lucas County and Ohio.” No -
+vember 24, 2013. Accessed March 30, 2014. http://www.toledoblade.com/Courts/2013/11/24/
+Death-penalty-cases-ebb-in-Lucas-County-and-Ohio.html. 
+77. The Hannah Report, “Petros Lobby Supreme Court Task Force on End to Capital Punishment in 
+Ohio.” August 15, 2013. Accessed March 30, 2014. http://www.ohiocathconf.org/I/DP/Petro -
+commission.pdf.
+78. “Death Penalty in Ohio 12.13.13” YouTube video, 57:55, posted by “The City Club of Cleve -
+land.” December 13, 2013. https://www.youtube.com/watch?v=6N-e3TZrG0w.
+79. Supreme Court of Ohio, “Operating Guidelines for the Joint Supreme Court/Ohio State Bar As -
+sociation Task Force to Review the Administration of Ohio’s Death Penalty.” Accessed March 30, 
+2014. http://www.supremecourt.ohio.gov/Boards/deathPenalty/operatingGuidelines.pdf
+80. Johnson, Alan. The Columbus Dispatch , “Ohio Supreme Court death penalty task force to wrap 
+up work April 10.” March 19, 2014. Accessed March 30, 2014. http://dispatchpolitics.dispatch.
+com/content/blogs/the-daily-briefing/2014/03/3.19.14-supreme-court-death-penalty.html.

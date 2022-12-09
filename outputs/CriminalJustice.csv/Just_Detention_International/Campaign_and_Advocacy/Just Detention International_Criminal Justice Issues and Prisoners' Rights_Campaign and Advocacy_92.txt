@@ -1,0 +1,604 @@
+IN 
+THE 
+SHADOWS
+  Sexual Violence in U.S. Detention Facilities
+A Shadow Report to the U.N. Committee Against Torture by
+STOP PRISONER RAPEIN THE SHADOWS
+Sexual Violence in U.S. Detention Facilities
+A Shadow Report to the U.N. Committee Against Torture
+2006
+Alternative NGO Report Prepared for the 36th 
+Session of the U.N. Committee Against TortureCopyright 2006 Stop Prisoner Rape.
+Attributed reproduction of this report is encouraged.Printed in the United States of America.
+ 
+Stop Prisoner Rape
+3325 Wilshire Blvd., Ste. 340
+Los Angeles, CA 90010Tel:  213-384-1400Fax: 213-384-1411Email: info@spr.org
+ Visit our website at www.spr.org.TABLE OF CONTENTS        
+           
+Executive Sum mary          1
+I. Introduction          3
+II. Legal Framework         6 A. Eighth Amendment to the U.S. Constitution      
+6
+ B. Prison Rape Elimination Act         6
+ C. U.S. Rape and Custodial Misconduct Laws        7
+III. Systemic Conditions Giving Rise to 
+ Sexual Assault in Detention        8
+ 
+ A. Over-Incarceration and Prison Overcrowding         8
+ B. Lack of Proper Inmate Classiﬁcation            9
+ C. Prison ‘Code of Silence ’           10
+ IV. Populations Vulnerable to Sexual Assault in Detention  
+12
+ A. First-Time, Non-Violent Oﬀenders    12
+ B. Youth        13
+ C. Gay and T ransgender Detainees    14
+ D. U.S. Immigration and Customs 
+  Enforcement (ICE) Detainees      15
+V. In the Aftermath of Assault: Lack of Services and Redress  17
+ A. No Conﬁdentiality for Survivors    18
+ B. Prosecution of Staﬀ Rare     19
+ C. Inadequate Remedies at Law for Victims   19                                    STOP PRISONER RAPE                                         STOP PRISONER RAPE     EXECUTIVE SUMMARY
+“In the Shadows: Sexual Violence in U.S. Detention Facilities” was prepared by Stop Prisoner 
+Rape (SPR) for the 36th session of the United Nations Committee Against Torture. The aim of this report is to highlight the widespread sexual abuse of incarcerated men, women, and youth in U.S. detention facilities and to oﬀer recommendations aimed at remedying this acute 
+human rights crisis. 
+U.S. law contains various provisions relevant to combating sexual violence behind bars, including 
+the Eighth Amendment to the U.S. Constitution, the federal Prison Rape Elimination Act (PREA), and state rape and custodial sexual misconduct laws. However, U.S. policymakers and law enforcement authorities are not eﬀectively using this legal framework, despite the clear requirement to do so in the Convention Against Torture and Other Cruel, Inhuman or Degrading T reatment or Punishment (CAT). 
+SPR calls on the U.S. government to use the arsenal of legislation already at its disposal to put an 
+end to the sexual assault of inmates. At a minimum, corrections oﬃcials who perpetrate acts of sexual violence against detainees must be held responsible for their crimes.
+Various systemic conditions of detention in the U.S. today contribute to the unacceptably 
+high rates of sexual abuse behind bars, including: over-incarceration and overcrowding; lack of proper inmate classiﬁcation; and a pervasive ‘code of silence.’ 
+With more than 2.2 million people in custody at any given time, the U.S. incarcerates a larger 
+proportion of its population than any other country in the world. This over-incarceration has led to serious overcrowding in detention facilities across the nation, forcing prison and jail administrators to convert gymnasiums and other common areas into dormitories. Many facilities also lack proper protocols to ensure that those who are vulnerable to abuse are separated from those who are likely to commit acts of sexual violence. To make matters worse, a ‘code of silence’ adhered to by both corrections oﬃcials and inmates continues to keep prisoner rape shrouded in secrecy both inside prisons and jails and in society at large.
+SPR calls on the U.S. government to reduce overcrowding in its detention facilities. The government 
+must ensure that all inmates are oﬀered safe housing; overcrowding must never be used as an excuse for failing to guarantee every inmate’s right to be free from sexual violence. An eﬀective inmate classiﬁcation system that identiﬁes vulnerable prisoners and potential predators must be established in all facilities and fully implemented at all times. Policymakers and corrections administrators must also demonstrate to staﬀ and inmates that there can be no place in U.S. prisons and jails for a ‘code of silence.’
+While anyone can become a victim of sexual assault in detention, certain groups of inmates are 
+especially vulnerable. Among the chief targets for sexual violence are: non-violent, ﬁrst-time 
+1  IN THE SHADOWS: Sexual Violence in U.S. Detention Facilities     
+                                     STOP PRISONER RAPE                                         STOP PRISONER RAPE     oﬀenders who are inexperienced in the ways of prison life; youth held in juvenile and adult 
+facilities; gay and transgender detainees, or those who are perceived to be gay or gender variant; and, ﬁnally, those held in immigration detention centers.   
+SPR calls on the U.S. government to acknowledge that certain inmate groups are at extreme risk 
+of being assaulted while in custody and to improve the ways in which the safety of these inmates is protected. Simple measures that would help prevent vast numbers of sexual assaults must be established, such as improved surveillance of detention facilities and the strict separation of juveniles from adults. 
+In the aftermath of a sexual assault in detention, a survivor is frequently faced with the threat of 
+continued abuse and further systemic victimization by the prison or jail administration itself. In addition to the dearth of conﬁdential mental health services available to survivors of sexual violence behind bars, a cloud of impunity hangs over prisons and jails nationwide, in breach of both the letter and spirit of the CAT. Adding insult to injury, the vast majority of victims of sexual violence in detention are faced with insurmountable barriers to seeking redress through 
+civil rights litigation. 
+SPR calls on the U.S. government to ensure that inmates have access to prompt and fully conﬁdential 
+mental health counseling and medical care in the aftermath of sexual abuse. The U.S. should also reconsider its system of judicial remedies available to inmates who have been subjected to sexual abuse. Speciﬁcally, state and local prosecutors must investigate and prosecute all substantiated instances of custodial sexual misconduct, sexual assault, or rape in custody. In addition, the U.S. Congress must repeal, or at the very least amend, the Prison Litigation Reform Act (PLRA).
+The plight of survivors of sexual violence in U.S. facilities is further aggravated by the fact that 
+the U.S. government refuses to recognize Article 22 of the CAT, thereby denying victims of abuse in detention the opportunity to communicate directly with the CAT Committee once they have exhausted available avenues of relief within the U.S. legal system. 
+SPR calls on the U.S. government to permit Article 22 communications with the Committee Against 
+Torture.
+2                                    STOP PRISONER RAPE                                         STOP PRISONER RAPE     I.  INTRODUCTION
+When photos of United States (U.S.) military 
+personnel sexually abusing and humiliating Iraqi prisoners hit the newsstands in April 2004, the American public was appalled. In testimony before Congress, Secretary of Defense Donald Rumsfeld described what happened at Abu Ghraib as “fundamentally un-American.”
+1 Sadly, Mr. Rumsfeld was 
+wrong.
+The reality is that sexual abuse in detention 
+is a widespread, systemic problem in U.S. detention facilities. The U.S. government’s Second Periodic Report to the Committee Against Torture (CAT Committee) asserts that when “unfortunate instances” of such abuse occur, they are promptly and thoroughly investigated and referred for prosecution.
+2   Unfortunately, that is not the case. On the 
+contrary, prisoner rape is arguably the most widespread and neglected form of human rights abuse in the U.S. today. 
+According to the best available research, one in ﬁve male inmates faces sexual assault behind 
+bars.3 While estimated rates of sexual abuse at women’s prisons vary widely, at the worst 
+facilities, as many as one in four prisoners is victimized.4 The Bureau of Justice Statistics (BJS) 
+produced a report in July 2005, based solely on administrative records of reported incidents, 
+which found that 8,210 allegations of sexual assault were reported at prisons, jails, and juvenile facilities in 2004, of which nearly 2,100 were substantiated.
+5 
+Rape in detention constitutes torture under the United Nations Convention Against Torture and Other Cruel, Inhuman or Degrading T reatment or Punishment (CAT).
+6  Other forms 
+of sexual assault and harassment in detention may constitute cruel, inhuman or degrading 
+treatment, in which case they also amount to violation s of the CAT and other provisions of 
+international human rights law.7 Although the U.S. has recognized that rape in prison violates 
+the U.S. Constitution, the government has failed to comply fully with its treaty obligations. In general, there is a lack of serious governmental eﬀort to address sexual violence behind bars, both in terms of proactive prevention and redress for victims. In particular, corrections oﬃcials are rarely held accountable for sexual violence that occurs on their watch. 
+  
+This report ﬁrst provides a brief overview of the legal framework that exists in the U.S. to address prisoner rape. It then examines the following three core problems related to sexual violence in detention and provides recommendations on how to address them:“Sexual violence in prison consists not only in direct victimization, but also in the daily knowledge that it’s happening. It approaches legitimacy in the sense that it’s tolerated. Those who perpetuate these acts of violence often receive little or no punishment. To that extent alone, corrections ofﬁcials render these acts acceptable. At the same time, we can’t expect a rape victim to report it if he anticipates a lack of responsiveness, a lack of sensitivity or basic protection 
+by those who are charged with his care.”  
+– T.J. Parsell, prisoner rape survivor and President of Stop Prisoner Rape. Testimony 
+before the National Prison Rape Elimination Commission (August 19, 2005).
+3  IN THE SHADOWS: Sexual Violence in U.S. Detention Facilities     
+                                     STOP PRISONER RAPE                                         STOP PRISONER RAPE     1.  Systemic conditions give rise to prisoner rape, including: over-incarceration and 
+overcrowding; lack of proper inmate classiﬁcation; and a prison ‘code of silence’; 
+2.  Certain populations are especially vulnerable to sexual assault in detention, 
+including: ﬁrst-time, non-violent oﬀenders; youth; gay and transgender inmates; 
+and detainees in the custody of the U.S. Immigration and Customs Enforcement 
+(ICE); and
+3.  In the aftermath of a sexual assault in detention, survivors are faced with further 
+victimization, including: the absence of basic conﬁdentiality standards within detention facilities; inadequate grievance procedures; and a lack of access to eﬀective legal remedies. 
+This report is intended to provide the United Nations Committee Against 
+Torture (CAT Committee) with additional information concerning the Second Periodic Report of the government of the United States to the CAT 
+Committee .  
+The report was written by Stop Prisoner Rape (SPR), a non-governmental 
+human rights organization based in Los Angeles, California.  SPR works  
+to end sexual violence against men, women, and youth held in all forms of 
+detention within the U.S. To achieve this goal, SPR seeks to: engender policies 
+that ensure institutional accountability for prisoner rape; change ill-informed and ﬂippant public attitudes toward sexual assault behind bars; and promote access to resources for survivors of this type of violence.
+4                                    STOP PRISONER RAPE                                         STOP PRISONER RAPE     INCIDENCE OF SEXUAL ASSAULT IN U.S. DETENTION FACILITIES
+Reliable studies on the incidence of sexual violence in U.S. detention facilities are scarce. According to the best 
+available research, one in ﬁve male inmates faces sexual assault behind bars. While rates of sexual abuse at women’s prisons vary widely, at the worst facilities as many as one in four prisoners is victimized. 
+Pursuant to the Prison Rape Elimination Act (PREA), adopted in 2003, the U.S. government has begun to 
+track the incidence of sexual assaults by staﬀ and inmates. The Bureau of Justice Statistics (BJS) released its ﬁrst ﬁndings in July 2005, based solely on administrative records of reported incidents. The agency found that there were 8,210 allegations of sexual assault reported at adult prisons, jails, and juvenile facilities in 2004, of which nearly 2,100 allegations were substantiated. While direct surveys of inmates are also part of the BJS’s mandate to 
+determine the incidence and impact of prisoner rape, this research is still in progress and expected in 2007. BJS and other researchers agree that cases reported to facilities do not represent the full scope of the problem, due to underreporting caused by fear, stigma, and  a ‘code of silence’ in prisons. 
+Every week, Stop Prisoner Rape (SPR) is contacted by an average of ten survivors of sexual assault behind bars, 
+the vast majority of whom write letters while still incarcerated. Between 2002 and 2005, SPR received letters from 527 diﬀerent survivors describing sexual assault that occurred in detention in all 50 U.S. states. SPR’s database of letters does not permit statistical conclusions about prevalence, but it does provide rare, ﬁrst-person insight from survivors of horrifying sexual abuse.
+Total number of survivors in SPR database as of December 2005.... ........527
+Male Survivors .......................................................................................... ................. 454  (86% )* 
+(27 survivors held in male facilities self-identiﬁed as transgender)
+Female Survivors .......................................................................................................... 66  (13%)*
+ *Seven survivors did not identify themselves by gender
+Total number of male survivors  sexually assaulted by another prisoner ................ ..........247  (54%) *
+By a corrections oﬃcial ................................................................................................. ..78  (17%)
+By a non-custody staﬀ member ............................... ........................................................ ..14    (3%)
+Did not state who committed the assault ........................ ...................................... ...........115  (25%)
+ *Percentages based on # of male survivors .
+Total number of female survivors  sexually assaulted by another prisoner ........................... 8  (12%) *
+By a corrections oﬃcial ................................................................................................... 32  (48%)
+By a non-custody staﬀ member ......................................................................... ................ 17  (26%)
+Did not state who committed the assault ..................... ........................................................ 9  (14%)  
+ *Percentages based on # of female survivors.
+Total number of survivors who were assaulted for the ﬁrst time while under age 21 .........29    (6%) 
+Total number of survivors who were assaulted by more than one person .................. ........ 92  (36%)
+Total number of survivors who were assaulted more than once ........................... ............ 97  (37%)                   
+Total number of survivors who reported the assault .................... .............................. ......68  (51% )
+Total number of survivors who reported that their  complaints resulted in 
+     discipline  of the abuser ............................................ ............................................... 16    (3%)
+5  IN THE SHADOWS: Sexual Violence in U.S. Detention Facilities     
+                                     STOP PRISONER RAPE                                         STOP PRISONER RAPE     II. LEGAL FRAMEWORK
+There are several important aspects of U.S. law that are directly relevant to addressing 
+sexual assault in detention facilities, chief among them the Eighth Amendment to the U.S. Constitution, the Prison Rape Elimination Act (PREA), and U.S. rape and custodial misconduct laws. If fully implemented, this legal framework would largely ensure that oﬃcials responsible for committing – or acquiescing in – acts of sexual violence in detention are held accountable.
+ 
+A. Eighth Amendment to the U.S. Constitution
+In its 1994 decision in Farmer v. Brennan, the U.S. Supreme Court explicitly recognized 
+prisoner rape as a violation of the Eighth Amendment to the U.S. Constitution’s prohibition against cruel and unusual punishment.
+8 The Supreme Court held unanimously that oﬃcials 
+have a responsibility to safeguard prisoners from violence perpetrated by other prisoners.9 
+The majority opinion stated that, “being violently assaulted in prison is simply not ‘part of the penalty that criminal oﬀenders pay for their oﬀenses against society.’”
+10 However, as described 
+further in Section V below, while Farmer v. Brennan is considered an important recognition 
+of the gravity of sexual violence in detention, the legal standard established through this case also limits the extent of prison oﬃcials’ liability for what occurs in the facilities they oversee. The standard, known as “deliberate indiﬀerence,” has been extremely diﬃcult for prisoner rape survivors to meet. 
+B. Prison Rape Elimination Act
+As the U.S. highlights in its Second Periodic Report to the CAT Committee, in 2003, the ﬁrst-
+ever federal law addressing prisoner rape was passed, entitled the Prison Rape Elimination Act (PREA). Th e passage of PREA was a momentous development in the ﬁght against prisoner rape. 
+However, more than two and a half years after PREA was signed into law, its implementation is just beginning and the letter and spirit of its provisions have not yet been felt in the majority of U.S. detention facilities. PREA provides for: the gathering of national statistics about prisoner 
+rape; the formation of a national commission to study the issue and develop standards for local, state, and federal governments about how to address prisoner rape; the creation of a review panel to hold annual hearings examining conditions and practices at the best and worst performing facilities; the development and provision of training for corrections oﬃcials; and the provision of grants to states to combat the problem.
+11
+By April 2006, the processes of measuring incidence of sexual assault, training corrections oﬃcials, and developing national standards had just begun. Implementation of other key provisions of PREA, such as identifying best and worst performing facilities, had not yet been 
+initiated.
+6                                    STOP PRISONER RAPE                                         STOP PRISONER RAPE     C. U.S. Rape and Custodial Misconduct Laws
+Rape and sexual assault are serious crimes under the laws of all 50 U.S. states. There is no 
+exception for when such crimes occur inside detention facilities. 
+In addition, custodial sexual misconduct laws prohibiting sexual relations between corrections 
+staﬀ and inmates are in eﬀect in all U.S. states except Vermont. Nevertheless, relatively few 
+cases of sexual violence in detention are prosecuted, because of a lack of prosecutorial will and resources.
+12 The criminal penalty under custodial sexual misconduct statutes is often limited 
+to a ﬁne and a one-year prison sentence, depending on the level of force used to carry out the crime and whether it was a ﬁrst oﬀense. These low penalties contribute to prosecutors’ lack of interest in using resources to pursue them. Moreover, in several states, including Colorado, New Hampshire, and Wyoming, consent is recognized as a legal defense to custodial sexual abuse, ignoring the inherent authority corrections staﬀ hold over detainees that makes the 
+concept of consent largely meaningless.13 
+The U.S. Department of Justice (DOJ) also has the discretion to investigate abuses and pursue civil suits against state institutions under the Civil Rights of Institutionalized Persons Act or the Violent Crime Control and Law Enforcement Act of 1994.
+14 The DOJ may criminally 
+prosecute persons “acting under color of state law” for violating a prisoner’s constitutional rights. However, these statutes are seldom used to combat sexual violence in detention.
+ 
+Recommendations on the U.S. Legal Framework
+In contrast to the prevailing U.S. practice of not fully enforcing its existing laws, the CAT mandates that detainees held at U.S. facilities be provided with protections to ensure that they are not subjected to torture and other cruel, inhuman, and degrading treatment. Articles 2 and 16 require state parties to take eﬀective legislative, administrative, judicial or other measures to prevent torture and cruel, inhuman, and degrading treatment. In addition, Article 12 provides that the competent authorities “proceed to a prompt and impartial investigation” whenever an act contrary to the CAT may have occurred.   
+SPR calls on U.S. policymakers and law enforcement authorities to use the extensive existing U.S. legal 
+framework to combat prisoner rape as well as conditions of detention that tend to increase its incidence. 
+• Vermont, the only state in the U.S. without a custodial sexual misconduct statute, must enact such legislation.
+• Penalties for custodial sexual misconduct must be increased to appropriately reﬂect the severity of such crimes.
+• With the Prison Rape Elimination Act as an impetus, DOJ oﬃcials must aggressively use the arsenal of legislation at their disposal to prosecute state corrections systems and oﬃcials involved in the sexual assault of inmates.
+7  IN THE SHADOWS: Sexual Violence in U.S. Detention Facilities     
+                                     STOP PRISONER RAPE                                         STOP PRISONER RAPE     III. SYSTEMIC CONDITIONS GIVING RISE TO SEXUAL ASSAULT IN DETENTION
+As the U.S. inmate population continues 
+to swell, the likelihood of sexual abuse increases. Prison and jail administrators across the nation are failing to keep their populations from outpacing the capacity of existing facilities. Partly due to the massive inﬂux of new inmates, many prisons and jails also fail to ensure that non-violent, ﬁrst-time oﬀenders are separated from potentially predatory inmates. In addition, a ‘code of silence’ that is honored by prisoners and corrections oﬃcials alike continues to keep prisoner rape shrouded in secrecy both inside prisons and jails and in 
+society at large. 
+A. Over-Incarceration and Prison Overcrowding
+With more than 2.2 million people behind bars, the 
+U.S. incarcerates a larger percentage of its population than any other country in the world. The inmate population quadrupled between 1980 and 1999.
+15 
+More than 500,000 of these prisoners are incarcerated on drug charges.
+16  
+Although public support in the U.S. for the “war on drugs” has waned considerably in recent years, the U.S. government has continued to pursue anti-drug policies that lead to the incarceration of large numbers of low-level drug users. Exceedingly long drug sentences contribute to the current prison overcrowding and understaﬃng. Despite a prison building boom of nearly two decades, oﬃcials at many U.S. corrections facilities have had to convert cafeterias and gymnasiums into dormitories. Such severe overcrowding creates opportunities for predators,
+17 
+as procedures for housing potential perpetrators and 
+victims of sexual violence separately tend to be overlooked in facilities with a shortage of beds.
+18 “T eresa Smith,” a mother of two and a victim of sexual abuse during childhood, began to use powdered cocaine at age 19 and eventually became addicted to crack cocaine. She was sent to prison for the ﬁrst time at age 26 for possession of stolen goods, and was in and out of prison for the next 11 years. Smith was raped by corrections oﬃcials twice, and was repeatedly sexually harassed and assaulted throughout her years in prison. She told SPR:
+“The prisons are so overcrowded, and the 
+oﬃcers take advantage of that. They see all your weaknesses. Some of them are predators. The gym is where I slept in and there were 120 women in there. There is no privacy. There are no partitions. There are no doors…. What happens when you kick the covers oﬀ in bed at night? You have got oﬃcers walking by with ﬂashlights looking at you. Being locked up in that kind of environment was devastating – emotionally, physically, and mentally draining.” 
+SPR staﬀ in-person interview, August 2005.“How was it possible, in a protective custody unit, for two gang members who had spent many years in prison to rape a vulnerable man who had never been to prison and never committed a violent crime? At the time of the rape, a single oﬃcer was responsible for observing a day room, a dining area, and two ﬂoors of cells with open doors.  It was not possible, at any given time, for that oﬃcer to observe the entire unit.  [T]he victim [reported] that the rape took place over a forty-ﬁve minute time span, in a second ﬂoor cell, while the oﬃcer was in the day room, where she was unable to see inside the cells on the second ﬂoor…But in an overcrowded system, it is unlikely that prisoners of diﬀerent security levels who are identiﬁed as being in need of protective custody will be further 
+segregated…” 
+T erry Kupers, “Rape and the Prison Code,” in Prison Masculinities  113 (Don Sabo 
+et. al. eds., 2001 ).
+8                                    STOP PRISONER RAPE                                         STOP PRISONER RAPE     B. Lack of Proper Inmate Classiﬁcation
+One of the most important tools 
+available to corrections oﬃcials to prevent prisoner rape is the appropriate classiﬁcation of detainees when they enter a facility, as well as a system for rapidly re-classifying them when an actual or potential problem arises. By housing non-violent prisoners with violent ones, corrections oﬃcials create environments that virtually guarantee 
+sexual assault. 
+Despite eﬀorts to adopt an objective, 
+uniform system of classiﬁcation in U.S. 
+prisons and jails, many state departments of corrections do not collect data needed to assess an inmate’s risk of harming others. Nearly 40 percent of corrections departments do not collect information on whether a weapon was used during the prisoner’s oﬀense.
+19 T welve of the 
+nation’s 52 departments of corrections do not collect information on an inmate’s history of violence and 17 do not collect information on gang membership.
+20
+ A 19-year-old University of Florida college student arrested in 2002 for possession of about an ounce of marijuana and who had no criminal record, was violently raped after being placed in a cell in a county jail with a 35-year-old career criminal awaiting trial on sexual battery charges. Jail and city oﬃcials acknowledged that the youth should never have been placed in a cell with a known predator, and attributed the mistake to overcrowding and a ﬂawed inmate classiﬁcation system.
+ 
+Tim Lockette, “Jail Gets Flak Over Policy,” Gainesville Sun , June 
+14, 2003.
+“Sophia Brooks,” a transgender woman from Florida who is a U.S. army veteran, began the transition to becoming female in 1999. She initiated hormone therapy, adopted a feminine voice and mannerisms, grew her hair long, and acquired breast implants. In 2002, she was arrested for drug possession and sentenced to seven years in a men’s prison. She recounted her harrowing experiences in detention to SPR.
+“When I arrived at the reception center…I stepped oﬀ the bus and was strip-searched in front of two guards and 
+about a dozen male inmates. A sergeant yelled, ‘Look at the tits on that one! Those are the best-looking tits I’ve ever seen on a man.’ He pointed me out to a six-foot, three-inch inmate and said to him, ‘You like that one, don’t you? I’m going to put you in a cell with that one.’ Another sergeant called me ‘tits’ and ‘titty man’…. While the rest of my group went through the intake process, I was left sitting on a bench until the afternoon so that all the other intake inmates could see me. My head was completely shaved, and my sports bra was taken away, because ‘males’ don’t need bras in prison. I was placed in a locked-down ‘protective management’ unit with murderers and a predator who had a prior ‘relationship’ with a transsexual before my arrival.” 
+Soon after her arrival, Brooks was raped by that predator in the protective custody unit.  She told SPR, “I yelled for 
+him to stop, but nobody heard me. He kept saying, ‘Yeah, you like that, bitch. I knew you wanted it.’ When he was done, he left, and…I cried all night. I was ashamed of feeling so helpless.” Brooks emphasized to SPR that corrections authorities must, “acknowledge the problem of placing minimum-custody transsexuals into locked-down protective management areas with mixed custody levels.” 
+Excerpts from letters to SPR from “Sophia Brooks,” dated 2004 and 2005.
+9  IN THE SHADOWS: Sexual Violence in U.S. Detention Facilities     
+                                     STOP PRISONER RAPE                                         STOP PRISONER RAPE     Some positive exceptions do exist. San Francisco County jails, for example, have used an 
+eﬀective classiﬁcation system since the 1980s. Originally created to protect the city’s gay inmate population, trained staﬀ members interview, assess, and assign housing to inmates based on their likelihood of victimizing or being harmed by other prisoners.
+21
+C. Prison ‘Code of Silence’
+In U.S. detention facilities, ‘snitching’ on another prisoner is considered unacceptable and a sign of weakness.
+22 
+According to Dr. Terry Kupers, a 
+noted psychiatrist and expert on the psychological eﬀects of prison abuse, by reporting sexual violence to an oﬃcial or another prisoner, a victim violates a longstanding male prison code and invites retaliation from the perpetrator(s) and others who dislike 
+snitches.23 Administrative procedures 
+and corrections oﬃcials’ behavior often aggravate the situation further, as a prisoner who reports a rape 
+typically is pressured to reveal the name of his/her assailant without any reasonable assurance of protection from retaliation.
+24 Thus, to avoid 
+looking weak and being labeled as a snitch, most prisoners choose not to ﬁle a formal complaint.
+25 Some will 
+even forego medical assistance and psychological counseling following a sexual assault, out of fear of inadvertently breaching the code of 
+silence.
+Similarly, because protective custody 
+is often used to house vulnerable 
+inmates, and especially those who have ﬁled a formal complaint, the stigma of having been in protective custody can follow a vulnerable prisoner long after he or she is returned to the 
+general population.26 
+The code encouraging prisoners to remain silent is further enhanced by the likelihood that their complaints will not be investigated and dealt with seriously. In a 2005 report, the Bureau A pervasive code of silence among corrections oﬃcials at the Corcoran State Prison in California 
+contributed to the 1999 acquittal of four prison staﬀ members charged with arranging the rapes of Eddie Dillard. A 23-year old, 120-pound, ﬁrst-time prisoner, Dillard was deliberately housed in solitary conﬁnement with a sexual predator known as the ‘Booty Bandit,’ in an eﬀort by prison oﬃcials to “teach him a lesson” after he kicked a female corrections oﬃcer. The ‘Booty Bandit’ raped Dillard repeatedly over a two-day period, as corrections oﬃcers passed by the cell and laughed. 
+The implicated prison oﬃcials were put on trial, but 
+acquitted, even though another corrections oﬃcial testiﬁed against those who were tried. Prisoner rights advocates blamed the acquittal in part on the prosecutor’s failure to “make the code of silence and culture of terror” at the facility central issues in the case. It was charged that the corrections union, the California Correctional Peace Oﬃcers Association, thwarted the prosecution by instructing its members not to cooperate with the FBI and state investigations
+. 
+Christian Parenti, Guarding their Silence, in Prison Nation (T. Herivel 
+and P .  Wright, e ds., 2003).  
+10                                    STOP PRISONER RAPE                                         STOP PRISONER RAPE     of Justice Statistics highlighted several of the factors preventing inmates from reporting abuse. 
+“Administrative records alone cannot provide reliable estimates of sexual violence. Due to fear of 
+reprisal from perpetrators, a code of silence among inmates, personal embarrassment, and lack 
+of trust in staﬀ, victims are often reluctant to report incidents to correctional authorities.”27 
+There is no question that a code of silence not only deters prisoners from reporting sexual violence, but that corrections oﬃcials and unions also utilize their version of the code to protect their collective interests during investigations of cases of abuse. This tendency to ‘close ranks’ in 
+the face of a sexual assault fosters impunity and is a serious impediment to justice.28  
+Recommendations on Conditions and Culture in Detention Facilities
+Article 11 of the CAT provides that where circumstances in a country’s detention system change, the country should “review [its] arrangements for the custody and treatment of persons subjected to…imprisonment…with a view to preventing any cases of torture.” In accordance with the CAT, SPR calls on the U.S. government to adhere to the general mandates of Articles 2 and 16, which require states parties to take eﬀective legislative, administrative, judicial or other measures to prevent acts of torture and cruel, inhuman or degrading treatment, as circumstances change and the overall prison population increases.
+• All inmates must be oﬀered adequate housing; overcrowding must never be used as an excuse for failing to guarantee every inmate’s right to be free from sexual violence. 
+• Policymakers should consider alternative strategies to incarceration, such as drug treatment opportunities for non-violent drug users, to ease overcrowding and keep such oﬀenders away from the dangers of prison life. 
+• An eﬀective inmate classiﬁcation system that identiﬁes vulnerable prisoners and predators must be in place and fully implemented at all times. With approximately 15 percent of U.S. prisoners classiﬁed as high risks to others, and 15 percent classiﬁed as likely victims, accurate classiﬁcation is imperative.
+* 
+• Prisoners placed in protective custody must be separated according to security level. For example, a maximum security gang member and a ﬁrst-time, non-violent drug oﬀender who are both in need of protective custody must not be housed together. 
+• The code of silence that permeates prison life in the U.S. must be dismantled by following the mandate of Article 10 to “ensure that education and information regarding the prohibition against torture are fully included in the training” of corrections personnel. All corrections staﬀ must be instructed that adherence to a code of silence that keeps prisoners and staﬀ from preventing and reporting abuse is wholly inconsistent with universal human rights standards, as reﬂected in the CAT.
+* National Institute of Corrections, Objective Prison Classiﬁcation: A Guide for Correctional Agencies , 12-13 (2004).
+11  IN THE SHADOWS: Sexual Violence in U.S. Detention Facilities     
+                                     STOP PRISONER RAPE                                         STOP PRISONER RAPE     IV. POPULATIONS VULNERABLE TO SEXUAL ASSAULT IN DETENTION
+While anyone can become a victim of sexual 
+violence in detention, certain groups are especially hard hit by this type of abuse. Non-violent, ﬁrst-time oﬀenders who are inexperienced in the ways of prison life are frequently singled out for attacks. Youth held both in juvenile and adult facilities are also at high risk for rape and abuse. Gay and transgender detainees, or those who are small, eﬀeminate, and perceived to be gay or gender variant, experience rates of prisoner rape that are several times higher than those for inmates overall. Finally, those held in immigration detention centers are exceptionally vulnerable 
+to sexual violence. 
+A. First-time, Non-Violent OffendersFirst-time, non-violent oﬀenders often lack the 
+street smarts to protect themselves behind bars. In assessing prisoners’ “potential for violence index,” one researcher found that only 25 percent of targets of violence were incarcerated for a threat or act of force, compared to 58 percent of non-targets and 79 percent of aggressors.
+29 Other researchers have similarly 
+found that, while there is a lack of conclusive data on the subject of prisoner rape, a highly disproportionate number of sexual assault victims are ﬁrst-time, non-violent oﬀenders.
+30
+First-time oﬀenders are especially at risk because of prison oﬃcials’ failure to house them according to their vulnerability for abuse, as opposed to simply according to the crime for which they are incarcerated. Overcrowded conditions make it even more likely that non-violent oﬀenders will be placed with violent, potentially predatory cellmates. “Rachel McCarthy,” a college graduate who worked as a ﬁtness trainer and substitute teacher, was disabled by a snowmobile accident and became addicted to a powerful painkiller. Once her medical beneﬁts ran out, she began obtaining the drug from a street dealer, and eventually started traﬃcking cocaine for him. In 2002, she was sentenced to seven years in federal prison for conspiracy to distribute cocaine. In April 2003, a male corrections oﬃcial made sexual advances toward her. McCarthy rejected them, and the staﬀ member became aggressive. 
+Soon after that incident, she witnessed the oﬃcial in what she describes as a “sexually compromising position” with another woman 
+inmate.  
+The oﬃcial began threatening McCarthy and 
+following her around the facility. When she pursued administrative remedies, she became the target of retaliatory conduct. She was subjected to insults and verbal threats, was denied visits from friends and family for two years, and was placed in segregation. McCarthy was ultimately transferred to a high-security prison more than a thousand miles from home, which had a terrible reputation for sexual abuse and misconduct. 
+McCarthy told SPR that, “I never knew such 
+treatment existed in this country – especially sanctioned by the government. I have done nothing to deserve this abuse, and I am powerless to stop it.” She went on to describe the conditions at this second facility as “dirty, dangerous, and horribly overcrowded – many inmates are forced to sleep on the ﬂoor upon arrival.” 
+SPR staff in-person interview, 2005   
+12                                    STOP PRISONER RAPE                                         STOP PRISONER RAPE     Many prisons have failed to implement eﬀective sexual assault prevention programs, including 
+communicating a “zero tolerance” policy to potential predators and suﬃciently orienting ﬁrst-time oﬀenders on sexual assault prevention and risk. In many cases, prisons that do not separate violent oﬀenders from non-violent ones also fail to make clear to vulnerable inmates what to do if they feel threatened. To make matters worse, some prisons and jails lack policies and practices to actually protect those who do express fear of sexual assault. Survivor Keith DeBlasio testiﬁed before the National Prison Rape Elimination Commission in 2005, describing how his pleas to prison oﬃcials for help went ignored, leaving him to be repeatedly raped by a cellmate: 
+[B]efore the abuse began, I told the oﬃcials that I felt vulnerable in the open dormitory unit and…that I felt threatened by the assailant. My assailant…was known for being violent. When he began to threaten and harass me, I told prison oﬃcials, but…[they] did nothing.
+31 
+B. Youth
+Juveniles from ages 13 to 18 are 
+particularly vulnerable to sexual abuse in U.S. adult prisons and jails. When incarcerated with adults, teenagers are ﬁve times more likely to report being sexually assaulted than when they are held in youth 
+facilities.32  Moreover, juveniles 
+held in adult prisons are eight times more likely to commit suicide than in juvenile detention.
+33 Research 
+indicates that this is in large part due to feelings of isolation, and an intense fear of sexual violence or physical assault.
+34 Nevertheless, 
+depending on the state, minors as young as 16 may be automatically tried as and housed with adults. In June 2004, more than 7,000 youth under the age of 18 were being held 
+in adult facilities.35 
+Youth held in juvenile facilities are also subjected to high levels of sexual violence.
+36 In 2004, juvenile In 1995, 16 year-old Rodney Hulin was sentenced to eight years in an adult facility in T exas for setting a dumpster on ﬁre. In prison, he became an easy target, with a 5’2”, 125-pound frame. He was raped multiple times by other inmates and reported the assaults to doctors and prison oﬃcials on numerous occasions, pleading for help. In particular, using the prison’s established administrative procedures, he requested to be removed from the general prison population. His pleas were rejected. Prison oﬃcials decided that Hulin did not meet the “emergency grievance criteria” and told him that “[t]his happens every day, learn to deal with it. It’s no big deal.” Unable to tolerate any further abuse, Hulin hanged himself in January 1996, 
+and died after lying in a coma for four months.  
+Adapted from testimony of Hulin’ s mother, Linda Bruntmyer, before the National  
+Prison Rape Elimination Commission (June 14, 2005) 
+More recently, on March 15, 2006, a 12-year old detainee was allegedly raped repeatedly by two older teenagers while in a holding room at a Los Angeles court house. The oﬃcials in charge of monitoring the juveniles from an adjoining area appeared to have obscured the window, so that the juveniles could not be seen.
+Noam Levey, "Rape of Boy at Court Site Reported," Los Angeles Times, March 25, 2006
+13  IN THE SHADOWS: Sexual Violence in U.S. Detention Facilities     
+                                     STOP PRISONER RAPE                                         STOP PRISONER RAPE     facilities in the U.S. reported the highest rates of sexual abuse by corrections personnel.37 The 
+Department of Justice (DOJ) found that juveniles reported more than 2,800 allegations of 
+sexual violence during that year alone.38 Fifty-nine percent of these incidents were committed 
+by other youth in the facilities, while 41 percent were committed by staﬀ.39 Three out of ten 
+of the alleged incidents were substantiated by the facilities. In the remaining cases, there either was insuﬃcient evidence or the allegations were determined to be unfounded.
+40  
+C. Gay and Transgender Detainees
+Gay and transgender inmates are perhaps the hardest hit by sexual violence in custody. A study of one institution reported that 41 percent of gay inmates had been sexually assaulted, a rate that was three times higher than that for the institution overall.
+41 T ransgender inmates 
+who have developed breasts and a feminine appearance, for example, are especially vulnerable to various forms of sexual harassment, such as being subjected to gawking, verbal abuse, and sexual touching by male prisoners and corrections oﬃcials.   Contributing to the heightened risk that gay and transgender inmates face are the reckless and indiscriminate classiﬁcation practices that most facilities continue to use. For example, transgender 
+inmates are often automatically placed either in protective custody with few opportunities to participate in prison programs, or with the general population without regard to their unique 
+needs and physical appearance.42  
+Gay and transgender inmates who have the courage to come forward and report abuse typically face greater institutional apathy than other detainees. Corrections oﬃcials tend to conﬂate homosexuality and transgender status with consent to rape, and so trivialize these inmates’ claims. In the many letters from inmates to SPR, gay and transgender prisoners frequently describe oﬃcials ignoring or even laughing at their reports of sexual abuse. In some cases, “Lisa Nelson” is a pre-operative transgender woman who suﬀers from mental illness. In September 2004, while being held at a California jail on charges of smuggling drugs into a correctional facility, another inmate threatened to stab her if she did not come with him to the shower stalls, where he proceeded to rape her. A corrections oﬃcial walked by as the rape was being perpetrated and laughed, doing nothing to stop it. Subsequently, the facility placed the perpetrator in a cell together with Nelson. 
+Nelson told SPR that, “he did nothing but beat me and rape 
+me. When I ﬁnally got out of there, I had two black eyes that were completely closed up. I didn’t deserve this.” In September 2005, after refusing Nelson’s requests to be housed in the unit for gay and transgender inmates, the facility placed her in a protective custody unit with about six other inmates. Two of them immediately forced her to perform oral sex. A deputy who saw the attacks taking place did nothing. Nelson told SPR that the next day, “the deputy made jokes about it. He asked me how much I charge for that.” Nelson went on to tell SPR that “[s]ometimes, I want to die. I’m scared to close my eyes at night.” 
+SPR staff in-person interview, 2005.
+14                                    STOP PRISONER RAPE                                         STOP PRISONER RAPE     prison oﬃcials have set gay and transgender prisoners up for abuse, and then are dismissive 
+of or refuse to cooperate with investigations. Perhaps the best-known recent example of such conduct is the case of Roderick Johnson, a young, openly gay, black man who served time in a federal prison in Texas. Upon entering the facility, he asked to be placed in protective custody, as he was concerned that he might be targeted by other inmates. Instead of responding appropriately, corrections personnel told Johnson “we don’t protect punks on this farm.” 
+Johnson was repeatedly brutalized, raped and ‘sold’ by prison gangs over the next 18 months. While Johnson requested transfer to protective custody nine times, prison administrators continually refused his requests, even mocking him by telling him to “learn to ﬁght” or accept 
+that he would continue to be raped.43 
+D. U.S. Immigration and Customs Enforcement (ICE) Detainees
+The passage of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 and the 
+Homeland Security Act of 2002 has resulted in dramatic increases in the number of immigrant detainees and the length of periods of detention.
+44 On an average day, the United 
+States Department of Homeland Security detains more than 200,000 individuals in ICE detention centers.
+45 
+There is a considerable record of sexual abuse in U.S. immigration detention. As documented in a 2004 SPR report 
+entitled No Refuge Here: A First Look at 
+Sexual Abuse in Immigration Detention,  
+many ICE detention centers are plagued by systemic problems with sexual 
+violence.46 There are many reasons why 
+immigration detainees are at heightened risk for sexual abuse, including: overcrowding; lack of independent monitoring by advocacy organizations; an absence of data on sexual abuse of detainees; fear of deportation; inadequate access to counsel; and varied literacy and language skills. Due to these 
+factors, and especially to the acute fear of retaliatory deportation, few immigration detainees challenge the conditions of their conﬁnement, including those who suﬀer sexual abuse.   
+   In October 2004, Nereyda Escalante, a woman from Mexico residing in California, was detained by U.S. immigration oﬃcials after returning from a visit to Tijuana. She was taken to the San Diego Correctional Facility, an immigration detention facility, pending a court hearing before an immigration judge to determine whether she would be deported. 
+On December 15, 2004, Escalante alleges that a 
+detention center oﬃcial ordered her to accompany him to a room to work under his supervision ﬁlling bags with 
+candy that the facility was going to distribute to detainees for the Christmas holidays. The room was out of the view of security cameras. Shortly after Escalante entered the room and sat down to work, the oﬃcer pushed her to the ﬂoor, pulled her pants down, and raped her. He then warned her not to say anything about what he had done, and threatened her with severe consequences if she were to do so. The next morning, the oﬃcial ordered Escalante to accompany him to the same room, where he raped her again, and again warned her not to tell anyone what he had done. Escalante suﬀered serious physical injuries and emotional distress as a result of the attacks. 
+Adapted from Amended Complaint in Escalante v. Corrections Corp. of 
+America, Inc., No. 05 CV 0022 WQH (AJB) (S.D. CA,  ﬁled August 16, 2005).
+ 
+15  IN THE SHADOWS: Sexual Violence in U.S. Detention Facilities     
+                                     STOP PRISONER RAPE                                         STOP PRISONER RAPE     Despite the obvious risk factors among immigration detainees, the ICE Detention 
+Operations Manual represents a distressing example of institutional indiﬀerence toward the potential for sexual misconduct and abuse. The manual does not deal with sexual assault in a comprehensive and substantive manner. Existing language is unfocused and out-of-date, contributing to a policy document that treats sexual assault as an afterthought in the context of ICE detention.
+47 
+SPR, along with other human rights organizations, have attempted to obtain access to ICE detention centers to monitor the conditions, but have found it diﬃcult, if not impossible, to gain entry to the facilities in general, and to individual detainees in particular. For example, of the eight ICE facilities SPR contacted in 2002-2003 in connection with the production of No Refuge Here , ﬁve denied even a low level site visit by SPR staﬀ, either referring to post 
+9-11 safety concerns or oﬀering no reason for the denial. 
+Recommendations on Vulnerable Populations
+Article 11 of the CAT requires that the U.S. “keep under systematic review…arrangements for custody and treatment of persons subjected to any form of arrest, detention or imprisonment…with a view to preventing any cases of torture.” From the cases and analysis above, it is clear that certain groups of prisoners continue to 
+be singled out for sexual abuse. 
+In accordance with the CAT, SPR calls on the U.S. to examine the ways in which current policies and 
+procedures are placing these groups at increased risk and to implement necessary reforms.
+• Dormitories and other living areas must be regularly patrolled, and special attention must be paid to blind spots. Security cameras must be installed to aid in the monitoring of blind spots.
+• Dormitory-style housing must be discontinued in high-security facilities and wherever understaﬃng is 
+an issue.
+• Inmate objections to being paired with a speciﬁc cellmate due to fear of assault must be respected. 
+• The physical safety of sexual assault victims must be ensured in a non-punitive way, by moving the suspected aggressor into segregation or to another housing area, rather than punishing the victim further through segregation.
+• Non-violent oﬀenders must be kept safe from sexual violence at all times. Most importantly, a strict classiﬁcation system must be implemented that ensures that those vulnerable to sexual violence never are assigned as cellmates to violent, predatory inmates.
+16                                    STOP PRISONER RAPE                                         STOP PRISONER RAPE     V. IN THE AFTERMATH OF ASSAULT: LACK OF SERVICES AND REDRESS
+In the aftermath of a sexual assault in detention, victims are faced not only with the very real 
+threat of further abuse, but with further victimization from the prison or jail administration itself. Prisoners are often unable to access adequate mental health services and other assistance. To make matters worse, corrections oﬃcials who sexually victimize prisoners or knowingly fail to protect them from abuse by other inmates are rarely criminally prosecuted or held civilly liable. In cases where action is considered, resignation or termination—without prosecution—is the usual result. Moreover, inmates who wish to seek legal redress after an assault are confronted with signiﬁcant legal and administrative hurdles, including those posed through the notorious Prison Litigation Reform Act (PLRA).
+48• Juvenile inmates must be housed separately from adults.
+• Juvenile inmates held in adult facilities must be recognized as youth, for whom standard procedures such 
+as strip searches and being viewed while in a state of undress can be especially excruciating, particularly when guarded by members of the opposite gender.
+• Oﬃcials at all detention facilities must take into account the extr eme risk of sexual violence facing gay 
+and transgender inmates. In particular, gay and transgender inmates should be given the option to be housed separately from the general population.
+ 
+• Insensitive blanket housing policies for transgender inmates must end, such as automatically placing them in segregation or basing their housing assignment solely on their genitalia or perceived gender identity.
+• ICE detention facilities must adopt sound policies and practices that adequately pr otect detainees from 
+sexual assault.
+• Given the limited constitutional protections applicable to non-U.S. citizens, it is especially urgent that independent NGOs be granted access to ICE detention facilities to ensure that violations of the CAT are 
+not occurring.
+17A.  No Conﬁdentiality for Survivors
+In SPR’s experience, when an inmate is sexually 
+assaulted behind bars, there is a severe disconnect between the serious nature of what has occurred and the response of most detention facilities. In particular, virtually all prisons and jails deny rape survivors the right to seek conﬁdential mental health counseling. On the contrary, prison mental health staﬀ and other employees are required to report anything that potentially threatens the security of the facility or that may constitute a crime or a breach of institutional policy. As a result, prisoners who conﬁde in institutional mental health counselors do so at great risk, as details about their experiences are likely to be shared with other oﬃcials.
+49 
+Because of these reporting requirements, inmates who speak with in-house counselors lose the power to decide when and if they feel ready and safe enough to formally report the perpetrator. Once a counselor reports the abuse to other oﬃcials, an investigation may follow in which the identity of the parties implicated is revealed and each such party is interrogated, leaving the victim at great risk of retaliation and further abuse and often in desperate need for transfer to a safer unit or facility.
+50  
+Despite the existence of community rape crisis centers throughout the U.S., prisoners have 
+traditionally had no access to counselors from these centers, as detention facilities have taken the position that it would constitute a security risk to allow conﬁdential communication between inmates and outside mental health providers. While the dearth of adequate services for inmates is widespread, positive change appears to be on the way in California. Through a groundbreaking project believed to be the ﬁrst of its kind in the U.S., SPR is working with the California Department of Corrections and Rehabilitation to facilitate prisoners’ access to independent rape crisis counselors. If the project develops according to plan, conﬁdential 
+counseling inside two California prisons will begin in mid-2006.On April 1, 2002, Penifer Salinas, a woman serving a two-year sentence for car theft at the Denver Women’s Correctional Facility, was assaulted by a corrections oﬃcer. The sergeant in charge was aware that this oﬃcer had previously had sexual contact with at 
+least one other inmate, and he was under investigation by police for stalking women in the community.  
+The oﬃcer forced Salinas to perform oral sex 
+and then raped her, telling her to keep quiet or “she would never get paroled.” The attack left Salinas bleeding from her vagina. Fearful of retaliation, Salinas did not report the rape for months. When she did, she was provided no information about how the prison was going to respond. Instead, she was placed in solitary conﬁnement, without access to her legal mail or letters from her mother, and was subjected to retaliation from other corrections oﬃcials. Salinas was not informed when the oﬃcer was removed from the prison and arrested on the stalking charge. Now out of prison, she continues to suﬀer from anxiety attacks as a result of the rape and the manner in which she was treated after reporting it. 
+Alan Prendergast, “If the Shoe Fits: Did Colorado Prison Guards Look the Other Way While a Guard’ s Fetish Turned Violent?,” 
+Prison Legal News , February 2006.
+18 IN THE SHADOWS: Sexual Violence in U.S. Detention Facilities                                     STOP PRISONER RAPEB. Prosecution of Staff Rare
+In addition to the dearth of adequate services available to inmates in the aftermath of an 
+assault, a cloud of impunity hangs over U.S. detention facilities for their failure to prosecute these cases.
+      Even in the cases of complaints of sexual abuse ﬁled by inmates and substantiated 
+by staﬀ, few corrections oﬃcials are prosecuted. According to the U.S. Department of Justice 
+(DOJ), in 2004, there were 508 substantiated incidents of staﬀ sexual misconduct in federal and state prisons, including juvenile and Immigrations and Custom Enforcement (ICE) facilities, and jails.
+ 51  Staﬀ were discharged in 296 of these cases, while only 193 were referred 
+for prosecution.52 During the same period, there were 140 substantiated incidents of sexual 
+harassment of inmates by corrections staﬀ. Staﬀ were discharged in just 47 of these cases, and referred for prosecution in four.
+53 
+In a review of inmates held in custody by the federal Bureau of Prisons (BOP), the U.S. 
+Oﬃce of the Inspector General (OIG) found that a majority of the staﬀ who committed sexual misconduct were not prosecuted for their crimes.
+54 Instead, the cases were handled 
+administratively, and the implicated corrections personnel either resigned from their positions, or were disciplined or terminated.
+55 Between 2000 and 2004, the OIG submitted 163 sexual 
+abuse cases for prosecution. Forty-ﬁve percent, or 73 of these cases, were actually accepted for prosecution and 65 resulted in convictions. Eighty-eight cases, or 54 percent, were declined for prosecution.
+56  
+C. Inadequate Remedies at Law for Victims 
+It is diﬃcult for a prisoner who has been victimized to seek legal redress in the civil system. 
+Civil rights litigation, especially on behalf of prisoners, is often prohibitively expensive and usually takes years to conclude. In addition, the standard established under Farmer v. Brennan
+ 
+is so diﬃcult to meet that few plaintiﬀs have been successful.  Speciﬁcally, corrections oﬃcials can only be held liable for sexual violence against prisoners where they have shown “deliberate indiﬀerence” by “disregard[ing] an excessive risk to prisoner health or safety. The oﬃcial must both be aware of facts from which the inference could be drawn that a substantial risk of serious harm exists, and he must also draw that inference.”
+57
+This is, in practical terms, an insurmountable standard for liability, requiring that the prisoner be able to prove not that the oﬃcial should have known  that a prisoner was at risk for assault, but 
+that the oﬃcial did in fact know  of the risk. The standard also creates a perverse incentive for 
+prison oﬃcials to deliberately ignore what is happening in their facilities, and usually means that they will avoid liability for sexual violence by asserting that they were unaware of any risk.
+In addition to the onerous Farmer standard, the Prison Litigation Reform Act (PLRA) of 1996 
+places limits on inmates’ ability to seek civil redress in federal court. With the stated purpose 
+of discouraging prisoners from ﬁling “frivolous” lawsuits, this statute dramatically limits the 
+19                                     STOP PRISONER RAPE  IN THE SHADOWS: Sexual Violence in U.S. Detention Facilities     
+                                     STOP PRISONER RAPE                                         STOP PRISONER RAPE     ability of individuals, NGOs, and even the U.S. Department of Justice to challenge abusive 
+prison conditions through litigation. Most importantly, the PLRA mandates that prisoners exhaust all administrative remedies before ﬁling suit for damages. This requirement often means that prisoners must report their abuse to the very corrections oﬃcer who assaulted them, or who failed to put an end to abuse by another inmate, within a short timeframe following the assault. The PLRA also bars prisoners from seeking damages for sexual harassment, invasions of privacy such as strip searches, and inappropriate sexual touching that falls short of sexual assault. Additionally, the PLRA precludes attorneys’ fees for lawyers representing prisoners.
+Moreover, despite the CAT Committee’s recommendation to the U.S. in 2000, the U.S. continues 
+to refuse to permit Article 22 communications to the Committee. Such communications would allow individuals who are victims of sexual abuse in detention to contact the Committee once they have exhausted available avenues of relief within the U.S. legal system. The U.S. explained this decision by stating that “[its] legal system aﬀords numerous opportunities for individuals to complain of abuse, and to seek remedies for such alleged violations,” and that it would thus “continue to direct its resources to addressing and dealing with violations of the Convention pursuant to the operation of its own domestic legal system.”
+58 However, the U.S. continues 
+to fail in its duty to protect inmates from abuse, provide adequate treatment for victims, prosecute corrections oﬃcials who are complicit in these abuses, and allow an adequate civil remedy at law for victims.
+20                                    STOP PRISONER RAPE                                         STOP PRISONER RAPE     Recommendations on Adequate Services and Redress for Victims
+In its Second Periodic Report, the U.S. government maintains that “[l]aw enforcement authorities in the U.S. 
+continue to prevent and punish acts of sexual abuse committed against prisoners.” Unfortunately, that is not the case. On the contrary, the dearth of services available to inmates in the aftermath of a sexual assault paired with the cloud of impunity that continues to hang above U.S. detention facilities constitute a serious breach of both the letter and the spirit of the CAT. Article 12 of the CAT requires “competent authorities [to] proceed to a prompt and impartial investigation” of a suspected violation and to protect an inmate from “ill-treatment or intimidation as a consequence of his complaint.” Articles 13 and 14, respectively, require states to ensure than an individual has “the right to complain to, and to have his case promptly and impartially examined by, its competent authorities” and that he “obtains redress and has an enforceable right to fair and adequate compensation…” 
+SPR calls on the U.S. government to ensure that prisoner rape survivors are not left to suﬀer alone, and to reconsider 
+its inadequate system of judicial remedies available to inmates who have been subjected to sexual abuse.
+• All inmates, including those in administrative segregation, protective custody, and prison inﬁrmaries must have access to prompt and conﬁdential mental health counseling and medical care in the aftermath of sexual 
+abuse.
+• Mental health and other services must never be withheld from an inmate because he/she is unwilling to name the perpetrator of an assault or ﬁle a formal complaint.
+• Detention facilities must ensure that all segregation of those who report sexual abuse is voluntary, non-disciplinary, and does not result in any loss of privileges, resources, services, and programs. Similarly, inmates must not be needlessly transferred to another facility, as such transfers frequently render it impossible to maintain contact with loved ones.
+• NGOs and other independent monitors and service providers must be granted access to detention facilities 
+and inmates.
+• All inmates must be made aware of their right to bypass the chain of command when reporting a sexual assault, ensuring that nobody is put in the position of having to report an assault to the perpetrator.
+• Corrections oﬃcials who interfere with a prisoner’s eﬀorts to report abuse must be eﬀectively disciplined.
+    
+• Regardless of the potential criminal penalty, state and local prosecutors must investigate and prosecute all substantiated instances of custodial sexual misconduct, sexual assault, or rape in custody.
+• Congress should repeal the PLRA. Alternatively, and at the very least, the PLRA must be amended to exempt all cases involving allegations of sexual abuse.
+• The U.S. should reconsider permitting Article 22 communications to the CAT Committee, which would allow individuals who are victims of sexual abuse in detention to address communications to the Committee 
+when they have exhausted available avenues of relief within the U.S. legal system.  
+21  IN THE SHADOWS: Sexual Violence in U.S. Detention Facilities     
+                                     STOP PRISONER RAPE                                         STOP PRISONER RAPE     ENDNOTES
+  1.  Transcript: Rumsfeld’s Opening Statement , 
+WASHINGTON POST , May 7, 2004 (transcript of 
+testimony from To receive testimony on allegations 
+of mistreatment of Iraqi prisoners: Hearing Before Senate Comm. on Armed Servs
+., 108th Cong. 1, 
+2004). 
+  2.  Second Periodic Report of the United States of 
+America to the Committee Against Torture, U.N. Doc. CAT/C/48/Add.3 at 45 (2005) [hereinafter U.S. Report]
+.
+  3.  Cindy Struckman-Johnson and David Struckman-
+Johnson, Sexual Coercion Rates in Seven Midwestern Prison Facilities for Men
+, 80 THE 
+PRISON JOURNAL  379 (2000).
+  4.  Cindy Struckman-Johnson and David Struckman-
+Johnson, Sexual Coercion Reported by Women in Three Midwestern Prisons
+, 39 J. OF SEX RESEARCH  
+3 (2002).
+  5.  ALLEN J. BECK, PH.D. AND TIMOTHY A. HUGHES, BUREAU OF JUSTICE STATISTICS
+ (BJS) , 
+SEXUAL VIOLENCE REPORTED BY CORRECTIONAL AUTHORITIES 2004 1 (July 2005).  
+  6.  The United Nations Special Rapporteur on 
+Torture, for example, has documented the use of rape in custody as a method of torture.  Report by the Special Rapporteur, P . Koojimans, U.N. Doc. E/CN.4/1986/15 (February 19, 1986), at 29.
+  7.  See, e.g., Stop Prisoner Rape, Fact Sheet: Prisoner Rape is Torture Under International Law (undated), at www.spr.org/publications, 
+citing  
+Summary Record of 21st Meeting, U.N. ESCOR, Comm’n Hum. Rts, 48th Sess., para 35, U.N. Doc. E/CN.4/1992/SR.21 (1992), reprinted in Deborah Anker, LAW OF ASYLUM IN THE UNITED STATES, 3rd Ed., 490 (Refugee Law Center, Inc., 
+1999) .
+  8. Farmer v. Brennan , 511 U.S. 825 (1994).
+  9. Id. at 833-34.
+10.  Id. For discussion, see also , STOP PRISONER 
+RAPE , STILL IN DANGER: THE ONGOING THREAT 
+OF SEXUAL VIOLENCE AGAINST TRANSGENDER 
+PRISONERS  2 (2005).
+11.  The Prison Rape Elimination Act, 42 U.S.C. § 
+15601, et seq. (2005).
+12.  See, e.g., Norman Sinclair et al., Michigan Faces Conﬂict of Interest: Attorney General Defends the State Against Lawsuits and Prosecutes Oﬀenders
+, 
+DETROIT  NEWS, May 24, 2005 (discussing 
+Wayne County Prosecutor’s decision to “end its traditional role of prosecuting prison sex abuse cases” because “we can no longer devote scarce resources to investigate and charge crimes committed in state correctional institutions.”); 
+see also, Silja Talvi, Not Part of My Sentence , in 
+PRISON  NATION , 262, 265 (Tara Herivel & Paul 
+Wright, eds ., 2003) (discussing decision by a 
+county prosecutor’s oﬃce in Tacoma, Washington not to ﬁle charges against a corrections oﬃcer even though the prison superintendent ﬁred him following an internal investigation into allegations of rape and sexual assault by three women inmates, citing a lack of corroborating evidence); HUMAN RIGHTS WATCH
+, NO ESCAPE : MALE RAPE  
+IN U.S. P RISONS   339 (2001)  (letter from Texas 
+Department of Criminal Justice stating that of the 519 cases of sexual assault investigated by the Department’s Internal Aﬀairs division between the years 1984 through 1997, only four resulted in prosecution).
+13.  AMNESTY INTERNATIONAL  USA, ABUSE  OF 
+WOMEN  IN CUSTODY : SEXUAL  MISCONDUCT  
+AND THE  SHACKLING  OF PREGNANT W OMEN , 
+OVERVIEW OF STATE LAWS ON CUSTODIAL SEXUAL MISCONDUCT , at http://www.amnestyusa.org/
+women/custody (visited March 1, 2006).  In addition, laws in Arizona, California, Delaware and Nevada allow criminal action to be taken 
+against inmates for engaging in sexual conduct.
+14.  42 U.S.C. § 1997 et seq ., and 42 U.S.C. § 14141 
+et seq.
+15.  Ann Pastore and Kathleen Maguire, eds. 
+Sourcebook of Criminal Justice Statistics [Online], 
+at http://www.albany.edu/sourcebook/ (visited April 25, 2006).
+16.  Based on a calculation of incarceration data 
+from ROY WALMSLEY, KING’S COLLEGE LONDON, WORLD PRISON POPULATION LIST
+ (6th ed. 2005).
+17.  Terry Kupers, Rape and the Prison Code , in PRISON  
+MASCULINITIES 111, 113 (Don Sabo et al. eds., 
+2001).
+18.  HUMAN RIGHTS WATCH , supra note 12, at 149 
+(discussion of the increased use of double-celling 
+with two men being placed in cell designed for single occupancy with little regard for selecting 
+compatible cellmates). 
+19.  ASSOC. OF STATE CORRECTIONAL ADMINS., CORRECTIONS PROGRAM OFFICE, OJP , BUREAU OF JUSTICE STATISTICS & NAT’L INST. OF JUSTICE, STATE AND FEDERAL CORRECTIONS INFORMATION SYSTEMS 29 (1998).
+20.  Id.  In addition to the ﬁfty states, the federal Bureau of Prisons and the District of Columbia Department of Corrections were included in the study.
+22                                    STOP PRISONER RAPE                                         STOP PRISONER RAPE     21.  Daniel Brook, The Problem of Prison Rape , LEGAL 
+AFFAIRS, March/April 2004, at 24.
+22. Kupers, supra  note 17, at 112.
+23.  At Risk: Sexual Abuse and Vulnerable Groups 
+Behind Bars , Hearing Before the National Prison 
+Rape   Elimination Commission (August 13, 
+2005 ) (testimony of Terry Kupers, Ph.D.,  of The 
+Wright Institute ).
+24. Kupers, supra  note 17, at 112.
+25. See, e.g., id. at 112-116.
+26.  DANIEL LOCKWOOD , PRISON  SEXUAL V IOLENCE , 
+146-147 (1980).
+27. BECK & HUGHES  (BJS), supra  note 5, at 2.  
+28.  Christian Parenti, Guarding Their Silence: Corcoran 
+Guards Acquitted of Rape , in PRISON NATION  254-
+55 (Tara Herivel & Paul Wright, eds., 2003).
+29. Lockwood, supra  note 26, at 33-34.  
+30.  See, e .g., HUMAN  RIGHTS WATCH , supra , note 12, 
+at 149; LOCKWOOD , supra  note 26, at 33-34 .
+31.  At Risk: Sexual Abuse and Vulnerable Groups Behind Bars
+, Hearing Before the National Prison 
+Rape Elimination Commission (August 13, 2005 ) 
+(Testimony of Keith DeBlasio, Prisoner Rape Survivor).
+32.  See, e.g., Stop Prisoner Rape, www.spr.org, “The Basics on Rape Behind Bars” citing Martin Forst 
+et al., Youth in Prisons and Training Schools: Perceptions and Consequences of the Treatment-Custody Dichotomy
+, 2 JUV. & FAM. CT. J. 9  (1989).
+33.  See, e.g., Stop Prisoner Rape, Fact Sheet: Juveniles in Adult Facilities are Vulnerable to Sexual Assault, citing Michael G. Flaherty, THE COMMUNITY RESEARCH FORUM OF THE UNIVERSITY OF ILLINOIS
+, AN ASSESSMENT OF THE 
+NATIONAL INCIDENCE OF JUVENILE SUICIDE IN ADULT JAILS, LOCKUPS AND JUVENILE DETENTION 
+CENTERS , 10 (1980);   Jason Ziedenberg & 
+Vince Schiraldi, The Risks Juveniles Face: Housing Juveniles in Adult Institutions is Self-Destructive and Self-Defeating
+, 60 CORRECTIONS TODAY  22, 24 
+(1998).
+34. Id.
+35.  HOWARD SNYDER & MELISSA SICKMUND, DEPARTMENT OF JUSTICE, OFFICE OF JUSTICE PROGRAMS, JUVENILE OFFENDERS AND VICTIMS: 2006 NATIONAL REPORT 236
+ (2006).
+36.  For a recent case, see, e.g., Richard Walton, 
+Guards Accused of Sexual Misconduct: 6 girls in Marion County juvenile detention center allegedly were abused
+, INDIANAPOLIS  STAR , April 25, 
+2006 (detailing allegations that nine employees, including the superintendent of the facility, committed sexual misconduct against girls aged 13 to 15 between the years 2000 and (July) 2005).
+37. BECK & HUGHES  (BJS), supra  note 5, at 5.
+38.  HOWARD SNYDER & MELISSA SICKMUND , 
+DEPARTMENT OF JUSTICE, OFFICE OF JUSTICE PROGRAMS, JUVENILE OFFENDERS AND VICTIMS: 2006 NATIONAL REPORT
+, 230 (2006).
+39. 2 Id.
+40. 3 Id. at 230-31.
+41.  At Risk: Sexual Abuse and Vulnerable Groups Behind Bars
+, Hearing Before the National Prison 
+Rape   Elimination Commission (August 13, 
+2005 ) (testimony of Jody Marksamer, Esq., of the 
+National Center for Lesbian Rights ).
+42. STOP PRISONER RAPE, supra  note 10, at 4-5 .
+43.  Silja Talvi, Prison’s Shameful Secret , THE NATION,  
+September 9, 2002, at http://www.thenation.com/
+doc/20020923/talvi20020909.
+44.  STOP PRISONER RAPE, NO REFUGE HERE: A FIRST LOOK AT SEXUAL ABUSE IN IMMIGRATION 
+DETENTION 2, n.16 (2004),  citing A Review of 
+Department of Justice Immigration Detention Policies: Hearing, Committee on the Judiciary Subcommittee on Immigration and Claims
+, 107th 
+Cong. 1 (2001) (statement of Joseph Greene, Acting Deputy Executive Associate Commissioner for Field Operations, U.S. Immigration and Naturalization Service and Edward McElroy, District Director, New York, U.S. Immigration and Naturalization Service), available at
+ 
+http://uscis.gov/graphics/aboutus/congress/testimonies/2001/greene_121901.pdf.
+45. Id. at 1.
+46. Id.
+47.  Id. at 11-16; for discussion of recommendations 
+for information to be included in the ICE 
+detainee handbook, see p. 20.
+48. 18 U.S.C. § 3626 et seq .
+49. KUPERS , supra  note 17, at 112.
+50.  Terry Kupers, Mental Health in Men’s Prisons, in 
+PRISON  MASCULINITIES 194-95 (Don Sabo et al. 
+eds., 2001) . 
+51. BECK & HUGHES , supra  note 5, at 9-10.
+52. Id. at 10.
+53. Id. at 9.
+54.  U.S. DEPARTMENT OF JUSTICE, OFFICE OF THE INSPECTOR GENERAL, DETERRING STAFF SEXUAL ABUSE OF FEDERAL INMATES 9 (April 2005).
+55. Id. at 9-11.
+56. Id.
+57. Farmer , 511 U.S. at 837.
+58. U.S. Report to CAT, supra  note 2, at 46.
+23STOP PRISONER RAPE
+3325 Wilshire Blvd., Suite 340
+Los Angeles, CA 90010
+Tel: 213-384-1400
+Fax: 213-384-1411
+www.spr.org

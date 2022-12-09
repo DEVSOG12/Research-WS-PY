@@ -1,0 +1,11 @@
+#*.pdf
+#./*.pdf
+#**/*.pdf
+src/client_secrets.json
+# Remove ./liwc/ directory and all files in it
+
+liwc/
+liwc_fixed.zip
+liwc_fixed/
+liwcCorrected/
+

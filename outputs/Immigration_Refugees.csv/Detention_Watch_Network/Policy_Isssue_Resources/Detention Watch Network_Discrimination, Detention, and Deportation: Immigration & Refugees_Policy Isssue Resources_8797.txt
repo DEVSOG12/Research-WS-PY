@@ -1,0 +1,1102 @@
+Lives in Peril:
+How Ineffective Inspections 
+Make ICE Complicit inImmigration Detention Abuse
+The Immigration Detention Transparency and Human Rights Project
+immigrantjustice.org detentionwatchnetwork.org
+ October 2015 ReportAbout the National Immigrant Justice Center
+With of ﬁ ces in Chicago, Indiana, and Washington, D.C., Heartland Alliance’s National Immigrant 
+Justice Center (NIJC) is a nongovernmental organization dedicated to ensuring human rights protections and access to justice for all immigrants, refugees, and asylum seekers through a unique combination of direct services, policy reform, impact litigation and public education. 
+Visit 
+immigrantjustice.org
+About the Detention Watch Network
+The Detention Watch Network works through the collective strength and diversity of its members to 
+expose and challenge injustices of the U.S. immigration detention and deportation system and advocate for profound change that promotes the rights and dignity of all persons.
+Visit 
+detentionwatchnetwork.org
+Acknowledgements
+This report was a collaborative effort of NIJC and DWN. Primary contributors were: Claudia 
+Valenzuela, Tara Tidwell Cullen, Jennifer Chan, and Royce Bernstein Murray of NIJC; and Mary Small, Carol Wu, and Silky Shah of DWN. Additional thanks to Assistant Professor John Eason, Professor Pat Rubio Goldsmith, and their team at the Texas A&M Department of Sociology and Professor David Hernández at Mount Holyoke College whose review of thousands of pages of documents and feedback were critical to this report.
+NIJC staff and interns also contributed crucial research, editing, and design support: Mark Fleming, 
+Catherine Matthews, Mary Meg McCarthy, Kathleen O’Donovan, Katherine Rivera, and Julia Toepfer.
+Sincere thanks to pro bono  attorneys at Dentons US LLP, who represented NIJC through more than 
+three years of Freedom of Information Act litigation to obtain the inspections documents analyzed for this report.
+Cover Images: La Vision, Detention Watch Network, Will Coley, National Immigrant Justice Center 
+© October 2015 Detention Watch Network and Heartland Alliance’s National Immigrant Justice CenterPage 1Table of Contents
+I. Executive Summary .......... 2
+II. Navigating the Inspection Reports .......... 7
+III. Ineffective Inspections .......... 10
+IV. In Focus: Six Case Studies of Facilities 
+with Known Conditions Problems, 2007-2012 .......... 16
+V. Conclusion and Recommendations .......... 29
+Eloy Federal Contract Facility, Arizona ..... Page 17
+Baker County Detention Center, Florida ..... Page 19
+Etowah County Detention Center, Alabama ..... Page 21
+Houston Processing Center, Texas ..... Page 23
+Stewart Detention Center, Georgia ..... Page 25
+Pulaski County Jail, Illinois (formerly named Tri-County Detention Center) ..... Page 27
+VI. Endnotes .......... 30
+ 
+Read this report and download inspections and other cited documents 
+at immigrantjustice.org/TransparencyandHumanRights
+The Immigration Detention Transparency and Human Rights Project 
+October 2015 ReportPage 2Lives in Peril: How Ineffective Inspections Make ICE Complicit in Detention Center Abuse
+I. Executive Summary
+In the aftermath of September 11, 2001, when the immigration detention system began its unprece-
+dented growth, the world slowly began to hear about the troubling conditions of detention that immi-grants confronted in government custody while facing removal from the United States. Years later, the Obama administration would inherit a sprawling, broken immigration detention system with little oversight or accountability. In 2015, as the Obama administration winds down, its early promises of immigration detention reform have failed to materialize. The U.S. Immigration and Customs Enforce-ment (ICE) immigration detention inspections process—a key target of the Obama administration’s reform plan—remains non-transparent and ineffective at identifying pervasive and troubling conditions in detention. Instead, the inspections process remains a “checklist culture,” in which inspectors—em-ployed by ICE directly or via subcontracts—engage in pre-planned, perfunctory reviews of detention facilities that are designed to result in passing ratings and to ensure local counties and private prison corporations continue to receive government funds.
+A review of ﬁ ve years of ICE inspections for 105 of the largest immigration detention centers con ﬁ rms 
+that ICE’s oversight practices under the Obama administration remain fundamentally unchanged and unreformed. Public and private contractors who run detention facilities continue to make money without adequate oversight, and troubling conditions of detention persist for the more than 400,000 individuals who pass through ICE custody each year. In fact, detailed reviews of six facilities known to have troubling human rights records suggest that in some cases, ICE inspections allow facilities to obscure severe conditions problems and their inability to protect the rights and lives of detained immigrants.
+Immigration Detention Oversight Under the Obama Administration
+The transition from the Bush to the Obama administra-tion was accompanied by a tide of high-pro ﬁ le reports by 
+journalists and advocates chronicling human rights abus-es and unexplained deaths of people in ICE custody. In groundbreaking exposés in 2008, both The Washington Post
+1 and The New York Times2 examined allegations of 
+negligent medical care and revealed that at least 83 peo-ple
+3 had died in ICE custody between 2003 and 2008. 
+That same year, a report4 about the Northwest Detention 
+Center in Tacoma, Washington, described inadequate medical care and food, deplorable daily living conditions, and impediments to legal information—conditions similar to what individuals in ICE custody experienced around the country. In 2009, advocates published ICE detention documents obtained in litigation, and concluded that the inspections process had failed.
+5
+This public scrutiny prompted congressional inquiries into the sprawling system whose population had quadru-pled within a span of 14 years.
+6 Congress passed a 2009 
+Department of Homeland Security (DHS) appropriations bill which included a provision that ICE cannot expend 
+Page 3The Immigration Detention Transparency & Human Rights Project - October 2015 Report
+funds to immigration detention facilities that fail two consecutive inspections. On August 6, 2009, the 
+Obama administration also responded by announcing a series of reforms which it said would create a more civil detention system.
+7  Among the reforms was a revamp of ICE’s compliance monitoring 
+procedures and the establishment of the Of ﬁ ce of Detention Oversight (ODO) to inspect immigration 
+detention facilities and investigate the deaths of individuals in ICE custody.8
+In addition to changes to the immigration detention system, in 2009 President Obama promised trans-parency across the federal government. On January 21, 2009, the president directed the heads of all federal agencies to “adopt a presumption in favor of disclosure … and to usher in a new era of open Government.” In a memorandum, he said, “The presumption of disclosure also means that agencies should take af ﬁ rmative steps to make information public.”
+9 Nonetheless, such proactive transparency 
+and commitment to open government failed to materialize in the immigration context. The ICE inspec-tions regime is shrouded in secrecy. Information regarding facilities’ compliance with ICE’s detention standards has largely been hidden from the public. Since ICE released its ﬁ rst and only semiannual 
+report on compliance with its national detention standards in 2007, information about how ICE over-sees detention facilities, and what that oversight uncovered, has largely come from Freedom of Infor-mation Act (FOIA) requests and litigation.
+10 The inspections released with this report were not made 
+available voluntarily by DHS, but as the result of FOIA requests by the National Immigrant Justice Center (NIJC) and a federal court order following three years of litigation. 
+NIJC has released all inspections from 2007 to 2012 obtained through the FOIA litigation at 
+immigrantjustice.org/TransparencyandHumanRights .
+Overview of Findings
+NIJC and Detention Watch Network (DWN) reviewed ICE detention facility inspections dating from 
+2007 to 2012, most of which were previously unreleased. A close analysis of the inspections, along with additional human rights reports that elucidate conditions in speci ﬁ c facilities, reveals that the 
+Obama administration has done little to improve oversight or gain control over the sprawling immi-gration detention system and the conditions approximately 34,000 immigrants face in custody every night.  
+The documents released include:
+• Annual facility inspections by the ICE Of ﬁ ce of Enforcement and Removal Operations 
+(ERO). Under the 2009 DHS Appropriations Act, these are the inspections that deter-mine whether detention facilities are allowed to maintain their contracts with ICE.
+• Facility inspections by the ODO, the of ﬁ ce under the ICE Of ﬁ ce of Professional Respon-
+sibility purportedly created to ensure better monitoring compliance.
+11
+• The deposition of the chief of ICE’s Detention Monitoring Unit, which provides an over-
+view of the immigration detention inspections process.12
+This report contains an evaluation of the ERO and ODO inspections process itself as gleaned from the documents and a focused analysis of six detention facilities known to have detention conditions violations during the study period.
+While the most recent inspections covered in this report are from 2012, there is no indication that any 
+of the shortcomings identi ﬁ ed have changed. Three years later, advocates and non-governmental 
+organizations (NGOs) continue to raise complaints of systemic human rights
+13 and due process vio-Page 4Lives in Peril: How Ineffective Inspections Make ICE Complicit in Detention Center Abuse
+lations14 in the immigration detention system. In the ﬁ rst nine months of 2015 alone, ICE reported six 
+deaths in detention.15 
+Based on the review of the inspection reports, NIJC and DWN found:
+1. ICE’s Culture of Secrecy Persists
+• Neither information nor documents which would help the public to understand 
+ICE’s inspections and oversight processes are readily available.
+• There is a lack of independent oversight because both entities which conduct 
+inspections are paid and vetted—either through contracts or as direct employ-ees—by ICE. 
+2. ICE Inspections Fail to Adequately Assess the Conditions Detained Immigrants Experience
+• Both ERO and ODO inform facilities of inspections in advance.
+16
+• There are signi ﬁ cant inconsistencies within and between inspection reports for 
+individual facilities, as well as between ODO and ERO inspections, raising ques-tions about the reliability of either inspections process.
+• As of FY 2012, most ICE detention facilities continued to be inspected using out-
+dated standards.
+• Inspectors fail to apply 2008 and 2011 Performance-Based National 
+Detention Standards language that was intended to improve oversight of facilities that detain immigrants for ICE under contracts called Intergovernmental Service Agreements (IGSAs).
+• ERO and ODO inspection reports are not designed to capture actual conditions 
+of detention for the population at a given facility.
+3. Inspections are Designed to Facilitate Passing Ratings for Facilities, Not Identify or Address 
+Violations
+• Even where human rights violations and unexplained deaths have been publicly 
+documented, facilities rarely fail ERO inspections. 
+• Inspection reports may be edited before they are ﬁ nalized and submitted to ICE’s 
+Detention Monitoring Unit by the inspections contractor.
+• The checklist ERO inspectors use during their reviews does not include all com-
+ponents of the detention standards.
+(For a better understanding of the ICE of ﬁ ces involved in the detention center inspections system, 
+see page 6 of this report.)Page 5The Immigration Detention Transparency & Human Rights Project - October 2015 Report
+Recommendations
+NIJC and DWN call on DHS and ICE to:
+1. Increase Transparency and Oversight of the Inspections Process
+A. Make ERO and ODO inspections available to the public in a timely manner. To date, ICE 
+has released its inspections to the public only as a result of FOIA requests. FOIA requests are unnecessarily time-consuming and expensive obstacles to accessing information about how the federal government treats thousands of people in its custody and spends billions of taxpayer dollars. Instead, this information should be freely available.
+B. Provide public reporting on suicide attempts, hunger strikes, work program stoppages, use 
+of solitary con ﬁ nement, use of force, and other signi ﬁ cant events at detention centers.
+C. Submit quarterly reporting to Congress on inspection and oversight activities of detention 
+facilities, to be made available to the public.
+2. Improve the Quality of Inspections
+A. Establish a DHS ombudsman outside of ICE to conduct unannounced inspections of immi-
+gration detention facilities at least once per year, with complete ﬁ ndings made available to 
+the public. These third-party inspections should examine compliance with applicable deten-tion standards and determine whether contracts will be renewed in accordance with con-gressional appropriations requirements.
+B.  Prohibit facilities from taking an “à la carte” approach to compliance and make all detention 
+standards provisions mandatory during inspections. ICE must stop permitting some facili-ties to opt out of detention standards they have been contracted to apply. If a facility cannot abide by detention standards in their entirety then it should not be permitted to enter into or continue a contract with ICE.
+C. Ensure that inspections involve more than checklists. Inspectors must rely on more than 
+assurances by jail administrators of compliance with detention standards and instead seek and document proof of their effective implementation.
+D. Engage detained immigrants during inspections, as well as other stakeholders such as legal 
+service providers and those who regularly conduct visitation, in order to capture the range of concerns at a facility that may not be reported through formal institutional channels. Inspec-tors should document the content of those interviews.
+3. Institute Consequences for Failed Inspections
+A. Place detention facilities on probation and subject them to more intensive inspections after 
+the ﬁ rst ﬁ nding of substantial non-compliance.
+B. Terminate contracts within 60 days for those facilities with repeat ﬁ ndings of substantial 
+non-compliance, including inadequate or less than the equivalent median score in two con-secutive inspections.Page 6Lives in Peril: How Ineffective Inspections Make ICE Complicit in Detention Center Abuse
+Department of Homeland Security (DHS)
+U.S. Immigration and Customs Enforcement (ICE)
+Enforcement and Removal 
+Operations (ERO)
+Detention Management 
+Division
+Also sometimes referred to as 
+the Custody and Management 
+Division.
+Detention Monitoring Unit
+Also sometimes referred to 
+as the Detention Compliance 
+Oversight Program, this of ﬁ ce 
+ensures that ICE detention 
+facilities adhere to detention 
+standards.
+Detention Service
+Managers
+Ofﬁ cers stationed at 54 
+detention facilities to monitor 
+day-to-day compliance with 
+ICE detention standards.Ofﬁ ce of Detention 
+Policy and Planning
+The of ﬁ ce formed in 
+2009 to oversee ICE’s 
+detention reforms.ERO Field 
+Ofﬁ cesOfﬁ ce of Professional 
+Responsibility
+Ofﬁ ce of Detention 
+Oversight (ODO)
+Conduct inspections on 
+an as-needed basis with
+a  focus on key
+standards which have 
+been identi ﬁ ed as areas 
+where a facility may not 
+be in compliance. 
+Contract Technical 
+Representative
+The ICE representative with 
+delegated limited authority 
+to bind ICE to contracts. 
+Reviews and ﬁ nalizes ERO 
+inspection reports and 
+determines ﬁ nal ratings.The Nakamoto Group
+Maryland-based government 
+management company contracted to 
+conduct ERO inspections. Prior to about 
+2009, the government contracted with 
+other companies including MGT of 
+America, Inc., and Creative Corrections.Detention Standards 
+Compliance Unit
+Interprets the detention
+standards on which the 
+inspections are based.
+Lead Compliance Inspector
+The individual who oversees inspections 
+by reviewers with subject-matter 
+expertise at ICE detention facilities. 
+Prior to about 2009, this individual was 
+called the Reviewer-in-Charge (RIC).ICE Of ﬁ ces Involved in 
+Detention Center Inspections
+Sources: January 2014 deposition in NIJC v. DHS  of the head of the ICE Detention Monitoring Unit; 
+ICE website; and Government Accountability Of ﬁ ce October 2014 reportPage 7The Immigration Detention Transparency & Human Rights Project - October 2015 Report
+II. Navigating the Inspection Reports 
+Each immigration detention facility is inspected according to a speci ﬁ c set of detention standards pro-
+mulgated by ICE. Currently, three sets of detention standards primarily are in use: the 2000 National Detention Standards (NDS)
+17 and the Performance-Based National Detention Standards (PBNDS) 
+issued in 200818 and 2011.19
+Even when facilities are inspected according to the same set of standards, the type of contract each facility holds determines exactly which speci ﬁ c requirements of each standard (called “components” 
+on the inspection worksheets, see Fig. 1 ) apply during an inspection. Facilities run by local govern-
+ments, which ICE contracts through Intergovernmental Service Agreements (IGSAs), are permitted to adapt certain components.
+20 If a local government contractor subcontracts a jail’s operations to a 
+private prison company, that company retains the ability establish alternatives to some components.21 
+In contrast, Service Processing Centers (or SPCs, facilities owned and operated by ICE) and Con-tract Detention Facilities (or CDFs, those owned and operated by private companies) are not allowed such loopholes. 
+While the PBNDS contain more robust protections for detained immigrants, the ICE inspections 
+process does not apply the same weight to all standards. Both the 2008 and 2011 PBNDS inspec-tions checklists designate some components as “mandatory.” (See Fig. 1)  For example, the 2008 
+PBNDS checklist includes 41 standards, which are broken down into a total of 889 components. Only 40 of these components are labeled “mandatory.” The introduction to the inspection form explains that mandatory items “typically represent life safety issues. A ‘Does Not Meet Standards’ on one of these components is very serious.”
+22 Failure to meet any mandatory component will cause the facil-
+ity to receive an overall de ﬁ cient rating. But ICE only takes a small number of these components so 
+seriously. Some critical components, such as those covering facilities’ response to hunger strikes or guaranteeing detained individuals have 24-hour access to emergency care, are not marked as man-datory. Many of these mandatory components ensure that there are written policies and plans in place for emergencies, but they do not re ﬂ ect or even check for implementation. As much as the standards 
+were purported to be written “with a focus on the results or outcomes that the required procedures are expected to accomplish,”
+23 there remains a gap in truly evaluating ef ﬁ cacy.
+There are three types of inspections:
+1. ERO Inspections
+Facilities that hold 50 or more people are subject to inspections conducted by ERO’s Detention 
+Management Division. 24 The ERO inspections are conducted by private contractors on an annual 
+basis. 25 Inspectors use a checklist of applicable national detention standards and each standard’s 
+components (ICE Form G-324A). The ERO ratings system consists of three tiers: the components of each standard receive ratings, which determine the rating for each standard, which in turn in-form the overall rating for the facility. (See Figs. 2-4)  Facilities inspected under the 2008 and 2011 
+PBNDS are rated simply as “meets standards” or “does not meet standards.” Facilities inspected under the 2000 NDS can be rated “superior,” “good,” “acceptable,” “de ﬁ cient,” or “at risk.” There is 
+space for notes next to each of the components and for concluding remarks to summarize the full inspection, but the quality of comments varies greatly from inspector to inspector.
+2. ODO Inspections
+Facilities with average daily populations of 50 or more people may also be subject to ODO inspec-
+tions. ODO inspectors, who may be ICE employees or contractors, focus on key standards which Page 8Lives in Peril: How Ineffective Inspections Make ICE Complicit in Detention Center Abuse
+Fig. 1: Inspection checklist excerpt 
+from Eloy Federal Contract Facility 2012 ERO inspection
+• Summary of standard
+• List of components that
+comprise the standard
+• Some components are 
+marked as “mandatory.”A rating of “Does Not Meet Standards” or “De ﬁ cient” 
+on one of these components should result in failure of the overall inspection.Page 9The Immigration Detention Transparency & Human Rights Project - October 2015 Report
+Fig. 2: 
+First tier to the ERO checklist is a rating of individual components within a given standard. Taken from the Tri-County Detention Center’s 2012 ERO inspection.
+Fig. 3: 
+Second tier to the ERO checklist is a rating for an overall standard, which is based on the ratings of individual components. Taken from the Tri-County Detention Center’s 2012 ERO inspection.
+Fig. 4: 
+Third tier to the ERO checklist is a rating for the overall facility, which is based on the ratings given to standards. Taken from the Tri-County Detention Center’s 2012 ERO inspection.Page 10Lives in Peril: How Ineffective Inspections Make ICE Complicit in Detention Center Abuse
+have been identi ﬁ ed as areas where a facility may not be in compliance. For their inspections, the 
+ODO inspectors collect and analyze “relevant allegations, complaints and detainee information from multiple ICE databases”
+26 and gather “facility facts and inspection-related information from 
+ERO [headquarters] staff to prepare for the site visit.”27 
+3. Self Assessments: 
+Facilities that only hold immigrants for less than 72 hours at a time, or that hold 50 or fewer im-
+migrants for more than 72 hours, are subject only to the Organizational Review Self-Assessment (ORSA) process.
+28 ORSA inspections were not included in NIJC’s FOIA litigation, which focused 
+on the largest 100 immigration detention facilities. 
+III. Ineffective Inspections
+Why ICE Inspections Matter
+ICE’s ERO inspections generate the ratings that determine, under DHS Appropriations Act require-ments, whether the government continues funding a local government or private entity to detain immi-grants. As early as 2007, Congress expressed concerns about the lack of compliance with detention standards in facilities managed by ICE as well as contractors, and directed ICE to improve the quality and frequency of oversight.
+29 One year later, Congress added speci ﬁ c language to the FY 2009 DHS 
+appropriations law prohibiting ICE from expending funds to facilities that are found de ﬁ cient in two 
+consecutive inspections. That bill stated:
+Provided further, That effective April 15, 2009, none of the funds provided under this 
+heading may be used to continue any contract for the provision of detention services if the two most recent overall performance evaluations received by the contracted facility are less than ‘‘adequate’’ or the equivalent median score in any subsequent perfor-mance evaluation system.
+30
+This mandate signaled congressional intent that immigration detention facilities be monitored for ad-herence to humane standards of detention, and ICE subsequently acknowledged its understanding of this obligation. According to 2010 congressional testimony by former ICE Director John Morton, eight facilities had been closed because they had failed to achieve acceptable ratings.
+ 31 However, because 
+ICE does not share information publicly about which facilities it uses or contracts with at any given time, it is unknown which facilities Director Morton was referring to or how many additional facilities, if any, have since had contracts terminated on the basis of failure to meet adequate standards. This lack of transparency makes it dif ﬁ cult for taxpayers or members of Congress to ascertain whether ICE 
+is indeed adhering to the intent encompassed in the Appropriations Act language. Further, passing ratings based on cursory checklists cannot be what Congress intended as a condition for expending taxpayer money to subsidize the detention of immigrants.Page 11The Immigration Detention Transparency & Human Rights Project - October 2015 Report
+Findings Regarding the ERO and ODO Inspections Process:
+1. ICE’s Culture of Secrecy Persists
+• Neither information nor documents which would help the public to under-
+stand ICE’s inspections and oversight processes are readily available.  ICE 
+does not publicly post inspection reports as a matter of practice. Rather, it took years of resource-intensive litigation for NIJC to obtain inspection reports. This record undermines President Obama’s early promises of open government.
+• There is a lack of independent oversight because both entities which con-
+duct inspections are paid and vetted—either through contracts or as direct employees—by ICE. The ODO is housed within ICE’s Of ﬁ ce of Professional Re-
+sponsibility, and ERO inspectors are employed by private companies contracted by ICE. While government agencies routinely are permitted to keep themselves accountable, the problems apparent in the inspections reviewed for this report show this is not sound practice, especially within the detention system which has been persistently plagued by sub-standard conditions and frequent reports of abuse. 
+2. ICE Inspections Fail to Adequately Assess the Conditions Detained Immigrants Experience
+• Both ERO and ODO inform facilities of inspections in advance.
+32 This warn-
+ing provides ample time for facilities to prepare and “clean up” before inspectors arrive, seriously hampering the ability of inspectors to make honest and accurate assessment of the typical conditions under which detained individuals are held on a typical day.
+• There are signi ﬁ cant inconsistencies within and between inspection re-
+ports for individual facilities, as well as between ODO and ERO inspections, raising questions about the reliability of either inspections process. Such 
+inconsistencies were identi ﬁ ed for all ﬁ ve facilities for which DWN and NIJC con-
+ducted in-depth reviews of 2011 and 2012 ERO and ODO inspections (the sixth facility reviewed in this report has never been inspected by ODO). In October 2014, the Government Accountability Of ﬁ ce (GAO) released a report criticizing 
+the variation between inspections carried out by ERO and ODO during roughly the same time period for the same facilities.
+33 Out of 35 facilities inspected by 
+both ERO and ODO in ﬁ scal year 2013, the ﬁ ndings between the two entities dif-
+fered substantially for 29 facilities. The GAO’s ﬁ ndings substantiate those which 
+NIJC and DWN found in 2011 and 2012 inspections, and bring into question the credibility of the entire review system. The ERO and ODO inspections consistent-ly fail to account for or acknowledge egregious human rights concerns raised in independent reports published by NGOs.
+• As of FY 2012, most ICE detention facilities continued to be inspected 
+using outdated standards. (See Fig. 5)  Sixty- ﬁ ve of the 103 detention facilities 
+for which NIJC obtained 2012 or 2011 inspections were still inspected against the least-rigorous 2000 NDS. Thirty percent of the population represented by the 84 inspections NIJC obtained for FY 2012 were in facilities still being inspected under 2000 NDS. Even the GAO, in its 2014 report, requested clarity regard-ing why ICE continued to contract with facilities operating on a 14-year-old set of standards.
+34 Not only are the 2000 NDS irrelevant to the times, they are also Page 12Lives in Peril: How Ineffective Inspections Make ICE Complicit in Detention Center Abuse
+largely irrelevant to the needs of detained 
+individuals. In fact, one of the 2000 NDS states that a facility is in compliance if the 
+law library is adequately equipped with typewriters.
+35 Nonetheless, while the 2008 
+and 2011 PBNDS contain more robust protections than the 2000 NDS, including sexual assault prevention guidelines and more detailed standards governing solitary conﬁ nement and hunger strike response, 
+they too are problematic. Like the 2000 NDS, the PBNDS are derived from pris-on standards created within the criminal justice context, and therefore replicate many of the deplorable conditions and troubling human rights failings endemic to that system.
+• Inspectors fail to apply 2008 and 
+2011 PBNDS language that was intend-ed to improve oversight. The inspection 
+form for the 2000 NDS states that some components are applicable only to Ser-vice Processing Centers and Contract Detention Facilities. IGSAs, which hold the majority of detained immigrants, are encouraged to use these components as guidelines but are not rated on them. For example, in IGSA facilities under the 2000 NDS, people placed in solitary con ﬁ nement 
+do not have a right to appeal that decision and their placement is not reviewed regu-larly by a supervisory agent.
+36 Within these 
+facilities, medical staff are not required to conduct daily check-ins with people on hunger strikes.
+37 Even under 2008 PBNDS 
+guards may read incoming mail without a warden’s prior written approval and out of the detained individual’s presence. This practice threatens attorney-client con ﬁ -
+dentiality and can make the difference in whether or not detained individuals can safely report complaints to their attorneys and seek redress without facing retribution.  
+Language holding IGSAs to higher stan-dards was strengthened in the 2008
+38 and 
+2011 PBNDS39 to require IGSAs to “adopt, 
+adapt, or establish alternatives, provided they meet or exceed the intent represented by these procedures,” but many inspectors 
+Fig. 5: Standards applied for most
+recent inspection obtained
+*The ERO PBNDS inspections worksheet does not distinguish 
+between 2008 and 2011 standards, therefore when available 
+the most recent ODO inspection was used to clarify which 
+version of PBNDS the facility is being inspected to.Page 13The Immigration Detention Transparency & Human Rights Project - October 2015 Report
+Fig. 6: Failed inspections, 2007-2012 continue to mark these components 
+as “not applicable” for IGSAs being inspected under the PBNDS. The PBNDS were written to strength-en protections for immigrants de-tained at IGSAs, but inspectors have failed to uphold that intent.
+• ERO and ODO inspection re-
+ports are not designed to cap-ture actual conditions of deten-tion for the population at a given facility. While there is an emphasis 
+in both ERO and ODO inspections on the security of a facility and ensuring that detained individuals stay locked up, there is a de-em-phasis on the humane treatment and protection of people impris-oned for their immigration status. As focused reviews of inspections at six detention facilities revealed (see Section IV) , inspectors track 
+whether or not policies exist rather than inquire into their implemen-tation or effectiveness. Inspectors often take facility administrators at their word regarding issues such as the adequacy of medical staff, the efﬁ cacy of grievance procedures, 
+or even basic and easily veri ﬁ -
+able safety mechanisms such as whether ﬁ re alarms are functional. 
+The checklist-driven inspections process obscures the conditions immigrants actually face in deten-tion centers and whether standards are being implemented to their full intent. Even when critical aspects are included in the standards, they often are segmented into sterile lists of mundane details that are easy to check off because they do not immediately appear to be connected to anything important. For example, all three sets of detention standards include guide-lines for telephone access, but are extremely limited in their provision of free phone calls. They fail to 
+View a full-size version of charts at 
+immigrantjustice.org/
+TransparencyandHumanRightsPage 14Lives in Peril: How Ineffective Inspections Make ICE Complicit in Detention Center Abuse
+Page 15The Immigration Detention Transparency & Human Rights Project - October 2015 Report
+acknowledge that in many facilities, the high cost of telephone calls inhibit indi-
+viduals’ ability to communicate with lawyers, family, and other support systems. Telephone contact is critical to preserve due process and prevent isolation, but the inspections process provides no means for inspectors to document or even detect the ﬁ nancial hurdles that block immigrants from making calls in some 
+facilities. ERO inspections rarely cite interviews with individuals in custody, and ODO inspections treat such interviews as footnotes. Therefore inspectors are able to check that a facility meets standards because “No restrictions are placed on detainees attempting to contact attorneys and legal service providers who are on the approved ‘Free Legal Services List,’” even when a short conversation with the detained immigrants who have tried to use those phones would reveal otherwise. The checklist culture also leads to absurd interpretations of standards, a reality perhaps best demonstrated by the repeat ﬁ nding that indoor rooms with 
+windows count as providing outdoor recreation because air from the outside can enter the room. 
+3. Inspections Prioritize Facilities’ Interests
+• Even where human rights violations have been publicly documented, facil-
+ities rarely fail ERO inspections. (See Fig. 6 and Section IV) The number of 
+failed facilities dropped signi ﬁ cantly since 2009, when Congress implemented the 
+appropriations requirement that ICE not expend funds to facilities with two con-secutive failed inspections. No detention centers failed ERO inspections in 2010 or 2012, and only four failed in 2011. ICE has not  failed any facility twice in a row 
+since the 2009 law took effect.
+• Inspection reports may be edited before they are ﬁ nalized and submitted 
+to ICE’s Detention Monitoring Unit by the inspections contractor. The ICE 
+Detention Services Management director explained during his litigation deposi-tion that both inspections contractors and ICE personnel may edit the ﬁ ndings 
+and ratings in a report before it is submitted to the facility’s ﬁ le. These edits are 
+not tracked, and ICE has no knowledge of the frequency or types of edits that occur between an initial inspection and when the inspections contractor submits the inspection report.
+• The checklist ERO inspectors use during their reviews does not include all 
+components of the detention standards. As the focused review of inspections 
+from Arizona’s Eloy Detention Center reveals (see Section IV) , such discrepan-
+cies could obscure important details of daily operations, such as medical care stafﬁ ng, which are critical to ensuring detained immigrants’ basic human rights.Page 16Lives in Peril: How Ineffective Inspections Make ICE Complicit in Detention Center Abuse
+IV. In Focus: Six Case Studies of Facilities with 
+Known Conditions Problems, 2007-2012
+The peculiarities and ef ﬁ cacy of the ICE inspections system are best understood through a focused 
+review of facilities where human rights and due process conditions have been publicly documented, providing a basis for comparison with inspectors’ observations. For this deep-dive approach, DWN and NIJC selected six detention centers which have been subjects of media reports, human rights investigations, and congressional inquiries. All but Eloy were included in DWN’s 2012 Expose & Close (E&C) reports which surveyed immigrants detained at some of the worst immigration detention facili-ties in the United States.
+Featured Facilities:
+Eloy Federal Contract Facility, Arizona ..... Page 17
+Baker County Detention Center, Florida ..... Page 19
+Etowah County Detention Center, Alabama ..... Page 21
+Houston Processing Center, Texas ..... Page 23
+Stewart Detention Center, Georgia ..... Page 25
+Pulaski County Jail, Illinois
+(formerly named Tri-County Detention Center) ..... Page 27
+“The contractor has latitude to get to the ﬁ nal result”
+— ICE Detention Monitoring Unit Director, 
+January 2014 deposition in NIJC v. DHSPage 17The Immigration Detention Transparency & Human Rights Project - October 2015 Report
+Eloy Federal Contract Facility, Arizona:
+Detention Standards (as of 2012): 2008 PBNDS
+Facility Type: IGSA
+Private Contractor: CCA
+2012 ICE Average Daily Population: 1479
+2011 ERO 2011 ODO 2012 ERO
+Private Contract 
+Inspector:MGT Private Contract 
+Inspector:MGT Private Contract 
+Inspector:Nakamoto
+Rating: Meets 
+StandardsRating: N/A Rating: Meets 
+Standards
+Deﬁ cient 
+Standards:0 Deﬁ cient 
+Standards:0 Deﬁ cient 
+Standards:0
+Deﬁ cient 
+Components:3 Deﬁ cient 
+Components:13 Deﬁ cient 
+Components:9
+Eloy Federal Contract Facility in Arizona has the highest number of known deaths of any detention 
+facility, including at least six suicides since 2003. Eloy is also the source of frequent reports of sexual assault, and the subject of an investigation launched by Rep. Raúl Grijalva (D-AZ) in June 2015.
+40 Un-
+der these circumstances, it was expected that the facility’s inspection reports would reveal a troubling history of failure to meet standards regarding medical care, suicide prevention, and sexual assault prevention. Instead, the inspection reports reveal ICE’s complicity in obscuring the facility’s failure to meaningfully address its violations. Based on the inspection reports NIJC received, Eloy has not failed an ERO inspection since 2006.
+41 However, ICE did not provide the 2010 ERO inspection for 
+Eloy. It is unclear whether this omission is because the facility was not inspected that year or because ICE failed to fully comply with the federal court order in NIJC’s FOIA litigation to obtain the docu-ments.
+Suicide prevention
+The lack of accountability under the 2008 PBNDS Suicide Prevention and Intervention standard is apparent in Eloy’s 2012 ERO inspection. Eloy passed on the overall suicide prevention standard de-spite failing to comply with one of its major components: the suicide watch room was found to contain “structures or smaller objects that could be used in a suicide attempt,”
+42 including grates and a sprin-
+kler head. Instead of questioning the judgment of the medical staff who signed off on the room’s use, the inspector marked Eloy as compliant with the next component, which requires that “Medical staff have approved the room for this purpose.” The inspector went on to minimize the concerns about the safety of the suicide isolation room by explaining that “a detainee placed on suicide watch would be under constant observation by a security of ﬁ cer sitting outside the room” but failed to address the 
+requirement that medical or detention staff monitor individuals on suicide watch every 15 minutes. In 2015, questions regarding whether jail staff adequately monitor individuals at risk of suicide became a major focus of the investigation Rep. Grijalva demanded after an autopsy raised questions about the circumstances surrounding the suicide of 31-year-old Mexican immigrant Jose de Jesus Deniz-Saha-gun.
+The inspections documents raise additional concerns regarding Eloy’s suicide prevention efforts and 
+ICE’s attempts to cover up or diminish the facility’s de ﬁ ciencies over time. One suicide, that of Em-Page 18Lives in Peril: How Ineffective Inspections Make ICE Complicit in Detention Center Abuse
+manuel Owusu in October 2008, seems to have been hidden by ICE for years. In a 2010 story about 
+Mr. Owusu’s death in The New York Times , there is no indication the reporter was informed he had 
+committed suicide.43 A list of in-custody deaths released by ICE in 201244 lists Mr. Owusu’s cause of 
+death as “Acute Cerebrovascular Accident,” a medical term for stroke, but a list released in 201345 
+and updated in 201546 says Mr. Owusu died from suicide by hanging. The 2009 ERO inspection re-
+port does not mention Mr. Owusu’s death at all aside from a tally in the “signi ﬁ cant incident summary 
+worksheet,” where two deaths are attributed to “illness.”47 There also is no indication that the circum-
+stances surrounding Mr. Owusu’s death played into the determination of Eloy’s rating on the medical care or suicide prevention standards. Notably, the Reviewer-in-Charge Assurance Statement, where inspectors discuss deaths on other inspection reports, is heavily redacted in the 2009 inspection.
+48
+Medical Care
+The checklist ERO inspectors use during their reviews does not include all components of the de-tention standards, a discrepancy that could obscure important details of daily operations which are critical to ensuring humane treatment of those in custody. At Eloy, the ERO inspection failed to rec-ognize that medical screenings and physical exams rarely were reviewed by physicians. According to an article in The Arizona Republic  following a July 2015 media tour, Eloy has no doctors on staff.
+49 
+The February 2011 ERO inspection rated Eloy as compliant on all components of the Medical Care standard, but the ODO inspection two months later found the facility was de ﬁ cient on two points that 
+are not even covered in the ERO checklist: the requirement that a “clinical medical authority,” which the ODO interprets to mean a physician, reviews the medical screenings
+50 individuals undergo with-
+in 24 hours of arriving at the facility and the physical examinations51 people have within their ﬁ rst 14 
+days there. These exams determine individuals’ priority for treatment. The ODO reviewed forms from 30 screenings conducted by registered nurses, nurse practitioners, or advanced practice nurses and found none had been reviewed by a physician; of 30 physical examinations within 14 days of arriv-al, only one had been reviewed by a physician.
+52 The ERO ﬁ ndings regarding individuals’ access to 
+medical care also come into question in light of an October 2010 report by the Women’s Refugee Commission, in which one woman who suffered from multiple sclerosis reported she made repeated requests to see a physician but was forced to wait two months to see a doctor about her condition. 
+53
+Sexual Assault
+The 2011 ERO inspection was the ﬁ rst time Eloy was in compliance with the sexual assault preven-
+tion and intervention standards. This inspection report is notable because at least two sexual assaults (which later would become highly publicized) took place at Eloy in the 14 months prior to the inspec-tion.
+54 Unfortunately, inclusion of the standard does not guarantee that a facility is held accountable 
+for preventing sexual assault. The ERO inspector notes 10 allegations regarding sexual assaults at Eloy in the past year, then dismisses them all as “unfounded or unsubstantiated” and refers the read-er to a database for additional statistics.
+55
+ERO’s failure to ensure compliance with the sexual assault standards means facilities are not held accountable and those in custody remain at risk. Tanya Guzman, a transgender woman who was held in an all-male pod at Eloy, was assaulted in December 2009 by a guard who later was convict-ed. Despite the ﬁ rst assault and Ms. Guzman’s frequent complaints of harassment and abuse, Eloy 
+continued to detain her in the male pod and she was assaulted by another detainee in April 2010. She reported the assault to the police a week and a half later, saying she waited because she feared retaliation. She was released from ICE custody soon after making the report—likely the reason her claim was not substantiated in the records the ERO inspector reviewed. In December 2012 the ACLU of Arizona ﬁ led a lawsuit on Ms. Guzman’s behalf against ICE, Corrections Corporation of America, 
+and the City of Eloy regarding the 2009 assault.
+56Page 19The Immigration Detention Transparency & Human Rights Project - October 2015 Report
+Baker County Detention Center, Florida:
+Detention Standards (as of 2012): 2000 NDS
+Facility Type: IGSA
+2012 ICE Average Daily Population: 252
+2011 ERO 2011 ODO 2012 ERO
+Private Contract 
+Inspector:MGT Private Contract 
+Inspector:MGT Private Contract 
+Inspector:Nakamoto
+Rating: Good Rating: Acceptable Rating: Acceptable
+Deﬁ cient 
+Standards:0 Deﬁ cient
+Standards:0 Deﬁ cient 
+Standards:0
+Deﬁ cient 
+Components:14 Deﬁ cient 
+Components:4 Deﬁ cient 
+Components:5
+Although the Baker County Detention Center in Macclenny, Florida, has been cited as one of the 
+worst immigration detention centers in the United States, it continues to detain a daily average of 228 individuals who have no access to outdoor recreation, no exercise equipment, no volunteer work pro-gram, and are forced to attend court hearings via video-conferencing (because the immigration court is 200 miles away) while dressed in jump suits and shackled.
+57 
+Nonetheless, in its 2011 inspection, ERO rated this facility as 
+“good,” one standard below the highest rating of “superior.”58 
+This is despite the fact that inspectors identi ﬁ ed 14 speci ﬁ c 
+deﬁ cient components (although no overall standards were 
+found de ﬁ cient)59 and despite the ODO’s inspectors rating 
+the facility as “acceptable”60 that same year. In the following 
+year,61 the ERO inspectors found only ﬁ ve de ﬁ cient com-
+ponents (two of which were repeat offenses) and rated the facility as “acceptable.”
+62 The different ratings assigned by 
+the ERO’s and ODO’s 2011 inspections already raise sus-picions, but the downgrade from good to acceptable when there were fewer identi ﬁ ed de ﬁ ciencies brings into question 
+the rigor and reliability of inspections. (For an explanation of the ERO’s three-tiered ratings approach, see Figs. 2-4 .)
+As with many of the ERO inspections, most of the de ﬁ cien-
+cies that were identi ﬁ ed in the 2011 and 2012 inspections 
+concerned the ﬁ ner points of administration and security, 
+including the absence of written policies regarding barbershop hours, head counts, and other similar procedures. The two repeat de ﬁ ciencies referred to the policy of opening detained individuals’ mail 
+without appropriate protocols and the absence of a separate area for the barbershop (currently in the facility’s common space).
+63 DWN’s E&C report conveyed concerns about the facility’s physical isola-
+tion, the exorbitant cost of phone cards, and how visitors who traveled a great distance to the facility were only allowed to see their loved ones through a video feed upon arrival, yet ICE’s standards (old and new) fail to check for these concerns. 
+Detention Watch NetworkPage 20Lives in Peril: How Ineffective Inspections Make ICE Complicit in Detention Center Abuse
+Recreation
+DWN’s E&C report notes that a lack of access to fresh air and sunlight is an issue at Baker because 
+the “area for recreation is a room with concrete walls, ﬂ oor, and a roof. The room’s only window is 
+high on a side wall and is covered with mesh to allow in fresh air.” The 2012 ERO inspectors, contrary to common understanding of what these words mean, found that
+… each of the two housing pods includes an outdoor recreation area
+64 with ac-
+cess to fresh air and natural light through a 12-foot long by 3-foot high security 
+screen . The design of the rooms allow for a substantial amount of natural light 
+and fresh air to enter the recreation areas. The natural light and the exchange of free ﬂ owing outdoor air re ﬂ ect the outside climate and the time of day [emphasis 
+added].
+65 
+Equally unacceptable, the standard for outdoor recreation can also be satis ﬁ ed if the facility provides 
+the option for a detained person to be transferred after 180 days to a facility with an actual outside recreation area.
+66
+Telephone Access
+Another standard requires the Of ﬁ ce of Inspector General (OIG) phone number to be programmed 
+into the facility’s phone system (and the number to be checked during the inspection). The 2012 ERO inspectors wrote, “[c]alls placed to the OIG hotline were connected. The caller was not able to reach an actual person.” Nevertheless, this was marked as complying with the standard—yet another ex-ample of the checklist culture that creates simpli ﬁ ed shortcuts and fails to take into account the actual 
+experience of detained individuals. Page 21The Immigration Detention Transparency & Human Rights Project - October 2015 Report
+Etowah County Detention Center, Alabama:
+Detention Standards (as of 2012): 2000 NDS
+Facility Type: IGSA
+2012 ICE Average Daily Population: 333
+2011 ERO 2012 ERO 2012 ODO
+Private Contract 
+Inspector:MGT Private Contract 
+Inspector:Nakamoto Private Contract 
+Inspector:Creative 
+Corrections
+Rating: Acceptable Rating: Acceptable Rating: N/A
+Deﬁ cient Stan-
+dards:0 Deﬁ cient 
+Standards:0 Deﬁ cient 
+Standards:0
+Deﬁ cient Compo-
+nents:9 Deﬁ cient
+ Components:0 Deﬁ cient
+Components:8
+In 2010, ICE planned to close the Etowah County Detention Center (ECDC) in Gadsden, Alabama, 
+because of the facility’s poor conditions and because its remote location made it dif ﬁ cult for detained 
+immigrants to obtain legal counsel or stay connected with their families and communities.67 However, 
+arguing that the facility was an important part of the local economy, Representative Robert Aderholt (R-AL), Senator Richard Shelby (R-AL), and other members of Congress pressured ICE into keeping the facility open by threatening DHS’s budget.
+68
+Despite previous censure of the facility, oversight and accountability did not improve, leading to ﬁ ve separate hunger strikes within the facility in the year preceding the 2012 ERO inspection.
+69 The 
+breadth of discrepancies from sequential years, different inspectors, and different oversight agencies are an ongoing problem in the ECDC inspections. In 2011 and 2012, ERO’s inspectors (MGT and Nakamoto, respectively) rated the facility as “acceptable” (two levels below the “superior” rating) even though the 2012 inspection identi ﬁ ed zero de ﬁ ciencies. In fact, as explained below, a 2011 de ﬁ ciency 
+was remedied in 2012 through re-interpretation of the standards, meaning that the problem was not actually addressed, but that the standards were lowered to cure the problem.
+Beyond inconsistencies between ERO inspections, the 2012 ODO inspection identi ﬁ ed eight de ﬁ cien-
+cies within ﬁ ve standards. Some of the ODO’s major concerns included a lack of policies concerning 
+an emergency grievance procedure which “involves an immediate threat to detainee safety or wel-fare”
+70 and the procedure for requesting ICE-certi ﬁ ed copies of identity documents (e.g., passports, 
+birth certi ﬁ cates) that are essential to legal cases. Both the 2011 and 2012 ERO inspections identify 
+these standards as having been met. 
+Recreation
+ECDC’s indoor recreation room was counted by inspectors as offering outdoor recreation, because a window with bars quali ﬁ ed as providing access to sunlight and free- ﬂ owing air. The 2012 ERO in-
+spectors wrote, “[t]his component was rated de ﬁ cient during the last inspection because the facility 
+did not offer outdoor recreation. During this inspection, the designated outdoor recreation facilities were found to be enclosed areas with secure openings that allow natural lighting and air circulation.”
+71 
+The inspectors explicitly concluded that “outdoor recreation is provided at this facility.”72 DWN’s E&C 
+report describes the recreation area as “a cement room…the size of half a basketball court. Near the top of one or two of the walls, very high up, are relatively small windows with bars that allow out-side air to enter the area. It is impossible to see anything out of these windows. People refer to it as Page 22Lives in Peril: How Ineffective Inspections Make ICE Complicit in Detention Center Abuse
+‘the sweatbox.’”73 The fact that indoor spaces are routinely counted as providing outdoor recreation 
+demonstrates that the interpretation of the standards are a sham and again points to a checklist culture focused on technicalities that permit facilities to maintain their contracts, rather than upholding the intent of the standards.  
+Legal Orientation Programs
+All three inspections also found the standard regarding legal orientation programs was met despite the fact that a legal orientation program had not been offered at the facility at any time during the past 12 months. Because individuals in ICE custody do not have the right to appointed counsel, basic legal orientation programs are the only chance many have to understand what is happening to them and how they might represent themselves in court. Amazingly, this standard is considered to have been met as long as the facility has an appropriate written policy. The 2000 NDS checklist states that if “No group presentations were conducted within the past 12 months. Mark standard as acceptable over-all.”
+74 In comments, the 2011 ERO inspector writes, “Although there have been no group legal rights 
+presentations in the past 12 months or any requests to do so received, the facility does have a com-prehensive written policy to address group presentations if any requests are received.”
+75
+Visitation and Programming
+In DWN’s E&C report, detained individuals also reported dif ﬁ culties in accessing phones (citing re-
+strictive hours) and problems with the visitation policies. Although all of the relevant standards were rated as acceptable in the available inspections, it is striking that contact visitations are not permit-ted despite the distance of the facility from the nearest major metropolitan area (2.5 hour drive from 
+Atlanta). The video visits (which still require in-person visits to the facility) are limited to 30 minutes, require prior ICE approval, and offer no privacy. 
+ECDC claims to offer a wide range of 
+programs for detained people. These programs include the “World Aquacul-ture Program,” “Puppies without Bor-ders,” and “Adventure Programming.” Individuals interviewed for DWN’s E&C report who were detained at Etowah said these programs were effectively nonexistent and in reality the facility had nothing more than a broken ﬁ sh 
+tank and a rock-climbing wall in a room the size of a cell.
+76
+The inconsistent inspection ﬁ ndings and ignorance of detained individuals’ publicly documented con-
+cerns underpin the necessity for increased independent oversight and meaningful responses when deﬁ ciencies are found. It is not enough to reinterpret standards by lowering the bar and allowing for 
+subpar conditions to continue. 
+ Hannah RappleyePage 23The Immigration Detention Transparency & Human Rights Project - October 2015 Report
+Houston Processing Center, Texas:
+Detention Standards (as of 2012): 2008 PBNDS
+Facility Type: CDF
+Private Contractor: CCA
+2012 ICE Average Daily Population: 832.6
+2011 ERO 2011 ODO 2012 ERO
+Private Contract 
+Inspector:MGT Private Contract 
+Inspector:None Private Contract
+Inspector:Nakamoto
+Rating: Meets 
+StandardsRating: N/A Rating: Meets 
+Standards
+Deﬁ cient 
+Standards:0 Deﬁ cient 
+Standards:0 Deﬁ cient 
+Standards:0
+Deﬁ cient 
+Components:6 Deﬁ cient 
+Components:1 Deﬁ cient 
+Components:4
+In 1984, the Houston Processing Center (HPC), located in Houston, Texas, became the ﬁ rst private 
+prison ever built in the United States. It is owned and operated by Corrections Corporation of America (CCA), the nation’s largest private prison company.
+77 A 2012 DWN E&C report highlighted HPC as 
+one of the worst immigration detention facilities,78 but its 2011 and 2012 ERO inspections and 2011 
+ODO inspection reveal few de ﬁ ciencies and paint a picture of a facility that seems to be in compliance 
+with standards.
+Health Care and Solitary Con ﬁ nement
+For example, detained immigrants interviewed for DWN’s E&C report described long delays in ac-
+cessing medical care and the inappropriate use of solitary con ﬁ nement79 for individuals with mental 
+health issues. Two people died at the facility in 2011—including a 31-year-old man who died at a local hospital after only six days in detention, three of which he had spent vomiting.
+80 None of the inspec-
+tions noted de ﬁ ciencies or concerns within the Medical Care standard. The ERO inspectors explicitly 
+mention reviewing medical records but they did not interview detained individuals about their experi-ences or follow up on any complaints or grievances. For example, one mandatory component under the special management unit (SMU) standard requires health care personnel to provide assessments and reviews for every detained individual placed in the SMU (also known as segregation or solitary conﬁ nement). The ERO inspectors reviewed medical records but failed to interview detained individu-
+als. If they had, they might have heard about David Jameson, whose story a friend conveyed to DWN in July 2012. At that point, Mr. Jameson had been in solitary con ﬁ nement at HPC for nine months, 
+despite being diagnosed with schizophrenia and prone to panic attacks. In Mr. Jameson’s case, either HPC failed to fully document his circumstances or the 2012 inspectors ignored basic health care stan-dards; either explanation is alarming. By the time of DWN’s visit, Mr. Jameson’s psychological prob-lems had caused him to refuse to bathe for nearly four months.
+81Page 24Lives in Peril: How Ineffective Inspections Make ICE Complicit in Detention Center Abuse
+Food and Grievances
+The rather stark contrasts between DWN’s E&C report and the inspections continue with 2012 ERO 
+inspectors describing the food as “nutritious and attractively presented meals” 82 and that the “facility 
+menu has been certi ﬁ ed by a registered dietician, and has been analyzed with a daily average calorie 
+count of 3100 calories.”83 Individuals interviewed for the DWN report described the food as “insuf ﬁ -
+cient to maintain one’s health” and unappetizing.84 The E&C report goes on to describe a toxic envi-
+ronment where people had given up on ﬁ ling complaints because they never received responses or 
+because they feared retaliation, and in which guards verbally abused and threatened individuals with solitary con ﬁ nement if they complained.
+85
+Telephone Access
+The impact of designating some components as “non-mandatory” also is evident at HPC, where the 
+requirement to afford detained people “a reasonable degree of privacy for legal calls” is met by tak-ing them to “the shift commanders’ or unit managers’ of ﬁ ce to place legal calls,”
+86 This arrangement 
+seems to assume that the requirement for privacy is only meant to protect conversations from being overheard by other detained people, rather than by facility staff, and even that protection is easily overridden. Even these phone calls can be monitored as long as “noti ﬁ cation is posted by detainee 
+telephones.”
+87 Although the standard is “met,” any real hope for attorney-client con ﬁ dentiality is elimi-
+nated. 
+© 2015 GooglePage 25The Immigration Detention Transparency & Human Rights Project - October 2015 Report
+Stewart Detention Center, Georgia:
+Detention Standards (as of 2012): 2008 PBNDS
+Facility Type: IGSA
+Private Contractor: CCA
+2012 ICE Average Daily Population: 1632
+2011 ERO 2011 ODO 2012 ERO
+Private Contract 
+Inspector:MGT Private Contract 
+Inspector:MGT Private Contract 
+Inspector:Nakamoto
+Rating: Meets 
+StandardsRating: N/A Rating: Meets 
+Standards
+Deﬁ cient 
+Standards:0 Deﬁ cient 
+Standards:0 Deﬁ cient 
+Standards:0
+Deﬁ cient 
+Components:2 Deﬁ cient 
+Components:25 Deﬁ cient 
+Components:3
+Stewart Detention Center (SDC) in Lumpkin, Georgia, is one of the largest immigration detention 
+facilities in the United States with the capacity to jail 2,000 people. Although the facility is owned by Stewart County and is contracted as an IGSA, the facility is actually operated by CCA. In 2012, SDC was inspected under the 2008 PBNDS, but because there are certain standards that only apply to CDFs and SPCs, CCA was provided leniency in its compliance with certain standards under Stewart County’s IGSA contract. Out of 889 components, 144 were marked as non-applicable because the facility is an IGSA.
+88 
+Considerable discrepancies between the 2011 ERO and ODO inspections again bring into question 
+their value and credibility. While the 2011 ERO inspection noted only two de ﬁ cient components and 
+zero de ﬁ cient standards, the 2011 ODO inspection found 25 de ﬁ ciencies in 12 standards. Among 
+the most egregious de ﬁ cits: Stewart lacked a written policy to ensure that medical grievances were 
+received by the next business day,89 ICE staff was reported to be generally inaccessible and failed 
+to respond to the majority of detainee requests,90 and the ODO inspection team witnessed a male 
+detainee changing in full view of a female corrections of ﬁ cer.91 The ERO inspection ignores or only 
+cursorily examines other major de ﬁ ciencies, and in some cases provides comical justi ﬁ cations. For 
+example, the 2012 ERO inspector cites the use of ﬂ oppy discs—technology that otherwise had been 
+largely obsolete for at least a decade—as compliant with a standard requiring that detained individu-als be allowed to store legal work in private electronic form.
+92
+Medical Care
+Both ERO and ODO inspections managed to identify one major de ﬁ cit regarding medical care: intake 
+examinations were not reviewed by physicians or mid-level practitioners by the following business day. In fact, it sometimes took months before the examinations were reviewed by a doctor.
+93 Accord-
+ing to the 2012 DWN E&C report, SDC had only one doctor and seven nurses to provide medical care for over 1,500 detained men.
+94 Several of the concerns raised by the DWN report were underscored 
+by the 2012 ACLU of Georgia report, Prisoners of Pro ﬁ t: Immigrants and Detention in Georgia , which 
+highlighted the death of Roberto Medina Martinez, who died from a treatable heart condition in 2009 after being detained for two months at SDC.
+95 Nonetheless, ERO and ODO inspections stated that Page 26Lives in Peril: How Ineffective Inspections Make ICE Complicit in Detention Center Abuse
+the medical staf ﬁ ng was adequate at SDC, even with ﬁ ve vacant positions in 2011 and 2012 (two of 
+which had been vacant for more than two years).96 These staf ﬁ ng issues may explain why, according 
+to the ERO inspection, SDC referred more than 775 people for outside medical care in 2012.97 
+Sexual Assault
+The 2012 ERO inspection mentions six allegations of sexual assault or abuse, and then proceeds to methodically dismiss or minimize them. Two were downgraded to verbal harassment, and anoth-er was relabeled as physical assault, despite the clear sexual nature of the incident: the victim was severely beaten after refusing to provide sexual favors for another detained person. The remaining three were found to be unsubstantiated,
+98 though the slow nature of investigations—sometimes taking 
+weeks or even months—means that witnesses, perpetrators and victims may have been transferred, deported, or released. 
+Legal Rights Access and Visitation
+SDC’s remote location is a hindrance to attracting and retaining adequate medical staff, but it also creates barriers to visitation from attorneys and family members. Attorneys in the region told DWN in 2012 that visitation rooms at SDC were inadequate because they were forced to speak with their cli-ents through a phone and Plexiglas, making it dif ﬁ cult to prepare for court and to provide clients con ﬁ -
+dential documents.
+99 People detained at SDC in 2012 also claimed that they were allowed infrequent 
+access to the law library and had unreliable phone access. None of these concerns were re ﬂ ected in 
+the ERO and ODO inspections.
+Will Coley
+La Vision La VisionPage 27The Immigration Detention Transparency & Human Rights Project - October 2015 Report
+Pulaski County Jail, Illinois
+(formerly named Tri-County Detention Center):
+Detention Standards (as of 2012): 2008 PBNDS
+Facility Type: IGSA
+2012 ICE Average Daily Population: 224
+2011 ERO 2012 ERO
+Private Contract
+ Inspector:MGT Private Contract 
+Inspector:Nakamoto
+Rating: Meets 
+StandardsRating: Does Not 
+Meet Standards
+Deﬁ cient Standards: 0 Deﬁ cient Standards: 1
+Deﬁ cient 
+Components:8 Deﬁ cient 
+Components:9
+The lack of consistency and accountability in the ERO inspections process is apparent in its 2011 
+and 2012 inspections of the Tri-County Detention Center (since renamed Pulaski County Jail) in Ullin, Illinois.
+100 According to the 2012 E&C report by DWN and NIJC, grievances were largely ignored, es-
+sential medical care was delayed, and general overcrowding was exacerbated by inadequate medical stafﬁ ng.
+101 
+In 2011, the ERO inspection marked the facility as having met its obligations under the 2008 PB-
+NDS. However, internal inconsistencies raise concerns as to how meticulous the inspectors were in conducting their reviews. For example, although the hold rooms standard and its components were marked as N/A (not applicable), it was checked off as having met standards in the ﬁ nal summary of 
+the inspectors’ ﬁ ndings.
+102 In comments, the inspectors also noted that there were no canines at the 
+facility103 yet in one of their comments (a portion of which has been redacted), they wrote that “[a]t this 
+time there was a minor altercation between the canine and an ICE detainee which did not result in any serious injury.”
+104 
+Medical Care and Lack of Accountability
+If internal inconsistencies were unsettling in the 2011 inspection, they intensi ﬁ ed in the 2012 ERO 
+inspection. Despite the Tri-County Detention Center receiving a “does not meet standards” rating according to the lead compliance inspector’s recommended rating at the conclusion of the 2012 inspection worksheet,
+105 the memorandum addressed to Field Of ﬁ ce Director Ricardo Wong on May 
+29, 2012, which is af ﬁ xed at the beginning of the inspection ﬁ le, re ﬂ ects an unexplained change in the 
+ﬁ nal determination. The memo states that according to its ﬁ nal rating, the facility “meets standards.”106 
+The lead compliance inspector attributes the de ﬁ cient ﬁ nding to the detention center’s failure to com-
+ply with a mandatory component under the Medical Care standard, speci ﬁ cally concerning oversight 
+over needles. The 2012 inspectors wrote, “[o]nce needles and syringes are placed in the medication cart, no further accountability is maintained. While the current inventory of the bulk stock was inac-curate, the HSA [Health Services Administrator] had conducted an inventory two days ago which showed signi ﬁ cant discrepancies in the inventories of Insulin syringes, 5cc syringes with needles, and 
+3cc syringes with needles.”
+107Page 28Lives in Peril: How Ineffective Inspections Make ICE Complicit in Detention Center Abuse
+The facility also believed its medical staff to be adequate to serve its population, despite the fact that 
+185 medical cases were referred for outside medical care in 2011 and 411 were referred in 2012. The ERO inspections provide no analysis of whether the medical staff were meeting the actual needs of the individuals detained at Tri-County.
+Environmental Health and Safety
+Additionally problematic in the 2012 ERO inspection are the various components which were not found de ﬁ cient but should have required follow-up before being marked as having met standards. 
+In particular, a new ﬁ re alarm system had been recently installed but had yet to be inspected by the 
+ﬁ re marshal and emergency generators did not cover critical areas such as administration, medical, 
+booking, and food service.
+108 But because facility staff indicated that they had plans to address these 
+problems, the environmental health and safety standard was preemptively marked as having been fulﬁ lled. 
+Telephone Access
+Collectively, the inspection reports for Tri-County present a puzzling picture of the reality in the facility. 
+In early 2012, Senator Richard Durbin (D-IL) visited the facility and expressed his shock at the con-ditions—particularly referencing the high price of phone calls and inoperable telephones
+109—yet the 
+2011 and 2012 ERO inspections re ﬂ ect no issues with the telephone system, ﬁ nding that the standard 
+was met and even exceeded.110 Of course, as discussed earlier, the ERO inspections process leaves 
+no room to even consider whether the exorbitant cost of phone calls undermines the PBNDS’s phone access requirements. 
+Grievance Procedures
+Also troubling are the facility’s grievance procedures. In the 2011 inspection, a component regarding the absence of a secure box through which detained individuals could drop in written comments to communicate with ICE staff was marked de ﬁ cient but was subsequently remediated later that year.
+Prior to the box’s existence, “ICE Staff receive[d] all requests from facility staff.” With this lack of con ﬁ -
+dentiality, it is not surprising that there were only six grievances in 2011 and 10 in 2012.
+111 
+NIJCNIJC NIJCPage 29The Immigration Detention Transparency & Human Rights Project - October 2015 Report
+V. Conclusion and Recommendations
+These six case studies demonstrate that the ICE inspections system is inadequate and has failed to 
+resolve the substantial and pervasive human rights violations detained immigrants face in ICE cus-tody. In many cases, the poor conditions and mistreatment individuals suffer are explicitly prohibited under ICE detention standards. Instead of reporting on these violations, the inspectors focus on com-pleting checklists and fail to engage with detained immigrants or follow up on issues raised in public reports. It is easy for facilities to pass inspections without actually upholding the standards’ intent.
+According to the 2009 congressional mandate, the ICE inspections process creates a threshold which 
+determines whether or not ICE can continue to contract with local governments and private prison companies to run immigration detention facilities. Unfortunately, NIJC and DWN found that ICE’s inspections mechanisms whitewash problems and ensure that even the worst detention facilities pass inspections and maintain contracts. Without a credible system of oversight, there is no humane way to incarcerate immigrants.  
+Based on the ﬁ ndings of this report, NIJC and DWN call on DHS and ICE to:
+1. Increase Transparency and Oversight of the Inspections Process
+A. Make ERO and ODO inspections available to the public in a timely manner. To date, ICE 
+has released its inspections to the public only as a result of FOIA requests. FOIA requests are unnecessarily time-consuming and expensive obstacles to accessing information about how the federal government treats thousands of people in its custody and spends billions of taxpayer dollars. Instead, this information should be freely available.
+B. Provide public reporting on suicide attempts, hunger strikes, work program stoppages, use 
+of solitary con ﬁ nement, use of force, and other signi ﬁ cant events at detention centers.
+C. Submit quarterly reporting to Congress on inspection and oversight activities of detention 
+facilities, which should be made publicly available.
+2. Improve the Quality of Inspections
+A. Establish a DHS ombudsman outside of ICE to conduct unannounced inspections of immi-
+gration detention facilities at least once per year, with complete ﬁ ndings made available to 
+the public. These third-party inspections should examine compliance with applicable deten-tion standards and determine whether contracts will be renewed in accordance with con-gressional appropriations requirements.
+B. Prohibit facilities from taking an “à la carte” approach to compliance and make all detention 
+standards provisions mandatory during inspections. ICE must stop permitting some facili-ties to opt out of detention standards they have been contracted to apply. If a facility cannot abide by detention standards in their entirety then it should not be permitted to enter into or continue a contract with ICE.
+C. Ensure that inspections involve more than checklists. Inspectors must rely on more than as-
+surances by jail administrators of compliance with detention standards and instead seek and document proof of their effective implementation.
+D. Engage detained immigrants during inspections, as well as other stakeholders such as legal Page 30Lives in Peril: How Ineffective Inspections Make ICE Complicit in Detention Center Abuse
+service providers and those who regularly conduct visitation, in order to capture the range of 
+concerns at a facility that may not be reported through formal institutional channels. Inspec-tors should document the content of those interviews.
+3. Institute Consequences for Failed Inspections
+A. Place detention facilities on probation and subject them to more intensive inspections after 
+the ﬁ rst ﬁ nding of substantial non-compliance.
+B. Terminate contracts within 60 days for those facilities with repeat ﬁ ndings of substantial 
+non-compliance, including inadequate or less than the equivalent median score in two con-secutive inspections.
+1. Goldstein, Amy & Dana Priest, “Careless Detention: Series Introduction,” The Washington Post  (May 9, 
+2008), 
+http://www.washingtonpost.com/wp-dyn/con-
+tent/video/2008/05/09/VI2008050902424.html . 
+2. Nina Bernstein, “Few Details on Immigrants Who 
+Died in Custody,” The New York Times  (May 5, 2008), 
+http://www.nytimes.com/2008/05/05/nyregion/05de-
+tain.html?_r=0 .
+3. “A Closer Look at 83 Deaths,” The Washington 
+Post (May 10, 2008), http://www.washingtonpost.com/
+wp-srv/nation/specials/immigration/map.html .
+4. Seattle University School of Law, Voices from 
+Detention: A Report on Human Rights Violations at the Northwest Detention Center  (July 2008), 
+https://
+weareoneamerica.org/sites/default/ ﬁ les/OneAmeri-
+ca_Detention_Report.pdf . 
+5. National Immigration Law Center, A Broken Sys-
+tem: Con ﬁ dential Reports Reveal Failures in U.S. 
+Immigrant Detention Centers  (July 2009), http://www.
+nilc.org/document.html?id=9 .
+6. Dora Schriro, Department of Homeland Security 
+Immigration and Customs Enforcement,  Immigration 
+Detention Overview and Recommendations (Oct. 6, 
+2009), http://www.ice.gov/doclib/about/of ﬁ ces/odpp/
+pdf/ice-detention-rpt.pdf .
+7. U.S. Immigration and Customs Enforcement, “2009 
+Immigration Detention Reforms” (Aug. 6, 2009), http://
+www.ice.gov/factsheets/2009detention-reform .8. For more information about the creation of the ODO, see Department of Homeland Security, Writ-ten testimony of U.S. Immigration and Customs Enforcement Of ﬁ ce of Detention Policy and Plan-
+ning Assistant Director Kevin Landy for a House Committee on the Judiciary, Subcommittee on Immi-gration Policy and Enforcement hearing on Perfor-mance-Based National Detention Standards (PBNDS) 2011 (Mar. 27, 2012), available at 
+http://www.dhs.
+gov/news/2012/03/27/written-testimony-us-immigra-tion-and-customs-enforcement-house-judiciary
+.
+9. U.S. President, Memorandum, “Freedom of Infor-
+mation Act,” Federal Register 74, no. 15 (Jan. 26, 2009): 4683, 
+http://www.justice.gov/sites/default/ ﬁ les/
+oip/legacy/2014/07/23/presidential-foia.pdf .
+10. U.S. Immigration and Customs Enforcement Of-
+ﬁ ce of Detention and Removal Operations, Semiannu-
+al Report on Compliance with ICE National Detention Standards January – June 2007  (May 9, 2008), 
+http://
+www.ice.gov/doclib/about/of ﬁ ces/opr/pdf/semiannu-
+al-dmd.pdf .
+11. The ODO and the other details of Obama’s reform 
+plan are discussed at length in a 2010 joint report by NIJC, DWN, and the Midwest Coalition for Human Rights, Year-One Report Card: Human Rights and the 
+Obama Administration’s Immigration Detention Re-forms , (Oct. 6, 2010), 
+http://immigrantjustice.org/sites/
+immigrantjustice.org/ ﬁ les/ICE%20report%20card%20
+FULL%20FINAL%202010%2010%2006.pdf .
+12. Sakamoto, Reginald Dep., Jan. 29, 2014, https://
+www.documentcloud.org/documents/2105817-saka-VI. EndnotesPage 31The Immigration Detention Transparency & Human Rights Project - October 2015 Report
+motos-deposition.htmlhttps:/www.documentcloud.org/
+documents/2105817-sakamotos-deposition.html . 
+13. Migration and Refugee Services/United States 
+Conference of Catholic Bishops & Center for Migra-tion Studies, Unlocking Human Dignity: A Plan to 
+Transform the U.S. Immigrant Detention System  (May 
+2015), 
+http://www.usccb.org/about/migration-and-refu-
+gee-services/upload/unlocking-human-dignity.pdf .
+14. U.S. Commission on Civil Rights, With Liberty and 
+Justice for All: The State of Civil Rights at Immigration Detention Facilities  (Sept. 2015), 
+http://www.usccr.
+gov/pubs/Statutory_Enforcement_Report2015.pdf  
+15.  See NIJC’s These Lives Matter blog: http://these-
+livesmatter.tumblr.com/ .
+16. See 2012 Northwest Detention Center ERO 
+Inspection, https://www.documentcloud.org/docu-
+ments/1813477-northwest-denteion-center-taco-ma-wa-2012-ero.html#document/p3/a248252
+; 2012 
+Etowah ODO Inspection, https://www.documentcloud.
+org/documents/797500-etoway-county-detention-cen-ter-gadsden-al-odo.html#document/p7/a248253
+. 
+17. U.S. Immigration and Customs Enforcement, 2000 
+Detention Operations Manual,  http://www.ice.gov/de-
+tention-standards/2000 .
+18. U.S. Immigration and Customs Enforcement, 
+2008 Operations Manual ICE Performance-Based National Detention Standards,  
+http://www.ice.gov/de-
+tention-standards/2008/ .
+19. U.S. Immigration and Customs Enforcement, 
+2011 Operations Manual ICE Performance-Based National Detention Standards, 
+http://www.ice.gov/
+detention-standards/2011/ (Note that while this report 
+does not cover detention facilities inspected to the ICE Family Residential Standards, NIJC has released inspection reports based on those standards for Berks County Family Shelter and Hutto Correctional Center.)
+20.  See NDS, PBNDS 2008, and PBNDS 2011. “Pro-
+cedures in italics are speci ﬁ cally required for SPCs 
+and CDFs. IGSA facilities must conform to these procedures or adopt, adapt or establish alternatives, provided they meet or exceed the intent represented by these procedures.”
+21. See Section IV focus report on Stewart Detention 
+Center, and 2012 Stewart ERO Inspection, 
+https://
+www.documentcloud.org/documents/2065390-stew-art-detention-center-ga-2012-ero-inspection.html
+.22. See example from 2012 Northwest Detention Center ERO Inspection, at 2, 
+https://www.docu-
+mentcloud.org/documents/1813477-northwest-den-teion-center-tacoma-wa-2012-ero.html
+.
+23. Id. 24. Following the creation of the Department of 
+Homeland Security in 2002, ICE was created to deal with immigration enforcement. ERO was then formed as a subset of ICE to manage and oversee immigra-tion detention. 
+25. Nakamoto Group, MGT of America, and Creative 
+Corrections are the primary contractors on the inspec-tions that were reviewed for this report.
+26. These include the Joint Integration Case Man-
+agement System (JICMS) and the ENFORCE Alien Booking Module (EABM) and Alien Removal Module (EARM).
+27. 2011 Stewart Detention Center ODO In-
+spection, at 4,  
+https://www.documentcloud.org/
+documents/2065395-stewart-detention-cen-ter-ga-2011-odo-inspection.html
+.
+28. Sakamoto, Reginald Dep., Jan. 29, 2014, https://
+www.documentcloud.org/documents/2105817-saka-motos-deposition.html
+.
+29. House Committee on Appropriations Report 
+110-181 to accompany H.R. 2638, FY 2008 (June 8, 2007), at 42, 43, available at 
+http://www.gpo.gov/
+fdsys/pkg/CRPT-110hrpt181/pdf/CRPT-110hrpt181.pdf
+.
+30. “Consolidated Security, Disaster Assistance, and 
+Continuing Appropriations Act, 2009.” 110th Con-gress, (H.R. 2638), P.L. 110-329, 
+https://www.con-
+gress.gov/110/plaws/publ329/PLAW-110publ329.pdf . 
+31. ICE Director John Morton testimony before the 
+House Appropriations Subcommittee on Homeland Security,  “The FY11 Budget for U.S. Immigration and Customs Enforcement,” March18, 2010, 
+http://
+www.dhs.gov/news/2010/04/16/assistant-secre-tary-john-mortons-testimony-us-immigration-and-cus-toms-enforcement
+. 
+32. See 2012 Northwest Detention Center ERO 
+Inspection, https://www.documentcloud.org/docu-
+ments/1813477-northwest-denteion-center-taco-ma-wa-2012-ero.html#document/p3/a248252
+; 2012 
+Etowah ODO Inspection, https://www.documentcloud.
+org/documents/797500-etoway-county-detention-cen-Page 32Lives in Peril: How Ineffective Inspections Make ICE Complicit in Detention Center Abuse
+ter-gadsden-al-odo.html#document/p7/a248253 .
+33. U.S. Government Accountability Of ﬁ ce, Immigra-
+tion Detention: Additional Actions Needed to Strength-en Management and Oversight of Facility Costs and Standards  (GAO-15-153), Oct. 2014, 
+http://www.gao.
+gov/assets/670/666467.pdf .
+34. Id.35. ICE, 2000 Detention Operations Manual.36. INS Detention Standard, Special Management 
+Unit (Sept. 2000), 
+http://www.ice.gov/doclib/dro/deten-
+tion-standards/pdf/smu_adm.pdf .
+37. INS Detention Standard, Hunger Strikes (Sept. 
+2000), http://www.ice.gov/doclib/dro/detention-stan-
+dards/pdf/hunger.pdf .
+38. ICE, 2008 Operations Manual ICE Perfor-
+mance-Based National Detention Standards. 
+39. ICE, 2011 Operations Manual ICE Perfor-
+mance-Based National Detention Standards. 
+40. Of ﬁ ce of Congressman Raúl Grijalva. Letter to 
+U.S. Attorney General Loretta Lynch re: Death of José Jésus Deniz-Sahagún at Eloy Detention Center. Jun. 16, 2015, 
+https://grijalva.house.gov/news-and-press-
+releases/grijalva-to-doj-investigate-deaths-at-eloy-de-tention-center
+. 
+41. 2007 Eloy ERO Inspection, https://www.docu-
+mentcloud.org/documents/1865591-eloy-az-2007-ero-inspection.html#document/p2/a244108
+. 
+42. 2012 Eloy ERO Inspection, https://www.docu-
+mentcloud.org/documents/1865593-eloy-az-2012-ero-inspection.html#document/p98/a244905.
+43. Nina Bernstein, “Of ﬁ cials Hid Truth of Immigrant 
+Deaths in Jail,” The New York Times  (Jan. 9, 2010), 
+http://www.nytimes.com/2010/01/10/us/10detain.html .
+44. U.S. Immigration and Customs Enforcement, List 
+of Deaths in ICE Custody October 2003 - December 6, 2012, 
+http://immigrantjustice.org/sites/immigrantjus-
+tice.org/ ﬁ les/Detainee%20Deaths%20in%20ICE%20
+Custody%202003-2012.pdf  (Downloaded from ICE 
+website July 12, 2013)
+45. U.S. Immigration and Customs Enforcement, List 
+of Deaths in ICE Custody October 2003 - December 2, 2013, 
+http://www.ice.gov/doclib/foia/reports/detain-
+eedeaths2003-present.pdf  (Accessed Oct. 19, 2015) 46. U.S. Immigration and Customs Services, List of Deaths in ICE Custody October 2003 - July 20, 2015, 
+http://www.ice.gov/sites/default/ ﬁ les/documents/
+Report/2015/detaineedeaths2003-present.pdf . (Ac-
+cessed Oct. 19, 2015)
+47. 2009 Eloy ERO Inspection, https://www.docu-
+mentcloud.org/documents/1865594-eloy-az-2009-ero-inspection.html#document/p8/a244124
+. 
+48. Id.49. Megan Jula & Daniel Gonzalez, “Eloy Detention 
+Center: Why so many suicides?” The Arizona Re-
+public , Jul. 29, 2015, 
+http://www.azcentral.com/story/
+news/arizona/investigations/2015/07/28/eloy-deten-tion-center-immigrant-suicides/30760545
+. 
+50. ICE/DRO Detention Standard: Medical Care, 
+(Dec. 2, 2008), https://www.documentcloud.org/docu-
+ments/2433679-2008-pbnds-medical-care-standard.html#document/p12/a244862
+. 
+51. ICE/DRO Detention Standard: Medical Care 
+(Dec. 2, 2008), https://www.documentcloud.org/docu-
+ments/2433679-2008-pbnds-medical-care-standard.html#document/p13/a244870
+. 
+52. 2011 Eloy ODO Inspection, https://www.docu-
+mentcloud.org/documents/1865603-eloy-az-2011-odo-inspection.html#document/p15/a244654
+. 
+53. Women’s Refugee Commission, Migrant Wom-
+en and Children at Risk: In Custody in Arizona , Oct. 
+2010, https://womensrefugeecommission.org/resourc-
+es/document/656 . 
+54. Bob Ortega, “Woman Alleges Abuse in Eloy Pris-
+on, Suing ICE,” The Arizona Republic, Dec. 8, 2011, 
+http://www.azcentral.com/news/articles/2011/12/08/20111208woman-alleges-abuse-eloy-prison.html
+. 
+55. 2011 Eloy ERO Inspection, https://www.document-
+cloud.org/documents/1865592-eloy-az-2011-ero-in-spection.html#document/p57/a244482
+. 
+56. ACLU, “ACLU of Arizona Files Lawsuit on Behalf 
+of Transgender Woman Sexually Assaulted by CCA Guard,” Dec. 5, 2011, 
+https://www.aclu.org/news/
+aclu-arizona- ﬁ les-lawsuit-behalf-transgender-wom-
+an-sexually-assaulted-cca-guard . 
+57. Detention Watch Network, Expose & Close: Baker 
+County Jail, Florida , Nov. 2012, http://www.detention-
+watchnetwork.org/sites/detentionwatchnetwork.org/ﬁ les/expose-bakernov12.pdf
+.Page 33The Immigration Detention Transparency & Human Rights Project - October 2015 Report
+58. 2011 Baker ERO Inspection, https://www.doc-
+umentcloud.org/documents/1692936-baker-coun-ty-ﬂ -2011ero-audit.html
+. 
+59. Id.60. 2011 Baker ODO Follow-Up Inspection, 
+https://
+www.documentcloud.org/documents/2451543-baker-county- ﬂ -2011-odo-follow-up-inspection.html
+.
+61. No 2010 ODO inspection was released for Baker.62. 2012 Baker ERO Inspection, 
+https://www.docu-
+mentcloud.org/documents/1692935-baker-county- ﬂ -
+2012-ero-audit.html . 
+63. Id.64. In referring to an “outdoor recreation area,” the 
+inspector means that it is outside of the housing pods.
+65. 2012 Baker ERO Inspection.66. 2011 Baker ERO Inspection, 
+https://www.doc-
+umentcloud.org/documents/1692936-baker-coun-ty-ﬂ -2011ero-audit.html
+, at 28.
+67. Detention Watch Network, Expose & Close: 
+Etowah County Jail, Alabama , Nov. 2012, at 1, http://
+www.detentionwatchnetwork.org/sites/detentionwatch-network.org/ ﬁ les/ExposeClose/Expose-Etowah11-13.
+pdf
+.
+68. Hannah Rappleye, “When Feds Sought to Shut-
+ter Immigration Jail, Politics Intervened,” NBC News, Aug. 22, 2012, 
+http://investigations.nbcnews.com/_
+news/2012/08/22/13398156-when-feds-sought-to-shutter-immigration-jail-politics-intervened
+.
+69. 2012 Etowah ERO Inspection, https://www.docu-
+mentcloud.org/documents/1700693-etowah-county-al-2012-ero-inspection.html
+. 
+70. 2012 Etowah ODO Inspection, at 3,  https://www.
+documentcloud.org/documents/797500-etoway-coun-ty-detention-center-gadsden-al-odo.html
+.
+71. 2012 Etowah ERO Inspection, at 35.72. Id.73. Expose & Close: Etowah County Jail, Alabama , at 
+5.
+74. 2011 Etowah ERO Inspection, 
+https://www.docu-
+mentcloud.org/documents/1700692-etowah-county-al-2011-ero-inspection.html
+, at 22.75. 2011 Etowah ERO Inspection, https://www.docu-
+mentcloud.org/documents/1700692-etowah-county-al-2011-ero-inspection.html
+. 
+76. Expose & Close: Etowah County Jail, Alabama , 
+at 6, http://www.detentionwatchnetwork.org/sites/
+detentionwatchnetwork.org/ ﬁ les/ExposeClose/Ex-
+pose-Etowah11-13.pdf .
+77. Corrections Corporation of America, “The CCA 
+Story: Our Company History,” https://www.cca.com/
+our-history
+78. Detention Watch Network, Expose & Close: Hous-
+ton Processing Center, Texas  (Nov. 2012), at 6, http://
+www.detentionwatchnetwork.org/sites/detentionwatch-network.org/ ﬁ les/expose-houstonnov12.pdf
+.
+79. See Christy Carnegie Fujio & Mike Corradini, 
+Buried Alive: Solitary Con ﬁ nement in the U.S. Deten-
+tion System , Physicians for Human Rights, Apr. 2013, 
+http://physiciansforhumanrights.org/library/reports/
+buried-alive-solitary-con ﬁ nement-in-the-us-deten-
+tion-system.html?referrer=http://www.immigrantjus-tice.org/end-solitary-con ﬁ nement-immigration-deten-
+tion
+; National Immigrant Justice Center & Physicians 
+for Human Rights, Invisible in Isolation: The Use of 
+Segregation and Solitary Con ﬁ nement in Immigration 
+Detention , Sept. 2012, http://www.immigrantjustice.
+org/publications/report-invisible-isolation-use-segrega-tion-and-solitary-con ﬁ nement-immigration-detenti
+; In-
+terim Report of the Special Rapporteur of the Human Rights Council on Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment , Aug. 5, 2011, 
+http://www.immigrantjustice.org/sites/immigrantjustice.
+org/ﬁ les/2011_08%20United%20Nations%20Re-
+port%20on%20Solitary%20Con ﬁ nement.pdf . 
+80. Expose & Close: Houston Processing Center , 
+Texas , at 6. 
+81. Expose & Close: Houston Processing Center, 
+Texas,  at 4; Authors of the report visited the facility in 
+July 2012. 
+82. 2012 Houston CDF ERO Inspection, at 73, https://
+www.documentcloud.org/documents/1736877-hous-ton-cdf-cca-tx-2012-ero-inspection.html
+.
+83. 2011 Houston CDF ERO Inspection, at 69, https://
+www.documentcloud.org/documents/1736874-hous-ton-cdf-cca-tx-2011-ero-inspection.html
+. 
+84. Expose & Close: Houston Processing Center, 
+Texas , at 4.Page 34Lives in Peril: How Ineffective Inspections Make ICE Complicit in Detention Center Abuse
+85. Expose & Close: Houston Processing Center, 
+Texas,  at 5.
+86. 2011 Houston CDF ERO Inspection, https://www.
+documentcloud.org/documents/1736874-houston-cdf-cca-tx-2011-ero-inspection.html
+.
+87. Id.88. 2012 Stewart ERO Inspection, 
+https://www.
+documentcloud.org/documents/2065390-stewart-de-tention-center-ga-2012-ero-inspection.html
+. “IGSAs 
+must conform to these procedures or adopt, adapt or establish alternatives, provided they meet or exceed the intent represented by these procedures” (written into the 2008 PBNDS in regards to how IGSAs should conform to standards that apply to CDFs/SPCs).
+89. 2011 Stewart ODO Inspection, at 2, 
+https://www.
+documentcloud.org/documents/2065395-stewart-de-tention-center-ga-2011-odo-inspection.html
+.  
+90. Id. at 17. 91. Id. at 7.92. 2012 Stewart ERO Inspection at 127.93. 2011 Stewart ODO Inspection, at15, 
+https://www.
+documentcloud.org/documents/2065395-stewart-de-tention-center-ga-2011-odo-inspection.html.
+94. Detention Watch Network, Expose & Close: Stew-
+art Detention Center, Georgia  (Nov. 2012), at 3, http://
+www.detentionwatchnetwork.org/sites/detentionwatch-network.org/ ﬁ les/expose-stewartnov12.pdf.
+95. ACLU of Georgia, Prisoners of Pro ﬁ t: Immigrants 
+and Detention in Georgia  (May 2012), http://www.
+acluga.org/ ﬁ les/2713/3788/2900/Prisoners_of_Pro ﬁ t.
+pdf.
+96. 2011 Stewart ODO Inspection at 15; 2012 Stewart ERO Inspection ,at 78. 
+97. 2012 Stewart ERO Inspection.98. Id. 99. Expose & Close: Stewart Detention Center, 
+Georgia  (Nov. 2012), at 4, 
+http://www.detentionwatch-
+network.org/sites/detentionwatchnetwork.org/ ﬁ les/
+expose-stewartnov12.pdf .  
+100. There was no ODO inspection.101. Detention Watch Network & National Immigrant Justice Center, Expose & Close: Tri-County Detention 
+Center, Illinois  (Nov. 2012), http://www.detention-
+watchnetwork.org/sites/detentionwatchnetwork.org/ﬁ les/expose-tricountynov12.pdf
+. 
+102. 2011 Pulaski ERO Inspection, marked as 
+“N/A” at 36 ( https://www.documentcloud.org/docu-
+ments/2065596-tri-county-jail-il-2011-ero-inspection.html#document/p171/a250934
+) and “Meets Standard” 
+at 2012FOIA3030.010009 (inspection page number not legible in document, view at 
+https://www.docu-
+mentcloud.org/documents/2065596-tri-county-jail-il-2011-ero-inspection.html#document/p171/a250934
+).
+103. Id. at 68.104. Id. at 69.105. 2012 Pulaski ERO Inspection, 
+https://www.doc-
+umentcloud.org/documents/2065597-tri-county-jail-il-2012-ero-inspection.html
+. 
+106. Id.107. Id. at 88. 108. Id.109. Expose & Close: Tri-County Detention Center, 
+Illinois  at 5.
+110. The 2012 inspectors wrote that “Telephones are 
+available in numbers that exceed the minimum ratio required” and continues on that “Any repairs needed are promptly reported.”
+111. 2011 Pulaski ERO Inspection. Information re-
+garding drop box de ﬁ ciencies is annotated at 
+https://
+www.documentcloud.org/documents/2065596-tri-county-jail-il-2011-ero-inspection.html#document/p170/a250975

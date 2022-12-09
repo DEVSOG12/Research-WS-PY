@@ -1,0 +1,2040 @@
+ 
+Physicians for  
+Human Rights  
+ 
+December  2014  
+ Doing Harm:  
+Health Professionals’ 
+Central Role in the CIA 
+Torture Program  
+ 
+Medical and Psychological Analysis of the 
+2014 U.S. Senate Select Committee on 
+Intelligence Report’s Executive Summary  
+ 
+ 
+ Acknowledg ments  
+ 
+This analysis was written by:  Scott A. Allen, MD, FACP, 
+medical advisor, Physicians for Human Rights; professor 
+of medicine, associate dean of academic affairs, 
+University of California, Riverside; co-founder and co-
+director, Center for Prisoner He alth and Human Rights, 
+Brown University; Widney Brown, JD, director of 
+programs, Physicians for Human Rights; Sarah M. 
+Dougherty, JD, MPH, senior fellow, Anti -Torture 
+Program, Physicians for Human Rights; Megan Granski, 
+policy and advocacy coordinator, research assistant to 
+the director, Bellevue/ NYU Program for Survivors of 
+Torture, NYU Center for Health and Human Rights; 
+Vincent Iacopino, MD, PhD, senior medical advisor, 
+Physicians for Human Rights; adjunct professor of 
+medicine, University of Minnesota Medical School; senior 
+research fellow, Human Rights Center, University of 
+California, Berkeley; Allen S. Keller, MD, medical advisor, 
+Physicians for Human Rights; associate professor of 
+medicine, NYU School of Medicine; director, 
+Bellevue/NYU Program for Survivors of Torture; director, 
+NYU School of Medicine Center for Health and Human 
+Rights; human rights director , Undergraduate Bioethics 
+Education, NYU School of Medicine; Nathaniel A. 
+Raymond, research ethics advisor, Physicians for Human 
+Rights; directo r, Signal Program on Human Security and 
+Technology, Harvard Humanitarian Initiative, Harvard 
+School of Public Health; Steven Reisner, PhD, ethics and 
+psychology advisor, Physicians for Human Rights; co-
+founder, Coalition for an Ethical Psychology; and 
+Stephen Soldz, PhD, anti-torture advisor, Physicians for 
+Human Rights; professor and director, Center for 
+Research, Evaluation, and Program Development, Boston 
+Graduate School for Psychoanalysis; co-founder, 
+Coalition for an Ethical Psychology.  
+ 
+This analysis was reviewed by PHR leadership and staff 
+including Donna McKay, executive director ; DeDe 
+Dunevant, director of communication s; Susannah Sirkin, 
+director of international policy and partnerships ; 
+Kathryn  Striffolino, policy advisor ; and Eliza B. Young, 
+MA, publications coordinator.  
+ 
+This analysis was written in consultation with Stephen N. 
+Xenakis, MD, Brigadier General (Retired), U.S. Army, 
+United States of America; Anti -Torture Advisor, 
+Physicians for Human Rights.  
+ 
+Eliza B. Young, MA, PHR publications c oordinator, edited 
+and prepared this analysis  for publication . 
+ 
+PHR interns, Sofie Ghitman and Brian Campbell, 
+contributed background research and assisted in the 
+preparation of this analysis.  
+ 
+ 
+ 
+ 
+ 
+©2014 Physicians for Human Rights  
+All rights reserved.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cover:  Detainees stand during an early morning Islamic prayer at the 
+U.S. military prison for 'enemy combatants' at Guantánamo Bay, Cuba.  
+John Moore /Getty Images   
+ 
+phr.org  Doing Harm: Health Professionals’ 
+Central Role in the CIA Torture Program  Table of Contents 
+ 
+3  Introduction 
+3  CIA Torture Program Relied on Health 
+  Professionals to a Degree Previously Unknown 
+4  Health Professionals May Have Committed War 
+Crimes, Crimes against Humanity 
+4  Federal Commission Must Investigate Role of 
+Health Professionals in CIA Torture Program 
+5 SSCI Summary Details at Least Eight Categories of 
+Abuse by Health Professionals 
+13 Conclusion 
+14 Recommendations 
+15 Endnotes  Abbreviations 
+ 
+CIA 
+Central Intelligence Agency 
+ 
+DoD 
+Department of Defense 
+ 
+DoJ 
+Department of Justice 
+ 
+EITs 
+Enhanced interrogation techniques 
+ 
+KSM 
+Khalid Sheikh Mohammed 
+ 
+OLC 
+Department of Justice’s Office of Legal Counsel  
+ 
+OIG 
+CIA Office of the Inspector General 
+ 
+OMS 
+CIA Office of Medical Services 
+ 
+SERE 
+Survival, Evasion, Resistance, and Escape 
+ 
+SSCI 
+U.S. Senate Select Committee on Intelligence
+2
+2 
+ 
+phr.org  Doing Harm: Health Professionals’ 
+Central Role in the CIA Torture Program  I. Introduction  
+ 
+Health professionals, given their ethical and legal 
+obligations to protect the health and welfare of all 
+individuals, have historically represented one essential 
+barrier to the inhumane treatment of detainees and 
+prisoners. The complicity of health professionals 
+themselves in such abuse indicates that egregious 
+violations of public trust, ethics, and law have taken 
+place.  
+  
+The U.S. Senate Select Committee on Intelligence (SSCI) 
+publicly released the 500-page executive summary 
+(“summary”) of its 6,700 -page Committee Report of the 
+Central Intelligence Agency's Detention and 
+Interrogation Program  (“report”) on December 9, 2014.1 
+The summary confirms that the United States 
+systematically tortured Central Intelligence Agency (CIA) 
+detainees after September 11, 2001, and that the 
+practices were far more brutal than previously 
+acknowledged. 
+ 
+Even more disturbingly, the summary reveals the extent 
+to which U.S. health professionals2 were involved in 
+developing, implementing, and attempting to justify the 
+CIA’s il legal torture program – in violation of U.S. and 
+international law and fundamental principles of medical 
+ethics. 
+ 
+Physicians for Human Rights (PHR) has analyzed the 
+summary, building on a decade of the organization’s 
+investigation and documentation of the systematic 
+torture and ill-treatment of national security detainees 
+by the United States. PHR has also documented the 
+physical and mental health consequences of these 
+practices and the role of U.S. health professionals in 
+torture.3 
+ 
+Based on its analysis of the summary,4 PHR finds that 
+health professionals played not only a central, but an 
+essential role in the CIA torture program – to an extent 
+not previously understood. Psychologists designed, 
+supervised, and implemented an extensive system of 
+torture and ill-treatment, and were paid enormous sums 
+for their efforts. Psychologists and physicians monitored 
+those being tortured and used their expertise to certify 
+detainees’ fitness for torture and worked to enable and 
+enhance the pain inflicted. 
+ 
+PHR finds that without the participation of health 
+professionals, this illegal program might have been 
+prevented.  
+ 
+PHR also concludes that the violations committed by 
+health professionals represent not only a gross breach 
+of medical and professional ethics, but also violations of 
+domestic and international law. (See section III. “Health 
+Professionals May Have Committed War Crimes, Crimes 
+Against Humanity.”) Given the seriousness of this crime,  
+torture is subject to universal jurisdiction and obligates  
+ 
+ the state to prosecute those responsible. Some of the 
+crimes detailed in the summary may reach the level of 
+war crimes and crimes against humanity, which are also 
+subject to universal jurisdiction. PHR calls on the current 
+U.S. administration to hold those responsible for torture 
+– including physicians, psychologists, and other health 
+professionals – legally and ethically accountable for their 
+actions.  
+ 
+II. CIA Torture Program 
+Relied on Health 
+Professionals to a Degree 
+Previously Unknown  
+ 
+The SSCI summary confirms that U.S. health 
+professionals developed, implemented, and monitored 
+the systematic torture and ill-treatment of detainees in 
+CIA custody. Their participation in the program was 
+used in an attempt to legally justify the crime of torture.  
+ 
+The summary provides critical new information about 
+the CIA’s Office of Medical Services (OMS) and how its 
+health professionals participated in and otherwise 
+facilitated CIA torture. The summary also expands on 
+the role of CIA contract psychologists, James Mitchell 
+and Bruce Jessen, long recognized as the torture 
+program’s architects.  
+ 
+The summary documents at least eight categories of 
+acts and omissions by various CIA health professionals5 
+that violate their ethical and legal obligations. (See 
+section V. “SSCI Summary Detail s at Least Eight 
+Categories of Abuse by Health Professionals.”)  
+ 
+Based on a detailed review conducted by PHR, the health 
+professionals who participated in the CIA torture 
+program violated core ethical principles common to the 
+healing professions, including the following obligations:  
+ 
+ To do no harm;  
+ To protect the lives and health of patients 
+under their care from harm and brutality; 
+ To prevent and report torture; 
+ To uphold standards of professionalism, be 
+honest in professional interactions, and 
+report incompetence, fraud, and deception; 
+ To never engage in unethical research on 
+human subjects;  
+ To receive the informed consent of the patient 
+before providing medical treatment; 
+ To only perform roles consistent with their 
+ethics and professional competencies; and 
+ To find an ethical resolution when health 
+professionals’ obligations to persons under 
+their care and to society conflict with the 
+agenda of state institutions. 
+ 
+3 
+ 
+phr.org  Doing Harm: Health Professionals’ 
+Central Role in the CIA Torture Program  PHR concludes that the CIA relied upon health 
+professionals at every step to commit and conceal the 
+brutal and systematic torture of national security 
+detainees. While the SSCI summary suggests that 
+participation began with psychologists, it names three 
+health professions acting in several roles throughout 
+each stage of the multi-year CIA torture program: 
+psychologists, physicians (including psychiatrists), and 
+physician assistants. 
+ 
+III. Health Professionals 
+May Have Committed War 
+Crimes, Crimes against 
+Humanity 
+ 
+The SSCI summary details a range of activities by health 
+professionals that violate numerous international 
+treaties, laws, and ethical codes, including: 
+ 
+ International human rights and humanitarian 
+treaties, including the International Covenant 
+on Civil and Political Rights,6 the UN 
+Convention against Torture and Other Cruel, 
+Inhuman and Degrading Treatment or 
+Punishment,7 and the Geneva Conventions;8 
+ U.S. state and federal law, including the War 
+Crimes Act of 1996, Federal Policy for the 
+Protection of Human Subjects, the federal 
+anti-torture statute, and the U.S. 
+Constitution;9 
+ Ethical codes of the American Medical 
+Association, American Psychological 
+Association, and American Psychiatric 
+Association;10 and 
+ International research and medical ethics 
+codes, including the Nuremberg Code11 and 
+the World Medical Association’s Declarations 
+of Helsinki, Tokyo, and Malta.12 
+ 
+While most of the acts detailed in the summary violate 
+international human rights and domestic laws 
+prohibiting torture, several of these alleged violations 
+can also constitute war crimes under domestic and 
+international law.13 Furthermore, in certain instances, 
+such as in the crime of unethical research on human 
+subjects, these alleged crimes may rise to the level of 
+crimes against humanity under international law. 
+ 
+ 
+ 
+ IV. Federal Commission 
+Must Investigate Role of 
+Health Professionals in CIA 
+Torture Program 
+ 
+PHR is calling for a federal commission to investigate, 
+document, and hold accountable all health professionals 
+who participated in the CIA torture program. The 
+purpose of this commission is to understand what 
+happened and how it happened. Ultimately, the 
+commission should determine how the United States 
+can prevent future torture, including health 
+professionals’ participation and complicity.  
+ 
+Given the extensive information on health professionals’ 
+breaches of established medical ethics, domestic law, 
+and international treaties, a more comprehensive and 
+focused investigation into their participation in the CIA’s 
+torture program beyond the SSCI investigation is 
+necessary. Based on the available evidence, as well as 
+the extreme seriousness of the alleged crimes and 
+ethical violations committed by CIA health 
+professionals, PHR encourages U.S. President Barack 
+Obama, in cooperation with the incoming U.S. Congress, 
+to authorize a federal commission of inquiry specifically 
+into the role of health professionals in designing, 
+directing, monitoring, and attempting to provide legal 
+justifications for the CIA torture program.  
+ 
+Such a commission must have subpoena powers and 
+the authority to refer individuals for criminal 
+investigation and prosecution to the U.S. Department of 
+Justice (DoJ), as warranted by the evidence. Past 
+examples of similar blue ribbon federal commissions 
+include the Tower Commission into the Iran-Contra 
+Scandal, the Kean-Hamilton Commission into the 9/11 
+Attacks, and the Warren Commission into the 
+Assassination of President John F. Kennedy. (For more, 
+see section VII. “Recommendations.”)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+phr.org  Doing Harm: Health Professionals’ 
+Central Role in the CIA Torture Program  V. SSCI Summary Details at 
+Least Eight Categories of 
+Abuse by Health 
+Professionals  
+ 
+The SSCI summary indicates that CIA healt h 
+professionals – psychologists, physicians (including 
+psychiatrists), and physician assistants – directly 
+participated in the CIA’s torture program and were 
+central to its development and implementation, as well 
+as attempts to justify the use of torture. The SSCI 
+summary documents unethical and illegal acts 
+perpetrated by CIA health professionals, including:  
+ 
+1) Designing, directing, and profiting from the 
+torture program : Psychologists conceptualized 
+and designed the CIA torture techniques, then 
+helped implement the program, receiving a sole-
+source, multi-million dollar CIA contract for 
+these services. 
+2) Intentionally inflicting harm on detainees : 
+Health professionals intentionally inflicted 
+and/or threatened to inflict severe harm and 
+suffering on detainees in CIA custody. 
+3) Enabling DoJ lawyers to create a fiction of 
+“safe, legal, and effective” interrogation 
+practices : Health professionals participated in 
+the DoJ’s Office of Legal Counsel’s spurious legal 
+rationale that the techniques would not be 
+considered torture so long as health 
+professionals certified they were not. 
+4) Engaging in potential human subjects research 
+to provide legal cover for torture : Health 
+professionals collected and analyzed data from 
+application of techniques in an effort to 
+legitimize torture. OMS officials expressed 
+concern that these documentation practices 
+could constitute illegal human subjects research. 
+Senior CIA officials who were asked to evaluate 
+the efficacy of the tactics expressed similar 
+concerns. 
+5) Monitoring detainee torture and calibrating 
+levels of pain : Health professionals monitored, 
+documented, and calibrated the intentional 
+infliction of harm on detainees.  
+6) Evaluating and treating detainees for purposes 
+of torture : Health professionals evaluated and 
+treated detainees before, during, and after 
+torture in order to enable the torture to occur. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7) Conditioning medical care on cooperation with 
+interrogators : Health professionals provided 
+medical care that was contingent upon whether 
+or not detainees were deemed to have 
+cooperated with interrogators. 
+8) Failing to document physical and/or 
+psychological evidence of torture : Health 
+professionals did not document the torture 
+inflicted on detainees, which served to conceal 
+the tactics’ harmful effects.  
+ 
+1. Designing, Directing, and Profiting from the 
+Torture Program 
+ 
+The central role that CIA contract psychologists James 
+Mitchell and Bruce Jessen played in conceptualizing and 
+designing strategies for the direct infliction of a 
+combination of physical and psychological harm on 
+detainees was well- documented before the summary’s 
+release.14 These psychologists – who were given the 
+pseudonyms “Grayson Swigert” (Mitchell) and 
+“Hammond Dunbar” (Jessen) in the summary –  designed 
+the so- called “enhanced interrogation techniques” (EITs) 
+in 2002. The regime of physical and psychological 
+abuse the psychologists designed is based, in large 
+part, on Martin Seligman’s psychological theory of 
+“learned helplessness.”15 (19, 21, 26, 32, 71, 463 –464) 
+ 
+Mitchell and Jessen, formerly with the U.S. government's 
+Survival, Evasion, Resistance, and Escape (SERE) 
+program, reverse-engineered the techniques used to 
+train U.S military personnel to withstand torture and 
+abuse if captured, according to these reports. The SERE 
+training techniques were originally modeled on Chinese 
+and North Korean torture techniques applied to U.S. 
+service members captured during the Korean War.16 The 
+SERE-based techniques that Mitchell and Jessen 
+proposed for the CIA to use on detainees include 
+waterboarding, stress positions, slapping, isolation, 
+sleep deprivation, dietary manipulation, sensory 
+deprivation and overload, and sexual humiliation, 
+among others. 
+ 
+The summary provides the fullest description to date of 
+the scope of Mitchell’s and Jessen’s involvement in the 
+CIA torture program. According to the SSCI summary, 
+the contractors conceptualized and designed 
+techniques, personally applied them to detainees, 
+conducted psychological evaluations of detainees whom 
+they would torture, trained other interrogators in the 
+use of torture, and recommended what techniques 
+should be employed on which detainees.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+ 
+phr.org  Doing Harm: Health Professionals’ 
+Central Role in the CIA Torture Program  The two contractors, who did not report to OMS, were 
+operational psychologists (i.e. psychologists involved 
+directly in interrogations).17 Various CIA staff voiced 
+concerns about professional conflicts of interest arising 
+from their activities, including the fact that they were 
+serving interrogation and psychological roles; evaluating 
+the effectiveness of interrogation activities they had 
+conducted themselves; and recommending 
+interrogation activities from which they would financially 
+benefit.  
+ 
+The summary documents that Jessen traveled in January 
+2003 to a CIA black site in Poland,18 where he evaluated 
+Abd al-Rahim al-Nashiri and recommended the use of 
+waterboarding, to be administered by himself with the 
+assistance of Mitchell. (71) In June 2003, both Mitchell 
+and Jessen went to Poland to interrogate Khalid Sheikh 
+Mohammed, whom they subjected to waterboarding 
+and other techniques. Subsequently, the two conducted 
+a psychological assessment of Mohammed to determine 
+if he could withstand additional torture techniques that 
+they would then administer. (65)  
+ 
+Mitchell and Jessen did not report to OMS, which 
+therefore had no authority over them. OMS staff, among 
+others, expressed concerns about their role. For 
+example, in a 2003 memorandum for the CIA Inspector 
+General, one OMS staff member stated:  
+ 
+OMS concerns about conflict of interest ... were 
+nowhere more graphic than in the setting in which 
+the same individuals applied an EIT which only they 
+were approved to employ, judged both its 
+effectiveness and detainee resilience, and implicitly 
+proposed continued use of the technique - at a daily 
+compensation reported to be $1800/day, or four 
+times that of interrogators who could not use the 
+technique. (66) 
+ 
+Those CIA staff who expressed concerns in 2003 about 
+Mitchell’s and Jessen’s role in detainee interrogations, 
+including potential conflicts of interest arising from their 
+involvement, were apparently disregarded. (65 –66, 72) 
+In 2005, the two psychologists formed Mitchell, Jessen 
+& Associates (referred to as Company Y in the 
+summary), which “was granted a sole source contract to 
+provide operational psychologists, debriefers, and 
+security personnel at CIA detention sites.” (168) This 
+statement strongly suggests that there were additional 
+operational psychologists working for the company 
+other than just Mitchell and Jessen. By March 2006, 
+approximately 73 percent of the staff working for the 
+CIA’s Renditions and Detention Group were contractors , 
+with a majority from Mitchell and Jessen’s company. 
+(168–169) Mitchell’s and Jessen’s significance to the CIA 
+program can be inferred from the fact that the CIA sent 
+them to brief then National Security Adviser 
+Condoleezza Rice on the program in July 2007. (163) 
+ 
+As the summary also indicates, Mitchell and Jessen were 
+well compensated for their work in the CIA torture 
+program. The CIA awarded Mitchell, Jessen & Associates 
+$81 million, while Mitchell and Jessen each received over $1 million from the CIA. The CIA also provided 
+them and their company with legal counsel and an 
+indemnity agreement for non-prosecution of potential 
+criminal activity. (Findings and Conclusions, 11) 
+ 
+2. Intentionally Inflicting Harm on Detainees 
+ 
+The SSCI summary documents numerous instances in 
+which CIA health professionals intentionally inflicted 
+harm on detainees, including making adjustments to 
+their physical state to permit continued or increased 
+harm (for example, adjusting conditions of shackling 
+and confinement) and carrying out clinical procedures 
+for non-medical reasons. (126, 141) One of the most 
+egregious examples of direct medical participation in 
+torture is the use of rectal rehydration or rectal feeding 
+on at least five detainees: Abu Zubaydah, Abd al-Rahim 
+al-Nashiri, Khalid Sheikh Mohammad, Majid Khan, and 
+Marwan al-Jabbur. Three others were threatened with 
+the procedure: Ramzi bin al-Shibh, Khallad bin Attash, 
+and Adnan al-Libi. (100, 114) 
+ 
+An OMS medical officer described the rectal rehydration 
+procedure in a Februa ry 27, 2004 email: “[r]egarding the 
+rectal tube, if you place it and open up the IV tubing, the 
+flow will self regulate, sloshing up the large intestines…. 
+[w]hat I infer is that you get a tube up as far as you can, 
+then open the IV wide. No need to squeeze the bag – let 
+gravity do the work.” (100) While the CIA has defended 
+its use of rectal rehydration as a “well acknowledged 
+medical technique,” it nevertheless failed to establish or 
+document medical necessity. (115)  
+ 
+According to PHR experts:19 
+ 
+Rectal hydration is almost never practiced in 
+medicine because there are more effective means, 
+such as oral and intravenous fluid administration. It 
+is never considered as a first-line form of therapy for 
+rehydration or nutritional support. The large colon 
+has the capacity to absorb fluids, but has a very 
+limited capacity to absorb nutrients with the 
+exception of glucose and electrolytes. Pureed food 
+and nutritional supplements, such as Ensure, should 
+never be administered rectally.  
+ 
+Historically, rectal hydration was used in field 
+conditions, particularly during World War II, when 
+severe injuries resulted in marked blood loss and oral 
+and intravenous administration of fluids were not 
+possible. Also, in rare medical circumstances, such as 
+terminally ill patients who are unable to take oral 
+fluids and in whom intravenous access is not 
+possible, rectal hydration has been used.  
+ 
+The use of rectal hydration and feeding, according to 
+the SSCI summary, was conducted “without medical 
+necessity,” meaning oral and/or IV acc ess was 
+possible in these individuals. Moreover, the summary 
+indicates that rectal hydration was used to control 
+and/or punish the detainees…. Insertion of any 
+object into the rectum of an individual without his 
+consent constitutes a form of sexual assault.20 
+6 
+ 
+phr.org  Doing Harm: Health Professionals’ 
+Central Role in the CIA Torture Program  As the summary states, “CIA medical officers discussed 
+rectal rehydration as a means of behavior control” and 
+carried it out at the order of interrogators. (82 –83, 100, 
+483, 488) 
+ 
+For example, during his detention at the Salt Pit in 
+Afghanistan, CIA detainee Mohammed was subjected to 
+rectal rehydration at least twice in March 2003.21 The 
+summary states: “ KSM [Khalid Sheikh Mohammed] was 
+subjected to rectal rehydration without a determination 
+of medical need, a procedure that KSM interrogator and 
+chief of interrogations would later characterize as 
+illustrative of the interrogator's ‘total control over the 
+detainee.’” (488) A medical officer reflected that 
+subjecting Mohammed to rectal rehydration helped 
+“clear a person's head” and was “effective in getting  KSM 
+to talk,” indicating that medical personnel identified with 
+the goals of interrogation over patient care. Subsequent 
+medical officers perfected their techniques based on 
+these notes. (83, 100, 483) 
+ 
+Medical officers also engaged in the rectal force- feeding 
+of three hunger strikers: al-Nashiri, Zubaydah, and 
+Khan. The summary states that al-Nashiri was rectally 
+“infused” with Ensure,22 while Zubaydah received “rectal 
+fluid resuscitation” for “partially refusing liquids.” In an 
+email dated February 2004, a medical officer wrote: 
+“[w]hile IV infusion is safe and effective, we were 
+impressed with the ancillary effectiveness of rectal 
+infusion on ending the water refusal in a similar case.” 
+(100) This statement reveals that the medical officers 
+knew that IV infusion was safer and more effective, but 
+instead used rectal feeding for its “ancillary 
+effectiveness” as an interrogation method.  
+ 
+The case of Khan, who engaged in hunger strikes 
+between March 2004 and his transfer to Guantánamo 
+Bay in September 2006, illustrates the arbitrary and 
+punitive nature of the procedure. Khan accepted 
+nasogastric and IV feeding and was allowed to infuse 
+fluids and nutrients himself. Nevertheless, after three 
+weeks, the CIA opted to rectally force-feed him with 
+Ensure and his own pureed lunch to eliminate 
+“unnecessary conversation.” (115) The summary noted 
+that according to CIA records, Khan was “very hostile” to 
+rectal feeding. (488) 
+ 
+In addition to being contraindicated, such procedures 
+can have harmful side effects. They can cause rectal 
+trauma and can have additional harmful health 
+consequences both physically and emotionally. The 
+same is true of rectal exams, which were done routinely 
+and conducted with “excessive force” in the case of at 
+least two detainees, according to the summary. One of 
+the detainees, Mustafa al-Hawsawi, was later diagnosed 
+with “chronic hemorrhoids, an anal fissure, and 
+symptomatic rectal prolapse.” (100) Rather than reject 
+such brutal practices, medical officers appear to have 
+modified them to increase pain: “we used the largest 
+Ewal [sic] tube we had,” stated one officer in a February 
+2004 email. (100) 
+ 3. Enabling DoJ Lawyers to Create a Fiction of “Safe, 
+Legal, and Effective” Interrogation Practices  
+ 
+The SSCI summary confirms what previous analysis of 
+the DoJ’s Office of Legal Counsel (OLC) memos revealed: 
+health professionals’ monitoring of the CIA torture 
+program was a core component of the George W. Bush 
+administration’s argument that these tactics did not 
+constitute torture.23 The August 1, 2002 OLC memo to 
+the CIA (also known as the “Yoo/Bybee Memorandum”) 
+stated that a “good faith” argument could be made that 
+health professionals’ monitoring of the application of 
+the techniques would ensure that they did not cause 
+“severe and long lasting” mental a nd physical pain and 
+suffering to a degree that would violate U.S. laws 
+prohibiting torture.24 
+ 
+In what have become known as the “torture memos,” 
+former OLC deputy assistant attorney general, John Yoo, 
+and former OLC assistant attorney general, Jay ByBee, 
+attempted to redefine torture in a manner that 
+precluded recognition and/or liability for the crime. 
+They raised the legal thresholds for levels of physical 
+and mental pain and created a condition of “specific 
+intent” that essentially rendered the definitio n 
+meaningless.25  
+ 
+The Convention against Torture, which the United States 
+has ratified, defines torture as:  
+ 
+…any act by which severe pain or suffering, whether 
+physical or mental, is intentionally inflicted on a 
+person for such purposes as obtaining from him or a 
+third person information or a confession, punishing 
+him for an act he or a third person has committed or 
+is suspected of having committed, or intimidating or 
+coercing him or a third person, or for any reason 
+based on discrimination of any kind, when such pain 
+or suffering is inflicted by or at the instigation of or 
+with the consent or acquiescence of a public official 
+or other person acting in an official capacity. 26 
+ 
+According to Yoo and Bybee, torture had to result in a 
+level of physical pain co nsistent with a “serious physical 
+injury, such as organ failure, impairment of bodily 
+function or even death.”27 Severe mental pain had to be 
+“prolonged” (months and even years) and in response to 
+“threats of imminent death; threats of infliction of the 
+kind of pain that would amount to physical torture; 
+infliction of such physical pain as a means of 
+psychological torture; use of drugs or other procedures 
+to deeply disrupt the senses, or fundamentally alter and 
+individual’s personality....”28  
+ 
+Even if the pain thresholds for torture established by 
+Yoo and Bybee were met, the infliction of severe 
+physical and mental pain had to be the interrogator’s 
+“precise objective” to constitute torture. In order to 
+recognize torture, physicians and psychologists would 
+need to confirm that the interrogator (in some cases, 
+the physicians and psychologists themselves) 
+specifically intended to cause physical and mental pain 
+as defined by Yoo and Bybee. 
+7 
+ 
+phr.org  Doing Harm: Health Professionals’ 
+Central Role in the CIA Torture Program  Certain unauthorized interrogation methods, such as 
+rectal hydration, mock burials, and threats to family 
+members, were not authorized and may be easily 
+recognized as torture given their capacity to shock the 
+conscience, but the same is true for the authorized EITs 
+practiced by the CIA. The EITs included sleep 
+deprivation, isolation, and sensory deprivation, and are 
+known to cause devastating and lasting effects and 
+therefore also must be understood as constituting 
+torture. Prior to 2001, the United States recognized each 
+of these techniques as torture.29 Moreover, legal 
+determinations of torture typically require medical  
+evaluations of physical and psychological evidence in 
+accordance with international standards,30 but there is 
+no indication in the summary that such evaluations ever 
+took place. (See section V, subsection 8. “Faili ng to 
+Document Physical and/or Psychological Evidence of 
+Torture.”) PHR has examined former national security 
+detainees alleging torture and provided extensive 
+documentation of severe and lasting physical and 
+psychological effects of EITs.31  
+ 
+The summary provides additional critical evidence that 
+EITs cause severe physical pain and severe and 
+prolonged mental pain. It is apparent throughout the 
+summary that the intent of the interrogators was to 
+break the detainees’ will and create a condition of 
+debility, dependency, and dread given the goal and 
+outcome of the interrogations. In a cable from Mitchell 
+and Jessen addressing the “aggressive phase” of 
+Zubaydah’s interrogation, it is stated:  
+ 
+Our goal was to reach the stage where we have 
+broken any will or ability of subject to resist or deny 
+providing us information (intelligence) to which he 
+had access. We additionally sought to bring subject 
+to the point that we confidently assess that he does 
+not/not possess [sic] undisclosed threat information, 
+or intelligence that could prevent a terrorist event. 
+(46) 
+ 
+Prolonged deprivation of food, sound, light, and sleep 
+(for up to 180 hours); exposure in freezing 
+temperatures (resulting in death in one case); diapering; 
+being forced to soil one’s self; repeated beatings; and 
+multiple near drowning experiences by waterboarding 
+to the point of unconsciousness are intentional acts that 
+cannot be conducted without inflicting severe physical 
+and mental pain. 
+ 
+In fact, according to CIA records, when briefed in April 
+2006, then President Bush expressed discomfort with 
+the “image of a detainee, chained to the ceiling, clothed  
+in a diaper, and forced to go to the bathroom on 
+himself.” (25, 40) Yet, physicians and psychologists  
+participated in the ongoing monitoring of these 
+practices, and – through their silence and inaction – 
+aided the CIA and OLC lawyers in creating a fiction of 
+“safe, legal, and effective” interrogation practices.  
+ 
+ 
+ 
+ Moreover, it appears that this legal farce was and 
+continues to be instrumental in attempts to justify a 
+policy of systematic torture. 
+ 
+4. Engaging in Potential Human Subjects 
+Experimentation to Provide Legal Cover for Torture 
+ 
+The SSCI summary provides new information suggesting 
+that OMS collection and analysis of data on 
+interrogation practices may constitute human subjects 
+experimentation.  
+ 
+One of the key prohibitions regarding medical ethics 
+that came out of World War II was the prohibition 
+against unethical human subjects experimentation; this 
+was based on the recognition of atrocities committed by 
+the Nazis. Unethical human subjects research also arose 
+in the United States with the now infamous Tuskegee 
+experiment, whereby black men were monitored as they 
+died of diagnosed, but untreated, syphilis. The 
+experiment ended in 1972. To safeguard against such 
+abuses, any subject of a study must give informed 
+consent. 
+ 
+The summary provides information documenting the 
+degree to which the role of OMS personnel in the 
+program changed over time. While initially assuming a 
+more passive monitoring role in the early phases of the 
+program, OMS personnel would eventually become 
+active participants in determining, along with DoJ 
+lawyers, what techniques would be considered 
+authorized for the CIA to employ. (87)  
+ 
+The initial OMS monitoring role included the collection 
+of data from detainees as they were being subjected to 
+the torture techniques. The 2004 OMS Draft Guidelines 
+describe one example of data collection from detainees 
+being tortured: 
+ 
+NOTE: In order to best inform future medical 
+judgments and recommendations, it is important 
+that every application of the waterboard be 
+thoroughly documented: how long each application 
+(and the entire procedure) lasted, how much water 
+was used in the process (realizing that much 
+splashes off), how exactly the water was applied, if a 
+seal was achieved, if the naso- or oropharynx was 
+filled, what sort of volume was expelled, how long 
+was the break between applications, and how the 
+subject looked between each treatment.32  
+ 
+To determine what tactics could be approved, the OMS 
+personnel appear to have analyzed data previously 
+collected from the detainees during torture to make 
+generalizable conclusions about the techniques. The 
+OMS personnel, including physicians, provided this data 
+and analysis to OLC attorneys to support the 
+reauthorization of activities constituting torture. (415 –
+416, 419 –421)  
+ 
+ 
+ 
+ 
+8 
+ 
+phr.org  Doing Harm: Health Professionals’ 
+Central Role in the CIA Torture Program  Data collection from detainees by OMS is consistent with 
+definitions of human subjects research under U.S. 
+federal codes. The National Institutes of Health defines 
+this type of human subjects research based on 
+obtaining these types of data as follows: 
+ 
+Obtaining means receiving or accessing identifiable 
+private information or identifiable specimens for 
+research purposes. OHRP [Office of Human Research 
+Protections] interprets obtaining to include an 
+investigator's use, study, or analysis for research 
+purposes of identifiable private information or 
+identifiable specimens already in the possession of 
+the investigator...  
+ 
+Under the definition of human subject at 45 CFR 
+46.102(f), obtaining identifiable private information 
+or identifiable specimens for research purposes 
+constitutes human subjects research.33  
+ 
+If further investigation establishes that human subjects 
+research without consent was performed systematically 
+on detainees then such activities are violations of the 
+Nuremberg Code34 and could constitute a crime against 
+humanity.35  
+ 
+In 2004 and 2005, the illegal and unethical OMS data 
+collection and research was used to help the DoJ to 
+determine what techniques and applications 
+(individually, in combination, etc.) would be legitimate 
+under OLC’s interpretation of U.S. laws. (415– 416, 419 –
+421) The summary reveals at least two instances in 
+which CIA personnel expressed concerns that “studying 
+the results of CIA interrogations would amount to 
+human experimentation.” (125)  
+ 
+In response to OMS concerns, on January 28, 2005, CIA 
+Inspector General John Helgerson replied about his 
+suggestion that OMS draw conclusions based on past 
+practice, saying:  
+ 
+I fear there was a misunderstanding. OIG did no t 
+have in mind doing additional, guinea pig research 
+on human beings. What we are recommending is that 
+the Agency undertake a careful review of its 
+experience to date in using the various techniques 
+and that it draw conclusions about their safety, 
+effectiveness, etc., that can guide CIA officers as we 
+move ahead…. (126)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Several months later, on April 11, 2005, OMS personnel 
+again expressed concerns about OMS assuming this 
+new role: 
+ 
+[s]imply put, OMS is not in the business of saying 
+what is acceptable in causing discomfort to other 
+human beings, and will not take on that burden.... 
+OMS did not review or vet these techniques prior to 
+their introduction, but rather came into this program 
+with the understanding of your office and DOJ that 
+they were already determined as legal, permitted 
+and safe. We see this current iteration [of the OLC 
+memorandum] as a reversal of that sequence, and a 
+relocation of those decisions to OMS. If this is the 
+case, that OMS has now the responsibility for 
+determining a procedure's legality through its 
+determination of safety, then we will need to review 
+all procedures in that light given this new 
+responsibility.... (420) 
+ 
+Despite these concerns, evidence shows that OMS 
+personnel did, nonetheless, perform this role for the 
+CIA. As primary representative of the CIA to the DoJ, 
+OMS professionals offered opinions on what harm the 
+techniques may cause and the pain associated with their 
+application, including the past data OMS had collected. 
+(420–421) The 2005 OLC memos (known as the 
+Bradbury memos) reveal that these final determinations 
+relied heavily on OMS data and analysis.36  
+ 
+Additionally, two senior officers not affiliated with the 
+CIA’s Counterterrorism Center were asked to provide an 
+independent review of the program. They responded 
+that they could not evaluate the efficacy of the program 
+because they determined: 
+ 
+... that it would not be possible to assess the 
+effectiveness of the CIA's enhanced interrogation 
+techniques without violating "Federal Policy for the 
+Protection of Human Subjects" regarding human 
+experimentation. (13) 
+ 
+Despite these concerns about violating federal policy on 
+human subjects research, it appears – based on the 
+declassified OLC memos and the SSCI summary – that 
+data collection and analysis occurred as a core 
+component of the program. Though performed for the 
+purposes of indemnifying officials from legal liability for  
+torture, this monitoring potentially exposes CIA health 
+professionals and other personnel to the other, equally 
+grave crime of conducting illegal subjects research in 
+violation of the Nuremberg Code. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+ 
+phr.org  Doing Harm: Health Professionals’ 
+Central Role in the CIA Torture Program  5. Monitoring Detainee Torture and Calibrating the 
+Level of Pain 
+ 
+Health professionals played a central role in monitoring 
+the torture techniques and calibrating the level of pain, 
+to ensure they did not reach “unacceptable” levels. In 
+May 2005, the CIA told then Acting Assistant Attorney 
+General Steven G. Bradbury that “all pain is subjective, 
+not objective”:  
+ 
+Medical officers can monitor for evidence of condition 
+or injury that most people would consider painful, 
+and can observe the individual for outward displays 
+and expressions associated with the experience of 
+pain. Medical officer [sic] can and do ask the subject, 
+after the interrogation session has concluded, if he is 
+in pain, and have and do provide analgesics, such as 
+Tylenol and Aleve, to detainees who report headache 
+and other discomforts during their interrogations . 
+We reiterate, that an interrogation session would be 
+stopped if, in the judgment of the interrogators or 
+medical personnel, medical attention was required. 
+(emphasis added) (419 –420) 
+ 
+In addition, medical officers often documented torture 
+techniques that they monitored in meticulous detail, 
+demonstrating the medical staff’s profound disconnect 
+from core principles of medical ethics prohibiting the 
+participation of health professionals in torture. (41 –42, 
+44, 86, 493 –494)  
+ 
+The case of Zubaydah, the first detainee subjected to 
+the CIA’s new, “enhanced” techniques, is illustrative of 
+this and how monitoring served to facilitate torture. (21) 
+He was captured in Pakistan and rendered to Thailand in 
+March 2002.37 Over the next few months, he was 
+subjected to a range of coercive techniques, despite 
+having suffered from a gunshot wound, including forced 
+nudity, shackling, sleep deprivation, and isolation. (29)  
+ 
+These new torture techniques were discussed in July 
+2002 and approved for use on Zubaydah on August 3, 
+2002. During this period, on-site CIA officers discussed  
+the required preparations should he die during the 
+torture. (32 –40) On August 4, Zubaydah was 
+waterboarded for the first time, in the presence of 
+medical officers. (41)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The summary states, “Over a two -and-a- half-hour 
+period, Abu Zubaydah coughed, vomited, and had 
+‘involuntary spasms of the t orso and  
+extremities’ during waterboarding.” That day, a medical 
+officer described Zubaydah’s waterboarding session in 
+an email to OMS leadership entitled, “So it begins”:  
+ 
+Abu Zubaydah seems very resistant to the water 
+board. Longest time with the cloth over his face so 
+far has been 17 seconds. This is sure to increase 
+shortly. NO useful information so far .… He did vomit 
+a couple of times during the water board with some 
+beans and rice. It's been 10 hours since he ate so this 
+is surprising and disturbing. We plan to only feed 
+Ensure for a while now. (emphasis added) (41 –42)  
+ 
+The latter statement about Zubaydah’s diet being 
+changed from solids to liquids suggests that medical 
+personnel manipulated his diet to facilitate further 
+waterboarding. In 2007, then CIA Director Michael 
+Hayden informed the SSCI that Zubaydah’s diet was 
+changed because he was recovering from abdominal 
+surgery. Yet, if this were the case, it raises the question 
+of why an individual recovering from abdominal surgery 
+would be subjected to waterboarding, to the point of 
+vomiting and losing consciousness. (42, 44, 493)  
+ 
+Zubaydah went on to be waterboarded at least 83 times 
+in August 2002 alone.38 The summary states, “Physical 
+reactions to waterboarding did not necessarily end when 
+the application of water was discontinued, as both Abu 
+Zubaydah and KSM vomited after being subjected to the 
+waterboard.” (423)  
+ 
+An OMS e-mail dated March 6, 2003 notes that 
+Zubaydah “became completely unresponsive, with 
+bubbles rising through his open, full mouth ” during one 
+waterboarding session. (44) The summary states, 
+“According to CIA records, Abu Zubaydah remained 
+unresponsive until his interrogators gave him a ‘xyphoid 
+thrust,’ at which point he regained consciousness and 
+expelled ‘copious amounts of liquid.’” (44) During this 
+time, OMS emails reveal that “our medical folks” were 
+“edging toward the room,” presumably to deliver 
+aggressive medical intervention should Zubaydah fail to 
+resume breathing, as OMS guidelines required. (44)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+ 
+phr.org  Doing Harm: Health Professionals’ 
+Central Role in the CIA Torture Program  The summary also describes examples of OMS 
+personnel questioning the effectiveness and safety of 
+some techniques, including objections to abuses 
+outside their own guidelines. For example, on March 13, 
+2003, a medical officer objected when interrogators 
+planned Moha mmed’s fourth waterboarding sessions in 
+a 24-hour period. On-site personnel eventually received 
+an approval email from a CIA National Counterterrorism 
+Center lawyer but no formal authorization. While 
+awaiting authorization, the chief of base instructed the  
+medical officer not to directly contact CIA headquarters 
+through the “CIA's classified internal email system, to 
+avoid establishing ‘grounds for further legal action,’” 
+but to instead clear information through him first. (87) 
+The summary notes: 
+ 
+At the end of the day, the medical officer wrote 
+[redacted] OMS that “[t]hings are slowly evolving 
+form [sic] OMS being viewed as the institutional 
+conscience and the limiting factor to the ones who 
+are dedicated to maximizing the benefit in a safe 
+manner and keeping everyone's butt out of trouble. 
+(87)  
+ 
+The failure of health professionals at the highest level of 
+the OMS to recognize and address this issue requires 
+further investigation. 
+ 
+6. Evaluating and Treating Detainees for Purposes of 
+Torture 
+ 
+Torture and ill-treatment are universally and uniformly 
+prohibited. No health professionals should ever be 
+involved in evaluating the health or resilience of 
+detainees, nor sign off on or approve their being 
+tortured. Yet the summary confirms that OMS medical 
+officers provided clearance for CIA detainees to be 
+subjected to torture. Detainees al-Shibh and Mohammed 
+underwent psychological and medical assessments 
+upon arrival at their respective detention sites, clearing 
+them for the proposed plan of interrogations. (77, 84 )  
+ 
+In another case, CIA detainees Abu Hazim and Abd al-
+Karim each suffered from a broken foot while trying to 
+escape in April 2003. In May, a “CIA regional medical 
+officer” recommended that Hazim avoid weight -bearing 
+activities due to his injury, and a CIA physician assistant 
+recommended he avoid standing for a “couple of 
+weeks.” (112) Shortly after, another physician assistant  
+determined that Hazim’s and al -Karim’s ankles were 
+“sufficiently healed to allow being placed in the standing 
+sleep deprivation p rocess.” The physician assistant 
+consulted with an OMS medical officer who concurred. 
+Subsequently, CIA headquarters expeditiously approved 
+sleep deprivation for the two detainees, which began 
+soon thereafter. This case appears to illustrate that 
+some health professionals acted to limit the infliction of 
+pain in some circumstances, (113) but the very presence 
+of the health professionals and their failure to take 
+remedial action effectively facilitated it. 
+ The summary details other cases where health 
+professionals cleared and approved detainees with 
+serious medical conditions for additional torture.  
+ 
+The following excerpt from CIA records is included in 
+the summary: 
+ 
+Abu Ja'far al-Iraqi was subjected to nudity, dietary 
+manipulation, insult slaps, abdominal slaps, attention 
+grasps, facial holds, walling, stress positions, and 
+water dousing with 44 degree Fahrenheit water for 
+18 minutes. He was shackled in the standing position 
+for 54 hours as part of sleep deprivation, and 
+experienced swelling in his lower legs requiring blood 
+thinner and spiral ace bandages. He was moved to a 
+sitting position, and his sleep deprivation was 
+extended to 78 hours. After the swelling subsided, he 
+was provided with more blood thinner and was 
+returned to the standing position. The sleep 
+deprivation was extended to 102 hours. After four 
+hours of sleep, Abu Ja'far al-Iraqi was subjected to an 
+additional 52 hours of sleep deprivation, after which 
+CIA Headquarters informed interrogators that eight 
+hours was the minimum rest period between sleep 
+deprivation sessions exceeding 48 hours. In addition 
+to the swelling, Abu Ja'far al-Iraqi also experienced 
+an edema on his head due to walling, abrasions on 
+his neck, and blisters on his ankles from shackles. 
+(149) 
+ 
+In this case, CIA medical providers used medical 
+treatments such as blood thinner medication and ace 
+bandages not for therapeutic reasons, but rather as 
+means for enabling torture to continue. Similarly, health 
+professionals cleared and approved detainees for 
+torture, even those with serious medical conditions. 
+ 
+When asked about the possibility that detainees 
+subjected to standing sleep deprivation could suffer 
+from edema, OMS doctors informed the Department 
+of Justice attorneys that it was not a problem as the 
+CIA would “adjust shackles  or [the] method of 
+applying the technique as necessary to prevent 
+edema, as well as any chafing or over-tightness from 
+the shackles.” (415)  
+ 
+Similarly, on March 12, 2003, a medical officer 
+monitoring Mohammed’s waterboarding sessions 
+requested that saline be used, instead of water, for 
+future sessions:  
+ 
+During these sessions, KSM ingested a significant 
+amount of water. CIA records state that KSM's 
+“abdomen was somewhat distended and he expressed 
+water when the abdomen was pressed.” KSM's gastric 
+contents were so diluted by water that the medical 
+officer present was “not concerned about 
+regurgitated gastric acid damaging KSM's 
+esophagus.” The officer was, however, concerned 
+about water intoxication and dilution of electrolytes 
+and requested that the interrogators use saline in 
+future waterboarding sessions. (86) 
+ 
+11 
+ 
+phr.org  Doing Harm: Health Professionals’ 
+Central Role in the CIA Torture Program  This is evidence of the engagement of health 
+professionals to facilitate the continuation of the torture 
+rather than provide care to the detainee. Water 
+intoxication and depletion of electrolytes can lead to 
+death. The officer later wrote to OMS that Mohammed 
+was “ingesting and aspiration [sic] a LOT of water," and 
+that “[i]n the new technique we are basically doing a 
+series of near drownings.” (423)  
+ 
+7. Conditioning Medical Care on Cooperation with 
+Interrogators 
+ 
+Both medical ethics and human rights and humanitarian 
+law require that medical treatment be provided to those 
+in need regardless of whether they have committed a 
+crime and without any other form of discrimination, 
+such as race, ethnicity, etc. Conditioning medical care 
+on cooperation or denying medical care based on 
+political opinion is unethical and unlawful. 
+ 
+Medical care appears to have been conditioned on 
+detainee cooperation with interrogators in certain cases, 
+despite the CIA’s denial.  (35, 111, 113, 491) For 
+example, before August 2002, when the FBI oversaw 
+Zubaydah’s custody, he routinely received necessary 
+medical care, including for the gunshot wound he  
+sustained during his capture. (315) Once the CIA 
+assumed control, however, medical care was withheld, 
+despite the risk of wound infection.  
+ 
+CIA headquarters told Zubaydah’s interrogation team, 
+“The interrogation process takes precedence over 
+preventive medical procedures.” (35) Medical 
+intervention, or more specifically, withholding medical 
+intervention, itself became a tool of coercion:  
+ 
+... delaying a medical session for 72 hours after the 
+start of the new phase of interrogation would convey 
+to Abu Zubaydah that his level of medical care was 
+contingent upon his cooperation.” (491)   
+ 
+The medical officer at the site acknowledged that 
+Zubaydah’s medical condition was likely to decline to an 
+“unacceptable level.” Five days later, an email to OMS 
+stated: 
+ 
+We are currently providing absolute minimum wound 
+care (as evidenced by the steady deterioration of the 
+wound), [Zubaydah] has no opportunity to practice 
+any form of hygienic self care (he's filthy), the 
+physical nature of this phase dictates multiple 
+physical stresses (his reaction to today's activity is I 
+believe the culprit for the superior edge separation),39 
+and nutrition is bare bones (six cans of ensure daily). 
+(111) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The summary further states that:  
+ 
+Later, after one of Abu Zubaydah's eyes began to 
+deteriorate, CIA officers requested a test of Abu 
+Zubaydah's other eye, stating that the request was 
+“driven by our intelligence needs vice [sic] 
+humanitarian concern for AZ.” The cable relayed, 
+“[w]e have a lot riding upon his ability to see, read 
+and write.” (111 -112) 
+  
+CIA detainee Muhammad Umar Abd al-Rahman, also 
+known as Asadallah, was one of four detainees tortured 
+in 2003 who had foot or leg injuries. The summary 
+states: “CIA interrogators shackled each of these 
+detainees in the standing position for sleep deprivation 
+for extended periods of time until medical personnel 
+assessed that they could not maintain the position.” 
+(101) Asadallah was placed in standing and kneeling 
+stress despite having a sprained ankle. When he 
+complained of discomfort, his CIA captors told him that 
+he could not sit unless he answered questions truthfully. 
+(101, 113) 
+ 
+8. Failing to Document Physical and/or Psychological 
+Evidence of Torture   
+ 
+Health professionals who treat or engage with individual 
+patients have an obligation to document any evidence of 
+injury or illness to facilitate their treatment. Failure to 
+note evidence of any harm, illness, injury, or suffering is 
+a violation of medical ethics.  
+ 
+There is no indication that OMS health professionals or 
+CIA psychologists conducted any meaningful 
+assessments of the potential physical and/or 
+psychological harms of EITs. This is particularly 
+disturbing given the following statement in the 
+summary: 
+ 
+Throughout the program, multiple CIA detainees who 
+were subjected to the CIA's enhanced interrogation 
+techniques and extended isolation exhibited 
+psychological and behavioral issues, including 
+hallucinations, paranoia, insomnia, and attempts at 
+self-harm and self-mutilation. Multiple psychologists 
+identified the lack of human contact experienced by 
+detainees as a cause of psychiatric problems. (4) 
+ 
+It is not possible to claim that EITs, formerly recognized 
+by the U.S. government as torture, were “safe, legal, and 
+effective” without assessments of the physical and/or 
+psychological harms.40  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+ 
+phr.org  Doing Harm: Health Professionals’ 
+Central Role in the CIA Torture Program  In addition, CIA medical staff disregarded and/or failed 
+to document detainee medical complaints. For example, 
+the summary states: 
+ 
+CIA medical records consistently report that CIA 
+detainee Ramzi bin al-Shibh had no medical 
+complaints. However, CIA interrogation records 
+indicate that when bin al-Shibh had previously 
+complained of ailments to CIA personnel, he was 
+subjected to the CIA's enhanced interrogation 
+techniques and told by CIA interrogators that his 
+medical condition was not of concern to the CIA. 
+(113) 
+ 
+As such, CIA health professionals were likely complicit 
+in CIA Director Hayden’s lying to Congress when in April 
+2007 he testified that:  
+ 
+The medical section of the ICRC report concludes that 
+the association of CIA medical officers with the 
+interrogation program is “contrary to international 
+standards of medi cal ethics.” That is just wrong. The 
+role of CIA medical officers in the detainee program 
+is and always has been and always will be to ensure 
+the safety and the well-being of the detainee. (113) 
+ 
+Despite numerous examples to the contrary, including 
+indications that health professionals failed to document 
+harm, as presented in the summary, Director Hayden 
+further testified that:  
+ 
+The placement of medical officers during the 
+interrogation techniques represents an extra 
+measure of caution. Our medical officers do not 
+recommend the employment or continuation of any 
+procedures or techniques. The allegation in the 
+report that a CIA medical officer threatened a 
+detainee, stating that medical care was conditional 
+on cooperation is blatantly false. Healthcare has 
+always been administered based upon detainee 
+needs. It's neither policy nor practice to link medical 
+care to any other aspect of the detainee program. 
+(113) 
+ 
+The summary described this testimony as “incongruent 
+with CIA records.” (113)  
+ VI. Conclusion 
+ 
+Under the auspices of the Bush administration, the CIA 
+systematically tortured suspected terrorist detainees, in 
+at least one instance to the point of death. This torture 
+program heavily relied on the participation and active 
+engagement of health professionals to commit, conceal, 
+and attempt to justify these crimes.  
+ 
+The severity of the pain inflicted, which profoundly 
+relied on operational support from health professionals, 
+can be reasonably expected to have had lasting 
+consequences on the physical and mental health of 
+detainees subjected to the same or similar torture 
+techniques. Medical assessments by PHR experts of 
+detainees subjected to these same torture tactics by the 
+Department of Defense (DoD) showed severe and often 
+long-lasting mental and physical pain and suffering.41  
+ 
+The SSCI summary – just a fraction of the entire, still-
+classified report – describes in detail the acts and 
+omissions of CIA health professionals who violated their 
+professional ethics, undermined the critical bond of 
+trust between patients and physicians, and – crucially – 
+broke the law. Torture is not just immoral and unethical, 
+it is also illegal. The torture program instituted by the 
+CIA betrayed U.S. values that are founded on the rule of 
+law. 
+ 
+The U.S. government has failed to investigate and 
+prosecute those who are responsible for these crimes of 
+torture. Having ratified the UN Convention against 
+Torture, the U.S. government is obligated to prosecute 
+those who authorize, commit, or otherwise enable acts 
+of torture and ill-treatment under the color of law.  
+ 
+There is no exception to the prohibition on torture 
+under international law, or to the obligation on all 
+governments to prosecute it. Governments will always 
+claim there are exceptional circumstances that justify 
+the use of torture, and – as the SSCI summary reveals – 
+these claims will be built on lies. The only way to 
+counteract this dangerous fallacy is to ensure that 
+torture never goes unpunished. To do otherwise is to 
+tacitly allow the “exceptional circumstances” argument, 
+and – in so doing – threaten the very safety and security 
+it purports to serve. 
+ 
+Those in the healing professions, the psychologists and 
+physicians who became part of the CIA’s torture 
+machine, must face the detainees they hurt and 
+recognize that it is never acceptable to use the skills for 
+healing to destroy bodies and minds.  
+ 
+ 
+13 
+ 
+phr.org  Doing Harm: Health Professionals’ 
+Central Role in the CIA Torture Program  VII. Recommendations 
+ 
+All individuals employed or contracted by the CIA, DoD , 
+or any other U.S. government agency who have engaged 
+in and/or authorized torture and ill-treatment of 
+detainees should be held legally responsible for their 
+roles. The White House and the SSCI should work 
+together to publicly release of the full report so there 
+can be a comprehensive accounting of the CIA torture 
+program.  
+ 
+The following recommendations from Physicians for 
+Human Rights focus on two key outcomes: 1) Ensuring 
+the full disclosure of the role health professionals 
+played in the CIA or other U.S. government agency 
+torture programs, with full legal accountability for those 
+that violated U.S. and international law; and 2) changing 
+U.S. laws, policies, and practices in order to prevent the 
+abuse of detainees and any direct involvement of health 
+professionals in future interrogations. 
+ 
+To President Barack Obama and the U.S. Congress:  
+I. Create and fully fund a federal commission to 
+investigate and document the role that health 
+professionals played in CIA, DoD, or other U.S. 
+government agency interrogation and 
+detention programs; and 
+II. Ensure that the commission has subpoena powers 
+and appropriate security clearance to do a 
+thorough investigation, and – based on its 
+findings – has the power to refer cases to the 
+DoJ for prosecutions. 
+ 
+To the U.S. Congress:  
+  
+The U.S. Congress must enact legislation to ensure that 
+torture practices (including those previously authorized 
+as EITs) are eradicated from U.S. law and practice. 
+Specifically, legislation related to detainees must include 
+all the protections contained in Common Article 3 of the 
+Geneva Conventions. This includes closing all loopholes 
+that allowed the CIA to design and oversee a torture 
+program in collusion with other government officials 
+and health professionals. Such actions should include: 
+  
+ Directing the DoD to rescind measures in 
+Appendix M of the Army Field Manual that 
+create operational ambiguity and could allow 
+the introduction of torture and ill-treatment, 
+such as prolonged isolation, sensory 
+deprivation, and sleep manipulation; 
+ Adopting a resolution that explicitly prohibits 
+health professionals from direct involvement 
+in interrogations with all Executive Branch 
+agencies; 
+ Amending the 2005 Detainee Treatment Act to 
+make explicit that CIA personnel and any 
+contractors or any other persons acting 
+under the color of law must act in a manner 
+that is in compliance with domestic and 
+international law;   Codifying the Presidential Executive Order 
+13491 (“Ensuring Lawful Interrogations”) into 
+law; and  
+ Strengthening reporting mechanisms of torture 
+and ill-treatment by CIA and DoD health 
+professionals and government contractors, 
+including direct reporting to the U.S. 
+Congress. 
+  
+To President Obama:  
+ Publicly and unambiguously state that the U.S. 
+government will comply with all its 
+obligations under international treaties and 
+domestic law to investigate and prosecute 
+those who were responsible for engaging in 
+torture and cruel, inhuman, and degrading 
+treatment of detainees regardless of where 
+the crime occurred; 
+ Direct the DoJ to initiate these investigations; 
+ Act to eradicate all forms of torture practices 
+still allowed under U.S. law by rescinding 
+those provisions of Appendix M in the Army 
+Field Manual that create operational 
+ambiguity and could allow the introduction 
+of torture and ill-treatment, such as 
+prolonged isolation, sensory deprivation, 
+and sleep manipulation;  and 
+ Authorize the release of the SSCI ’s full 
+investigative report. 
+ 
+To National Associations of Health Professionals: 
+ 
+ The American Psychological Association and 
+other health professional organizations 
+should join the American Medical 
+Association and American Psychiatric 
+Association in prohibiting members from 
+using their skills and expertise to directly 
+participate in the interrogation of individuals 
+by ensuring that their codes of ethics are 
+rigorous and comprehensive; 
+ Reaffirm – through public statements and 
+continuing education – the ethical obligation 
+of health professionals to do no harm and 
+the prohibition against using their skills and 
+expertise to participate in torture, ill-
+treatment, or unethical human subjects 
+research; and 
+ Advocate for the enactment of state legislation 
+that would bar all licensed health 
+professionals from participating, directly or 
+indirectly, in torture or other abuses 
+regardless of their location and provide for 
+sanctions against those that do. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14
+14 
+ 
+phr.org  Doing Harm: Health Professionals’ 
+Central Role in the CIA Torture Program  Endnotes 
+ 
+1 The full report, which is more than 6,700 pages and remains 
+classified, documents the torture and ill-treatment of detainees 
+in CIA custody by CIA personnel and contractors between the 
+inception of the CIA's Detention and Interrogation Program in 
+2001 and its termination in 2009; the report also reviews each 
+of the CIA program's 119 detainees. (Foreword, 1, 3) 
+2 The SSCI summary makes extensive reference to “medical 
+personnel” and “medical officers” of the CIA’s Office of Medical 
+Services (OMS), both those at the CIA black sites and those at 
+OMS headquarters. This might refer to any of the following OMS 
+health professionals: physicians (including psychiatrists), 
+psychologists, physician assistants, nurses, and nurse 
+practitioners. However, the SSCI summary specifies only three 
+categories of OMS personnel by their profession: psychologists, 
+physicians (including psychiatrists), and physician assistants. It 
+also references two contract psychologists, James Mitchell and 
+Bruce Jessen, who worked for the CIA but were not within OMS. 
+For the purposes of this analysis, PHR refers to the specific 
+profession where available, according to the term used by SSCI. 
+Where the term is not specified, PHR uses the generic term 
+“health professionals” to encompass professionals clearly 
+specified and any others not specified. 
+3 See Gretchen Borchelt and Jonathan Fine, Break Them Down: 
+Systematic Use of Psychological Torture by US Forces , 
+Physicians for Human Rights, May 2005, 
+http://phr.org/library/reports/us-torture-break-them-down-
+2005.html ; Scott Allen, Devon Chaffee, and Farnoosh 
+Hashemian, Leave No Marks: Enhanced Interrogation 
+Techniques and the Risk of Criminality , Aug. 2007, Physicians 
+for Human Rights and Human Rights First, http://phr.org/ 
+library/reports/leave- no-marks-report-2007.html ; Farnoosh 
+Hashemian, Sondra Crosby, Vincent Iacopino, Allen Keller, et al, 
+Broken Laws, Broken Lives: Medical Evidence of Torture by US 
+Personnel and Its Impact , Jun. 2008, Physicians for Human 
+Rights, http://phr.org/library/reports/broken-laws-torture-
+report-2008.html ; Allen Keller, Scott Allen, Steven Reisner, 
+Vincent Iacopino, Aiding Torture: Health Professionals' Ethics 
+and Human Rights Violations Demonstrated in the May 2004 
+CIA Inspector General's Report , Aug. 2009, Physicians for 
+Human Rights, http://phr.org/library/reports/aiding-torture-
+2009.html#sthash.QVC8Vqra.dpuf ; Nathaniel Raymond, Scott 
+Allen, Vincent Iacopino, Allen Keller, et al, Experiments in 
+Torture: Evidence of Human Subject Research and 
+Experimentation in the "Enhanced" Interrogation Program , Jun. 
+2010, http://physiciansforhumanrights.org/library/reports 
+/experiments- in-torture-2010.html ; Mike Corradini, Kristine 
+Huskey, and Christy Fujio, Buried Alive: Solitary Confinement in 
+the US Detention System , Apr. 2003, Physicians for Human 
+Rights, http://phr.org/library/reports/buried-alive-solitary-
+confinement- in-the-us-detention-system.html . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+4 A detailed review and analysis of the summary was conducted 
+by a PHR team with specific expertise in diagnosing and 
+treating torture survivors; professional standards of medical 
+and psychological ethics; the provision of medical care to 
+detainees; medical care in national security settings; and human 
+subjects research ethics and law. 
+5 The health professionals referenced in this analysis were CIA 
+employees or contractors. While most were employed by OMS, 
+James Mitchell and Bruce Jessen did not report to OMS, but the 
+CIA directly. 
+6 International Covenant on Civil and Political Rights (ICCPR), 
+Art. 26, G.A. Res. 2200A (XXI), 21 UN GAOR Supp. (No. 16) at 
+52, UN Doc. A/6316 (1966), 999 U.N.T.S. 171, entered 
+into force March 23, 1976, ratified by the United States on Jun. 
+8, 1992, http://www.ohchr.org/en/professionalinterest/ 
+pages/ccpr.aspx . 
+7 Convention against Torture and Other Cruel, Inhuman, or 
+Degrading Treatment or Punishment (Convention against 
+Torture), UN General Assembly, Res. 39/46, U.N. GAOR. 39th 
+Sess. Supp. No. 51, U.N. Doc. A/Res/39/46, entered into force 
+Jun. 26, 1987, ratified by the United States on Oct. 21, 1994, 
+http://www.ohchr.org/EN/ 
+ProfessionalInterest/Pages/CAT.aspx.  
+8 The Convention for the Amelioration of the Condition of the 
+Wounded and Sick in Armed Forces in the Field, incl. Annex 1, 
+Aug. 12, 1949, 6 U.S.T. 3114, 75 U.N.T.S. 31; the Convention 
+for the Amelioration of the Condition of the Wounded, Sick, and 
+Shipwrecked Members of the Armed Forces at Sea, Aug. 12, 
+1949, 6 U.S.T. 3217, 75 U.N.T.S. 
+9 War Crimes Act of 1996, Pub. L. 104-192, § 2(a), 110 Stat. 
+2104, Aug. 21, 1996 (codified as amended at 18 U.S.C. § 2441) 
+(2007); Federal Policy for the Protection of Human Subjects, 45 
+C.F.R. Part 46 (2009); Torture Convention Implementation Act 
+of 1994, 18 U.S.C.A. § 2340 (2004); and U.S. Constitution, 
+amendment XIII. 
+10 American Medical Association, American Medical 
+Association Code of Medical Ethics  (2001),  http://www.ama-
+assn.org/ama/pub/physician-resources/medical-
+ethics/code-medical-ethics/principles-medical-ethics.page ; 
+American Psychological Association , Ethical Principles of 
+Psychologists and Code of Conduct: Including 2010 
+Amendments  (2010), http://www.apa.org/ethics/code/ ; and 
+American Psychiatric Association, The Principles of Medical 
+Ethics With Annotations Especially Applicable to Psychiatry  
+(2013), http://www.psychiatry.org/practice/ 
+ethics/resources-standards . 
+11 The Nuremberg Code [from Trials of War Criminals before 
+the Nuremberg Military Tribunals under Control Council 
+Law No. 10. Nuremberg, October 1946 –April 1949. 
+Washington, D.C.: U.S. G.P.O, 1949 –1953.]  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+ 
+phr.org  Doing Harm: Health Professionals’ 
+Central Role in the CIA Torture Program   
+12 World Medical Association, “Declaration of Helsinki: 
+Ethical Principles for Medical Research Involving Human 
+Subjects,” Doc. 17.C, 1964 (amended in 1975, 1983, 1989, 
+1996, and 2000), available at 
+http://www.wma.net/en/30publications/10policies/b3/ ; 
+World Medical Association, “Declaration of Tokyo: 
+Guidelines for Physicians Concerning Torture and other 
+Cruel, Inhuman or Degrading Treatment or Punishment in 
+Relation to Detention and Imprisonment,” 1975 (amended 
+in 2005 and 2006), available at 
+http://www.wma.net/en/30publications/10policies/c18/ind
+ex.html ; World Medical Association, “Declaration of Malta 
+on Hunger Strikers,” 1991 (amended in 1992 and 2006), 
+available at 
+http://www.wma.net/en/30publications/10policies/h31/in
+dex.html .  
+13 Allen, Chaffee, and Hashemian, Leave No Marks ; Raymond, 
+Allen, Iacopino, Keller, et al, Experiments in Torture.   
+14 Katherine Eban, “Rorschach and Awe,” Vanity Fair , Jul. 17, 
+2007, http://www.vanityfair.com/politics/features/ 
+2007/07/torture200707 ; Mark Benjamin, “The CIA’s Torture 
+Teachers,”  Salon , Jun. 21, 2007, 
+http://www.salon.com/2007/06/21/cia_sere/ . 
+15 Martin E. P. Seligman, Helplessness: On Depression, 
+Development, and Death , (San Francisco: W.H. Freeman & 
+Company, 1975). 
+16 Senate Armed Services Committee (110th Cong.), “Inquiry 
+into the Treatment of Detainees in U.S. Custody ,” [Levin Report]  
+Nov. 20, 2008, 20, http://www.armed-services.senate.gov/ 
+imo/media/doc/Detainee-Report-Final_April- 22-2009.pdf . 
+17 Operational psychologists are those whose role involves 
+furthering the operational mission of the CIA (or military) in 
+opposition to traditional health provider roles involving 
+preventing and treating emotional problems. Jean Maria 
+Arrigo, Roy J. Eidelson, and Ray Bennett, "Psychology Under 
+Fire: Adversarial Operational Psychology and Psychological 
+Ethics," Peace and Conflict: Journal of Peace Psychology  18, 
+no. 4 (2012): 384. 
+18 Adam Goldman and Julie Tate, “Decoding the Secret Black 
+Sites on the Senate’s Report on the CIA Interrogation 
+Program,” Washington Post , Dec. 9, 2014, 
+http://www.washingtonpost.com/blogs/worldviews/wp/20
+14/12/09/decoding-the-secret-black-sites- on-the-senates-
+report- on-the-cia-interrogation-program . 
+19 Physicians for Human Rights, “Medical Professionals 
+Denounce ‘Rectal Feeding’ as ‘Sexual Assault Masquerading 
+as Medical Treatment,’ Dec . 2014, 
+http://physiciansforhumanrights.org/library/other/fact-
+sheet-rectal-hydration-and-rectal-feeding.html . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+20 The Inter national Criminal Court defines “rape” as: “The 
+perpetrator invaded the body of a person by conduct 
+resulting in penetration, however slight, of any part of the 
+body of the victim or of the perpetrator with a sexual 
+organ, or of the anal or genital opening of the victim with 
+any object or any other part of the body. The invasion was 
+committed by force, or by the threat of force or coercion, 
+such as that caused by fear of violence, duress, detention, 
+psychological oppression or abuse of power, against such 
+person or another person, or by taking advantage of a 
+coercive environment or the invasion was committed 
+against a person incapable of giving genuine consent.” 
+Assembly of States Parties to the Rome Statute of the 
+International Criminal Court, 1st Session, U.N. Doc. ICC-
+ASP/1/3 , art. 7(1)(g), Sept. 3 –10, 2002, http://legal.un.org/ 
+icc/asp/1stsession/report/english/part_ii_b_e.pdf . 
+21 Scott Shane, “ Report Portrays a Broken C.I.A. Devoted to a 
+Failed Approach,” New York Times , Dec. 9, 2014,  
+http://www.nytimes.com/2014/12/10/world/senate-
+torture-repo rt-shows-cia-infighting-over-interrogation-
+program.html .  
+22 On April 24, 2014, Dr. Sondra Crosby, a PHR medical advisor, 
+testified that her examination of al-Nashiri revealed evidence 
+consistent with sexual assault: “He suffers from chronic pain. 
+He suffers from anal-rectal complaints, and all of these are 
+documented in the unclassified records….” “Other red flags in 
+Mr. al Nashiri are his persistent and chronic anal-rectal 
+complaints, difficulty defecating bleeding, hemorrhoids, pain 
+with sitting for prolonged periods of time. This is very common 
+in survivors of sexual assault.” Transcript of the United States v. 
+Al Nashiri  Motions Hearing Dated Apr. 24, 2014, 
+http://www.mc.mil/Portals/0/pdfs/alNashiri2/Al%20Nashiri%20
+II%20(TRANS24April2014-AM1).pdf  and 
+http://www.mc.mil/Portals/0/pdfs/alNashiri2/Al%20Nashiri%20
+II%20%28TRANS24April2014-PM1%29.pdf . 
+23 Raymond, Allen, Iacopino, Keller, et al, Experiments in 
+Torture.   
+24 Jay S. Bybee, “ Memorandum for A. Gonzales: Counsel to 
+the President, ” Office of Legal Counsel, Department of 
+Justice, Aug. 1, 2002 , http://www.justice.gov/sites/default/ 
+files/olc/legacy/2010/08/05/memo-gonzales-aug2002.pdf .  
+25 Ibid. 
+26 Convention against Torture , UN General Assembly. 
+27 Note, in many circumstances, organ failure, impairment 
+of bodily function, and death may be painless, illustrating 
+the arbitrary nature of the Yoo/Bybee definition of torture. 
+For example, kidney and liver failure, septic shock, cardiac 
+arrhythmias, and overdoses with sedatives can all cause 
+death with little or no pain.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+ 
+phr.org  Doing Harm: Health Professionals’ 
+Central Role in the CIA Torture Program   
+28 Bybee, “Memorandum for A. Gonzales: Counsel to the 
+President .”  
+29 Human Rights Watch, “Appendix: U.S. Criticisms of 
+Mistreatment and Torture Practices” in “Enduring Freedom”: 
+Abuses by U.S. Forces in Afghanistan  16, no. 3(C), (March 
+2004), http://www.hrw.org/reports/ 
+2004/afghanistan0304/afghanistan0304.pdf . 
+30 International standards for the medical documentation of 
+torture have been recognized by the United Nations since 
+2001. See: Vincent Iacopino, Önder Ozkalipci, Caroline 
+Schlar, Kathleen Allden, et al, Manual on the Effective 
+Investigation and Documentation of Torture and Other 
+Cruel, Inhuman or Degrading Treatment or Punishment 
+(The Istanbul Protocol), UN Office of the High Commissioner 
+for Human Rights, 2004, HR/P/PT/8/Rev.1,  
+http://www.ohchr.org/Documents/Publications/training8Re
+v1en.pdf.  
+31 Hashemian, Crosby, Iacopino, Keller, et al , Broken Laws, 
+Broken Lives . 
+32 CIA Inspector General, “Special Review: Counterterrorism 
+Detention and Interrogation Activities,” Central Intelligence 
+Agency, May 7, 2004, at F10, http://graphics8.nytimes.com 
+/packages/pdf/politics/20090825-DETAIN/2004CIAIG.pdf . 
+33 National Institutes of Health Office of Extramural 
+Resear ch, “Frequently Asked Questions From Applicants: 
+Human Subjects Research- Definitions,” last modified Feb. 
+11, 2010, http://grants.nih.gov/grants/policy/ 
+hs/faqs_aps_definitions.htm . 
+34 The Nuremberg Code [from Trials of War Criminals before 
+the Nuremberg Military Tribunals under Control Council 
+Law No. 10. Nuremberg, October 1946 –April 1949. 
+Washington, D.C.: U.S. G.P.O, 1949 –1953.] 
+35 From Crimes of War 2.0 : “At the Nuremberg T ribunals 
+following World War II, medical experiments were declared 
+a crime against humanity. The Geneva Conventions of 1949 
+defined medical experiments on POWs and protected 
+persons —that is, civilians under the control of an occupying 
+force—as a grave breach, and the 1998 Rome Statute of the 
+International Criminal Court stated that medical 
+experiments are war crimes, whether they occur in an 
+international armed conflict or an internal one. It defined 
+the crime as: ‘Subjecting persons who are in the power of  
+an adverse party to physical mutilation or to medical or 
+scientific experiments of any kind which are neither 
+justified by the medical, dental or hospital treatment of the 
+person concerned nor carried out in his or her interest, and 
+which cause death to or seriously endanger the health of 
+such person or persons.’” UN General Assembly, Rome 
+Statute of the International Criminal Court, Jul. 17, 1998, 
+(last amended 2010), available at: http://www.icc-
+cpi.int/nr/rdonlyres/ea9aeff7- 5752 -4f84-be94-
+0a655eb30e16/0/rome_statute_english.pdf . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+36 Steven G. Bradbury, Principal Deputy Assistant Attorney 
+General, OLC, “Memorandum for John A.  Rizzo, Senior 
+Deputy General Counsel, Central Intelligence Agency, Re: 
+Application of 18 U.S.C. §§ 2340 –2340A to Certain 
+Techniques That May Be Used in the Interrogation of a High 
+Value al Qaeda Detainee,” (“Bradbury Combined Techniques 
+Memo”), May 10, 20 05, 
+http://www.fas.org/irp/agency/doj/olc/techniques.pdf .      
+37 Adam Goldman and Julie Tate, “Decoding the Secret Black 
+Sites on the Senate’s Report on the CIA Interrogation 
+Program,” Washington Post , Dec. 9, 2014, 
+http://www.washingtonpost.com/blogs/worldviews/wp/20
+14/12/09/decoding-the-secret-black-sites- on-the-senates-
+report- on-the-cia-interrogation-program . 
+38 Open Society Institute, The Report of The Constitution 
+Project's Task Force on Detainee Treatment , Apr. 2013, 181 & 
+213, http://detaineetaskforce.org/pdf/Full-Report.pdf .  
+39 “Superior edge separation” refers to the splitting open of 
+Abu Zubaydah’s wound edges.  
+40 Iacopino, Ozkalipci, Schlar, Allden, et al, The Istanbul 
+Protocol. 
+41 Hashemian, Crosby, Iacopino, Keller, et al , Broken Laws, 
+Broken Lives . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17 
+ About Physicians for  
+Human Rights  
+ 
+Since 1986, Physicians for Human Rights (PHR) has been 
+using medicine and science to document and call 
+attention to mass atrocities and severe human rights 
+violations.  
+ 
+PHR w as founded on the idea that health professionals, 
+with their specialized skills, ethical duties, and credible 
+voices, are uniquely positioned to stop human rights 
+violations. PHR’s investigations and expertise are used 
+to advocate for persecuted health wor kers, prevent 
+torture, document mass atrocities, and hold those who 
+violate human rights accountable.  
+ 
+PHR has worked in more than 60 countries and 
+territories, including Afghanistan, Bahrain, Burma, 
+Democratic Republic of the Congo, El Salvador, 
+Guatemala , Iran, Iraq, Israel, Kenya, Libya, Mexico, 
+Palestine, Sudan, Syria, Turkey, and the United States.  
+ 
+ 
+ 
+ phr.org
+Nobel Peace Prize  
+Co-laureateNew York, NY
+HeadquartersBoston, MA Washington, DC

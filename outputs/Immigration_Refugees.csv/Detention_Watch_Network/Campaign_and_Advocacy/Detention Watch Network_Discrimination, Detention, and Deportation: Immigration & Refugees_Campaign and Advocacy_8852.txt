@@ -1,0 +1,651 @@
+Banking On Detention
+2016 UpdateAbout Us
+Detention Watch Network (DWN) works through the collective strength and diversity of its members to 
+expose and challenge injustices of the U.S. immigration detention and deportation system and 
+advocate for profound change that promotes the rights and dignity of all persons.
+Website: http://detentionwatchnetwork.org 
+ 
+The Center for Constitutional Rights (CCR) is dedicated to advancing and protecting the rights 
+guaranteed by the U.S. Constitution and the Universal Declaration of Human Rights. Founded in 1966 
+by attorneys who represented civil rights movements in the South, CCR is a non-profit legal and 
+educational organization committed to the creative use of law as a positive force for social change. 
+Website: http://ccrjustice.org
+ 
+Primary authors: Dawy Rkasnuam and Conchita Garcia of Detention Watch Network
+Contributions by: Mary Small and Silky Shah of Detention Watch Network and Ghita Schwarz
+ and Ian Head of Center for Constitutional Rights
+ 
+Design: Strictly District, LLC. 
+Translation: Eleana Gómez 
+Cover Image: Alonso Yáñez/La Opinión
+ 
+© 2016, Detention Watch Network. All Rights Reserved.Introduction
+The United States has the largest immigration detention infrastructure in the world, with hundreds of 
+thousands of people passing through detention each year. The large scope of the system is in part due 
+to an arbitrary quota created by Congress in 20091 which, in its current version, requires Immigration 
+and Customs Enforcement (ICE) to maintain a minimum of 34,000 detention beds at all times.2 This 
+policy, known as the detention bed quota, is unprecedented; no other law enforcement agency oper-ates on a quota system for the number of people to incarcerate. It is also unethical and financially 
+wasteful, costing American taxpayers over $2 billion a year
+3 and separating hundreds of thousands of 
+families.
+In addition to the national quota, the immense size of the U.S.’s immigration detention system is 
+bolstered by a series of local-level quotas, written into detention facility contracts as “guaranteed minimums.” Guaranteed minimums, which appear mostly in ICE contracts with private contractors 
+(though some exist with local governments), guarantee that ICE will pay for a minimum number of 
+people to be detained at any given time. Because the government seeks to avoid paying for detention space that isn’t being used,
+4 guaranteed minimums are essentially local “lockup” quotas that influence 
+ICE’s decision-making about immigration enforcement, whether or not people will be released, where 
+people will be detained, and ultimately, who will profit or benefit from their detention.   
+The first national snapshot of local lockup quotas throughout the immigration detention system was 
+exposed in Banking on Detention: Local Lockup Quotas and the Immigrant Dragnet, published by 
+Detention Watch Network (DWN) and the Center for Constitutional Rights (CCR) in June 2015.5 Since 
+then, additional documents have become available which cast further light on local lockup quotas. 
+First, these quotas are even more widespread than previously reported, covering at least 24 detention 
+facility contracts. Second, while the overwhelming majority are found in ICE contracts with private companies, local lockup quotas do exist in a limited number of contracts with public entities. Third, 
+these local lockup quotas exist in two of the three family detention center contracts. This report update 
+aims to expose newly discovered guaranteed minimums, clarify the relationship between local lockup 
+quotas and privatization, and explore in more depth the particular barriers to transparency that impede 
+access to data and obscure the scope of the problem.
+- 1 - Photo:  Steve Pavey- 2 -The additional guaranteed minimums included in this report come from documents obtained through 
+the Freedom of Information Act (FOIA), which allows the public to request access to records from 
+federal agencies.6 The documents come from three sources: a subset of contracts recently obtained 
+through FOIA litigation by the National Immigrant Justice Center (NIJC),7 a different subset of contracts 
+ICE made available through its FOIA Library,8 and a spreadsheet obtained by the Transactional 
+Records Access Clearinghouse (TRAC) at Syracuse University through a FOIA request.9 While this 
+report offers an updated tally of the number and location of guaranteed minimums across the country, the list likely remains incomplete because the document sets are incomplete, heavily redacted, and not 
+always up to date. The scattered and incomplete nature of the information is the result of larger trans-parency failures detailed below. 
+For this report update, as in the initial report, we conducted a comprehensive review of all available 
+contracts to identify guaranteed minimums. These included contracts for the management of entire 
+detention facilities, as well as contracts for detention-related services such as security services or transportation. In some cases, the number of people included in the guaranteed minimum was visible; 
+in others we were able to calculate the number using other available data; and in the remaining cases 
+there is still uncertainty about how many detained people have been promised to the subcontractor. We have included in our analysis all facilities for which we found a guaranteed minimum, and have 
+noted those for which we are uncertain about the number.Methodology
+T aken from ICEʼs Broward Transitional
+Center contract with The GEO Group.Guaranteed minimums require ICE to pay contractors for a minimum number of detention beds 
+regardless of how many people are detained. This means that contractors receive a set payment for a 
+minimum number of detention beds even if some of the detention beds are empty. Because ICE does 
+not want to appear wasteful or inefficient with the number of beds it must pay for, these contractual provisions create an incentive to detain as many people as possible in facilities with guaranteed mini-
+mums. These guaranteed minimums essentially function as a local lockup quota. Through this 
+perverse incentive, guaranteed minimums act as a mechanism through which other entities—mostly 
+private prison companies—influence ICE’s decisions regarding how many people are detained, where 
+they are detained, and how long they are kept in detention. 
+When Banking on Detention was initially published in 2015, available information indicated that local 
+lockup quotas existed exclusively in contracts with private entities that either operated detention facilities or provided detention-related services. New information reveals that there are a small number 
+of guaranteed minimums in public contracts as well. This indicates that guaranteed minimums are a 
+more common contracting mechanism than previously thought. However, while this report update reveals four guaranteed minimums in public contracts, they represent only a small fraction of the total 
+known guaranteed minimums and do not lessen the concern that private companies influence ICE’s 
+practices. Guaranteed minimums or local lockup quotas account for at least 12,821 of the 34,000 
+beds funded by the detention bed quota. Of these 12,821, 93 percent, or 11,936, exist in facilities that 
+contract with private companies.
+In addition to the fifteen guaranteed-minimum facilities exposed in Banking on Detention, this report 
+documents an additional nine contracts with guaranteed minimums. These include Berks Family Residential Center, Calhoun County Correctional Center and the Dearborn Police Department (which 
+have a joint contract and thus a shared guaranteed minimum), California City Correctional Facility, 
+Essex County Correctional Facility, Farmville Detention Center, T. Don Hutto Residential Center, Imperi-al Regional Detention Facility, Mesa Verde Detention Facility, and Monroe County Detention Center. All 
+nine contracts are intergovernmental service agreements (IGSAs); of the nine, five facilities have sub-
+contracts with private companies. 
+Additionally, this report confirms the existence of local lockup quotas for families—at the Karnes 
+County Residential Center in Texas and the Berks Family Residential Center in Pennsylvania. The local 
+quota at Berks is an entirely new discovery, and it stands out as one of the four guaranteed minimums found in public contracts where no private subcontractor is implicated. The presence of a local quota 
+at Karnes was noted in the original publication of Banking on Detention, but it was unclear whether the 
+local quota remained operative after the facility was converted from an all-male facility to a family 
+detention center in 2014. However, through the review of a newly-available 2015 contract, we can now 
+confirm the continuation of the guaranteed minimum. Thus, at least one private company, The GEO Group, Inc. (GEO), is benefiting from a local lockup quota to detain mothers and children.
+- 3 -The updated table lays out the facilities with guaranteed minimums, the private company with which they contract, and the best known guaranteed minimum amount. The GEO Group, Inc. (GEO), Correc-
+tions Corporation of America (CCA), Immigration Centers of America (ICA), and Management and 
+Training Corporation (MTC) operate detention facilities, while other private contractors provide deten-tion-related services. As indicated by the table, GEO has more guaranteed minimums than any other 
+private company.  Local Lockup Quotas
+93 percent of the total number of guaranteed
+minimums exist in facilities with private contracts.“
+“FACILITY NAME PRIVATE COMPANY INVOLVED GUARANTEED  MIN.
+Adelanto Detention Facility  GEO 1,45510 
+Berks Family Residential Center  None 6011 
+Broward Transitional Center12 GEO 50013 
+Buffalo (Batavia) Service Processing Center Akal-Akima JV 40014 
+Calhoun County Correctional Center & Dearborn Police Dept. None 7515 
+California City Correctional Facility   CCA 10016 
+Denver (Aurora) Contract Detention Facility17 GEO 35018 
+El Paso Service Processing Center Doyon-Akal JV 50019 
+Elizabeth Contract Detention Facility CCA 28520 
+Essex County Correctional Facility  None 70021 
+Farmville Detention Center  Immigration Centers of America 50022 
+Florence Service Processing Center  Asset Protection & Security Services LP  37423 
+Houston Contract Detention Facility CCA 75024 
+[T. Don] Hutto Residential Center  CCA 46125
+Imperial Regional Detention Facility  Management and Training Corporation 64026 
+Jena/LaSalle Detention Facility & Alexandria Staging Facility  GEO 1,17027 
+Karnes County Residential Center  GEO 45628 
+Krome North Services Processing Center Akima Global Services 45029 
+Mesa Verde Detention Facility  GEO 32030 
+Monroe County Detention Center  None 5031 
+Northwest Detention Center32 GEO 80033 
+Otay Detention Facility (Otay Mesa) CCA 90034 
+Port Isabel Service Processing Center Ahtna T echnical Services, Inc.  80035 
+South T exas Detention Complex (Pearsall)36  GEO 72537 
+TOTAL  12,821
+-  4 -The updated table lays out the facilities with guaranteed minimums, the private company with which 
+they contract, and the best known guaranteed minimum amount. The GEO Group, Inc. (GEO), Correc-
+tions Corporation of America (CCA), Immigration Centers of America (ICA), and Management and 
+Training Corporation (MTC) operate detention facilities, while other private contractors provide deten-tion-related services. As indicated by the table, GEO has more guaranteed minimums than any other 
+private company.  Guaranteed Minimums in Both Public & Private Facilities
+*  Bold indicates either that the guaranteed minimum for the facility has been updated or that the facility was not included in the original report
+*  Italicized indicates that the guaranteed minimum appeared in a contract solicitation obtained from the federal website FedBizOpps.SERVICE PROCESSING CENTER
+(owned and operated by ICE, which 
+subcontracts with private companies for services)INTERGOVERNMENTAL SERVICES AGREEMENT /parenleft.capIGSA/parenright.cap 
+(contract is with local government, which may subcontract 
+with private company to operate facility and/or for 
+detention-related services) CONTRACT DETENTION FACILITY 
+(owned and operated by a private 
+prison company)The updated table lays out the facilities with guaranteed minimums, the private company with which 
+they contract, and the best known guaranteed minimum amount. The GEO Group, Inc. (GEO), Correc-
+tions Corporation of America (CCA), Immigration Centers of America (ICA), and Management and 
+Training Corporation (MTC) operate detention facilities, while other private contractors provide deten-tion-related services. As indicated by the table, GEO has more guaranteed minimums than any other 
+private company.  
+-  5  -
+       
+   Northwest: 800
+Adelanto: 1,455Mesa Verde: 320Calif. City: 100
+Otay Mesa: 900
+Imperial: 640Aurora: 350
+El Paso: 500Florence: 374
+Pearsall: 725
+Karnes: 456
+Port Isabel: 800Houston: 750
+Hutto: 461Broward: 500
+Krome: 450
+Monroe County: 50Buffalo/Batavia: 400
+Calhoun: 75Elizabeth: 285
+Farmville: 500Essex: 700
+Berks: 60
+Jena/LaSalle: 1,770
+*  The map is divided by color into ICE’s Enforcement and Removal Operations (ERO) field office jurisdictions.- 6 -The findings presented in Banking on Detention and this update provide only a partial understanding of 
+the scope and impact of guaranteed minimums. Due to ICE’s lack of transparency and the resulting 
+unavailability of data, it is currently unclear what percentage of detention facilities are subject to guar-
+anteed minimums, what the costs of guaranteed minimums are, and the degree to which they influ-ence ICE’s practices in controlling the pipeline into and out of detention. By obstructing access to its 
+contracts, ICE leaves the public with an incomplete understanding of how pervasive and harmful 
+guaranteed minimums truly are.
+ICE demonstrates a lack of transparency at multiple levels, beginning with its failure to proactively 
+disclose contract information for detention facilities and services. The main avenue to information on 
+guaranteed minimums—and on detention contracts more generally—is through FOIA requests, which 
+can be costly and time-consuming both to the parties filing the requests and to the agency, in this case ICE, which must process and respond to the requests. Another way to access contract
+information is through FedBizOpps, the federal website that publishes contract solicitations,
+38 which 
+provides the best available information for facilities whose contracts are redacted or otherwise inac-cessible through ICE. To date, nearly all data on guaranteed minimums have been obtained through 
+FOIA requests.
+39
+When individuals or organizations do attempt to access information through FOIA requests, ICE resists transparency by delaying its responses and then redacting most of the critical information from its 
+documents.
+40 In November 2013, DWN and CCR filed a FOIA request for access to information 
+pertaining to the national detention bed quota. ICE did not comply with this request until it was required to do so by court order in July 2014, over seven months later.
+41 When ICE finally released 
+documents in response to the FOIA request, figures on government-contracted unit prices, bed-day rates, and staffing plans were redacted.  This redacted information, if disclosed, would clarify the cost 
+of detention in each facility and allow the public to better understand the fiscal and human impact of detention quotas, including guaranteed minimums. Instead, ICE claims that such information consti-
+tutes “confidential or privileged information” that would cause substantial competitive harm to private 
+contractors if released to the public.
+42  
+As of June 2016, the appropriateness of ICE’s redactions is still pending in the federal district court for 
+the Southern District of New York. Notably, ICE’s legal position depends heavily on support from private contractors themselves, who have submitted sworn declarations attesting to the need for 
+keeping the terms of government contracts secret. In the case of GEO, one of the largest private 
+prison contractors in the country, the support comes from a former ICE official, David Venturella, who 
+is now the Senior Vice President of Business Development at GEO.
+43 In December 2015, Venturella 
+submitted a declaration on behalf of GEO defending ICE’s decision to withhold information from its FOIA document releases.
+44 This relationship between ICE and its private contractors attests to the Absence of Transparency
+By obstructing access to its contracts, ICE leaves the public with an incomplete 
+understanding of how pervasive and harmful guaranteed minimums truly are. “
+“T. Don Hutto Residential Center
+- 7 -enormous influence that private prison companies have, not only on detention operations, but on 
+government transparency itself. The more the detention system relies on private corporations, the less 
+transparent it is. This is all the more reason to be concerned about the growing privatization of deten-
+tion, which now accounts for roughly 62 percent of beds.45
+ICE’s lack of transparency is especially troubling when looking at local quotas. To date, the majority of guaranteed minimums have been found in private contracts, either with privately-operated detention 
+facilities or publicly-operated jails that subcontract to private companies for detention services, such 
+as guard services or facility operations and maintenance support.
+46 Given that ICE is contractually 
+obligated to pay for guaranteed minimums regardless of how many detention beds are filled, ICE has 
+an incentive to detain as many people as possible in privately-operated detention facilities. In addition 
+to the guaranteed minimum, to maximize efficiency, ICE takes advantage of “tiered pricing” where available, which provides a discount to ICE for immigrants detained above the guaranteed minimum 
+amount.
+47 This results in ICE potentially changing its practices to satisfy the guaranteed minimum in 
+each facility, essentially helping private contractors secure profits. As discussed in Banking onDetention, communications released by ICE through FOIA litigation indicate that officials make
+significant efforts to steer immigrants to facilities with guaranteed minimums.
+48 
+Guaranteed minimums thus subject detention and placement decisions—which have enormous human impact on individuals detained, as well as their families and communities—to cost consider-ations that benefit private contractors. Without transparency and accountability, we cannot determine 
+the full extent of guaranteed minimums and the degree to which private prison companies influence 
+ICE and benefit from detention policies. However, by failing to disclose contracts and resisting 
+attempts to access information, ICE demonstrates that it is more accountable to private prison com-
+panies than to the public, whose tax dollars fund the guaranteed minimums. 
+Photo: Cristina Parker- 8 -Immigration detention places people in inhumane and sometimes even fatal conditions. In February 
+2016, DWN collaborated with the American Civil Liberties Union (ACLU) and the National Immigrant 
+Justice Center (NIJC) to publish Fatal Neglect: How ICE Ignores Deaths in Detention, a report exposing 
+medically negligent deaths in ICE custody. Of the eight deaths discussed in the report, five occurred at detention facilities known to have guaranteed minimums.
+49 These deaths, and the corresponding 
+negligence at the facilities where detained people died, have had no impact on the advantages that 
+private companies enjoy from guaranteed minimums. With guaranteed minimums incentivizing ICE to 
+pursue more aggressive enforcement and create barriers to people’s release from detention, the end result is an inhumane, quota-based immigration detention system that functions as taxpayer-funded 
+profit insurance for private prison companies.
+Since the release of Banking on Detention, Representative Ted Deutch (D-FL) and eight additional 
+co-sponsors introduced the Protecting Taxpayers and Communities from Local Detention Quotas Act,
+50  
+which would prevent ICE from participating in any legal agreement that mandated a bed quota at the 
+local level. In addition to the representatives’ statements on the quotas being “inhumane,” Representative 
+Deutch stated that by eliminating the national bed quota, “Congress could save taxpayers nearly $15 billion over the next decade.”
+51  Because ICE spends over $2 billion each year on detention, the elimi-
+nation of national and local quotas, with a corresponding decrease in detention, could save significant 
+tax dollars and prevent immeasurable human suffering.52
+There is a growing consensus that the mass detention of immigrants is unnecessary and inhumane. 
+The U.S. government should move towards ending the use of immigration detention altogether. Unfor-
+tunately, corporate interests and the absence of job growth for the constituents of many local govern-
+ments that contract with ICE have converted the detention of human beings into a market-based activity. Detention capacity and arbitrary quotas must never be a factor in making decisions regarding 
+immigration enforcement. 
+As immediate next steps, this report reiterates many of the recommendations from Banking on Deten-
+tion and calls on:
+• ICE to remove guaranteed minimums, tiered pricing, or any other provisions that could
+ function as a local lockup quota, from all detention contracts.
+• ICE to make all information pertaining to detention contracts and the bidding process publicly 
+ accessible and transparent. 
+• ICE to stop contracting with private companies that lobby to pervert public policy via
+ guaranteed minimums and other contractual giveaways.• ICE to bar (1) the transfer of individuals between detention facilities; (2) the manipulation of 
+ bond or parole determinations; and (3) the initiation of enforcement actions based in whole or
+ in part on empty detention beds, unmet guaranteed minimums, or tiered pricing.• Congress to remove the national detention bed quota from the FY 2017 Department of
+ Homeland Security (DHS) Appropriations bill.
+• Congress to pass the Protecting Taxpayers and Communities from Local Detention Quotas  Act, which would prevent ICE from participating in any legal agreement that mandated a bed 
+ quota at a local level.Conclusion- 9 -1.  Department of Homeland Security Appropriations Act of 2010 (October 28, 2009). Government Printing Office.
+     Available at https://www.gpo.gov/fdsys/pkg/PLAW-111publ83/pdf/PLAW-111publ83.pdf
+2.   Ibid. 3.   Department of Homeland Security. “Congressional Budget Justification FY 2017—Volume II.” Available at
+https://www.dhs.gov/sites/default/files/publications/FY%202017%20Congressional%20Budget%20Justification%20-%20Volume%202_1.pdf
+4.  Government Accountability Office. Immigration Detention: Additional Actions Needed to Strengthen Management and Oversight of 
+Facility Costs and Standards, p. 18 (October 2014). Available at http://www.gao.gov/assets/670/666467.pdf 
+5.   Detention Watch Network and Center for Constitutional Rights. Banking on Detention: Local Lockup Quotas and the Immigrant 
+Dragnet (2015). Available at
+https://www.detentionwatchnetwork.org/sites/default/files/reports/DWN%20CCR%20Banking%20on%20Detention%20Report.pdf
+6.   Department of Justice. “What is FOIA?” FOIA.gov. Available at http://www.foia.gov/about.html
+7.   National Immigrant Justice Center. “Immigration Detention Transparency and Human Rights Project.”
+Available at http://immigrantjustice.org/transparencyandhumanrights
+8.   Department of Homeland Security, Immigration and Customs Enforcement. FOIA Library.
+Available at https://www.ice.gov/foia/library
+9.   Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml
+10. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml
+11. NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. ICE.2012FOIA3030000262, 0267.
+Available at http://www.documentcloud.org/documents/1636098-berks-county-pa-igsa-modification.html
+12. NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. ICE2012FOIA03030.0032821.
+Available at http://www.documentcloud.org/documents/2104924-broward-transitional-facility-cdf-contract.html. 
+13. Solicitation No. HSCEDM-09-R-00005 for a contract detention facility in the Miami area (January 28, 2009). Available at
+https://www.fbo.gov/?s=opportunity&mode=form&id=da740c041090f54247b2055e7dfbe71c&tab=core&_cview=0; Contract No. 
+HSCEDM-09-D-00006 for a four-month extension (August 28, 2014). Available at
+https://www.fbo.gov/index?s=opportunity&mode=form&id=9f2b96fae5bba23fca82dc824e94283d&tab=core&_cview=0;
+14. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml; Akal Security and Akima Global Services Joint 
+Venture announcement on taking over operations at the Buffalo facility on February 1, 2015.
+Available at http://detentionofficerjobs.com/ 
+15. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml
+16. NIJC v. DHS. 12-cv-05358 (2012).
+Available at http://www.documentcloud.org/documents/1644550-california-city-ca-contract-cca.html, page 2.
+17. NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. ICE2012FOIA03030.0030609.
+Available at http://www.documentcloud.org/documents/1699760-denver-county-jail-geo-group-2011-cdf-contract.html 
+18. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml
+19. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml; contract was extended to November 30, 2015. 
+Available at http://www.doyongovgrp.com/security/security-contracts-vehicles/ andhttp://government-contracts.insidegov.com/l/2559287/HSCEDM09D0000420. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml; NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. 
+ICE2012FOIA03030.0029953.
+Available at http://www.documentcloud.org/documents/1735386-elizabeth-contract-detention-facility-contract-cdf.html 
+21. The IGSA contains guaranteed minimum language and specifies that “the Government will maintain an Average Daily Population 
+(ADP) of 700” people in ICE custody. NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. ICE2012FOIA3030.000524 (p. 6).
+Available at http://www.documentcloud.org/documents/1658066-essex-county-igsa-contract.html 
+22. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml; NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. 
+ICE2012FOIA3030000804.
+Available at http://www.documentcloud.org/documents/1672361-farmville-va-igsa-and-transportation-contract.html
+23. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml; NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. 
+ICE2012FOIA03030.000339.
+Available at http://www.documentcloud.org/documents/2157358-florence-correctional-center-az-cca-2009-cdf.html
+24. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml
+25. NIJC v. DHS. 12-cv-05358 (2012), p. 3.
+Available at http://www.documentcloud.org/documents/1672355-hutto-county-corectional-center-williamson.html 
+26. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml
+27. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml; DWN v. ICE, No. 14-cv-583 LGS (2013), Bates No. ICE 2014FOIA03585.001228-001789 (minimum stated on ICE Bates No. 001318, 001454, 001578, 001587). Available at 
+http://ccrjustice.org/sites/default/files/attach/2015/06/DWN%20v%20ICE%20FOIA%20-%20ICE%201228-1789.pdf
+28. “Karnes TX IGSA Contract and Wackenhut GEO Subcontract,” p. 159, 161.
+Available at http://www.documentcloud.org/documents/2837201-Karnes-TX-IGSA-Contract-and-Wackenhut-GEO.html
+29. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml; Krome Service Processing Center Contract No. 
+HSCEDM-13-R-00001 for detention management, transportation and food services (April 11, 2014), citing to the original solicita-
+tion. Available at https://www.fbo.gov/?s=opportunity&mode=form&id=406cf61548170f006941dfc6580e0858&tab=core&_cview=1; 
+Akima Global Services LLC announcement of winning the 10-year contract for full detention services at Krome. Available at 
+http://www.akimaglobal.com/2014/05/13/dhs-awards-akima-global-services-contract-to-support-krome-detention-center/; Prior to 
+Akima, Krome was contracted with Doyon-Akal JV with a guaranteed minimum of 250. Available at
+https://www.ice.gov/doclib/foia/contracts/hscedm-08-d-00003-doyonakaljv.pdf 
+30. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml; NIJC v. DHS. 12-cv-05358 (2012), p. 13. Available 
+at http://www.documentcloud.org/documents/2631228-Mesa-Verde-CA-IGSA-Contract.html 
+31. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml
+32. NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. ICE2012FOIA03030.0031543-4.
+Available at  http://www.documentcloud.org/documents/1813479-northwest-denteion-center-tacoma-wa-cdf-contract.html. 
+33. Solicitation No. HSCEDM-15-R-00001 for a contractor owned and contractor operated detention facility (November 20, 2014). 
+Available at https://www.fbo.gov/index?s=opportunity&mode=-form&tab=core&id=5070ee30860d8093cb1f7abe0aa9f741&_cview=0; The guaranteed minimum was increased from 750. See 
+Henterly, Lael. The Seattle Globalist. “Fewer Immigrants filling Tacoma detention center, as doubts grow about new contract.” (April 2, 2015). Available at http://seattleglobalist.com/2015/04/02/tacoma-detention-center-immigrant-ice-contract/35475; In 2009, the guaranteed minimum was 1181. See Krell, Alexis. The News Tribune. “GEO expected to get new contract to run Tacoma immigrant 
+detention ctenter.” (March 30, 2015). Available at http://www.thenewstribune.com/news/local/crime/article26273296.html
+34. San Diego Otay Mesa Contract No. ODT-5-C-0003 for comprehensive secure detention services (July 1, 2005), p. 2. Available at 
+http://www.justice.gov/archive/ofdt/otay-mesa-contract.pdf; CCA is building a new facility with greater detention capacity to replace 
+San Diego. Available at https://www.cca.com/insidecca/a-new-facility-is-underway; Another facility in the area, El Centro SPC 
+(closed down in 2014), was managed by Asset Protection & Security Services LLP and had a guaranteed minimum of 225 beds. 
+Contract No. HSCEDM-09-D-00001 for detention services (May 22, 2009), citing to the original solicitation. Available at
+https://www.fbo.gov/?s=opportunity&mode=form&tab=core&id=bab95d17227113f8db7e219f9df5fc06&_cview=0 35. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml
+36.  NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. ICE2012FOIA03030.0032752.
+Available at http://www.documentcloud.org/documents/1813514-south-texas-detention-complex-cdf-contract.html.
+37. South Texas Detention Center Contract No. ACD-4-C-0001 for guard services with The Geo Group (June 19, 2008), p. 11.
+Available at https://www.ice.gov/doclib/foia/contracts/geogrouphscedm09f00001.pdf
+38. Contract solicitations are found on the Federal Business Opportunities website. Available at https://www.fbo.gov/
+39. Center for Constitutional Rights. Detention Watch Network v. Immigration and Customs Enforcement (2013). Available at
+http://ccrjustice.org/home/what-we-do/our-cases/detention-watch-network-dwn-v-immigration-customs-and-enforcement-ice-and; 
+National Immigrant Justice Center. National Immigrant Justice Center v. Department of Homeland Security (2012). Available at http://www.immigrantjustice.org/transparencyandhumanrights; Department of Homeland Security, Immigration and Customs 
+Enforcement. FOIA Library. Available at https://www.ice.gov/foia/library
+40. Government agencies can redact information requested through FOIA if such information falls under one of the nine exemption 
+categories. Department of Justice. “Frequently Asked Questions.” FOIA.gov. Available at http://www.foia.gov/faq.html#exemptions
+41. Detention Watch Network, Center for Constitutional Rights v. United States Immigration and Customs Enforcement, Department of 
+Homeland Security (2015), 75 14-CV-583 1, United States District Court, Southern District of New York, p. 2. Available athttps://ccrjustice.org/sites/default/files/attach/2016/01/Dkt%2075%20b4%20SJ%20Mem%20of%20Law%2011-17-15.pdf
+42. Exemption 4 of FOIA applies to “trade secrets or commercial or financial information that is confidential or privileged.” Department 
+of Justice. “Frequently Asked Questions.” FOIA.gov. Available at http://www.foia.gov/faq.html#exemptions; Detention Watch 
+Network, Center for Constitutional Rights v. United States Immigration and Customs Enforcement, Department of Homeland 
+Security (2015) 75 14-CV-583 1, United States District Court, Southern District of New York, p. 5,
+https://ccrjustice.org/sites/default/files/attach/2016/01/Dkt%2075%20b4%20SJ%20Mem%20of%20Law%2011-17-15.pdf
+43. The GEO Group, Inc. “Management Team.” Available at http://www.geogroup.com/David_J__Venturella 
+44. Center for Constitutional Rights. “Immigration Detention Bed Quotas: Private Prison Corporations, Government Collude to Keep 
+Contracts Secret; Undue Corporate Influence Seen in FOIA Redactions, Attorneys Say” (2015).
+Available at http://ccrjustice.org/home/press-center/press-releases/immigration-detention-bed-quotas-private-prison-corporations
+45. Grassroots Leadership. Payoff: How Congress Ensures Private Prison Profit with an Immigrant Detention Quota (2015). Available 
+at http://grassrootsleadership.org/reports/payoff-how-congress-ensures-private-prison-profit-immigrant-detention-quota  
+46. Detention Watch Network and Center for Constitutional Rights. Banking on Detention: Local Lockup Quotas and the Immigrant 
+Dragnet (2015), p. 3, 7. Available at
+https://www.detentionwatchnetwork.org/sites/default/files/reports/DWN%20CCR%20Banking%20on%20Detention%20Report.pdf
+47. Banking on Detention: Local Lockup Quotas and the Immigrant Dragnet (2015), p. 6.
+48. Detention Watch Network and Center for Constitutional Rights. Banking on Detention: Local Lockup Quotas and the Immigrant 
+Dragnet (2015), pp. 6-7, 9. Available at
+https://www.detentionwatchnetwork.org/sites/default/files/reports/DWN%20CCR%20Banking%20on%20Detention%20Report.pdf
+49. The five deaths occurred at Denver Contract Detention Facility in Aurora, CO; Farmville Detention Center in Farmville, VA;
+Adelanto Detention Facility in Adelanto, CA; Elizabeth Detention Center in Elizabeth, NJ; and El Paso Processing Center in
+El Paso, TX. Fatal Neglect: How ICE Ignores Deaths in Detention (2016).
+Available at https://www.aclu.org/sites/default/files/field_document/fatal_neglect_acludwnnijc.pdf
+50. Deutch, Theodore, Bill Foster, and Adam Smith. H.R.2808 - 114th Congress (2015-2016): Protecting Taxpayers and Communities 
+from Local Detention Quotas Act (2015). Available at https://www.congress.gov/bill/114th-congress/house-bill/2808/text
+51  Office of U.S. Representative Ted Deutch. “PRESS RELEASE: U.S. Reps. Ted Deutch, Bill Foster, and Adam Smith Introduce Bill 
+Banning Local Immigrant Detention Quotas” (June 18, 2015). Available at
+http://teddeutch.house.gov/news/documentsingle.aspx?DocumentID=398445
+52. Department of Homeland Security. “Congressional Budget Justification FY 2017—Volume II.” Available at
+https://www.dhs.gov/sites/default/files/publications/FY%202017%20Congressional%20Budget%20Justification%20-%20Volume%202_1.pdfEndnotes- 10 -1.  Department of Homeland Security Appropriations Act of 2010 (October 28, 2009). Government Printing Office.
+     Available at https://www.gpo.gov/fdsys/pkg/PLAW-111publ83/pdf/PLAW-111publ83.pdf
+2.   Ibid. 3.   Department of Homeland Security. “Congressional Budget Justification FY 2017—Volume II.” Available at
+https://www.dhs.gov/sites/default/files/publications/FY%202017%20Congressional%20Budget%20Justification%20-%20Volume%202_1.pdf
+4.  Government Accountability Office. Immigration Detention: Additional Actions Needed to Strengthen Management and Oversight of 
+Facility Costs and Standards, p. 18 (October 2014). Available at http://www.gao.gov/assets/670/666467.pdf 
+5.   Detention Watch Network and Center for Constitutional Rights. Banking on Detention: Local Lockup Quotas and the Immigrant 
+Dragnet (2015). Available at
+https://www.detentionwatchnetwork.org/sites/default/files/reports/DWN%20CCR%20Banking%20on%20Detention%20Report.pdf
+6.   Department of Justice. “What is FOIA?” FOIA.gov. Available at http://www.foia.gov/about.html
+7.   National Immigrant Justice Center. “Immigration Detention Transparency and Human Rights Project.”
+Available at http://immigrantjustice.org/transparencyandhumanrights
+8.   Department of Homeland Security, Immigration and Customs Enforcement. FOIA Library.
+Available at https://www.ice.gov/foia/library
+9.   Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml
+10. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml
+11. NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. ICE.2012FOIA3030000262, 0267.
+Available at http://www.documentcloud.org/documents/1636098-berks-county-pa-igsa-modification.html
+12. NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. ICE2012FOIA03030.0032821.
+Available at http://www.documentcloud.org/documents/2104924-broward-transitional-facility-cdf-contract.html. 
+13. Solicitation No. HSCEDM-09-R-00005 for a contract detention facility in the Miami area (January 28, 2009). Available at
+https://www.fbo.gov/?s=opportunity&mode=form&id=da740c041090f54247b2055e7dfbe71c&tab=core&_cview=0; Contract No. 
+HSCEDM-09-D-00006 for a four-month extension (August 28, 2014). Available at
+https://www.fbo.gov/index?s=opportunity&mode=form&id=9f2b96fae5bba23fca82dc824e94283d&tab=core&_cview=0;
+14. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml; Akal Security and Akima Global Services Joint 
+Venture announcement on taking over operations at the Buffalo facility on February 1, 2015.
+Available at http://detentionofficerjobs.com/ 
+15. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml
+16. NIJC v. DHS. 12-cv-05358 (2012).
+Available at http://www.documentcloud.org/documents/1644550-california-city-ca-contract-cca.html, page 2.
+17. NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. ICE2012FOIA03030.0030609.
+Available at http://www.documentcloud.org/documents/1699760-denver-county-jail-geo-group-2011-cdf-contract.html 
+18. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml
+19. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml; contract was extended to November 30, 2015. 
+Available at http://www.doyongovgrp.com/security/security-contracts-vehicles/ andhttp://government-contracts.insidegov.com/l/2559287/HSCEDM09D0000420. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml; NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. 
+ICE2012FOIA03030.0029953.
+Available at http://www.documentcloud.org/documents/1735386-elizabeth-contract-detention-facility-contract-cdf.html 
+21. The IGSA contains guaranteed minimum language and specifies that “the Government will maintain an Average Daily Population 
+(ADP) of 700” people in ICE custody. NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. ICE2012FOIA3030.000524 (p. 6).
+Available at http://www.documentcloud.org/documents/1658066-essex-county-igsa-contract.html 
+22. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml; NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. 
+ICE2012FOIA3030000804.
+Available at http://www.documentcloud.org/documents/1672361-farmville-va-igsa-and-transportation-contract.html
+23. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml; NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. 
+ICE2012FOIA03030.000339.
+Available at http://www.documentcloud.org/documents/2157358-florence-correctional-center-az-cca-2009-cdf.html
+24. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml
+25. NIJC v. DHS. 12-cv-05358 (2012), p. 3.
+Available at http://www.documentcloud.org/documents/1672355-hutto-county-corectional-center-williamson.html 
+26. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml
+27. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml; DWN v. ICE, No. 14-cv-583 LGS (2013), Bates No. ICE 2014FOIA03585.001228-001789 (minimum stated on ICE Bates No. 001318, 001454, 001578, 001587). Available at 
+http://ccrjustice.org/sites/default/files/attach/2015/06/DWN%20v%20ICE%20FOIA%20-%20ICE%201228-1789.pdf
+28. “Karnes TX IGSA Contract and Wackenhut GEO Subcontract,” p. 159, 161.
+Available at http://www.documentcloud.org/documents/2837201-Karnes-TX-IGSA-Contract-and-Wackenhut-GEO.html
+29. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml; Krome Service Processing Center Contract No. 
+HSCEDM-13-R-00001 for detention management, transportation and food services (April 11, 2014), citing to the original solicita-
+tion. Available at https://www.fbo.gov/?s=opportunity&mode=form&id=406cf61548170f006941dfc6580e0858&tab=core&_cview=1; 
+Akima Global Services LLC announcement of winning the 10-year contract for full detention services at Krome. Available at 
+http://www.akimaglobal.com/2014/05/13/dhs-awards-akima-global-services-contract-to-support-krome-detention-center/; Prior to 
+Akima, Krome was contracted with Doyon-Akal JV with a guaranteed minimum of 250. Available at
+https://www.ice.gov/doclib/foia/contracts/hscedm-08-d-00003-doyonakaljv.pdf 
+30. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml; NIJC v. DHS. 12-cv-05358 (2012), p. 13. Available 
+at http://www.documentcloud.org/documents/2631228-Mesa-Verde-CA-IGSA-Contract.html 
+31. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml
+32. NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. ICE2012FOIA03030.0031543-4.
+Available at  http://www.documentcloud.org/documents/1813479-northwest-denteion-center-tacoma-wa-cdf-contract.html. 
+33. Solicitation No. HSCEDM-15-R-00001 for a contractor owned and contractor operated detention facility (November 20, 2014). 
+Available at https://www.fbo.gov/index?s=opportunity&mode=-form&tab=core&id=5070ee30860d8093cb1f7abe0aa9f741&_cview=0; The guaranteed minimum was increased from 750. See 
+Henterly, Lael. The Seattle Globalist. “Fewer Immigrants filling Tacoma detention center, as doubts grow about new contract.” (April 2, 2015). Available at http://seattleglobalist.com/2015/04/02/tacoma-detention-center-immigrant-ice-contract/35475; In 2009, the guaranteed minimum was 1181. See Krell, Alexis. The News Tribune. “GEO expected to get new contract to run Tacoma immigrant 
+detention ctenter.” (March 30, 2015). Available at http://www.thenewstribune.com/news/local/crime/article26273296.html
+34. San Diego Otay Mesa Contract No. ODT-5-C-0003 for comprehensive secure detention services (July 1, 2005), p. 2. Available at 
+http://www.justice.gov/archive/ofdt/otay-mesa-contract.pdf; CCA is building a new facility with greater detention capacity to replace 
+San Diego. Available at https://www.cca.com/insidecca/a-new-facility-is-underway; Another facility in the area, El Centro SPC 
+(closed down in 2014), was managed by Asset Protection & Security Services LLP and had a guaranteed minimum of 225 beds. 
+Contract No. HSCEDM-09-D-00001 for detention services (May 22, 2009), citing to the original solicitation. Available at
+https://www.fbo.gov/?s=opportunity&mode=form&tab=core&id=bab95d17227113f8db7e219f9df5fc06&_cview=0 35. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml
+36.  NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. ICE2012FOIA03030.0032752.
+Available at http://www.documentcloud.org/documents/1813514-south-texas-detention-complex-cdf-contract.html.
+37. South Texas Detention Center Contract No. ACD-4-C-0001 for guard services with The Geo Group (June 19, 2008), p. 11.
+Available at https://www.ice.gov/doclib/foia/contracts/geogrouphscedm09f00001.pdf
+38. Contract solicitations are found on the Federal Business Opportunities website. Available at https://www.fbo.gov/
+39. Center for Constitutional Rights. Detention Watch Network v. Immigration and Customs Enforcement (2013). Available at
+http://ccrjustice.org/home/what-we-do/our-cases/detention-watch-network-dwn-v-immigration-customs-and-enforcement-ice-and; 
+National Immigrant Justice Center. National Immigrant Justice Center v. Department of Homeland Security (2012). Available at http://www.immigrantjustice.org/transparencyandhumanrights; Department of Homeland Security, Immigration and Customs 
+Enforcement. FOIA Library. Available at https://www.ice.gov/foia/library
+40. Government agencies can redact information requested through FOIA if such information falls under one of the nine exemption 
+categories. Department of Justice. “Frequently Asked Questions.” FOIA.gov. Available at http://www.foia.gov/faq.html#exemptions
+41. Detention Watch Network, Center for Constitutional Rights v. United States Immigration and Customs Enforcement, Department of 
+Homeland Security (2015), 75 14-CV-583 1, United States District Court, Southern District of New York, p. 2. Available athttps://ccrjustice.org/sites/default/files/attach/2016/01/Dkt%2075%20b4%20SJ%20Mem%20of%20Law%2011-17-15.pdf
+42. Exemption 4 of FOIA applies to “trade secrets or commercial or financial information that is confidential or privileged.” Department 
+of Justice. “Frequently Asked Questions.” FOIA.gov. Available at http://www.foia.gov/faq.html#exemptions; Detention Watch 
+Network, Center for Constitutional Rights v. United States Immigration and Customs Enforcement, Department of Homeland 
+Security (2015) 75 14-CV-583 1, United States District Court, Southern District of New York, p. 5,
+https://ccrjustice.org/sites/default/files/attach/2016/01/Dkt%2075%20b4%20SJ%20Mem%20of%20Law%2011-17-15.pdf
+43. The GEO Group, Inc. “Management Team.” Available at http://www.geogroup.com/David_J__Venturella 
+44. Center for Constitutional Rights. “Immigration Detention Bed Quotas: Private Prison Corporations, Government Collude to Keep 
+Contracts Secret; Undue Corporate Influence Seen in FOIA Redactions, Attorneys Say” (2015).
+Available at http://ccrjustice.org/home/press-center/press-releases/immigration-detention-bed-quotas-private-prison-corporations
+45. Grassroots Leadership. Payoff: How Congress Ensures Private Prison Profit with an Immigrant Detention Quota (2015). Available 
+at http://grassrootsleadership.org/reports/payoff-how-congress-ensures-private-prison-profit-immigrant-detention-quota  
+46. Detention Watch Network and Center for Constitutional Rights. Banking on Detention: Local Lockup Quotas and the Immigrant 
+Dragnet (2015), p. 3, 7. Available at
+https://www.detentionwatchnetwork.org/sites/default/files/reports/DWN%20CCR%20Banking%20on%20Detention%20Report.pdf
+47. Banking on Detention: Local Lockup Quotas and the Immigrant Dragnet (2015), p. 6.
+48. Detention Watch Network and Center for Constitutional Rights. Banking on Detention: Local Lockup Quotas and the Immigrant 
+Dragnet (2015), pp. 6-7, 9. Available at
+https://www.detentionwatchnetwork.org/sites/default/files/reports/DWN%20CCR%20Banking%20on%20Detention%20Report.pdf
+49. The five deaths occurred at Denver Contract Detention Facility in Aurora, CO; Farmville Detention Center in Farmville, VA;
+Adelanto Detention Facility in Adelanto, CA; Elizabeth Detention Center in Elizabeth, NJ; and El Paso Processing Center in
+El Paso, TX. Fatal Neglect: How ICE Ignores Deaths in Detention (2016).
+Available at https://www.aclu.org/sites/default/files/field_document/fatal_neglect_acludwnnijc.pdf
+50. Deutch, Theodore, Bill Foster, and Adam Smith. H.R.2808 - 114th Congress (2015-2016): Protecting Taxpayers and Communities 
+from Local Detention Quotas Act (2015). Available at https://www.congress.gov/bill/114th-congress/house-bill/2808/text
+51  Office of U.S. Representative Ted Deutch. “PRESS RELEASE: U.S. Reps. Ted Deutch, Bill Foster, and Adam Smith Introduce Bill 
+Banning Local Immigrant Detention Quotas” (June 18, 2015). Available at
+http://teddeutch.house.gov/news/documentsingle.aspx?DocumentID=398445
+52. Department of Homeland Security. “Congressional Budget Justification FY 2017—Volume II.” Available at
+https://www.dhs.gov/sites/default/files/publications/FY%202017%20Congressional%20Budget%20Justification%20-%20Volume%202_1.pdf- 11 -1.  Department of Homeland Security Appropriations Act of 2010 (October 28, 2009). Government Printing Office.
+     Available at https://www.gpo.gov/fdsys/pkg/PLAW-111publ83/pdf/PLAW-111publ83.pdf
+2.   Ibid. 3.   Department of Homeland Security. “Congressional Budget Justification FY 2017—Volume II.” Available at
+https://www.dhs.gov/sites/default/files/publications/FY%202017%20Congressional%20Budget%20Justification%20-%20Volume%202_1.pdf
+4.  Government Accountability Office. Immigration Detention: Additional Actions Needed to Strengthen Management and Oversight of 
+Facility Costs and Standards, p. 18 (October 2014). Available at http://www.gao.gov/assets/670/666467.pdf 
+5.   Detention Watch Network and Center for Constitutional Rights. Banking on Detention: Local Lockup Quotas and the Immigrant 
+Dragnet (2015). Available at
+https://www.detentionwatchnetwork.org/sites/default/files/reports/DWN%20CCR%20Banking%20on%20Detention%20Report.pdf
+6.   Department of Justice. “What is FOIA?” FOIA.gov. Available at http://www.foia.gov/about.html
+7.   National Immigrant Justice Center. “Immigration Detention Transparency and Human Rights Project.”
+Available at http://immigrantjustice.org/transparencyandhumanrights
+8.   Department of Homeland Security, Immigration and Customs Enforcement. FOIA Library.
+Available at https://www.ice.gov/foia/library
+9.   Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml
+10. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml
+11. NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. ICE.2012FOIA3030000262, 0267.
+Available at http://www.documentcloud.org/documents/1636098-berks-county-pa-igsa-modification.html
+12. NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. ICE2012FOIA03030.0032821.
+Available at http://www.documentcloud.org/documents/2104924-broward-transitional-facility-cdf-contract.html. 
+13. Solicitation No. HSCEDM-09-R-00005 for a contract detention facility in the Miami area (January 28, 2009). Available at
+https://www.fbo.gov/?s=opportunity&mode=form&id=da740c041090f54247b2055e7dfbe71c&tab=core&_cview=0; Contract No. 
+HSCEDM-09-D-00006 for a four-month extension (August 28, 2014). Available at
+https://www.fbo.gov/index?s=opportunity&mode=form&id=9f2b96fae5bba23fca82dc824e94283d&tab=core&_cview=0;
+14. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml; Akal Security and Akima Global Services Joint 
+Venture announcement on taking over operations at the Buffalo facility on February 1, 2015.
+Available at http://detentionofficerjobs.com/ 
+15. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml
+16. NIJC v. DHS. 12-cv-05358 (2012).
+Available at http://www.documentcloud.org/documents/1644550-california-city-ca-contract-cca.html, page 2.
+17. NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. ICE2012FOIA03030.0030609.
+Available at http://www.documentcloud.org/documents/1699760-denver-county-jail-geo-group-2011-cdf-contract.html 
+18. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml
+19. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml; contract was extended to November 30, 2015. 
+Available at http://www.doyongovgrp.com/security/security-contracts-vehicles/ andhttp://government-contracts.insidegov.com/l/2559287/HSCEDM09D0000420. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml; NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. 
+ICE2012FOIA03030.0029953.
+Available at http://www.documentcloud.org/documents/1735386-elizabeth-contract-detention-facility-contract-cdf.html 
+21. The IGSA contains guaranteed minimum language and specifies that “the Government will maintain an Average Daily Population 
+(ADP) of 700” people in ICE custody. NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. ICE2012FOIA3030.000524 (p. 6).
+Available at http://www.documentcloud.org/documents/1658066-essex-county-igsa-contract.html 
+22. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml; NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. 
+ICE2012FOIA3030000804.
+Available at http://www.documentcloud.org/documents/1672361-farmville-va-igsa-and-transportation-contract.html
+23. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml; NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. 
+ICE2012FOIA03030.000339.
+Available at http://www.documentcloud.org/documents/2157358-florence-correctional-center-az-cca-2009-cdf.html
+24. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml
+25. NIJC v. DHS. 12-cv-05358 (2012), p. 3.
+Available at http://www.documentcloud.org/documents/1672355-hutto-county-corectional-center-williamson.html 
+26. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml
+27. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml; DWN v. ICE, No. 14-cv-583 LGS (2013), Bates No. ICE 2014FOIA03585.001228-001789 (minimum stated on ICE Bates No. 001318, 001454, 001578, 001587). Available at 
+http://ccrjustice.org/sites/default/files/attach/2015/06/DWN%20v%20ICE%20FOIA%20-%20ICE%201228-1789.pdf
+28. “Karnes TX IGSA Contract and Wackenhut GEO Subcontract,” p. 159, 161.
+Available at http://www.documentcloud.org/documents/2837201-Karnes-TX-IGSA-Contract-and-Wackenhut-GEO.html
+29. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml; Krome Service Processing Center Contract No. 
+HSCEDM-13-R-00001 for detention management, transportation and food services (April 11, 2014), citing to the original solicita-
+tion. Available at https://www.fbo.gov/?s=opportunity&mode=form&id=406cf61548170f006941dfc6580e0858&tab=core&_cview=1; 
+Akima Global Services LLC announcement of winning the 10-year contract for full detention services at Krome. Available at 
+http://www.akimaglobal.com/2014/05/13/dhs-awards-akima-global-services-contract-to-support-krome-detention-center/; Prior to 
+Akima, Krome was contracted with Doyon-Akal JV with a guaranteed minimum of 250. Available at
+https://www.ice.gov/doclib/foia/contracts/hscedm-08-d-00003-doyonakaljv.pdf 
+30. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml; NIJC v. DHS. 12-cv-05358 (2012), p. 13. Available 
+at http://www.documentcloud.org/documents/2631228-Mesa-Verde-CA-IGSA-Contract.html 
+31. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml
+32. NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. ICE2012FOIA03030.0031543-4.
+Available at  http://www.documentcloud.org/documents/1813479-northwest-denteion-center-tacoma-wa-cdf-contract.html. 
+33. Solicitation No. HSCEDM-15-R-00001 for a contractor owned and contractor operated detention facility (November 20, 2014). 
+Available at https://www.fbo.gov/index?s=opportunity&mode=-form&tab=core&id=5070ee30860d8093cb1f7abe0aa9f741&_cview=0; The guaranteed minimum was increased from 750. See 
+Henterly, Lael. The Seattle Globalist. “Fewer Immigrants filling Tacoma detention center, as doubts grow about new contract.” (April 
+2, 2015). Available at http://seattleglobalist.com/2015/04/02/tacoma-detention-center-immigrant-ice-contract/35475; In 2009, the guaranteed minimum was 1181. See Krell, Alexis. The News Tribune. “GEO expected to get new contract to run Tacoma immigrant 
+detention ctenter.” (March 30, 2015). Available at http://www.thenewstribune.com/news/local/crime/article26273296.html
+34. San Diego Otay Mesa Contract No. ODT-5-C-0003 for comprehensive secure detention services (July 1, 2005), p. 2. Available at 
+http://www.justice.gov/archive/ofdt/otay-mesa-contract.pdf; CCA is building a new facility with greater detention capacity to replace 
+San Diego. Available at https://www.cca.com/insidecca/a-new-facility-is-underway; Another facility in the area, El Centro SPC 
+(closed down in 2014), was managed by Asset Protection & Security Services LLP and had a guaranteed minimum of 225 beds. 
+Contract No. HSCEDM-09-D-00001 for detention services (May 22, 2009), citing to the original solicitation. Available at
+https://www.fbo.gov/?s=opportunity&mode=form&tab=core&id=bab95d17227113f8db7e219f9df5fc06&_cview=0 35. Transactional Records Access Clearinghouse. “Detention Facility Reports: Departures from ICE Detention,” Syracuse University 
+(April 12, 2016). Available at http://trac.syr.edu/immigration/detention/exit.shtml
+36.  NIJC v. DHS. 12-cv-05358 (2012). ICE Bates No. ICE2012FOIA03030.0032752.
+Available at http://www.documentcloud.org/documents/1813514-south-texas-detention-complex-cdf-contract.html.
+37. South Texas Detention Center Contract No. ACD-4-C-0001 for guard services with The Geo Group (June 19, 2008), p. 11.
+Available at https://www.ice.gov/doclib/foia/contracts/geogrouphscedm09f00001.pdf
+38. Contract solicitations are found on the Federal Business Opportunities website. Available at https://www.fbo.gov/
+39. Center for Constitutional Rights. Detention Watch Network v. Immigration and Customs Enforcement (2013). Available at
+http://ccrjustice.org/home/what-we-do/our-cases/detention-watch-network-dwn-v-immigration-customs-and-enforcement-ice-and; 
+National Immigrant Justice Center. National Immigrant Justice Center v. Department of Homeland Security (2012). Available at http://www.immigrantjustice.org/transparencyandhumanrights; Department of Homeland Security, Immigration and Customs 
+Enforcement. FOIA Library. Available at https://www.ice.gov/foia/library
+40. Government agencies can redact information requested through FOIA if such information falls under one of the nine exemption 
+categories. Department of Justice. “Frequently Asked Questions.” FOIA.gov. Available at http://www.foia.gov/faq.html#exemptions
+41. Detention Watch Network, Center for Constitutional Rights v. United States Immigration and Customs Enforcement, Department of 
+Homeland Security (2015), 75 14-CV-583 1, United States District Court, Southern District of New York, p. 2. Available athttps://ccrjustice.org/sites/default/files/attach/2016/01/Dkt%2075%20b4%20SJ%20Mem%20of%20Law%2011-17-15.pdf
+42. Exemption 4 of FOIA applies to “trade secrets or commercial or financial information that is confidential or privileged.” Department 
+of Justice. “Frequently Asked Questions.” FOIA.gov. Available at http://www.foia.gov/faq.html#exemptions; Detention Watch 
+Network, Center for Constitutional Rights v. United States Immigration and Customs Enforcement, Department of Homeland 
+Security (2015) 75 14-CV-583 1, United States District Court, Southern District of New York, p. 5,
+https://ccrjustice.org/sites/default/files/attach/2016/01/Dkt%2075%20b4%20SJ%20Mem%20of%20Law%2011-17-15.pdf
+43. The GEO Group, Inc. “Management Team.” Available at http://www.geogroup.com/David_J__Venturella 
+44. Center for Constitutional Rights. “Immigration Detention Bed Quotas: Private Prison Corporations, Government Collude to Keep 
+Contracts Secret; Undue Corporate Influence Seen in FOIA Redactions, Attorneys Say” (2015).
+Available at http://ccrjustice.org/home/press-center/press-releases/immigration-detention-bed-quotas-private-prison-corporations
+45. Grassroots Leadership. Payoff: How Congress Ensures Private Prison Profit with an Immigrant Detention Quota (2015). Available 
+at http://grassrootsleadership.org/reports/payoff-how-congress-ensures-private-prison-profit-immigrant-detention-quota  
+46. Detention Watch Network and Center for Constitutional Rights. Banking on Detention: Local Lockup Quotas and the Immigrant 
+Dragnet (2015), p. 3, 7. Available at
+https://www.detentionwatchnetwork.org/sites/default/files/reports/DWN%20CCR%20Banking%20on%20Detention%20Report.pdf
+47. Banking on Detention: Local Lockup Quotas and the Immigrant Dragnet (2015), p. 6.
+48. Detention Watch Network and Center for Constitutional Rights. Banking on Detention: Local Lockup Quotas and the Immigrant 
+Dragnet (2015), pp. 6-7, 9. Available at
+https://www.detentionwatchnetwork.org/sites/default/files/reports/DWN%20CCR%20Banking%20on%20Detention%20Report.pdf
+49. The five deaths occurred at Denver Contract Detention Facility in Aurora, CO; Farmville Detention Center in Farmville, VA;
+Adelanto Detention Facility in Adelanto, CA; Elizabeth Detention Center in Elizabeth, NJ; and El Paso Processing Center in
+El Paso, TX. Fatal Neglect: How ICE Ignores Deaths in Detention (2016).
+Available at https://www.aclu.org/sites/default/files/field_document/fatal_neglect_acludwnnijc.pdf
+50. Deutch, Theodore, Bill Foster, and Adam Smith. H.R.2808 - 114th Congress (2015-2016): Protecting Taxpayers and Communities 
+from Local Detention Quotas Act (2015). Available at https://www.congress.gov/bill/114th-congress/house-bill/2808/text
+51  Office of U.S. Representative Ted Deutch. “PRESS RELEASE: U.S. Reps. Ted Deutch, Bill Foster, and Adam Smith Introduce Bill 
+Banning Local Immigrant Detention Quotas” (June 18, 2015). Available at
+http://teddeutch.house.gov/news/documentsingle.aspx?DocumentID=398445
+52. Department of Homeland Security. “Congressional Budget Justification FY 2017—Volume II.” Available at
+https://www.dhs.gov/sites/default/files/publications/FY%202017%20Congressional%20Budget%20Justification%20-%20Volume%202_1.pdf

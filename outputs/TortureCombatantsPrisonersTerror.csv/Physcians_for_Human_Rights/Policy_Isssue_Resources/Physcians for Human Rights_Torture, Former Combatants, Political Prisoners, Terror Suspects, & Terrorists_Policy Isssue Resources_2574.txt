@@ -1,0 +1,1321 @@
+EXPERIMENTS 
+IN T ORTURE:
+Evidence of Human Subject 
+Research and Experimentation in the “Enhanced” Interrogation Program
+A White Paper byPhysicians for Human RightsJune 2010
+Physicians for  
+Human Rights
+PHR was founded in 1986 on the idea that health profes-
+sionals, with their specialized skills, ethical commitments, 
+and credible voices, are uniquely positioned to investigate the health consequences of human rights violations and work to stop them. 
+Since 2005, PHR has documented the systematic use of  
+psychological and physical torture by US personnel against  
+detainees held at Guantánamo Bay, Abu Ghraib, Bagram airbase, and elsewhere in its groundbreaking reports Break 
+Them Down; Leave No Marks; Broken Laws, Broken Lives; 
+and Aiding Torture.
+PHR is a non-profit, non-sectarian organization funded 
+through private foundations and by individual donors. Membership is open to all, not only health professionals. PHR shared the 1997 Nobel Peace Prize.
+2 Arrow Street, Suite 301
+Cambridge, MA 02138 USATel:  +1.617.301.4200Fax: +1.617.301.4250http://physiciansforhumanrights.org http://phrtorturepapers.org
+Washington DC Office:
+1156 15th St. NW, Suite 1001Washington, DC 20005 USATel:  +1.202.728.5335Fax: +1.202.728.3053 
+© 2010, Physicians for Human Rights
+Cover Photo:  
+ Chris Hondros/Getty ImagesAuthors & 
+Acknowledgements
+The lead author for this report is Nathaniel Raymond, 
+Director of the Campaign Against Torture/Campaign for 
+Accountability at Physicians for Human Rights (PHR). The lead medical author is Scott Allen, MD, Co-Director of the 
+Center for Prisoner Health and Human Rights at Brown University and Medical Advisor to PHR. They were joined in writing the report by Vincent Iacopino, MD, PhD, PHR 
+Senior Medical Advisor; Allen Keller, MD, Bellevue/NYU 
+Program for Survivors of Torture; Stephen Soldz, PhD, 
+President-elect of Psychologists for Social Responsibility and Director of the Center for Research, Evaluation and Program Development at the Boston Graduate School of Psychoanalysis; Steven Reisner, PhD, PHR Advisor on 
+Ethics and Psychology; and John Bradshaw, JD, PHR Chief 
+Policy Officer and Director of PHR’s Washington DC Office.
+This report has benefited from review by Deborah 
+Ascheim, MD, Associate Professor of Health Policy and Medicine, Mount Sinai School of Medicine, and PHR board member; Frank Davidoff, MD, Editor Emeritus of Annals of 
+Internal Medicine and vice-chair of the PHR board of direc -
+tors; Robert S. Lawrence, MD, Professor in Environmental 
+Health Sciences, Johns Hopkins Bloomberg School of Public Health, and chair of the PHR board of directors; Robert Jay 
+Lifton, MD, Lecturer in Psychiatry at Harvard Medical School/Cambridge Health Alliance, and Distinguished Professor Emeritus of Psychiatry and Psychology, The City University of New York; Renée Llanusa-Cestero, MA, 
+CIP, La-Cesta Consultants LLC; Deborah Popowski, 
+JD, Skirball Fellow, Harvard Law School Human Rights Program; and Leonard S. Rubenstein, JD, Visiting Scholar, 
+Johns Hopkins Bloomberg School of Public Health. 
+Kathleen Sullivan, JD, Chief Program Officer of 
+Custody Programs at PHR, oversaw the report and provided guidance on the report’s structure and content. A. Frank 
+Donaghue, MA, MS, PHR Chief Executive Officer, and Susannah Sirkin, ME, PHR Deputy Director, reviewed and 
+edited the report. Benjamin Greenberg, PHR Director of 
+Online Communications, and Sarah Kalloch, Outreach and Constituency Organizing Director, provided critical support to the launch of the report. 
+Isaac Baker, Assistant to the PHR Campaign Against 
+Torture/Campaign for Accountability, provided background research and assisted in writing, editing and formatting the report. Katrina Welt and Andrew Angely, PHR interns and 
+students at Northeastern University School of Law, provid-ed legal background research for the report. Kevin Vickers, 
+Harvard Law School, and Klara Bolen, LLD, also contrib -
+uted to legal review of the report.   This report was reviewed and edited by Stephen Greene, 
+Communications Consultant to PHR. It was prepared for publication by Gurukarm Khalsa, PHR Web Editor/
+Producer. Jared Voss, PHR Web Editor/Producer, produced 
+the video associated with the report. 
+PHR is deeply indebted to critical research performed 
+by Daniel Scarvalone, Louise Place, and Jesse Hamlin.  
+This report could not have been written without their contributions.Evidence of Human Subject Research and Experimentation in the “Enhanced” Interrogation Program         1Table of Contents
+Executive Summary                                                                                               3
+Methods and Limitations                                                                                            4
+Recommendations                                                                                                   4
+Background on Illegal and Unethical Research and Experimentation                           5
+US Laws and Regulations Governing Human Subject Research and Experimentation                                 5
+The Bush Administration Violated Human Subject Protections after Sept. 11, 2001                                  6
+Three Instances of Human Subject Research and Experimentation                                                    7
+Evidence of Research and Experimentation                                                               7
+Health Professionals Develop New Methods and Procedures for Waterboarding                                      7
+The Use of Saline as Part of Waterboarding                                                                             8
+“Waterboarding 2.0”                                                                                                8
+Researching the “Susceptibility” of Detainees to Severe Pain                                                          9
+Researching the Effects of Sleep Deprivation on Detainees                                                          10
+Apparent Purposes for Human Research and  
+Experimentation on Detainees                                                                              10
+Limited Practical Scientific Knowledge on How to Deploy EITs                                                     10
+Calibrating Levels of Pain and Suffering in Accordance with the OLC Memos                                       10
+Human Experimentation to Provide a Basis for a “Good Faith”  
+Legal Defense Against Charges of Torture                                                                           11
+Operational Implementation of OLC Guidance by the CIA                                                             11
+The Bradbury “Combined T echniques” Memo Relied on Research Data from Detainees                                    12
+Human Experimentation and Human Subject Protections                                        13
+The Nuremberg Code                                                                                               13
+The National Commission                                                                                          13
+The Common Rule                                                                                                  13
+Legal and Ethical Standards Violated Following Sept. 11, 2001                                                      14
+Violation of the Geneva Conventions                                                                                       14
+Contravention of the Nuremberg Code                                                                                      14
+Disregarding and Amending the US War Crimes Act                                                                        14
+Conclusions and Recommendations                                                                      15
+Recommendations                                                                                                  16
+continued2  Experiments in TortureGlossary of Abbreviations and Terms                                                                    17
+Appendix 1                                                                                                          18
+The Nature of Experimentation: Health Professional Monitoring  
+of the “Enhanced” Interrogation Program                                                                          18
+The SERE Studies: A Summary of Research Findings on the  Effects of “Enhanced” Interrogation Techniques on Voluntary Soldier Subjects                                      
+19
+Detailed Summary of Military Survival Training (SERE) Studies and  What They Teach Us about the Effects of “Enhanced” Interrogation Techniques                                     
+20
+Methodology of SERE Studies                                                                                      21
+Results                                                                                                              21
+Neuroendocrine changes                                                                                            21
+Cortisol                                                                                                          22
+Norepinephrine and Epinephrine (Noradrenaline and Adrenaline)                                                      22
+Neuropeptide-Y (NPY)                                                                                             22
+T estosterone                                                                                                        22
+Thyroid Function                                                                                                  23
+Psychological Assessment                                                                                           23
+Factors affecting level of psychological stress: unavoidable stress                                                          23
+Variability between subjects                                                                                          24
+Limitations of the Studies                                                                                          24
+Later SERE Studies                                                                                                 24
+The SERE Studies in the Context of Alleged Human Experimentation  in the US Torture Program                                                                                          
+24
+Appendix 2                                                                                                          25
+Health Professional Ethics on Detainee Research and Interrogation                                                 25
+American Medical Association                                                                                       25
+American Psychiatric Association                                                                                    26
+American Psychological Association                                                                                  26
+United Nations                                                                                                    26
+World Medical Association                                                                                          26Evidence of Human Subject Research and Experimentation in the “Enhanced” Interrogation Program         3Executive Summary
+Following the Sept. 11, 2001, attacks, the Bush admin -
+istration initiated new human intelligence collection pro-
+grams. To that end, it detained and questioned an unknown number of people suspected of having links to terrorist or -
+ganizations. As part of these programs, the Bush adminis -
+tration redefined acts, such as waterboarding, forced nudity, sleep deprivation, temperature extremes, stress positions and prolonged isolation, that had previously been recognized as illegal, to be “safe, legal and effective” “enhanced” inter -
+rogation techniques (EITs). 
+Bush administration lawyers at the Department of 
+Justice’s (DoJ’s) Office of Legal Counsel (OLC) accom -
+plished this redefinition by establishing legal thresholds for torture, which required medical monitoring of every appli -
+cation of “enhanced” interrogation. Medical personnel were ostensibly responsible for ensuring that the legal threshold for “severe physical and mental pain” was not crossed by interrogators, but their presence and complicity in intention -
+ally harmful interrogation practices were not only appar -
+ently intended to enable the routine practice of torture, but also to serve as a potential legal defense against criminal liability for torture. 
+Investigation and analysis of US government documents 
+by Physicians for Human Rights (PHR) provides evidence in-dicating that the Bush administration, in the period after Sept. 11, conducted human research and experimentation on pris-oners in US custody as part of this monitoring role. Health professionals working for and on behalf of the CIA monitored the interrogations of detainees, collected and analyzed the results of those interrogations, and sought to derive general-izable inferences to be applied to subsequent interrogations. Such acts may be seen as the conduct of research and experi-mentation by health professionals on prisoners, which could violate accepted standards of medical ethics, as well as do-mestic and international law. These practices could, in some cases, constitute war crimes and crimes against humanity. 
+The knowledge obtained through this process appears to 
+have been motivated by a need to justify and to shape future interrogation policy and procedure, as well as to justify and to shape the legal environment in which the interrogation program operated. 
+PHR analyzes three instances of apparent illegal and un-
+ethical human subject research for this report: 
+Medical personnel were required to monitor all 1. 
+waterboarding practices and collect detailed medical information that was used to design, develop, and deploy subsequent waterboarding procedures; 
+Information on the effects of simultaneous versus 2. 
+sequential application of the interrogation techniques 
+on detainees was collected and used to establish the policy for using tactics in combination. These data were gathered through an assessment of the presumed “susceptibility” of the subjects to severe pain; 
+Information collected by health professionals on the 3. 
+effects of sleep deprivation on detainees was used to 
+establish the “enhanced” interrogation program’s (EIP) sleep deprivation policy.
+The human subject research apparently served several 
+purposes. It increased information on the physical and psy-chological impact of the CIA’s application of the “enhanced” interrogation techniques, which previously had been limited mostly to data from experiments using US military volun-teers under very limited, simulated conditions of torture. It served to calibrate the level of pain experienced by detain -
+ees during interrogation, ostensibly to keep it from cross-ing the administration’s legal threshold of what it claimed constituted torture. It also served as an attempt to provide a basis for a legal defense against possible torture charges against those who carried out the interrogations, since medi -
+cal monitoring would demonstrate, according to the Office of Legal Counsel memos, a lack of intent to cause harm to the subjects of interrogations.
+Yet the Bush administration’s legal framework to protect 
+CIA interrogators from violating US statutory and treaty obligations prohibiting torture effectively contravened  well-established legal and ethical codes, that, had they been enforced, should have protected prisoners against human experimentation, and should have prevented the “enhanced” interrogation program from being initiated in the first place. There is no evidence that the Office of Legal Counsel ever assessed the lawfulness of the medical monitoring of tor -
+ture, as it did with the use of the “enhanced” techniques themselves.
+The use of torture and cruel and inhuman treatment in in-
+terrogations of detainees in US custody has been well-docu -
+mented by Physicians for Human Rights (PHR) and others. The role of health professionals in designing, monitoring and participating in torture also has been investigated and publicly documented. This current report provides evidence that in addition to medical complicity in torture, health pro-fessionals participated in research and experimentation on detainees in US custody. 
+The use of human beings as research subjects has a long 
+and disturbing history filled with misguided and often will-fully unethical experimentation. Ethical codes and federal regulations have been established to protect human subjects from harm and include clear standards for informed consent of participants in research, an absence of coercion, and a requirement for rigorous scientific procedures. The essence of the ethical and legal protections for human subjects is that the subjects, especially vulnerable populations such as prisoners, must be treated with the dignity befitting human beings and not simply as experimental guinea pigs.  4  Experiments in TortureThe use of health professionals to monitor intentionally 
+harmful interrogation techniques places them in the service of 
+national security objectives which are in conflict with the in-terests of those who they are monitoring. The result has been a co-opting of health professionals by the national security ap-paratus and a violation of the highest medical admonition to “do no harm.”  Until the questions examined in this paper are 
+answered and, if ethical violations or crimes were committed, those responsible are held accountable, the misuse of medi-cal and scientific expertise for expedient and non-therapeutic goals jeopardizes the ethical integrity of the profession, and the public trust in the healing professions risks being seri-ously compromised.  
+Methods and Limitations
+This PHR report draws primarily upon US government 
+documents in the public record, including memoranda from the Office of Legal Counsel and the CIA’s Office of Inspector General Special Review of the CIA Enhanced Interrogation Program. 
+Most of these documents are heavily redacted and many 
+additional, relevant documents remain classified. While the observational medical monitoring data are not publicly available for the instances indicating human experimenta -
+tion cited by PHR, and while the specific extent to which medical personnel complied with requirements of the CIA’s Office of Medical Services (OMS) monitoring requirements is not known, there is clear evidence that medical person-nel were required to monitor and document all EIT practices and that generalizable knowledge derived therefrom subse-quently was used to refine harmful EIT practices.
+While this report provides evidence that data from hu-
+man research were compiled, apparently analyzed, and used to affect subsequent interrogations and to set policy, a com-prehensive federal investigation is required to answer the questions this evidence raises. 
+Recommendations
+Physicians for Human Rights calls on the White House 
+and Congress to investigate thoroughly the full scope of the possible human experimentation designed and implemented in the post-Sept. 11 period. The War Crimes Act must be amended to restore traditional human subject protections.
+Those who authorized, designed, implemented and su-
+pervised these alleged practices of human experimentation  — whether health professionals, uniformed personnel, or ci-vilian national security officials — must be held to account for their actions if they are found to have violated what in-ternational tribunals previously have held to constitute war crimes and crimes against humanity. 
+If any victims of research and experimentation perpetrated 
+by the United States are found, they must be offered compensa-tion, including health care services, to address ongoing health effects related to the experimentation, and a formal apology. Based on the findings of this investigation, the United 
+States should take the following actions:
+President Obama must order the attorney general to 1. 
+undertake an immediate criminal investigation of alleged illegal human experimentation and research on detainees conducted by the CIA and other government agencies following the attacks on Sept. 11, 2001.
+The secretary of the Department of Health and Human 2. 
+Services must instruct the Office for Human Research 
+Protections (OHRP) to begin an investigation of alleged violations of the Common Rule by the CIA and other gov-ernment agencies as part of the “enhanced” interrogation program.
+Congress must amend the War Crimes Act to eliminate 3. 
+changes made to the Act in 2006 which weaken the 
+prohibition on biological experimentation on detainees, and ensure that the War Crimes Act definition of the grave breach of biological experimentation is consistent with the definition of that crime under the Geneva Conventions.
+Congress should convene a joint select committee com-4. 
+prising members of the House and Senate committees re-
+sponsible for oversight on intelligence, military, judiciary and health and human services matters to conduct a full investigation of alleged human research and experimenta-tion activities on detainees in US custody.
+President Obama should issue an executive order 5. 
+immediately suspending any federally funded human 
+subject research currently occurring in secret — regardless of whether or not it involves detainees.
+The Department of Justice’s Office of Professional 6. 
+Responsibility should commence an investigation into 
+alleged professional misconduct by OLC lawyers related to violations of domestic and international law and regulations governing prohibitions on human subject experimentation and research on detainees.
+President Obama should appoint a presidential task force 7. 
+to restore the integrity of the US regime of protections for 
+human research subjects. This task force, comprising cur -
+rent and former officials from the Department of Health and Human Services, the Food and Drug Administration, the National Institutes of Health, the human rights community, and leading health professional associations, should review current human subject protections for detainees, and recom-mend changes to ensure that the human rights of those in US custody are upheld.
+States should adopt policies specifically prohibiting partic-8. 
+ipation in torture and improper treatment of prisoners by 
+health care professionals. Such participation is considered professional misconduct and is grounds for loss of profes-sional licensure. Proposed legislation in New York State provides a model for such policy. 
+The United Nations special rapporteur on torture should 9. 
+undertake an investigation of allegations that the United 
+States engaged in gross violations of international human rights law by engaging in human subject research and experimentation on detainees in its custody. Evidence of Human Subject Research and Experimentation in the “Enhanced” Interrogation Program         5Background on Illegal 
+and Unethical Research and Experimentation
+Bush administration lawyers at the Department of 
+Justice’s (DoJ’s) Office of Legal Counsel (OLC) utilized 
+the collection and application of medical information from detainees for the purpose of drawing conclusions about the potential harm inflicted from the acts committed during “en-hanced” interrogation, in an attempt to redefine acts previ-ously recognized as torture to be “safe, legal and effective” interrogation techniques. 
+The OLC lawyers accomplished this by establishing 
+legal thresholds for “severe physical and mental pain” for torture that could only be assessed by meticulous medical monitoring of individual enhanced interrogation techniques. Whether the OLC lawyers or the health professionals in-volved realized that the federally-funded systematic collec -
+tion and recording of those observations for such purposes constitutes human experimentation may be important in as-sessing intent, but has no bearing on whether or not it can constitute a crime. It is important to understand that the evidence of human experimentation presented in this report was part of an interrogation program that authorized torture and required the complicity of health professionals in the intentional infliction of harm. 
+US Laws and Regulations Governing 
+Human Subject Research and 
+Experimentation 
+Human subject experimentation and research have 
+specific meanings in US law. Federal regulations define 
+research as follows:
+Research means a systematic investigation, including research development, testing and evaluation, designed to develop or contribute to generalizable knowledge. Activities which meet this definition constitute research for purposes of this policy, whether or not they are con -
+ducted or supported under a program which is consid -
+ered research for other purposes.
+1
+Human subject research is defined under federal regula -
+tions as follows: 
+Human subject means a living individual about whom an investigator (whether professional or student) con -
+ducting research obtains 
+data through intervention or interaction with the  1. 
+individual, or 
+identifiable private information.2. 
+2 
+1. 45 Code of Federal Regulations (C.F.R.) § 46.102(d) (2005)
+2. IbidHuman research, therefore, involves the systematic col-
+lection of data for the purpose of drawing generalizable in-
+ferences. Activities that constitute human subject research and experimentation do not require a particular research study design, the testing of hypotheses, or the use of control groups. Many types of legitimate human subject research
+3 
+constitute human experimentation, including observational studies, such as the SERE
+4 (Survival, Evasion, Resistance, 
+and Escape) studies, which evaluated the effects of various interrogation techniques on US soldier-subjects, and for which human subject protections applied and informed con-sent was required and obtained. The systematic collection of personalized information from any human subjects, whether patients, volunteers, soldier-subjects, prisoners, or any other group, for purposes other than their direct benefit requires human subject protections, such as informed consent, and prospective review of and approval by an institutional re-view board (IRB), regardless of the information-gathering methods used or the stated purpose of the inquiry. 
+In general, federally funded experimentation involving 
+human subjects can occur only with the prior informed con-sent of the study subjects. Human experimentation without the consent of the subject is a violation of international hu-man rights law to which the United States is subject; federal statutes; the Common Rule, which comprises the federal regulations for research on human subjects and applies to 17 federal agencies, including the Central Intelligence Agency (CIA) and the Department of Defense (DoD); and universally accepted health professional ethics, including the Nuremberg Code.
+5 Human experimentation on detainees 
+also can constitute a war crime6 and a crime against human-
+ity7 in certain circumstances. 
+In US medical and other scientific settings, federally 
+funded research regimes involving human subjects are sub-jected to a rigorous pre-approval process by the research institution’s IRB or similar mechanism. In both civilian and government settings, the institutional review board prospec-tively reviews the purposes, methods, and goals of the proj-ect, the benefits expected to result, the potential harm to vol-unteer subjects, the investigators’ efforts to minimize these harms, and specific details about how informed consent of 
+3. Legitimate human subject research conducted by health professionals, 
+academic researchers, and other scientists can include studying the 
+effectiveness of specific medical treatments on patients, collecting data to better understand a sociological problem, or assessing the susceptibility of certain demographic groups to disease, etc. 4. US military and intelligence services participate in Survival, Evasion, 
+Resistance, Escape (SERE) training to prepare their personnel to withstand torture and abuse if captured by a hostile force that does not observe the Geneva Conventions’ standards for POW treatment.5. 45 C.F.R. §§ 46.101-46.124 (2005).
+6. Nuremberg Code, reprinted in Trials of War Criminals before the 
+Nuremberg Military Tribunals Under Control Council Law No. 10. V ol. 2. Washington: GPO, 1949: 181-82. 15 vols. 1946-49.7. Rome Statute of the International Criminal Court. Part 2: Jurisdiction, 
+Admissibility and Applicable Law, Article 7: Crimes Against Humanity (1998-2002). Web. 01 Jun. 2010. 
+<http://untreaty.un.org/cod/icc/statute/
+romefra.htm>.6  Experiments in Torturethe volunteer subjects will be obtained. Any US health pro-
+fessional who has participated in research involving humans is required to be fully familiar with such approval mecha -
+nisms, which credible institutions undertake with the utmost rigor and seriousness in promoting the ethical conduct of human research, in compliance with the Nuremberg Code and other international and US research standards. 
+The essence of the extensive ethical and legal protections 
+for human subjects is that the subjects, especially vulnerable populations such as prisoners, must be treated with the dig-nity befitting human beings and not simply as experimental guinea pigs. The Nuremberg Code and other guidances also 
+call on the medical professional to treat persons with their best interests in mind and to minimize pain or other risks and harms in the service of a research goal. Doctors are re-quired to use treatments that are expected to be effective and not to engage in speculative medicine at the expense of a human research subject. 
+By contrast, no official, explicit review and authoriza -
+tion by an institutional review board for research on detain -
+ees who were designated as enemy combatants during the period in question exists in the public record, to fulfill the requirements of the Common Rule.
+8 No publicly-available 
+evidence indicates that the Bush administration ever sought or received such formal authorization for the “enhanced” in-telligence research program. There is also no evidence that the CIA or DoD ever filed a waiver for informed consent covering this research with the Department of Health and Human Services (HHS), as required by federal regulations.
+9 
+No evidence has yet been made public of a formal 
+protocol for research by the CIA’s Office of Medical Services (OMS) on detainees in US custody. However, several examples within the DoJ memos and other government documents reveal the implementation of a program of medical monitoring that involved many core elements of a research regime,
+10 namely, the meticulous collection 
+and analysis of data to derive generalizable knowledge (in this case, knowledge relating to the “safety” and effects of torture techniques). As Llanusa-Cestero documented in Accountability in Research, the core elements, goals, roles, and rationales of a research plan are present in declassified documents related to the “enhanced” intelligence program 
+8. Llanusa-Cestero, Renée. “Unethical Research and the C.I.A. Inspector 
+General Report of 2004: Observations Implicit in Terms of the Common 
+Rule.” Accountability in Research 17.2 (2010): 99. Print.9. 45 C.F.R. § 46.117(c) (2005).
+10. See generally Memorandum from Steven G. Bradbury, Principal 
+Deputy Assistant Attorney General, for John A. Rizzo, Senior Deputy General Counsel, Central Intelligence Agency (10 May 2005). Web. 11 Mar. 2010 
+<http://i.cdn.turner.com/cnn/2009/images/05/22/bradbury3.
+pdf> ; see also generally Memorandum from Steven G. Bradbury, Principal 
+Deputy Assistant Attorney General, for John A. Rizzo, Senior Deputy General Counsel, Central Intelligence Agency (10 May 2005). Web. 11 Mar. 2010 
+<http://luxmedia.vo.llnwd.net/o10/clients/aclu/olc_05102005_
+bradbury46pg.pdf>.(EIP), despite there being no public evidence of IRB 
+approval or a formalized research plan.11
+Both before and after Sept. 11, 2001, experimentation for 
+non-clinical purposes on detainees by US military and in-telligence services—either with or without their consent—would not have been permissible under widely accepted and understood interpretations of US and international law and medical ethics. Such experimentation violates accepted US legal interpretations, as well as all governing codes of con-duct for any health professionals involved. 
+Also, the “science” on which the authorization of the EIP 
+was based is flawed by any reasonable standard because it served as a means of justifying a predetermined legal end of aiding in the authorization of torture.
+12 Even the claim 
+of systematic medical monitoring in the name of making “enhanced” intelligence techniques (EITs) “safe, legal, and effective” is contradicted by official monitoring policy, which failed to adequately take into account the mental harm caused by the tactics, among other factors.
+13 In fact, 
+the “enhanced” interrogation techniques are premised on the infliction of mental harm, so the concept of studying them to make them more effective is ethically impermissible, and studying them to make them “safer” is logically untenable — as the techniques are unsafe by design. 
+The Bush Administration Violated 
+Human Subject Protections after  
+Sept. 11, 2001 
+Physicians for Human Rights (PHR) has identified 
+evidence that in the months and years following the Sept. 
+11, 2001 attacks, the Bush administration violated essential standards that prohibited human experimentation on detainees. The experimentation that ensued by evading these legal and ethical standards was then in turn apparently used by the Office of Legal Counsel as a basis for concluding that the EIP did not constitute torture and that those who carried out the program would not be subject to prosecution. 
+No publicly available “blueprint” has come to light re-
+garding the implementation of detainee experimentation as a component of the EIP during the Bush years. PHR’s as-sessment of this program therefore relies upon facts from the public record that require further inquiry by Congress 
+11. See generally Llanusa-Cestero, Renée. “Unethical Research and the 
+C.I.A. Inspector General Report of 2004: Observations Implicit in Terms of 
+the Common Rule.” Accountability in Research 17.2 (2010): 96-113. Print.12. The body of this report analyzes declassified Bush-era documents from 
+Department of Justice’s Office of Legal Counsel, the CIA’s Office of Inspector General, the Department of Justice’s Office of Professional Responsibility, and related documents demonstrating evidence of illegal and unethical human subject research and experimentation. Appendix 1 reviews the medical literature generated by IRB-approved studies of the US government’s military survival training program performed prior to Sept. 11, 2001.13. Central Intelligence Agency, Office of Inspector 
+General. Counterterrorism Detention and Interrogations, Special Review. Central Intelligence Agency (2004): Appendix F, 10. Web. 11 Mar. 2010. 
+<http://www.gwu.edu/~nsarchiv/torture_archive/20040507.pdf>.Evidence of Human Subject Research and Experimentation in the “Enhanced” Interrogation Program         7and government investigators who have full access to in-
+formation currently unavailable to the public. Declassified public documents do not demonstrate that the experimental regime employed on detainees came complete with stated hypotheses, methodology, results, and conclusions — the fundamental elements of all legitimate scientific investiga -
+tion. The declassified public documents do, however, pro-vide evidence of human experimentation that is consistent with legal definitions of human subject research and experi -
+mentation cited above, namely, the systematic collection of data and/or identifiable personal information for the purpose of drawing generalizable inferences. 
+The subject of interrogation and research is not simply 
+relevant to the issue of accountability for alleged crimes committed in the recent past by the Bush administration. It also pertains to ongoing activities by the US intelligence community. In testimony before the House Intelligence Committee in February 2010, President Obama’s director of national intelligence, Admiral Dennis Blair (USN-Ret.), dis-closed that the United States has established an elite inter -
+rogation unit that will conduct “scientific research” to find better ways to question suspected terrorists. 
+While stating that the unit’s responsibility is to do “the 
+scientific research to determine if there are better ways to get information from people that are consistent with our values,” the director declined to provide details about this research effort, including whether or not it would involve human subjects, and, in particular, subjects in vulnerable populations. A spokesman for the director stressed that the program would follow US law.
+14 Given recent history, this 
+program must be subject to rigorous oversight to avoid po-tential violations of human subject research protections.
+Three Instances of Human Subject 
+Research and Experimentation
+The available evidence of human experimentation comes 
+from declassified government documents which detail a 
+policy of systematic medical monitoring of the “enhanced” interrogation techniques by health professionals, and de-scribes the use of the medical information so collected to produce generalizable knowledge that could inform specific EIT practices and to justify the EI program. 
+Three instances that provide evidence of illegal and un-
+ethical human subject research and experimentation are ana-lyzed by Physicians for Human Rights in this report. Actual observational medical monitoring data are not publicly available in the instances cited below. However, data col-
+14. “US doing ‘scientific research’ to boost interrogations.” AFP. AFP, 
+3 Feb. 2010. Web. 12 Mar. 2010 <http://www.google.com/hostednews/
+afp/article/ALeqM5jnITWjCSzrqYadyYwZ8e_p4C347Q> ; Mann, Simon. 
+“Interrogators will do ‘research,’ not torture.” Sydney Morning Herald 5 Feb. 
+2010. 12 Mar. 2010 <http://www.smh.com.au/world/interrogators-will-do-
+research-not-torture-20100204-nga9.html>.lection was required by OMS monitoring guidelines,15 and a 
+Justice Department memo draws legal conclusions about the 
+permissibility of the techniques based on apparent scientific analysis of the OMS data referenced in the memos. 
+Medical personnel were required to monitor all 1. 
+waterboarding practices and collect detailed medical information that was used to design, develop, and deploy subsequent waterboarding procedures;
+Information on the effects of simultaneous versus 2. 
+sequential application of the abusive interrogation 
+techniques on detainees was collected and used to establish the policy for using tactics in combination. These data were gathered through an assessment of the presumed “susceptibility” of the subjects to severe pain;
+Information collected by health professionals on the 3. 
+effects of sleep deprivation on detainees was used to 
+establish EIP sleep deprivation policy.
+Evidence of Research 
+and Experimentation
+Health Professionals Develop 
+New Methods and Procedures for 
+Waterboarding
+In the instance of waterboarding, the evidence of human 
+experimentation consists of highly specific OMS guidelines 
+for the systematic collection and documentation of medical data and subsequent refinement of waterboarding practices which apparently made use of such required medical moni-toring and documentation (i.e. the use of potable saline and a specialized gurney). Although actual waterboarding medical observations/data are not publicly available, and the extent to which medical personnel complied with OMS monitoring guidelines is not known, it is clear that the OMS policy of compulsory monitoring was followed by a series of revised waterboarding practices. 
+It is important to note that the involvement of medical 
+personnel in waterboarding could represent evidence of hu-man experimentation. Such medical involvement illustrates the danger and harm inherent in the practice of waterboard-ing and the enlistment of medical personnel in an effort to disguise a universally recognized torture tactic as a “safe, legal and effective” interrogation tactic.
+15. Central Intelligence Agency, Office of Inspector 
+General. Counterterrorism Detention and Interrogations, Special Review. 
+Central Intelligence Agency (2004): Appendix F, 10. Web. 11 Mar. 2010. 
+<http://www.gwu.edu/~nsarchiv/torture_archive/20040507.pdf>.8  Experiments in TortureIn this excerpt from the CIA guidelines for OMS health 
+professionals involved in the EIP, the health professionals 
+are explicitly directed to record:
+…how long each application (and the entire procedure) lasted, how much water was applied (realizing that much splashes off), how exactly the water was applied, if a seal was achieved, if the naso- or oropharynx was filled, what sort of volume was expelled, how long was the break between applications, and how the subject looked between each treatment.
+16 
+The results of this monitoring were apparently used in 
+subsequent assessments of the procedure’s safety. Then Principal Deputy Assistant Attorney General Steven G. Bradbury to then Acting CIA General Counsel John A. Rizzo states in his 2005 “combined techniques” memo that:
+We understand that these limitations have been estab -
+lished with extensive input from OMS, based on experi -
+ence to date with this technique and OMS’s professional judgment that use of the waterboard on a healthy indi -
+vidual subject to these limitations would be ‘medically acceptable.’
+17 
+Prior to the experimental use of large-volume waterboard-
+ing on detainees in US custody, little scientific information was apparently available to OMS to develop parameters for the application of this technique. The OMS guidelines state:
+A rigid guide to the medically approved use of the waterboard in essentially healthy individuals is not possible, as safety will depend on how the water is ap -
+plied and the specific response each time it is used. The following general guidelines are based on very limited knowledge, drawn from very few subjects whose experi -
+ence and response was quite varied.
+18
+OMS health professionals were directed by their superi-
+ors at CIA to collect information on, and apply their find-ings to the application of waterboarding. That knowledge appears explicitly intended to be used to “best inform future medical judgments,” or to develop generalizable knowl-edge about new procedures for applying the technique of waterboarding. 
+The Use of Saline as Part of Waterboarding
+According to the Bradbury memoranda (see page 12, 
+this paper), OMS teams, based on their observation of detainee responses to waterboarding, replaced water in the waterboarding procedure with saline solution ostensibly to reduce the detainees’ risk of contracting pneumonia and/
+16. Ibid.
+17. Memorandum from Steven G. Bradbury, Principal Deputy Assistant 
+Attorney General, for John A. Rizzo, Senior Deputy General Counsel, 
+Central Intelligence Agency (10 May 2005): 14. Web. 11 Mar. 2010 <http://
+luxmedia.vo.llnwd.net/o10/clients/aclu/olc_05102005_bradbury46pg.pdf>.
+18. Central Intelligence Agency, Office of Inspector General.  
+Counterterrorism Detention and Interrogations, Special Review. Central Intelligence Agency (2004): Appendix F, 9. Web. 11 Mar. 2010. 
+<http://
+www.gwu.edu/~nsarchiv/torture_archive/20040507.pdf>.or hyponatremia, a condition of low sodium levels in the 
+blood caused by free water intoxication, which can lead to brain edema and herniation, coma, and death.
+19 Bradbury 
+stated that, “based on advice of medical personnel, the CIA requires that saline solution be used instead of plain water to reduce the possibility of hyponatremia (i.e., reduced concentration of sodium in the blood) if the detainee drinks the water.”
+20
+Prior to the procedures for waterboarding described in 
+these memoranda, the experience with waterboarding was limited to resricted applications of waterboarding in SERE training. The use of saline in the CIA’s application of wa-terboarding, as a response to potential medical conditions induced by uncontrolled ingestion of large volumes of water, contrasts with the application of the waterboarding technique in SERE training. Pouring saline into the detainee instead of water would be medically necessary only if the tactic were being used repeatedly on a subject, which was not done to participants in the SERE project. In the case of one CIA detainee, Khalid Sheik Mohammed, the technique was used at least 183 times.
+21 Under the SERE program’s 
+guidelines (established under an IRB regime and imple -
+mented with the informed consent of the military trainees who participated in it), the waterboard technique employed water, not saline, and was used on trainees only once:
+WATERBOARD: Subject is interrogated while strapped to a wooden board, approximately 4’x7’. Often the sub-ject’s feet are elevated after being strapped down and hav-ing their torso stripped. Up to 1.5 gallons of water is slow-ly poured directly onto the subject’s face from a height of 12-24 inches. In some cases, a wet cloth is placed over the subject’s face. It will remain in place for a short period of time. Trained supervisory and medial [sic] staff monitors the subject’s physical condition… However, no student will have water applied a second time.
+22
+“Waterboarding 2.0”
+Changes to the waterboarding technique described above 
+resulted in a set of procedures and protocols that differs markedly from those used in the SERE training program. The differences between the CIA’s eventual application of waterboarding and that of the SERE program indicate that CIA medical personnel helped modify the SERE version of 
+19. Medline Plus. “Hyponatremia.” U.S. National Library of Medicine and 
+National Institutes of Health, 6 Nov. 2009. Web. 11 March 2010 <http://
+www.nlm.nih.gov/medlineplus/ency/article/000394.htm>.  
+20. Memorandum from Steven G. Bradbury, Principal Deputy Assistant 
+Attorney General, for John A. Rizzo, Senior Deputy General Counsel, 
+Central Intelligence Agency (10 May 2005): 13. Web. 11 Mar. 2010 <http://
+luxmedia.vo.llnwd.net/o10/clients/aclu/olc_05102005_bradbury46pg.pdf>. 
+21. Memorandum from Steven G. Bradbury, Principal Deputy Assistant 
+Attorney General, for John A. Rizzo, Senior Deputy General Counsel, Central Intelligence Agency (30 May 2005): 37. Web. 12 Mar. 2010 
+<http://
+luxmedia.vo.llnwd.net/o10/clients/aclu/olc_05302005_bradbury.pdf> .
+22. United States. Cong. Senate. Committee on Armed Services. Hearing, 
+The Treatment of Detainees in U.S. Custody. 110th Cong., 2nd Sess. Washington: GPO, 2008: Annex A, 209. Web. 11 Mar. 2010
+ <http://www.
+fas.org/irp/congress/2008_hr/treatment.pdf>.Evidence of Human Subject Research and Experimentation in the “Enhanced” Interrogation Program         9the technique.23 “Waterboarding 2.0” was the product of the 
+CIA’s developing and field-testing an intentionally harmful 
+practice using systematic medical monitoring and the appli -
+cation of subsequent generalizable knowledge. 
+In addition to introducing the use of potable saline to the 
+CIA’s use of waterboarding, OMS supervised the introduc -
+tion of other specific medical equipment and procedures for waterboarding. These included a “specially designed” gur -
+ney to move the detainee upright quickly in case of choking, the use of a blood oximeter to measure detainee vital signs, placing detainees on a liquid diet so their emesis would be soft and less likely to cause choking or aspiration pneumo-nia if the detainee were to vomit, and having a tracheotomy kit “not visible to the detainee” present in case a detainee’s airway had to be surgically opened in order to prevent drowning.
+24 
+Without evidence of a procedurally appropriate amend -
+ment to the SERE IRB process, the series of changes to the waterboarding technique implemented by CIA person-nel cannot scientifically or legally be considered merely an extension of previous SERE IRB approvals. Importantly, SERE research on the effect of the tactics on humans was done with the subjects’ signed consent. OMS personnel were likely performing this particular experiment without informed consent because they were engaging in purposeful torture of the subject. Even with some form of IRB approval, this research and subsequent modification of waterboarding or any other torture technique would still represent a serious violation of medical ethics and international human rights law because of the nature of the two acts being carried out — research on a prisoner and the infliction of torture. 
+Researching the “Susceptibility” of 
+Detainees to Severe Pain
+In the second and third instances indicating human 
+experimentation presented here, the evidence also suggests  
+that the collection of medical information was acquired and applied to inform subsequent EI practices. In the second instance, health professionals analyzed data based on observations of 25 detainees who were subjected to individual and combined applications of the EITs. They derived generalizable knowledge about whether one type of application over another would increase the subjects’ susceptibility to severe pain.
+This investigation had no direct clinical health care ap-
+plication, nor was it in the detainees’ personal interest nor 
+23. Physicians for Human Rights. Aiding Torture: Health Professionals’ 
+Ethics and Human Rights Violations Revealed in the May 2004 CIA 
+Inspector General’ s Report. Cambridge: Physicians for Human Rights (2009). Web. 15 Mar. 2010 
+<http://physiciansforhumanrights.org/library/
+documents/reports/aiding-torture.pdf>.
+24. Memorandum from Steven G. Bradbury, Principal Deputy Assistant 
+Attorney General, for John A. Rizzo, Senior Deputy General Counsel, Central Intelligence Agency (10 May 2005): 14. Web. 11 Mar. 2010 
+<http://
+luxmedia.vo.llnwd.net/o10/clients/aclu/olc_05102005_bradbury46pg.pdf>.part of their medical management. It appears to have been 
+used primarily to enable the Bush administration to assess the legality of the tactics, and to inform medical monitor -
+ing policy and procedure for future application of the tech -
+niques. While the actual findings and/or observational data are not publicly available and may not even exist, it is clear that the authorized policy of using multiple EITs simulta -
+neously was officially based on medical observations of 25 detainees. 
+This evidence of research on detainees is documented in 
+the 2005 OLC memo (known as the “combined techniques” memo) from Bradbury to Rizzo. In the following excerpt, Bradbury references OMS observations of 25 detainees sub-jected to the tactics to argue that the use of the EITs in com-bination, rather than individually, would not likely make detainees more susceptible to pain:
+25
+But as we understand the experience involving the combination of various techniques, the OMS medical and psychological personnel have not observed any such increase in susceptibility. Other than the waterboard, the specific techniques under consideration in this memorandum – including sleep deprivation – have been applied to more than 25 detainees. See [redacted] Fax 
+at 1-3. No apparent increase in susceptibility to severe pain has been observed either when techniques are used sequentially or when they are used simultaneously – for example, when an insult slap is simultaneously com -
+bined with water dousing or a kneeling stress position, or when wall standing is simultaneously combined with an abdominal slap and water dousing. Nor does experience show that, even apart from changes in sus -
+ceptibility to pain, combinations of these techniques cause the techniques to operate differently so as to cause severe pain. OMS doctors and psychologists, moreover, confirm that they expect that the techniques, when com -
+bined as described in the Background Paper and in the 
+April 22 [redacted] Fax , would not operate in a different 
+manner from the way they do individually, so as to cause severe pain.
+26
+The relationship between the collection of medical 
+knowledge on 25 detainees and the justification of the of-ficial practice of simultaneous application of multiple EITs is stated explicitly in the Bradbury memo on the combined techniques. It is unclear whether the data referenced in the memo were collected specifically for the purpose of deter -
+mining the “susceptibility” to severe pain caused by com-bined application of the techniques, or whether they were analyzed after being generally collected as part of standard OMS monitoring policy. Regardless, the data and the con-clusions drawn from it were utilized to justify the applica -
+tion of simultaneous and combined “enhanced” techniques. 
+25. The validity of such conclusions are questionable given major 
+limitations associated with the outcome measures described in the study.
+26. Memorandum from Steven G. Bradbury, Principal Deputy Assistant 
+Attorney General, for John A. Rizzo, Senior Deputy General Counsel, Central Intelligence Agency (10 May 2005): 12. Web. 11 Mar. 2010 
+<http://i.cdn.turner.com/cnn/2009/images/05/22/bradbury3.pdf>.10  Experiments in TortureResearching the Effects of Sleep 
+Deprivation on Detainees
+The specific process of data analysis of varied applications 
+of sleep deprivation, and the identities of those who per -
+formed it, are not currently evident from public documents. 
+It is clear, however, that the application of this particular course of monitoring and assessment demonstrates that US government lawyers used such observational data collected by health professionals from varying applications of sleep deprivation to inform legal evaluations regarding the risk of inflicting certain levels of harm on the detainee, and to shape policy that would guide further application of the technique on other detainees:
+27 
+You have informed us that to date, more than a dozen de -
+tainees have been subjected to sleep deprivation of more than 48 hours, and three detainees have been subjected to sleep deprivation of more than 96 hours; the longest period of time for which any detainee has been deprived of sleep by the CIA is 180 hours. Under the CIA’s guidelines, sleep deprivation could be resumed after a period of eight hours of uninterrupted sleep, but only if OMS personnel specifically determined that there are no medical or psychological contraindications based on the detainee’s condition at that time. As discussed below, however, in this memorandum we will evaluate only one application of up to 180 hours of sleep deprivation.
+28
+Apparent Purposes for 
+Human Research and Experimentation on Detainees
+While Physicians for Human Rights does not yet know 
+the motives of the various actors involved in initiating and 
+reviewing what appears to be human experimentation on detainees, including health professionals, interrogators, CIA officials, and administration lawyers, it appears that the pro-gram served at least three distinct purposes. 
+27. Memorandum from Steven G. Bradbury, Principal Deputy Assistant 
+Attorney General, for John A. Rizzo, Senior Deputy General Counsel, Central 
+Intelligence Agency (10 May 2005): FN 36. 30. 
+“To assist in monitoring experience with the detainees, we understand that there is regular reporting on medical and psychological experience with the use of these techniques on detainees and that there are special instructions on documenting experience with sleep deprivation and the waterboard. See OMS Guidelines at 6-7, 16, 20.”
+Web. 01 Jun. 2010 
+<http://luxmedia.vo.llnwd.net/o10/clients/aclu/
+olc_05102005_bradbury46pg.pdf>.
+28.  Ibid.Limited Practical Scientific Knowledge 
+on How to Deploy EITs
+The first purpose of experimentation was to determine 
+how EITs should be deployed. Because the EITs had pre-
+viously been considered torture, there was little scientific evidence prior to Sept. 11, 2001, to guide the deployment of these techniques on detainees. Questions about their impact and effectiveness were arising as the program proceeded. Before the initiation of the EIP, which occurred simultane -
+ously with a finding by the Bush administration that the Geneva Conventions did not apply to Taliban and Al Qaeda prisoners, experience with the techniques was limited to studies in two settings: repatriated US prisoners of war who had been subjected to torture, and the restricted environment of US military survival-training courses, in which members of the military and intelligence community participated only after providing signed consent. While there is a rich litera -
+ture regarding the harmful effects of these techniques,
+29 that 
+literature appears to have been ignored by the authors of the legal memos. At the same time, health professionals in OMS appear to have accepted the unachievable assignment of de-signing torture-based interrogation techniques that were both “safe” and “effective.”
+30 
+Calibrating Levels of Pain and 
+Suffering in Accordance with  
+the OLC Memos
+A second purpose of collecting generalizable medical in-
+formation appears to have been an attempt to calibrate the 
+level of pain caused by the techniques in an effort to keep the pain from crossing the threshold they had defined as constituting torture. The research information gathered was used by government lawyers to create a basis for defending interrogators against potential charges of violating US anti-torture law.
+31 OLC lawyers’ attempted inoculation of inter -
+rogators against torture charges depended upon an interpre -
+tation of the US anti-torture statute that permitted the use of techniques previously deemed to be illegal. 
+The OLC interpretation defined torture as an act causing 
+“long-term” mental harm or physical “pain and suffering” equal to the pain and suffering inflicted by either organ failure 
+29. The following publication summarizes the medical literature on the 
+effects of torture, available prior to Sept. 11, 2001. Leave No Marks: 
+Enhanced Interrogation Techniques and the Risk of Criminality: Executive Summary. Cambridge: Physicians for Human Rights, 2007. 01 Jun. 2010. 
+<http://physiciansforhumanrights.org/library/documents/reports/2007-phr-hrf-summary.pdf >.
+30. Shane, Scott. “China Inspired Interrogations at Guantánamo.” New 
+York Times. New York Times, 2 Jul. 2008. Web. 21 Apr. 2010 <http://www.
+nytimes.com/2008/07/02/us/02detain.html?_r=2>.
+31. 18 U.S.C. §§ 2340-2340A (2001). Evidence of Human Subject Research and Experimentation in the “Enhanced” Interrogation Program         11or death.32 In particular, the authors of the OLC memos 
+argued that the “enhanced” techniques would not constitute 
+torture as long as they were applied in a manner that was “safe.” In a legal context, concepts of “pain,” “suffering,” and “safety” are questions of fact that relate to the experiences of the individual interrogators and people being interrogated. The OLC memo authors argued that if medical professionals approved the interrogations and monitored the application of the “enhanced” techniques, the abusive acts would not constitute torture.
+33
+Under the legal framework established by the OLC legal 
+memoranda, health professionals thus became responsible for ensuring that the authorized tactics did not inflict a level of “severe and long-lasting” mental and physical pain and suffering that ostensibly, under the lawyers’ rationale, could be considered “torture.” In order to measure the harm in-flicted by the tactics, health professionals were required to collect medical information and make inferences from it that constituted generalized knowledge: i.e., to engage in human subject research and experimentation. 
+Providing a Basis for a “Good Faith” 
+Legal Defense against Torture Charges
+A third purpose for such experimentation appears to have 
+been to create a basis for legal defenses for individuals en-
+gaging in acts that arguably constituted torture. In a circular application of science to law, and in violation of the ethical principles of both professions, experimentation relating to the EITs apparently was used by Bush administration law-yers in an effort to protect US personnel engaged in the EIP from potential legal liability for their acts. OLC lawyers argued that efforts to refine and improve the application of techniques would provide a potential “good faith” defense for interrogators against charges of torture.
+34 They argued 
+that such a medical monitoring regime would remove the element of intent to cause harm from the act, which is a nec-essary requirement for a successful prosecution of a torture charge under US law, and that “a good faith belief need not be a reasonable belief; it need only be an honest belief.”
+35
+Thus, research on the detainees became a key part of the 
+OLC’s legal strategy to demonstrate the lack of intent to commit torture. The following section from a 2003 memo 
+32. Memorandum from John C. Yoo, Deputy Assistant Attorney General 
+for William J. Haynes II, General Counsel of the Dept. of Defense (14 Mar. 
+2003): 45. Web. 16 Mar. 2010  <http://www.aclu.org/files/pdfs/safefree/
+yoo_army_torture_memo.pdf>.  
+“In a remarkably circular argument, the OLC lawyers argued that it was not torture if it was safe. The medical professionals, it seemed, said it was safe as long as the lawyers assured them it wasn’t torture. The illusion of safety was based on an exaggerated claim of expertise regarding the effects of these techniques, as described later in this report.”
+33. Memorandum from Scott W. Muller, Office of General Counsel, 
+Central Intelligence Agency for Jack L. Goldsmith III, Assistant Attorney General, Office of Legal Counsel, Dept. of Justice (2 Mar. 2004): 7. Web. 16 Mar. 2010 
+<http://www.aclu.org/files/torturefoia/released/082409/
+olcremand/2004olc22.pdf> [Hereinafter referred to as “CIA Bullet Points.”]
+34. CIA Bullet Points, supra note 12, at 7. 
+35. Ibid.written by then Deputy Assistant Attorney General John Yoo 
+refers specifically to prolonged mental harm:
+A defendant could show that he acted in good faith by taking such steps as surveying professional literature, consulting with experts, or reviewing evidence gained 
+from past experience.  See, e.g., Ratzlaf, 510 U.S. at 
+142 n.10 (noting that where the statute required that the defendant act with the specific intent to violate the law, the specific intent element “might be negated by, e.g., 
+proof that defendant relied in good faith on advice of counsel.”)... All of these steps would show that he has 
+drawn on the relevant body of knowledge concerning the result proscribed by the statute, namely prolonged mental harm.
+36 [Emphasis added]
+A 2008 DoJ Office of Professional Responsibility (OPR) 
+report evaluating allegations of professional misconduct by OLC lawyers Yoo and Jay Bybee
+37 details how pivotal this 
+medical supervision was considered to be in circumventing the “intent” language in the US torture statute.  The report 
+says that then Assistant Attorney General for the Criminal Division Michael Chertoff told Yoo in 2002 that: 
+…the more investigation into the physical and mental consequences of the techniques they did, the more likely it would be that an interrogator could successfully assert that he acted in good faith and did not intend to inflict severe physical or mental pain or suffering.
+38 
+Operational Implementation of OLC Guidance  
+by the CIA
+Documenting and understanding the effects of the tech -
+niques as part of mounting a “good faith” defense against 
+torture charges affected how the CIA subsequently imple -
+mented the guidance provided by the OLC into a research program. A document entitled “Legal Principles Applicable to CIA Detention and Interrogation of Captured Al-Qa’ida Personnel,” referred to hereafter as the CIA “Bullet Points,” was prepared in 2003 by the CIA’s general counsel, Scott  
+Muller.
+39 
+36.  Memorandum from John C. Yoo, Deputy Assistant Attorney General 
+for William J. Haynes II, General Counsel of the Dept. of Defense (14 Mar. 
+2003): 41. Web. 16 Mar. 2010 <http://www.aclu.org/files/pdfs/safefree/
+yoo_army_torture_memo.pdf> (bolding and italics added).
+37.  The 2008 DoJ OPR Report was the result of OPR’s investigation of 
+the OLC’s legal memoranda concerning the use of “enhanced interrogation techniques” on suspected terrorists by the CIA. The initial report concluded that the drafters of the first OLC memos (Bybee and Yoo) failed to act under standards of DoJ professional conduct, inter alia, but this conclusion was not accepted by other DoJ officials. 38.  United States. Dept. of Justice. Office of Professional Responsibility. 
+Investigation into the Office of Legal Counsel’s Memoranda on Issues Relating to the Central Intelligence Agency’s Use of “Enhanced Interrogation Techniques” on Suspected Terrorists. Dept. of Justice, 29 July 2009: 59. Web. 15 Mar. 2010 
+<http://judiciary.house.gov/hearings/pdf/
+OPRFinalReport090729.pdf>.  
+39. The CIA Bullet Points were written, according to the OPR, with the 
+assistance of both CTC (CIA-Counter-Terrorism Center) staff and the OLC for use by the CIA-OIG in its inquiry of CIA treatment of detainees. Ibid. at 100-101.  12  Experiments in TortureOne of the Bullet Points states:
+The interrogation of al-Qa’ida detainees does not con -
+stitute torture within the meaning of [the torture statute] 
+where the interrogators do not have the specific intent to cause “severe physical or mental pain or suffering.” The 
+absence of specific intent (i.e., good faith) can be estab -
+lished through, among other things, evidence of efforts to review relevant professional literature, consulting with experts, reviewing evidence gained from past experience where available (including experience gained in the course of U.S. interrogations of detainees), providing medical and psychological assessments of a detainee (including the ability of the detainee to withstand inter -
+rogation without experiencing severe physical or mental pain or suffering), providing medical and psychological personnel on site during the conduct of interrogations, or conducting legal and policy reviews of the interroga -
+tion process (such as the review of reports from the inter -
+rogation facilities and visits to those locations). A good faith belief need not be a reasonable belief; it need only be an honest belief.
+40 [Emphasis added.] 
+The Bullet Points demonstrate that documentation and 
+review of the impact of the tactics on the detainees was cen-tral to the CIA program — not for ensuring the well-being or medical treatment of the detainee, but for displaying “good faith” as an inoculation for the agency against potential pros-ecution for torture.
+The Bradbury “Combined Techniques” Memo 
+Relied on Research Data from Detainees
+The Bullet Points, based upon Yoo’s March 14, 2003, 
+memo, were rescinded by the OLC in 2004.41 The Yoo memo 
+was withdrawn the same year. Even after these initial memo -
+randa authorizing torture were rescinded, health profession-
+als continued to document the impact of the tactics and the new knowledge obtained to refine the application of the EITs.  
+A memorandum from Bradbury to the CIA dated May 10, 2005 (known as “the Combined Techniques Memo”), like the OLC memoranda that preceded it, explicitly relied on “medical screening, monitoring, and ongoing evaluations” as a means of supposedly preventing “serious or lasting physi-cal or psychological harm.”
+42 
+Bradbury’s 2005 opinion was apparently based on infor -
+mation collected by the OMS monitoring and research pro-
+gram that the Yoo memo had called for to inoculate interro -
+gators against torture charges. At that point, OMS had been 
+40. CIA Bullet Points, supra note 33, at 7 (bolding and italics added).
+41. United States. Dept. of Justice. Office of Professional Responsibility. 
+Investigation into the Office of Legal Counsel’s Memoranda on Issues 
+Relating to the Central Intelligence Agency’s Use of “Enhanced Interrogation Techniques” on Suspected Terrorists. Dept. of Justice, 29 July 2009: 116. Web. 15 Mar. 2010 
+<http://judiciary.house.gov/hearings/pdf/
+OPRFinalReport090729.pdf>.  
+42. Memorandum from Steven G. Bradbury, Principal Deputy Assistant 
+Attorney General for John A. Rizzo, Senior Deputy General Counsel, Central Intelligence Agency (30 May 2005): 3. Web. 12 Mar. 2010 
+<http://luxmedia.
+vo.llnwd.net/o10/clients/aclu/olc_05302005_bradbury.pdf>.monitoring the EIT program for more than two years.43 Yoo 
+and Bybee appeared to have relied only on the limited SERE 
+research available to them when they wrote their opinions, as well as input from selected experts on the effects of the techniques. The Bradbury memo,
+44 however, demonstrates 
+that the OMS had closely followed the guidance of the CIA Bullet Points. OMS personnel collected “evidence gained from past experience where available (including experience gained in the course of U.S. interrogations of detainees),” performed medical and psychological assessments, includ -
+ing assessing a detainee’s ostensible ability to withstand the techniques without incurring severe mental pain or suffering, and methodically amassed other, tactic-specific information from human subjects.
+45 The outcomes were used not only 
+to monitor stress levels in individual detainees undergoing “enhanced” interrogation but also apparently to perform re-search with the goal of calibrating interrogation techniques in the interest of achieving maximum effect with detainees in the future. In short, the OMS had conducted a program of human subject research.
+46
+The OLC lawyers apparently, therefore, used human ex-
+perimentation both as a justification for torture and as a way of mitigating legal liability for torture. But in attempting to legitimize the crime of torture, the lawyers left those who authorized and performed the research open to the charge of illegal human experimentation. Even if medical monitoring was dutifully applied for the intended purpose of mitigating the infliction of severe physical and psychological harm, the medical monitoring itself, because it generated research that was applied to future application of the techniques and as part of efforts to mitigate legal liability, could be considered a major breach of professional medical ethics, and could constitute a crime. 
+Despite the apparent scrupulousness with which OLC 
+lawyers approached the issue of the legality of the harsh in-terrogation techniques, as of 2005, the OLC appears never to have directly assessed the legality of the monitoring and research regime itself. If such guidance exists, it has not yet been publicly disclosed.  
+43. Central Intelligence Agency, Office of Inspector 
+General. Counterterrorism Detention and Interrogations, Special Review. 
+Central Intelligence Agency (2004): 4. Web. 11 Mar. 2010. <http://www.gwu.
+edu/~nsarchiv/torture_archive/20040507.pdf>.
+44 Memorandum from Steven G. Bradbury, Principal Deputy Assistant 
+Attorney General for John A. Rizzo, Senior Deputy General Counsel, Central Intelligence Agency (10 May 2005). Web. 11 Mar. 2010 
+<http://i.cdn.turner.
+com/cnn/2009/images/05/22/bradbury3.pdf>.
+45. CIA Bullet Points, supra note 33, at 7.
+46. 45 C.F.R. § 46.102(d) (2005); see also Standards for Privacy of 
+Individually Identifiable Health Information, 65 Fed. Reg. 82,462, 82,497 (28 Dec. 2000).Evidence of Human Subject Research and Experimentation in the “Enhanced” Interrogation Program         13Human Experimentation 
+and Human Subject Protections 
+The Bush administration’s legal framework to protect 
+CIA interrogators from violating US statutory and treaty 
+obligations prohibiting torture47 effectively contravened 
+well-established legal and ethical codes that, had they been enforced, should have protected prisoners against human experimentation, and should have prevented the EIP itself from being initiated in the first place. This strategy therefore may have effectively employed one criminal act to protect against liability for another, as illegal and non-consensual human experimentation can constitute a war crime
+48 and a 
+crime against humanity,49 when its perpetration is systematic 
+and widespread.50 
+The Nuremberg Code
+International and US prohibitions restricting human 
+experimentation were developed in response to some of the most serious human rights violations of the 20th cen-tury. Following the trials of German health professionals at Nuremberg after World War II, international attention was focused on the practice of human experimentation inflicted upon vulnerable human subjects. The fundamental right of individuals to choose not to be subjected to human experi -
+mentation was first codified in the form of the Nuremberg Code—a direct response to atrocities that took place during the war. Among other protections, the Nuremberg Code states that the voluntary informed consent of the human subject in any experiment is absolutely essential, and that volunteer subjects should always be at liberty to end their participation in the experiment. In addition, the Nuremberg Code states that any experiment should be conducted so as to avoid all unnecessary physical and mental suffering and injury. 
+Implementation of the Nuremberg Code was neither im-
+mediate nor consistent. Despite the experiences of World War II, human experimentation on vulnerable populations without the participants’ consent continued in the United States into the second half of the 20th century. One of the most egregious examples was the Tuskegee syphilis ex-periment, in which poor African-American men in the South were denied treatment for syphilis so that researchers could study the natural progression of the untreated disease. 
+47. 18 U.S.C. §§ 2340-2340A (2001).
+48. 18 U.S.C. § 2441 (2006).
+49. Harris, Sheldon H. “Medical Experiments on POWs.” Crimes Of War: 
+¶9. Web. 11 Apr. 2010 <http://www.crimesofwar.org/thebook/medical-
+experiments.html>.
+50. Annas, George J. “Globalized Clinical Trials and Informed Consent.” 
+The New England Journal of Medicine 360.20 (2009): 2052. Web. 16 Mar. 
+2010. <http://content.nejm.org/cgi/content/full/360/20/2050>. The National Commission
+In the wake of public outrage surrounding these non-
+consensual experiments, the US Congress created the 
+National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research (National Commission), a group of leading experts in medicine, law, and ethics, charged with developing guidelines on human subject research based on ethical principles. The National Commission made its recommendations in the Belmont Report, establishing “respect, beneficence and justice” as principles guiding the ethical conduct of research, includ -
+ing the right of informed consent.
+51 The Belmont Report 
+established the concept that the ethical conduct of research required that volunteer subjects be informed about the risks and benefits, if any, that might accrue to them before they gave their consent. Additional protections were established for vulnerable populations, such as prisoners, whose ability to give truly informed consent may be problematic.
+As further protection for human subjects, the National 
+Commission called for establishment of institutional review boards within medical and scientific organizations. These bodies comprise combinations of researchers, ethics experts, and laypeople that oversee study design based upon ethical principles. 
+The Common Rule
+These human subject protections became codified in fed-
+eral regulations,52 as well as in codes of professional conduct. 
+Collectively, these regulations are known as the Common Rule. The Common Rule applies to all federally funded hu-man subject experimentation, including all research conduct -
+ed by the CIA and the DoD.
+53 
+By the end of the 20th century, therefore, all people who 
+were subject to US experimentation were protected by three interconnected bodies of law: customary international law, US federal statute, and federal regulations — specifically, the Common Rule. Although the Nuremberg Code is a code of conduct and not, by its terms, a treaty binding explicitly named parties, in the decades following the 1947 articula -
+tion of Nuremberg, prohibitions against human experimenta -
+tion without the informed consent of the volunteer subjects have been deemed by international legal scholars to be part of “customary international law.” This makes human 
+51.  See generally United States. National Commission for the Protection 
+of Human Subjects of Biomedical and Behavioral Research. The Belmont 
+Report: Ethical Principles and Guidelines for the Protection of Human Subjects of Research. Department of Health, Education, and Welfare, 18 Apr. 1979. Web. 27 Apr. 2010 
+<http://www.hhs.gov/ohrp/humansubjects/
+guidance/belmont.htm>.
+52.  45 C.F.R. §§ 46.101-46.124 (2005).
+53.  Strengthened Protections for Human Subjects of Classified Research, 62 
+Fed. Reg. 26,369 (27 Mar. 1997). Web. 21 Apr. 2010 <http://www.fas.org/
+sgp/clinton/humexp.html>.14  Experiments in Tortureexperimentation without the informed consent of volunteer 
+subjects one of a small number of acts (including genocide and torture) that are so heinous that they are universally consid-ered to be crimes against humanity. 
+Legal and Ethical Standards Violated 
+Following Sept. 11, 2001
+Under the existing system of human research protections, 
+experimentation on detainees in US custody was not permit -
+ted. If CIA personnel had followed the Common Rule, pro-
+spective review by an IRB would have protected the rights and welfare of the targeted detainee subjects by forbidding the proposed research on legal, ethical, scientific, and moral grounds. Other violations may include: 
+Violation of the Geneva Conventions:* 
+The four Geneva Conventions, treaties completed in 1949, 
+and to which the United States traditionally has adhered, as well as their additional protocols, form the core elements of the law of armed combat. On February 7, 2002, President Bush issued an executive order finding that “Taliban detain -
+ees are unlawful combatants and, therefore, do not qualify as prisoners of war under Article 4 of Geneva.” While this conclusion is generally viewed as legally accurate given the Third Geneva Convention’s narrow definition of POWs, the executive order went on to state that “Geneva does not apply to our conflict with al-Qaida . . . .”
+54 
+As the Supreme Court determined in Hamdan v. 
+Rumsfeld,55 this assessment is incorrect: Whereas Taliban 
+and al-Qaida prisoners did not have all the specific POW protections provided under the Third Geneva Convention, Common Article 3 provisions did continue to apply.
+56 
+Common Article 3 is a provision common to all four 
+Geneva Conventions. Among other things, it proscribes “cruel treatment and torture” and “humiliating and degrad-ing treatment.” The appropriate enforcement of Common Article 3 would have precluded any human subject research and experimentation on detainees unrelated to their hospital treatment or their medical interest.
+57 Beyond the applicability 
+54. “In a February 2002 memorandum, President Bush issued a formal 
+decision that Common Article Three did not apply to the armed conflict 
+with Al Qaeda.” United States. Dept. of Justice. Office of Professional Responsibility. Investigation into the Office of Legal Counsel’s Memoranda on Issues Relating to the Central Intelligence Agency’s Use of “Enhanced Interrogation Techniques” on Suspected Terrorists. Dept. of Justice, 29 July 2009: 26. Web. 15 Mar. 2010 
+<http://judiciary.house.gov/hearings/pdf/
+OPRFinalReport090729.pdf>.  
+55. Hamdan v. Rumsfeld, 548 U.S. 557 (2006).
+56. Id. at 562. 
+57. See Geneva Convention for the Amelioration of the Condition of the 
+Wounded and Sick in Armed Forces in the Field art. 3, 12 Aug. 1949, 6 U.S.T. 3114, 75 U.N.T.S. 31; Geneva Convention for the Amelioration of the Condition of Wounded, Sick and Shipwrecked Members of Armed Forces at Sea art. 3, 12 Aug. 1949, 6 U.S.T. 3217, 75 U.N.T.S. 85; Geneva Convention Relative to the Protection of Civilian Persons in Time of War art. 3, 12 Aug. 1949, 6 U.S.T. 3516, 75 U.N.T.S. 287; Geneva Convention Relative to the Treatment of Prisoners of War art. 3, 12 Aug. 1949, 6 U.S.T. 3316, 75 U.N.T.S. 135.of Common Article 3 it has not been clearly determined what 
+other provisions of the Geneva Conventions apply to detain -
+ees deemed “unlawful combatants,” yet it is important to note that all four Geneva Conventions explicitly state that “biological experiments” are grave breaches of the respective conventions — and apply to all detainees, whether POWs or otherwise.
+58 
+Contravention of the Nuremberg Code:* 
+As discussed above, well prior to Sept. 11, 2001, there 
+was widespread international consensus that the Nuremberg Code prohibiting human subject experimentation without consent had become customary international law binding upon all countries. In 2003, however, a CIA legal interpre -
+tation indicated that the US government’s position was that “customary international law imposes no obligations regard-ing the treatment of al-Qaida detainees beyond that which the Convention [Against Torture], as interpreted and understood by the United States in its reservations, understandings, and declarations, imposes.”
+59 It is not clear whether those con-
+ducting the US experimentation program believed that they were not bound by the Nuremberg Code, or simply ignored its requirements. In any case, the experimental regime clearly violated the code as well as applicable US laws and regula -
+tions that remained in place. 
+Disregarding and Amending the US War Crimes Act:* 
+Enacted by a Republican Congress in 1996, the Jones War 
+Crimes Act for the first time imposed US criminal penalties for “grave breaches” of any of the Geneva Conventions. In 1997, the legislation was expanded, at the request of the Departments of State and Defense, to encompass a broader range of war crimes, including violations of Common Article 3. As previously noted, all four Geneva Conventions list “biological experiments” as grave breaches, which may have created liability for human experimentation on detainees even under the original act. Once Common Article 3 was in-cluded as a war crime in the amended WCA, its prohibitions on “cruel treatment and torture” and “degrading treatment” would likely create criminal liability for experimentation on detainees. Due to the Bush administration’s erroneous con-clusion that it could detain “war on terror” prisoners outside of Geneva protections, it appears to have concluded before 2006 that interrogators were not liable to criminal prosecu-tion under the War Crimes Act.
+60 
+Subsequent to the program of experimentation discussed 
+in this report, changes were made to the War Crimes Act 
+58. Geneva Convention for the Amelioration of the Condition of the 
+Wounded and Sick in Armed Forces in the Field art. 50(4), 12 Aug. 1949, 6 
+U.S.T. 3114, 75 U.N.T.S. 31; Geneva Convention for the Amelioration of the Condition of Wounded, Sick and Shipwrecked Members of Armed Forces at Sea art. 51(D), 12 Aug. 1949, 6 U.S.T. 3217, 75 U.N.T.S. 85; Geneva Convention Relative to the Protection of Civilian Persons in Time of War art. 130(D), 12 Aug. 1949, 6 U.S.T. 3516, 75 U.N.T.S. 287; Geneva Convention Relative to the Treatment of Prisoners of War art. 147(1), 12 Aug. 1949, 6 U.S.T. 3316, 75 U.N.T.S. 135.59. Bullet Points, supra note 33, at 6.
+60. Bullet Points, supra note 33, at 7. Evidence of Human Subject Research and Experimentation in the “Enhanced” Interrogation Program         15which, despite occurring after the experimentation, are still 
+relevant to the legality of the program because of their ret-roactivity. Following the Supreme Court’s 2006 Hamdan v. Rumsfeld decision, which clearly established that enemy combatants were protected by Common Article 3, the Bush administration quickly sought again to limit potential legal exposure of its personnel by amending the WCA. The admin -
+istration expressed concerns that it was unclear under the act exactly which forms of detainee treatment or interrogation constituted punishable offenses. As part of the 2006 Military Commissions Act, the WCA was amended to delineate the specific violations of Common Article 3 that would be pun-ishable. Among those violations is “performing biological experiments.” The amended language prohibits: 
+The act of a person who subjects, or conspires or at -
+tempts to subject, one or more persons within his custody or physical control to biological experiments without a legitimate medical or dental purpose and in so doing en -
+dangers the body or health of such person or persons.
+61
+While this language maintains the existing prohibition on 
+biological experiments contained in the previous version of the WCA, the effect of this amendment appears to weaken the prohibition by moving away from the type of strict lan-guage found in the Geneva Conventions (Third Geneva Convention, Article 13), which states: 
+No prisoner of war may be subjected to physical mutila -
+tion or to medical or scientific experiments of any kind which are not justified by the medical, dental, or hospital treatment of the prisoner concerned and carried out in his interest.
+62
+The new language of the WCA added two qualifications 
+that appear to have lowered the bar on biological experimen -
+tation on prisoners. That language requires that the experi -
+ment have a “legitimate” purpose, but does not require that it be carried out in the interest of the subject. It also adds the requirement that the experiment not “endanger” the subject, which appears to raise the threshold for what will be consid-ered illegal biological experimentation. 
+Neither the source of this language change nor the reason 
+for it is clear. It is possible that the language was changed in an attempt to protect those involved in experiments before 2006. Because changes to the WCA were made retroactive to 1997, the new weaker language applied to the EIP discussed in this report, and these provisions became the standard for determining if a grave breach occurred. 
+Another component of the amended WCA that is relevant 
+to the experimentation program provides immunity for mili -
+tary and intelligence officials from criminal prosecution for acts after Sept. 11, 2001, that were part of “authorized inter -
+rogations.” While this language seems directed at those who 
+61. 18 U.S.C. § 2441(d)(1)(C) (2006).
+62. Convention (III) relative to the Treatment of Prisoners of War, Article 13. 
+Geneva, 12 August 1949. Web. 01 Jun 2010. <http://www.icrc.org/ihl.nsf/7c4d
+08d9b287a42141256739003e63bb/6fef854a3517b75ac125641e004a9e68>.may have engaged in torture during interrogations, it would 
+also apply to the grave breach of biological experimentation that is listed as a war crime. 
+Regardless of whether the rationale for legislative amend -
+ments undertaken by the Bush administration is ever fully known, it is important to note that human subject protec -
+tions have not been restored to their previous state. Despite President Obama’s Jan. 22, 2009, executive order barring the use of almost all “enhanced interrogation techniques,” Bush administration revisions to the WCA remain in effect. As long as weakened statutory language exists that may permit experimentation on detainees in US custody, the risk remains that current and future detainees could be subjected to seri-ous violations of human rights.
+Conclusions and 
+Recommendations
+This report identifies evidence of unethical and illegal hu-
+man subject experimentation conducted by US health profes-
+sionals on detainees. Human experimentation, in the form of systematic medical monitoring and subsequent transforma -
+tion of the data obtained into generalizable knowledge, ap-pears to have been used to justify practices previously recog-nized as torture, to inform specific “enhanced” interrogation practices, and to serve as a part of the US government’s legal defense against criminal liability for torture. 
+It is evident from this analysis that the premise and prac-
+tice of what was erroneously claimed to be “safe, legal and effective” torture depended on what appears to be research and experimentation on detainees, which could rise to the level of war crimes and crimes against humanity. This pro-gram engaged in violations of the detainees’ health and hu-man rights that are explicitly prohibited by international hu-man rights agreements to which the United States is party — including the United Nations Conventions Against Torture,
+63 
+the International Covenant on Civil and Political Rights,64 
+and the Universal Declaration of Human Rights.65
+The claim that health professionals served to ensure the safety 
+of the detainees through the systematic monitoring of intentionally 
+63.  Convention Against Torture and Other Cruel, Inhuman, or Degrading 
+Treatment or Punishment. G.A. Res. 39/46. U.N. GAOR. 39th Sess. Supp. No. 
+51. 1984:197. Entered into force June 26, 1987. U.N. Doc. A/Res/39/46. Web. 17 May 2010. 
+<http://www.un.org/documents/ga/res/39/a39r046.htm> . 
+64.  International Covenant on Civil and Political Rights, opened for signature 
+December 16, 1966. Article 7. 999 U.N.T.S. 171. Entered into force March 23, 1976. Web. 17 May 2010. 
+<http://www.un.org/millennium/law/iv-4.htm>. 
+65.  Article 5 of UDHR states: “No one shall be subjected to torture or to 
+cruel, inhuman or degrading treatment or punishment.” Universal Declaration of Human Rights, G.A. res. 217A (III), U.N. Doc A/810, at 71. (1948). Web. 17 May 2010.
+ <http://www.un.org/en/documents/udhr/>. 16  Experiments in Tortureharmful practices is not only inherently contradictory but also a 
+perversion of centuries of health professional ethics.66 
+Those who authorized, designed, implemented, and su-
+pervised this regime of human experimentation — whether health professionals, uniformed personnel, or civilian na-tional security officials — must be held to account if further in-depth investigation confirms that they have violated ethi -
+cal and legal strictures on professional behavior in ways that previously have been found to constitute war crimes and crimes against humanity by international tribunals. 
+Physicians for Human Rights calls on the White House 
+and Congress to investigate thoroughly the full scope of the human experimentation designed and implemented in the post-Sept. 11 period. The War Crimes Act must be amended to restore the previous language protecting detainees from being subjects of experimentation. Any victims of research and experimentation perpetrated as part of the CIA’s “en-hanced” interrogation program who may be found through further investigations must be offered compensation and health care services to address ongoing health effects related to the experimentation, as well as a formal apology by the United States. 
+Recommendations
+Based on the findings of this investigation, the United 
+States should take the following actions:
+President Obama must order the attorney general to 1. 
+undertake an immediate criminal investigation of alleged illegal human experimentation and research on detainees conducted by the CIA and other government agencies following the attacks on Sept. 11, 2001.
+The secretary of the Department of Health and Human 2. 
+Services must instruct the Office for Human Research 
+Protections (OHRP) to begin an investigation of alleged violations of the Common Rule by the CIA and other government agencies as part of the “enhanced” interrogation program.
+Congress must amend the War Crimes Act to eliminate 3. 
+changes made to the Act in 2006 which weaken the 
+prohibition on biological experimentation on detainees,  
+              
+66.  See appendix 2.and ensure that the War Crimes Act definition of the 
+grave breach of biological experimentation is consistent with the definition of that crime under the Geneva Conventions.
+Congress should convene a joint select committee com-4. 
+prising members of the House and Senate committees re-
+sponsible for oversight on intelligence, military, judiciary and health and human services matters to conduct a full investigation of alleged human research and experimen-tation activities on detainees in US custody.
+President Obama should issue an executive order 5. 
+immediately suspending any federally funded human 
+subject research currently occurring in secret — regardless of whether or not it involves detainees.
+The Department of Justice’s Office of Professional 6. 
+Responsibility should commence an investigation into 
+alleged professional misconduct by OLC lawyers related to violations of domestic and international law and regulations governing prohibitions on human subject experimentation and research on detainees.
+President Obama should appoint a presidential task force 7. 
+to restore the integrity of the US regime of protections 
+for human research subjects. This task force, compris-ing current and former officials from the Department of Health and Human Services, the Food and Drug Administration, the National Institutes of Health, the hu-man rights community, and leading health professional associations, should review current human subject pro-tections for detainees, and recommend changes to ensure that the human rights of those in US custody are upheld.
+States should adopt policies specifically prohibiting 8. 
+participation in torture and improper treatment of 
+prisoners by health care professionals. Such participation is considered professional misconduct and is grounds for loss of professional licensure. Proposed legislation in New York State provides a model for such policy. 
+The United Nations special rapporteur on torture should 9. 
+undertake an investigation of allegations that the United 
+States engaged in gross violations of international human rights law by engaging in human subject research and experimentation on detainees in its custody.  Evidence of Human Subject Research and Experimentation in the “Enhanced” Interrogation Program         17Glossary of Abbreviations and Terms
+APA: . .  American Psychological Association
+CIA: . . . Central Intelligence Agency
+CTC: . .  CIA Counter-Terrorism Center 
+DoD: . . Department of Defense
+DoJ: . . . Department of Justice
+EI: . . . .  Enhanced interrogation, the Bush administration’s euphemism for its program of physical  
+and psychological torture
+EIT: . . .  Enhanced interrogation techniques. These include isolation, sensory deprivation,  
+sensory bombardment, stress positions and waterboarding, among many others
+EIP: . . .  Enhanced interrogation program
+Experimentation: . . . To carry out experiments or try out a new procedure, idea, or activity
+HHS: . .  Department of Health and Human Services 
+IRB: . . . Institutional Review Board
+JPRA: . . Joint Personnel Recovery Agency
+MCA: . . 2006 Military Commissions Act
+OGC: . . CIA Office of General Counsel
+OHRP: . HHS Office for Human Research Protections 
+OIG: . . . CIA Office of Inspector General
+OLC: . . DoJ Office of Legal Counsel
+OMS: . . CIA Office of Medical Services
+OPR: . . DoJ Office of Professional Responsibility
+OTS: . .  CIA Office of Technical Services
+SERE: .  “Survival, Evasion, Resistance and Escape.” A survival training program for US soldiers  
+at high risk for capture and torture by enemies. Also the setting for clinical research done  
+on US soldiers with their informed consent
+WCA: . . War Crimes Act18  Experiments in TortureAppendix 1
+The Nature of Experimentation: 
+Health Professional Monitoring of the 
+“Enhanced” Interrogation Program
+The involvement of health professionals in a torture 
+program was clearly illegal prior to the issuance of legal 
+memoranda by the Department of Justice’s Office of Legal Counsel (OLC). It was also unethical by standards of the medical profession. The task of keeping subjects of the “en-hanced” interrogation program “safe” was also illegitimate in that it placed health professionals in the role of calibrating pain and injury in a non-therapeutic act. But, beyond that, a program in which health professionals were tasked with keeping subjects of “enhanced” interrogation safe was by its very nature experimental, in that it was based on untested ideas or techniques not yet established or finalized.
+One example of the lack of prior knowledge and estab-
+lished procedure for the “safe” administration of the so-called “enhanced” interrogation techniques (EITs), in this case waterboarding, is found in the 2004 CIA OIG (Office of Inspector General) Report:
+In retrospect based on the OLC extracts of the OTS (Office of Technical Services) report, OMS (Office of Medical Services) contends that the reported sophistica -
+tion of the preliminary EIT review was exaggerated, at least as it related to the waterboard, and that the power of this EIT was appreciably overstated in the report. Furthermore, OMS contends that the expertise of the SERE (Survival, Evasion, Resistance, Escape) psycholo -
+gist/interrogators on the waterboard was probably mis -
+represented at the time, as the SERE waterboard experi -
+ence is so different from the subsequent Agency usage as to make it almost irrelevant. Consequently, according to OMS, there was no a priori reason to believe that ap -
+plying the waterboard with the frequency and intensity with which it was used by the psychologist/interrogators was either efficacious or medically safe.
+1
+At the time when the program was being designed and 
+approved, there was no established or accepted way to keep an interrogation using EI techniques safe.   Any medical monitoring by a health professional to keep the subject safe was therefore by its very nature experimental.
+The Belmont Report
+2 acknowledged that there is a gray 
+zone in medical certainty between accepted medical prac-tice and experimental practice.  In distinguishing between accepted practice and research, the National Commission 
+1. Central Intelligence Agency, Office of Inspector General.  Counter-
+terrorism Detention and Interrogations, Special Review. Central Intelligence 
+Agency (2004): 22. Web. 11 Mar. 2010. <http://www.gwu.edu/~nsarchiv/
+torture_archive/20040507.pdf>.
+2. See footnote 51, main text.for the Protection of Human Subjects of Biomedical and 
+Behavioral Research examined two factors: 
+the level of risk to the subject, and 1. 
+the intent of the physician.2. 3 
+Schuchardt interprets the Belmont Report as follows:
+The most important difference between “research” and “practice” is the degree of risk each procedure entails.  Research, by its very nature, involves procedures that are new and not well understood. The risk to the human subject is that the procedure will be unnecessarily ap -
+plied, performed in a negligent manner, or cause anoma -
+lous injuries due to the ignorance about the procedure.  Practice, on the other hand, involves therapies that are standard or performed frequently because their risks are known and the procedure is expected to benefit the patient.
+4
+In addressing physician intent as it relates to the distinction between research and practice, Schuchardt comments: 
+Physicians engage in practice when they seek to benefit the patient and patient alone through the best-known treatment.  On the other hand, physicians engage in re -
+search whenever they intend to develop new knowledge through their dealings with the patient.  The intent of the physician is important because it determines whether the physician has a conflict of interest between the patient and the research.
+5
+This conflict is important to note in this context, because 
+the primary goal of health professionals working in US interrogation programs was supporting the interrogation process. Patient care and treatment duties were made a sec-ondary priority to the operational objective of implement -
+ing the techniques in a manner that limited legal liability for torture.  
+In reviewing the proposed use of experimental drugs 
+to protect US troops from biological weapons, Annas and Grodin have argued, however, that it is “the investigational nature of the intervention, not the intent of the physician or researcher, that determines whether or not an intervention is research or therapy,” and they note that “the absence … of effective alternatives does not convert an existing investiga -
+tional intervention into a therapeutic one.”
+6
+The Belmont Report does note that a procedure does 
+3. Boyce, Ross M.  “Waiver of Consent:  The Use of Pyridostigmine Bromide 
+during the Persian Gulf War.”  Journal of Military Ethics 8.1 (2009): 8. Print.
+4. Schuchardt, Elliott J.  Walking a Thin Line: Distinguishing Between 
+Research and Medical Practice during Operation Desert Storm. 26 Colum. J.L. & Soc. Probs. 77 (1992): 6. Print.5. Schuchardt, Elliott J.  Walking a Thin Line: Distinguishing Between 
+Research and Medical Practice during Operation Desert Storm. 26 Colum. J.L. & Soc. Probs. 77 (1992): 6. Print.6. Annas, George J., and Michael A. Grodin. “‘Treating the Troops’: 
+Commentary.”  The Hastings Center Report 21.2 (1991): 25. Print.Evidence of Human Subject Research and Experimentation in the “Enhanced” Interrogation Program         19not automatically qualify as research just because it is 
+experimental. 
+Thus, any program employing health professionals to 
+keep a SERE-based interrogation program safe was not only illegal and unethical, but it was experimental. The CIA’s own Inspector General’s report supports the assertion that OMS personnel did not believe that sufficient information and adequate review had existed at the time the tactics were authorized to support judging them either medically safe or efficacious.  
+Furthermore, simply saying this conduct was illegal 
+and unethical does not fully describe the problem of hav-ing health professionals serve as “safety officers.”  A doctor who robs a bank has done something illegal, in a manner not directly related to his or her professional skills. Similarly, a doctor who accepts sexual favors from a patient in exchange for standard medical care is, among other things, guilty of unethical professional misconduct in a manner that brings harm to the patient and the profession, but in a manner that does not involve misapplication of scientific knowledge.  
+In this case, health professionals were involved in unethi -
+cal experimentation. Doctors here were engaged in activi -
+ties that likely involved the infliction of physical and mental pain and were not following any accepted, established, or proven medical practice. The activities directly involved “bad medicine” and “bad science,” and the doctors were not acting primarily in the patient’s interest, but supporting the interrogators.  
+This argument has not been prominent to this point in the 
+debate over health professional support of the “enhanced” interrogation program.  We believe it is essential to a full understanding of what occurred. Note that we are separating the discussion about whether the “safety officer role” was formal research, from the discussion of whether the role 
+was experimental by virtue of being without sufficient 
+scientific basis or clinical standards.
+It is important to clarify that we do not concede the le-
+gitimacy of the safety officer role on any grounds.  But it must be recognized, however, that it was the key rationale used to justify the involvement of health professionals used by the Bush administration and is still used by the current administration and DoD.The SERE Studies: A Summary of 
+Research Findings on the Effects of 
+“Enhanced” Interrogation Techniques 
+on Voluntary Soldier-Subjects
+In establishing the legal rationale for the torture regime, 
+the OLC not only cited the health professional presence as a 
+safety mechanism limiting pain and injury, it also cited ex-pert opinion of health professionals and referenced medical literature describing the likely effects of these techniques.   We argue that neither the professional opinions nor the liter -
+ature cited were a good-faith, accurate representation of the limited state of knowledge regarding the health effects of the “enhanced” interrogation techniques. In fact, the SERE studies demonstrate that even mild applications of EITs were harmful, despite incomplete measures of their physical and psychological effects.
+ A review of the literature describing the experience of US 
+servicemen subjects in the survival training programs (SERE) clearly established several facts. First, the techniques resulted in marked stress responses as indicated by significant hor -
+mone spikes and troughs, and significant adverse psychologi-cal effects. In other words, the literature demonstrated that these techniques were likely to cause significant harm to the subjects even though they were exposed to limited forms of EITs, provided their consent for the study, and were able to stop their participation at any time. The OLC discussion does not demonstrate an appreciation of these risks, nor does it document a balanced review of these data, including marked differences between consenting US servicemen and “suspect-ed terrorists” detained in US custody. 
+SERE subjects were volunteers who gave consent; they 
+could terminate consent during the exercise; and they were exposed to limited application of the interrogation techniques over a short and discrete period of several days. In addition, the context of the experience differed greatly — especially the uncertainty regarding possible injury and/or death as well as the purpose and meaning of the harm inflicted, since SERE participants understood that their discomfort could serve a useful, even patriotic, purpose by helping to protect future US military personnel subjected to torture.
+In addition, the SERE literature documents that the tech -
+niques as applied in these studies differed markedly from the techniques as applied in the field on detainees undergo-ing “enhanced” interrogation.
+Understanding the state of knowledge about the physi-
+cal and psychological effects of the EITs at the time the EI program began is essential for assessing whether or not the tactics health professionals were supervising could be deemed experimental.  The CIA OIG report, among other Bush administration documents now in the public record, specifically cites extant SERE/JPRA (Joint Personnel 20  Experiments in TortureRecovery Agency) research as the basis for the legal analy -
+sis conducted by the DoJ and other administration lawyers, 
+including the attorney general, of the EITs.  
+OTS also solicited input from DoD /Joint Personnel Recovery Agency (JPRA) regarding techniques used in its SERE training and any subsequent psychological ef -
+fects on students. DoD / JPRA concluded no long-term psychological effects resulted from use of the EITs, including the most taxing technique, the waterboard, on SERE students.   The OTS analysis was used by OGC [Office of General Counsel] in evaluating the legality of techniques.
+7
+The SERE studies provide information on the very tech -
+niques that were later “reverse-engineered” and deployed as the EIP. The SERE studies not only demonstrate that the EITs carried high risk of harm; they serve as a foundation for understanding that: 
+more severe and prolonged applications of EITs would 1. 
+likely result in increased harm; 
+the differences between volunteer US soldiers and 2. 
+detainees in US custody would likely amplify the 
+physical and psychological harm associated with EITs; 
+the physical and psychological effects of EITs were 3. 
+not adequately measured (e.g., 96% experienced 
+dissociative symptoms, which can lead to post-traumatic stress disorder (PTSD), but PTSD and other trauma-related conditions were not assessed); and
+systematic medical monitoring would be necessary to 4. 
+know the effects of EITs under an entirely different set 
+of circumstances.  
+Among other findings, the SERE studies indicated that 
+the exposure of the soldier-subjects to the “uncontrollable stress” of the survival training exercise produced “rapid and profound changes in cortisol”
+8 and other stress hormones.  
+The cortisol levels measured were found to be high enough to produce immune suppression and adversely affect mem -
+ory and were comparable to levels measured in subjects undergoing major surgery.
+9 Norepinephrine and epinephrine 
+(noradrenaline and adrenaline) levels were comparable to levels measured in novice parachutists and during tracheal suctioning in intubated patients.
+10  The protective neuropep-
+tide, NPY , was found to be rapidly depleted during the short 
+7. Central Intelligence Agency, Office of Inspector General.  Counter-
+terrorism Detention and Interrogations, Special Review. Central Intelligence 
+Agency (2004): 14. Web. 11 Mar. 2010. <http://www.gwu.edu/~nsarchiv/
+torture_archive/20040507.pdf>. (Emphasis added). 
+8. Morgan, C. A., et al.  “Hormone Profiles in Humans Experiencing 
+Military Survival Training.” Biol Psychiatry 47.10 (2000): 891-901. Print.9. Morgan, C. A., et al. “Plasma Neuropeptide-Y Concentrations in Humans 
+Exposed to Military Survival Training.” Biol Psychiatry 47.10 (2000): 902-909. Print; Morgan, C. A., et al.  “Hormone Profiles in Humans Experiencing Military Survival Training.” Biol Psychiatry 47.10 (2000): 891-901. Print.10. Morgan, C. A., et al. “Relationship Among Plasma Cortisol, 
+Catecholamines, Neuropeptide Y , and Human Performance During Exposure to Uncontrollable Stress.”  Psychosomatic Medicine.  63.3 (2001): 412-422. Web. 17 Mar. 2010 
+<http://www.psychosomaticmedicine.org/cgi/
+reprint/63/3/412>.exercise,11 and testosterone levels were reduced by over 
+50% (all participants studied were men).12
+The SERE literature describes significant limitations in 
+the investigators’ understanding of how the complex neu-
+roendocrine and psychological responses to uncontrollable stress are mediated.  Subject follow-up studies are too short to provide any insight into the risk of development of ad-verse sequelae to the groups such as long-lasting immune dysfunction, endocrine dysfunction, or PTSD and related disorders.  
+Finally, the SERE studies are important in establishing 
+that the EITs were known to be harmful among consenting soldier-subjects and, therefore, likely to be much more harm-ful among detainees in US custody exposed to more intense forms of EITs. Even if the SERE studies did not demon-strate harm among volunteer soldier-subjects, their applica -
+tion to an entirely different population under very different circumstances would have to be considered experimental at best. When these techniques were applied to US soldiers in a mock setting and were monitored by health professionals, that protocol was submitted for approval by an institutional review board and the informed consent of the subject was obtained.  The EI program deployed these techniques and monitoring on a vulnerable detainee population in a much higher risk setting (in terms of uncontrollable psychologi-cal stress and its physical response) and did so for durations that greatly exceeded the experimental training setting.  The SERE studies demonstrate that health professionals who monitored the EITs should have known that severe physical and psychological harm was likely and that their presence in assessing thresholds for “severe and long-lasting” physical and mental pain and applying their medical knowledge to calibrate the level of pain inflicted constituted complicity in both torture and human experimentation. 
+Detailed Summary of Military 
+Survival Training (SERE) Studies and 
+What They Teach Us about  
+the Effects of “Enhanced” 
+Interrogation Techniques
+The literature describing the results of the SERE studies13 
+warrants review because these studies confirm that, even in 
+mock settings, EITs have significant adverse physical and mental health effects.   
+11.  Morgan, C. A., et al. “Plasma Neuropeptide-Y Concentrations in 
+Humans Exposed to Military Survival Training.” Biol Psychiatry 47.10 
+(2000): 902-909. Print. 12.  Morgan, C. A., et al.  “Hormone Profiles in Humans Experiencing 
+Military Survival Training.” Biol Psychiatry 47.10 (2000): 891-901. Print.13.  For convenience, the group of studies involving survival training 
+including interrogation components will be referred to throughout as “SERE studies.”  However, it should be noted that not all papers refer to SERE explicitly. Evidence of Human Subject Research and Experimentation in the “Enhanced” Interrogation Program         21Among the goals of the SERE program is to increase 
+soldiers’ resistance to stress, particularly in detention and 
+interrogation, in order to prepare them for the possibility of becoming prisoners in time of conflict.  With this in mind, investigators have worked with the SERE program to study soldiers’ reactions to a mock survival program that involves evading capture, eventual capture, and interrogation.  At the same time, investigators and the SERE program share a goal of identifying subject characteristics associated with resis-tance to stress, and potentially developing ways to reduce soldiers’ stress responses to intentionally harmful interroga -
+tion tactics.
+Physicians for Human Rights has described the adverse 
+health effects of “enhanced” interrogation in earlier reports involving extensive review of the literature of torture sur -
+vivors and occupational health, government documents in the public domain, and firsthand evaluation of survivors of the “enhanced” interrogation program.
+14 The SERE studies, 
+however, represent another important source of scientific evidence and provide insights into of the effects of the tech -
+niques on human subjects.
+The SERE studies expanded upon a literature examining 
+the link between various measurable phenomena such as stress hormone levels, heart rate variability, psychological state (as measured by standardized psychological assess-ment tools) and the development and treatment of stress-related pathology such as PTSD
+15 and of studies of soldiers 
+in other stressful settings such as skydiving.16
+Methodology of SERE Studies
+Although the various SERE studies differ in their focus 
+and measurements, the SERE or SERE-like survival compo-nent was common to all of them. In a curious lack of clarity for a peer-reviewed paper, one of the earliest SERE studies describes the methodology by saying, “The methodology employed in this study has been reported elsewhere,” and 
+14. Physicians for Human Rights. Aiding Torture: Health Professionals’ 
+Ethics and Human Rights Violations Revealed in the May 2004 CIA Inspector 
+General’ s Report. Cambridge: Physicians for Human Rights, 2009. 15 Mar. 2010 
+<http://physiciansforhumanrights.org/library/documents/reports/
+aiding-torture.pdf> ; Physicians for Human Rights. Broken Laws, Broken 
+Lives. Cambridge: Physicians for Human Rights, 2008. 16 Mar. 2010 <http://
+brokenlives.info/?page_id=69> ; Physicians for Human Rights, and Human 
+Rights First. Leave No Marks: Enhanced Interrogation Techniques and the Risk of Criminality. Cambridge: Physicians for Human Rights, 2007. 15 Mar. 2010 
+<http://physiciansforhumanrights.org/library/documents/reports/
+leave-no-marks.pdf> ; Physicians for Human Rights. Break Them Down: 
+Systemic use of Psychological Torture by U.S. Forces. Cambridge: Physicians for Human Rights, 2005. 16 Mar. 2010 
+< http://physiciansforhumanrights.
+org/library/documents/reports/break-them-down-the.pdf>. 
+15. See, for example, Southwick,  S. M., et al. “Neurotransmitter 
+Alterations in PTSD:  Catecholamines and Serotonin.”  Seminars in Clinical Neuropsychiatry, 4.4. (1999): 242-248.  Print; see also Southwick, S. M., et al. “Role of Norepinephrine in Pathophysiology and Treatment of Posttraumatic Stress Disorder.”  Biol Psychiatry 46.9 (1999): 1192-1204. Print. 16. See, for example,  Chatterton, R., et al.  “Hormonal Responses to 
+Psychological Stress in Men Preparing for Skydiving.”  Journal of Clinical Endocrinology & Metabolism 82.8 (1997).  Web. 16 Mar. 2010 
+<http://
+jcem.endojournals.org/cgi/reprint/82/8/2503>.then goes on to cite unpublished data.17 In the self-described 
+brief summary that follows, the authors go on to describe sub-
+ject recruitment, screening, and the informed consent process.  After baseline assessments including physical and psycho-logical assessment and blood tests, the subjects were given 
+… in as highly realistic manner as possible, a captivity experience in the Army’s training laboratory (TL). In the TL, each subject was subjected to intense and uncontrol -
+lable stress, and each attempted to avoid exploitation by their captors. Because of the classified nature of the course, a detailed description of the individuals is not possible.
+18
+The authors then state that the stressors were modeled af-
+ter those experienced by American captives in WWII, Korea, and Vietnam. The SERE program, of course, has been more fully described in other sources unrelated to this literature, and was the basis of the “enhanced” interrogation program.
+19 
+While the authors decline to describe specific stressors in detail for the reasons already stated, they do describe the use of hostile interrogation, sleep deprivation (subjects were allowed to sleep 19 minutes in a 72-hour period), exposure to extreme heat and cold, and food deprivation. All subjects were monitored by medical staff, and were reevaluated dur -
+ing a recovery period after the training.
+20
+Results
+In the studies, a variety of variables were measured, in-
+cluding stress hormone levels (serum neuropeptide-Y , se-rum and saliva cortisol, testosterone, and thyroid hormones) and standardized psychological instruments. Those results were correlated to “behavioral scores” grading soldier per -
+formance during the interrogation exercise.  
+Neuroendocrine Changes
+SERE studies demonstrated significant changes in stress 
+hormone levels comparable to those associated with ma-jor surgery or actual combat. In the investigators’ words,  
+“[t]he realistic stress of the training laboratory produced 
+17. Morgan, C. A., et al. “Plasma Neuropeptide-Y Concentrations in 
+Humans Exposed to Military Survival Training.” Biol Psychiatry 47.10 
+(2000): 902-909. Print. 18. Morgan, C. A., et al. “Plasma Neuropeptide-Y Concentrations in 
+Humans Exposed to Military Survival Training.” Biol Psychiatry 47.10 (2000): 902-909. Print. 19. Central Intelligence Agency, Office of Inspector General.  Counter-
+terrorism Detention and Interrogations, Special Review. Central Intelligence Agency (2004): 15. 21.  Web. 11 Mar. 2010. 
+<http://www.gwu.edu/~nsarchiv/
+torture_archive/20040507.pdf> ; Physicians for Human Rights. Aiding 
+Torture: Health Professionals’ Ethics and Human Rights Violations Revealed in the May 2004 CIA Inspector General’ s Report. Cambridge: Physicians for Human Rights, 2009: 1-2.  15 Mar. 2010 
+<http://physiciansforhumanrights.
+org/library/documents/reports/aiding-torture.pdf> .
+20.  Morgan, C. A., et al. “Plasma Neuropeptide-Y Concentrations in 
+Humans Exposed to Military Survival Training.” Biol Psychiatry 47.10 (2000): 902-909. Print.22  Experiments in Torturerapid and profound changes in cortisol, testosterone, and 
+thyroid hormone levels.”21  
+In discussing SERE study results in the following para-
+graphs of this report, it is essential to appreciate that, in the words of the investigators — who have researched human reactions to stress — ‘Multiple neurobiological systems become activated when animals and humans are threatened by dangerous stimuli. Complex interactions between brain regions and neurochemical systems’ are involved.”
+22 
+While the research literature described here has added to 
+the understanding of the human response to uncontrollable stress, it is clear in reviewing these studies that the under -
+standing of this complex response, and how it might be ma-nipulated to reduce the risk of enduring harm such as PTSD, is extremely limited.
+Cortisol 
+Cortisol, a hormone produced by the adrenal gland, is 
+usually referred to as the “stress hormone” because it is in-volved in response to stress and anxiety.  It increases blood pressure and blood sugar and reduces immune responses, among many other effects. The SERE studies documented very high levels of cortisol during interrogation stress (927 nmol/L) that were higher than any other point during the study, and were higher than those measured in individu -
+als undergoing major surgery (717 nmol/L), continuous and exhausting exercise (731 nmol/L), or skydiving (450 nmol/L). The authors note that theirs is the first study to demonstrate that psychological stress significantly increases bio-available cortisol in humans and also noted that the re-sponse varied from subject to subject. The authors note that the stress-induced elevations of cortisol are of a magnitude comparable with levels of glucocorticoids (including corti -
+sol) known to be associated with immune suppression, and provide anecdotal notes of frequent episodes of cellulitis (skin and soft tissue infections) in survival training subjects.  They also note that cortisol levels measured in their study are compatible with glucocorticoid-induced memory defi-cits, and they go on to note “reports by survival school par -
+ticipants that they cannot remember many aspects of their 
+[training] experience.”
+23
+Norepinephrine and Epinephrine (Noradrenaline and 
+Adrenaline)
+Norepinephrine (NE) and epinephrine (EPI) are the so-
+called “fight or flight” hormones and they also act as neu-
+rotransmitters. The SERE studies noted that interrogation 
+21. Morgan, C. A., et al.  “Hormone Profiles in Humans Experiencing 
+Military Survival Training.” Biol Psychiatry 47.10 (2000): 891-901. Print.
+22.  Southwick, S. M., et al. “Neurotransmitter Alterations in PTSD:  
+Catecholamines and Serotonin.”  Seminars in Clinical Neuropsychiatry 4.4 (1999): 242-248.  Print.23. Morgan, C. A., et al. “Plasma Neuropeptide-Y Concentrations in Humans 
+Exposed to Military Survival Training.” Biol Psychiatry 47.10 (2000): 902-909. Print; Morgan, C. A., et al.  “Hormone Profiles in Humans Experiencing Military Survival Training.” Biol Psychiatry 47.10 (2000): 891-901. Print. stress resulted in significant elevations in both NE and EPI 
+(1309.8 pg/ml and 133.2 pg/ml respectively). These el-evations were comparable to NE and EPI levels measured in novice parachutists (900 and 400 pg/ml respectively) and in-tubated patients undergoing endobronchial suctioning (1673 and 369 pg/ml respectively).
+24 In earlier studies, the authors 
+described the evidence for norepinephrine’s role in encoding of memory for arousing and aversive events and in subse-quent re-experiencing symptoms such as intrusive memories and nightmares, symptoms characteristic of PTSD.
+25  
+Neuropeptide-Y (NPY)  
+NPY is a peptide that is released with neurons containing 
+norepinephrine and epinephrine and is intimately involved with the regulation of both central and peripheral nora-drenergic functioning. Based on preclinical studies, NPY is believed to function as an endogenous anxiolytic (a natural anti-anxiety mediator) that “may buffer the effects of stress on the mammalian brain.”
+26 In the SERE studies, the inves-
+tigators demonstrated that uncontrollable stress significantly increased NPY levels in humans, and when stress was pro-longed, it produced a significant depletion of plasma NPY . In addition,  investigators found that NPY levels were sig-nificantly higher in Special Forces subjects than in general infantry subjects.  
+The authors describe NPY levels declining within days, and 
+note that depletion is possible with prolonged stress (meaning more than a few days) in some subjects. This suggests that detainees who experience much more intense and prolonged application of EITs would likely experience marked and pro-longed depletion of the anti-anxiety effects of NPY . 
+Testosterone
+Testosterone is a steroid hormone from the androgen 
+group. Among other effects, it is the principal male sex hor -
+mone, and is an anabolic steroid. The SERE studies indi-cated that serum testosterone levels were reduced by over 50% during interrogation stress and remained reduced dur -
+ing recovery.
+27 
+24.  Morgan, C. A.,  et al. “Relationship Among Plasma Cortisol, 
+Catecholamines, Neuropeptide Y , and Human Performance During Exposure 
+to Uncontrollable Stress.”  Psychosomatic Medicine.  63.3 (2001): 412-422. Web. 17 Mar. 2010 
+<http://www.psychosomaticmedicine.org/cgi/
+reprint/63/3/412>.
+25.  Southwick, S.M., et al. “Role of Norepinephrine in Pathophysiology 
+and Treatment of Posttraumatic Stress Disorder.”  Biol Psychiatry 46.9 (1999): 1192-1204. Print.26.  Morgan, C. A., et al. “Plasma Neuropeptide-Y Concentrations in 
+Humans Exposed to Military Survival Training.” Biol Psychiatry 47.10 (2000): 902-909. Print. In animal studies, NPY has been shown to produce behavioral effects similar to benzodiazepine (the class of medications that includes Valium and Xanax).27. Morgan, C. A., et al.  “Hormone Profiles in Humans Experiencing 
+Military Survival Training.” Biol Psychiatry 47.10 (2000): 891-901. Print.Evidence of Human Subject Research and Experimentation in the “Enhanced” Interrogation Program         23Thyroid Function
+Thyroid studies, including TSH, total and free T3 and T4,28 
+thyroid hormones T3 (free and total) and total T4 were sig-
+nificantly reduced during interrogation stress, and TSH sig-nificantly increased from baseline in the recovery period.
+29
+Psychological Assessment
+Investigators employed standardized psychological in-
+struments to measure stress, including a Subjective Units of Stress Scale, or SUDS, and a valid and reliable self-report-ing instrument to measure dissociative experiences referred to as the Clinician-Administered Dissociative Symptom Scale, or CADSS.
+30 
+Dissociation is a disruption in the usually integrated func-
+tions of consciousness, memory, identity, and perception.31  
+Dissociation (when subjects under stress have altered per -
+ceptions such as time moving slowly, feeling as if they were in a dream, or feeling as if they were watching things from outside their body), and in particular peritraumatic dissocia-tion, has been associated with the development of PTSD.
+32  
+Subjects of the survival training were evaluated us-
+ing a standardized instrument for measuring symptoms of dissociation. The investigators found that before and after “the period of the experiential phase of the training where soldiers were subject to semi-starvation, sleep deprivation, lack of control over personal hygiene, and external control over movement, social contact and communication” the subjects reported significantly more  dissociative symptoms. Whereas 42% of the subjects had reported dissociative symptoms prior to acute stress, 96% of them reported dis-sociative symptoms in response to acute stress, and disso-ciative symptoms before and after stress were significantly higher in subjects who had reported perceiving their lives to be in danger. 
+Despite the nearly uniform prevalence of dissociative 
+symptoms among SERE subjects, there was no assessment of common psychological sequelae to extreme stress such as PTSD or other anxiety disorders and depression. The significance of the CADSS findings is difficult to assess, 
+28. TSH is thyroid stimulating hormone, and T3 and T4 are thyroid hormones.
+29. Morgan, C. A., et al.  “Hormone Profiles in Humans Experiencing 
+Military Survival Training.” Biol Psychiatry 47.10 (2000): 891-901. Print.
+30. Morgan, C. A.,  et al. “Relationship Among Plasma Cortisol, 
+Catecholamines, Neuropeptide Y , and Human Performance During Exposure to Uncontrollable Stress.”  Psychosomatic Medicine.  63.3 (2001): 412-422.  Web. 17 Mar. 2010 
+<http://www.psychosomaticmedicine.org/cgi/
+reprint/63/3/412> ; Morgan, C. A., et al. “Symptoms of Dissociation 
+in Human Experiencing Acute, Uncontrollable Stress: a Prospective Investigation.”  Am. J. Psychiatry 158.8 (2001): 1239-1246. Web. 17 Mar. 2010 
+<http://ajp.psychiatryonline.org/cgi/reprint/158/8/1239>.
+31. American Psychiatric Association. Diagnostic and Statistical Manual 
+of Mental Disorders. Fourth Ed. Washington, D.C.: American Psychiatric Association, 2000.  Print. 32. Ozer,  E. J.,  et al.  “Predictors of Posttraumatic Stress Disorder and 
+Symptoms in Adults: a Meta-Analysis.”  Psychol Bull 129.1 (2003); 1243.   Print. as the evaluations were done within days of the exposure, 
+and there was no long-term follow-up.  There was a posi-tive correlation between dissociation and reports of somatic complaints. Mean dissociation scores for soldier subjects of survival training on the CADSS scale were 9.7 (SD=5.8) for Special Forces subjects and 21.3 (SD=14.6) for gen-eral infantry subjects.
+33  For reference, in earlier non-SERE 
+related studies of subjects not under acute stress, CADSS scores for subjects with PTSD were 18.9 (SD=118.3), 3.7 (SD=5.2) for patients with schizophrenia, 7.5 (SD=9.6) in subjects with affective disorders such as anxiety or depres-sion, 1.3 (SD=3.9) in Vietnam veterans without PTSD, and 1.5 (SD=2.5) in healthy control subjects.
+34  
+Higher levels of plasma NPY during acute stress expo-
+sure were associated with fewer psychological symptoms of dissociation as well as with superior military performance.
+35
+The SERE studies did not track how dissociation scores 
+might have changed in the weeks, months, or years after the training experience. This would have been helpful, since dissociation has greater association with the risk of devel -
+oping PTSD.
+36 Rather, SERE investigators make the strik-
+ing claim that because the vast majority of their subjects experience dissociative symptoms, the causal link between peritraumatic dissociation and PTSD “must be viewed with caution.”
+37 This claim is made in the complete absence of 
+data regarding the number of subjects who go on to have persistent symptoms of dissociation, and more importantly, about the number of their subjects who go on to develop PTSD — which in some cases is only evident  decades after the initial trauma.
+Factors affecting level of psychological stress: 
+unavoidable stress
+The authors cite preclinical evidence that “unavoidable 
+stress” (the subject cannot avoid or manipulate the stressor) 
+33. Morgan, C. A., et al. “Symptoms of Dissociation in Human 
+Experiencing Acute, Uncontrollable Stress: a Prospective Investigation.”  
+Am. J. Psychiatry 158.8 (2001): 1239-1246.  Web. 17 Mar. 2010 <http://ajp.
+psychiatryonline.org/cgi/reprint/158/8/1239>.
+34. Bremner, J. Douglas, et al. “Measurement of Dissociative States with 
+Clinical-Administered Dissociative States Scale (CADSS).”  Journal of Traumatic Stress 11.1 (1998): 132.  Web. 17 Mar. 2010 
+<http://userwww.
+service.emory.edu/~jdbremn/papers/CADSS%20paper.pdf>.
+35. Morgan, C. A., et al. “Plasma Neuropeptide-Y Concentrations in 
+Humans Exposed to Military Survival Training.” Biol Psychiatry 47.10 (2000): 902-909. Print; Morgan, C. A.,  et al. “Relationship Among Plasma Cortisol, Catecholamines, Neuropeptide Y , and Human Performance During Exposure to Uncontrollable Stress.”  Psychosomatic Medicine.  63.3 (2001): 412-422. Web. 17 Mar. 2010 
+<http://www.psychosomaticmedicine.org/cgi/
+reprint/63/3/412>;  Morgan, C. A.,  et al.  “Neuropeptide-Y , Cortisol, and 
+Subjective Distress in Humans Exposed to Acute Stress: Replication and Extension of Previous Report.” Biol Psychiatry. 52.2 (2002): 136-142.  Print. 36. Bremner, J. Douglas, et al. “Measurement of Dissociative States with 
+Clinical-Administered Dissociative States Scale (CADSS).”  Journal of Traumatic Stress 11.1 (1998): 126-127 Web. 17 Mar. 2010 
+<http://userwww.
+service.emory.edu/~jdbremn/papers/CADSS%20paper.pdf>.
+37. Morgan, C. A., et al. “Symptoms of Dissociation in Human 
+Experiencing Acute, Uncontrollable Stress: a Prospective Investigation.”  Am. J. Psychiatry 158.8 (2001): 1245.  Web. 17 Mar. 2010 
+<http://ajp.
+psychiatryonline.org/cgi/reprint/158/8/1239>.24  Experiments in Torturehas a greater impact on neuroendocrine function than “avoid-
+able stress.” They note that subjects of the training exercise had “no physical or verbal control” over the stressors.
+38 
+Variability between subjects
+The studies note variability between subjects in both neu-
+roendocrine responses and symptoms of dissociation, and specifically note more favorable stress responses in Special Forces subjects compared with general infantry subjects. The investigators postulate that factors such as prior stress exposure and personality factors may affect “stress hardi-ness” or ability to withstand uncontrollable stress.
+39, 40 They 
+also note that individual factors prior to stress exposure af-fect response to acute stress and may affect the risk of de-velopment of PTSD, although PTSD was not measured.
+Limitations of the Studies
+The authors themselves cite a number of limitations of 
+the studies. They point out that the studies may underesti -
+mate the true effects of stress for a number of reasons.  First, they note that their soldier-subjects were “stress hardy” and note evidence that stress-naïve populations have differ -
+ent neuroendocrine responses. Second, they note that they were measuring stress in a mock exercise where “subjects are aware they will not die” and note that the subjects were volunteers who are able to withdraw from the exercise at any time. Third, they note the baseline measures were taken at the classroom phase where it is likely the soldier-subjects were already experiencing some stress.
+41 Finally, with re-
+gard to standardized psychological assessments, they note that “[s]oldiers are familiar with psychological testing and often worry that their responses might negatively affect their status in training.”
+42
+Later SERE Studies
+This review has focused on the state of knowledge re-
+garding the SERE-related research as of 2002, when the “enhanced” interrogation program was being designed and deployed. More importantly, this is the period in which some 
+38. Morgan, C. A., et al.  “Hormone Profiles in Humans Experiencing 
+Military Survival Training.” Biol Psychiatry 47.10 (2000): 891-901. Print.
+39. Morgan, C. A.,  et al. “Relationship Among Plasma Cortisol, 
+Catecholamines, Neuropeptide Y , and Human Performance During Exposure to Uncontrollable Stress.”  Psychosomatic Medicine. 63.3 (2001): 412-422. Web. 17 Mar. 2010
+ <http://www.psychosomaticmedicine.org/cgi/
+reprint/63/3/412>.
+40. Morgan, C. A., et al. “Symptoms of Dissociation in Human 
+Experiencing Acute, Uncontrollable Stress: a Prospective Investigation.”  Am. J. Psychiatry 158.8 (2001): 1239-1247. Web. 17 Mar. 2010 
+<http://ajp.
+psychiatryonline.org/cgi/reprint/158/8/1239>.
+41. Morgan, C. A., et al.  “Hormone Profiles in Humans Experiencing 
+Military Survival Training.” Biol Psychiatry 47.10 (2000): 891-901. Print.42. Morgan, C. A.,  et al. “Relationship Among Plasma Cortisol, 
+Catecholamines, Neuropeptide Y , and Human Performance During Exposure to Uncontrollable Stress.”  Psychosomatic Medicine. 63.3 (2001): 412-422. Web. 17 Mar. 2010 
+<http://www.psychosomaticmedicine.org/cgi/
+reprint/63/3/412>.psychologists and psychiatrists advised the government that 
+these techniques were safe. This literature contradicts those claims. Later SERE studies did expand the understanding of the effects of uncontrollable stress in the mock training set-ting, but did not demonstrate the safety or effectiveness of these techniques, and continued to document risks of harm.
+The SERE Studies in the Context  
+of Alleged Human Experimentation in 
+the US Torture Program
+Consideration of the SERE literature is essential in un-
+derstanding the development of the US EIP.  To begin with, 
+the SERE program itself was reverse-engineered to develop the “enhanced” interrogation program. Second, professional opinions about the effects of the techniques were used to inform the legal rationale for the program. Third, the experi -
+mental framework of these studies intentionally or uninten -
+tionally laid the groundwork for unethical and illegal human experimentation that would follow.
+Still, the “enhanced” interrogation program consisted of 
+techniques long established as physical and psychological torture. No further experiments were required to demon-strate that these techniques caused and were designed to cause significant pain and suffering and carried significant risk of long-term harm.
+It is not surprising, therefore, that the studies reviewed 
+here confirmed that SERE and EI techniques, even when used in limited and controlled settings, produce harmful health effects on consenting soldier-subjects exposed to them. The knowledge of these harmful effects and the understanding that the physical and mental pain associated with EITs would likely be much greater among non-consenting detainees in US custody exposed to more intense forms of EITs, indicate that the EITs conuld not reasonably be applied without the intent to cause significant physical and mental pain. 
+OLC lawyers nonetheless used the SERE studies as part 
+of their justification for redefining previously recognized acts of torture to be “safe, legal and effective” EITs.  Subsequent EI policy required health professionals to assume the role of “safety officers” by monitoring each EIT to ensure, according to OLC logic, that any pain inflicted did not exceed the legal thresholds for severe physical or mental pain. The intentional infliction of pain, whether severe or not, in the absence of any therapeutic purpose and without informed consent can-not reasonably be construed as ensuring “safety”; it is both unreasonable and dishonest. As PHR’s analysis demonstrates, apparent human experimentation, in the form of systematic medical monitoring of and subsequent application of general-izable knowledge, served other instrumental purposes: to jus-tify previously recognized torture practices, to inform specific EI practices, and to serve as a potential legal defense against criminal liability for torture. Evidence of Human Subject Research and Experimentation in the “Enhanced” Interrogation Program         25Appendix 2
+Health Professional Ethics on 
+Detainee Research and Interrogation
+The Bush administration’s apparent research and ex-
+perimentation on detainees in US custody violated accepted 
+standards of medical conduct enshrined in the ethics codes of major American and international health professional associations, including the American Medical Association (AMA) and the World Medical Association (WMA). Each of the associations — with the sole exception of the American Psychological Association (APA) — prohibits human subject research without prior informed consent, in keeping with the Nuremberg Code.  All applicable codes of ethics — even the APA’s weaker human subject protections — can be read to explicitly prohibit the research carried out on detainees by personnel of the CIA’s Office of Medical Services (OMS). 
+Universally recognized standards of health professional 
+ethics forbid participation in torture and in the act of inter -
+rogation itself.  Health professionals who participated in any of the core functions of the OMS program — whether physicians, psychologists, psychiatrists, or nurses — com-mitted grave violations of their ethics codes. They should be investigated by the relevant professional associations and licensing boards and, if found to have been involved, should face appropriate professional sanctions, including loss of their ability to practice their professions.   
+American Medical Association
+The AMA’s Code of Medical Ethics prohibits the research 
+activities of the OMS because it requires that subjects be thoroughly and accurately informed by a physician before choosing whether to participate in any research. According to Section 8 of the AMA’s ethical guidelines, it is mandatory that physicians abide by this rule unless a subject is unable physically or otherwise to consent:
+The patient’s right of self-decision can be effectively exercised only if the patient possesses enough informa -
+tion to enable an informed choice. The patient should make his or her own determination about treatment. The physician’s obligation is to present the medical facts accurately to the patient or to the individual responsible for the patient’s care and to make recommendations for management in accordance with good medical practice. The physician has an ethical obligation to help the pa -
+tient make choices from among the therapeutic alterna -
+tives consistent with good medical practice. Informed consent is a basic policy in both ethics and law that phy -
+sicians must honor, unless the patient is unconscious or otherwise incapable of consenting and harm from failure to treat is imminent. In special circumstances, it may be appropriate to postpone disclosure of information.
+43
+The AMA’s Code of Ethics also states that health profes-
+sionals are prohibited from using their skills and expertise in interrogations, and are prohibited from being involved in any form of interrogation, whether the involvement is direct or indirect. They also cannot monitor or participate in inter -
+rogations in any way—all principles that OMS physicians violated: 
+Interrogation is defined as questioning related to law enforcement or to military and national security intelligence gathering, designed to prevent harm or danger to individuals, the public, or national security. Interrogations are distinct from questioning used by physicians to assess the physical or mental condition of an individual. To be appropriate, interrogations must avoid the use of coercion — that is, threatening or caus -
+ing harm through physical injury or mental suffering. In this Opinion, “detainee” is defined as a criminal suspect, prisoner of war, or any other individual who is being held involuntarily.
+Physicians who engage in any activity that relies on their 
+medical knowledge and skills must continue to uphold prin-ciples of medical ethics. Questions about the propriety of physician participation in interrogations and in the develop -
+ment of interrogation strategies may be addressed by bal-ancing obligations to individuals with obligations to protect third parties and the public. The further removed the physi-cian is from direct involvement with a detainee, the more justifiable is a role serving the public interest. Applying this general approach, physician involvement with interrogations during law enforcement or intelligence gathering should be guided by the following:
+Physicians may perform physical and mental 1. 
+assessments of detainees to determine the need for and to provide medical care. When so doing, physicians must disclose to the detainee the extent to which others have access to information included in medical records. Treatment must never be conditional on a patient’s participation in an interrogation.
+Physicians must neither conduct nor directly 2. 
+participate in an interrogation, because a role as 
+physician-interrogator undermines the physician’s role as healer and thereby erodes trust in the individual physician-interrogator and in the medical profession.
+Physicians must not monitor interrogations with the 3. 
+intention of intervening in the process, because this 
+constitutes direct participation in interrogation.
+Physicians may participate in developing effective 4. 
+interrogation strategies for general training purposes. 
+These strategies must not threaten or cause physical 
+43. American Medical Association, AMA’s Code of Ethics 8.08. Web. 
+12 May 2010 <http://www.ama-assn.org/ama/pub/physician-resources/
+medical-ethics/code-medical-ethics/opinion808.shtml>.26  Experiments in Tortureinjury or mental suffering and must be humane and 
+respect the rights of individuals.
+When physicians have reason to believe that 5. 
+interrogations are coercive, they must report their 
+observations to the appropriate authorities. If authorities are aware of coercive interrogations but have not intervened, physicians are ethically obligated to report the offenses to independent authorities that have the power to investigate or adjudicate such allegations.
+44 
+American Psychiatric Association
+In May 2006, the American Psychiatric Association45 ad-
+opted an ethical prohibition against direct participation by psychiatrists in interrogations; as an affiliate organization of the AMA, it also abides by AMA guidelines on human sub-ject research and interrogations.
+American Psychological Association
+Amendments to the APA’s ethics code in 2002 weakened 
+human subject research protections. The APA changes al-lowed a waiver of the requirement for prior informed con-sent in circumstances “where otherwise permitted by law or federal or institutional regulations.”
+46 While the APA ethics 
+standards for research offer significantly less protection than the codes of the other associations, the “enhanced” interro -
+gation program (EIP) research program still appears to vio-late the amended APA code. 
+There is no evidence in the public record that the Bush 
+administration provided health professionals with an official exemption from the Common Rule, the federal regulations governing federally funded human subject research.
+47 Thus, 
+the 2002 APA ethics code as currently written does not pro-tect psychologists involved in EIP research from ethics vio-
+lation charges as long as the Common Rule applies.
+44. American Medical Association, AMA’s Code of Ethics 2.068. Web. 
+12 May 2010  <http://www.ama-assn.org/ama/pub/physician-resources/
+medical-ethics/code-medical-ethics/opinion2068.shtml>.
+45. Ibid.
+46. American Psychological Association. “Ethical Principals of 
+Psychologists and Code of Conduct—Standard 8: Research and Publication.” 
+American Psychological Association, 2010. Web. 12 May 2010. <http://
+www.apa.org/ethics/code/index.aspx>.
+47.  45 C.F.R. § 46.102(d) (2005)United Nations
+The UN document called Principles of Medical Ethics 
+relevant to the Role of Health Personnel, particularly 
+Physicians, in the Protection of Prisoners and Detainees against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment prohibits the involvement of OMS health professionals in interrogations. Under the UN prin-ciples, a health professional would violate medical ethics by using medical experience and expertise to facilitate interro -
+gations of detainees:
+It is a contravention of medical ethics for health person -
+nel, particularly physicians: To apply their knowledge and skills in order to assist in the interrogation of prison -
+ers and detainees in a manner that may adversely affect the physical or mental health or condition of such pris -
+oners or detainees and which is not in accordance with the relevant international instruments...
+48
+World Medical Association
+The WMA Medical Ethics Manual, which was adopted 
+from the Declaration of Helsinki (DoH),49 requires writ-
+ten documentation of informed consent by the subject. The manual also guarantees the right of research subjects to ter -
+minate their involvement in research at any point:
+The DoH, like other research ethics documents, recom -
+mends that informed consent be demonstrated by having the research subject sign a ‘consent form’ (paragraph 24). Many ethics review committees require the re -
+searcher to provide them with the consent form they intend to use for their project. In some countries these forms have become so long and detailed that they no longer serve the purpose of informing the research sub -
+ject about the project. 
+In any case, the process of obtaining informed consent 
+does not begin and end with the form being signed but must involve a careful oral explanation of the project and all that participation in it will mean to the research subject.  
+         
+48.  The United Nations. Principles of Medical Ethics relevant to the Role 
+of Health Personnel, particularly Physicians, in the Protection of Prisoners 
+and Detainees against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment. Adopted by General Assembly resolution 37/194 of 18. December 1982. Web. 16 May 2010.
+ <http://www.un.org/documents/
+ga/res/37/a37r194.htm>.
+49.  World Medical Association. The Declaration Of Helsinki. WMA,  2008. 
+Web. 12 May 2010. <http://www.wma.net/en/30publications/10policies/
+b3/17c.pdf>.Evidence of Human Subject Research and Experimentation in the “Enhanced” Interrogation Program         27Moreover, research subjects should be informed that they 
+are free to withdraw their consent to participate at any time, even after the project has begun, without any sort of reprisal from the researchers or other physicians and without any compromise of their healthcare.
+50
+The WMA’s guidelines on interrogations also prohibit the 
+use of medical expertise to aid in interrogation practices on detainees, and provide that a physician must report to au-thorities any breach of the Geneva Conventions: 
+When providing medical assistance to detainees or pris -
+oners who are, or who could later be, under interroga -
+tion, physicians should be particularly careful to ensure the confidentiality of all personal medical information. A breach of the Geneva Conventions shall in any case be reported by the physician to relevant authorities.
+The physician shall not use nor allow to be used, as far 
+as he or she can, medical knowledge or skills, or health information specific to individuals, to facilitate or oth -
+erwise aid any interrogation, legal or illegal, of those individuals.
+51
+50.  World Medical Association. The WMA Medical Ethics Manual. 
+Ferney–V oltaire: WMA, 2005: 105.  Web.  10 May 2010. <http://www.wma.
+net/en/30publications/30ethicsmanual/pdf/chap_5_en.pdf>.
+51.  World Medical Association. WMA Declaration of Tokyo - Guidelines 
+for Physicians Concerning Torture and other Cruel, Inhuman or Degrading 
+Treatment or Punishment in Relation to Detention and Imprisonment. Adopted by the 29th World Medical Assembly, Tokyo, Japan, October 1975, and editorially revised at the 170th Council Session, Divonne-les-Bains, France, May 2005 and the 173rd Council Session, Divonne-les-Bains, France. 20 May 2006. Web. 16 May 2010. 
+<http://www.wma.net/
+en/30publications/10policies/c18/index.html>.© 2010, Physicians for Human Rights

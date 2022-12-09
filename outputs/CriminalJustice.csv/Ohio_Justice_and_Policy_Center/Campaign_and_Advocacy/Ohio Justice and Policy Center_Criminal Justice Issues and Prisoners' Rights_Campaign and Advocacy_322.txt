@@ -1,0 +1,380 @@
+ 
+March 20, 2020
+ 
+ 
+How Ohio’s jails, courts and law enforcement can minimize harm
+ 
+ 
+and save lives during the COVID-19 pandemic
+ 
+Ohio’s leaders took swift action to contain the spread of the new coronavirus. Large gatherings are prohibited, bars and
+ 
+restaurants are closed, and many of us are working from home (including the OJPC team). But there is more that needs to be
+ 
+done to protect the nearly 80,000 Ohioans who are incarcerated and the 250,000 more who are under state criminal supervision.
+ 
+Our state and local response to COVID-19 must not overlook these particularly vulnerable people. The U.S. Centers for Disease
+ 
+Control warns that people whose health is already compromised are more susceptible to the disease and more likely to develop
+ 
+complications related to COVID-19. What’s more, holding people in close quarters to one another creates the ideal conditions for
+ 
+an infectious disease like this one to spread rapidly, which means that our jails and prisons are an outbreak epicenter waiting to
+ 
+happen. It is not a matter of if COVID-19 will find its way into our prisons and jails—it’s a matter of when. Prisoners and
+ 
+employees alike are at unnecessary risk without proactive measures.
+ 
+The safest way for state and local governments to address the pandemic is to spread people out through distancing. While social
+ 
+distancing is nearly impossible inside a jail or prison, there are ways to mitigate the spread of the virus inside these state
+ 
+institutions. We have identified measures to (1) safely and drastically cut the size of the prison and jail populations; (2) halt the
+ 
+rapid flow of new people entering the criminal legal system; and (3) relieve citizens, judges, and court personnel of unnecessary
+ 
+obligations to show up in-person to court.
+ 
+We commend the many courts, police, sheriff’s departments, prosecutors, public defenders, jails, and prisons that have already
+ 
+taken proactive steps to respond to the pandemic. Some measures are becoming more common, like restricting visits to
+ 
+institutions, postponing court dates, and changing law-enforcement practices. Many jurisdictions, meanwhile, are still looking for
+ 
+ways to adapt and improve practices, especially as Chief Justice Maureen O’Connor announced yesterday that the Ohio Supreme
+ 
+Court will release $4 million in grants for court-related responses to COVID-19.
+ 
+As people around the state seek uniform best practices for responding, OJPC is offering the following simple recommendations
+ 
+for institutional actors at both the state and local levels. The following steps should be taken immediately to keep our
+ 
+communities healthy and safe—and, as noted above, some are already being implemented in parts of the state. There is no time to
+ 
+waste: if we wait to find the virus inside our jails and prisons first, we are too late.
+ 
+Here are our recommendations to “flatten the curve” in the criminal legal system while ensuring health, safety, and justice:
+ 
+What should COURTS do?
+ 
+1. Decrease the pretrial jail population
+​
+. Courts should take the following steps to ensure that people accused of crimes are
+ 
+jailed while awaiting trial only when strictly necessary:
+ 
+●
+For people accused of traffic offenses, misdemeanors, and fourth- or fifth-degree felonies, pretrial release should be
+ 
+presumptive, and personal-recognizance bond should be the norm. Courts can also set local rules or policies
+ 
+enumerating that, to overcome this presumption, the police and/or prosecutor must present certain information, in
+ 
+accordance with Crim. Rule 46 and R.C. 2937.222, in writing (for example, records of violent or sexual offenses within
+  
+5 years, current supervision status, injury to victims or eminent threat of injury, active warrants, known
+ 
+mental/medical/substance-abuse issues).
+ 
+●
+For all other cases, pretrial release or other alternatives to pretrial detention (such as electronic monitoring) should be
+ 
+preferred wherever safety permits, and where safety is at issue, courts should follow the procedures in R.C. 2937.222.
+ 
+●
+For the same reasons, financial conditions of release (such as secured money bonds) should be avoided, particularly in
+ 
+light of people’s increased financial limitations during this crisis. Non-financial conditions of release should always
+ 
+take into account the defendant’s ability to comply in light of the pandemic (e.g., inability to pay for a drug program).
+ 
+●
+Where defendants are already being held from past arraignments, courts should reevaluate, reduce, or eliminate existing
+ 
+bonds. Acting together, judges should create emergency local rules allowing large-scale bond reductions and
+ 
+personal-recognizance releases, while also welcoming such motions from prosecutors and defense attorneys. They
+ 
+should also take collective action to grant authority to local sheriffs to release pretrial detainees who have not otherwise
+ 
+been found to be a danger to the public in the interests of protecting detainees, guards, and others from risk of
+ 
+COVID-19 infection.
+ 
+●
+In light of the pandemic, courts should additionally conscious about opportunities to redirect cases and defendants that
+ 
+can safely be kept out of the criminal legal system. Courts may choose to appropriately dismiss or decline some
+ 
+criminal charges, and to divert to public health, community, and civil court solutions with return date 6 months out.
+ 
+Finally, it is important to note that, regardless of this pandemic, people should never be jailed pretrial because a court failed to
+ 
+consider their ability to pay for a secured money bond or pay for other conditions of release.
+ 
+2. Refrain from issuing bench warrants.
+​
+ During this crisis, people’s ability to come to court may be particularly disrupted,
+ 
+whether by employment issues, childcare needs, or their own health concerns. Moreover, during this time of social-distancing
+ 
+and widespread closures, people may be confused about whether their presence is still required, and arresting them for
+ 
+non-appearances will only put more people at risk. Courts should waive defendants’ appearances or grant continuances as much
+ 
+as possible. Additionally, given the many reason people may miss a court date during the pandemic, courts should offer alternate
+ 
+methods of future appearance, like audiovisual technologies.
+ 
+3. Reduce or eliminate court-ordered financial obligations
+​
+ wherever possible. Amid this pandemic and the resulting economic
+ 
+stress, people will be even more hard-pressed to come up with fines, fees, and courts that they may owe to courts. Accordingly,
+ 
+courts should:
+ 
+●
+Subject to R.C. 2949.092, courts should enter orders waiving court fees and costs wherever possible, especially for
+ 
+indigent people and those who are struggling during the pandemic. Costs are technically civil, not criminal, matters,
+ 
+State v. Moore, 135 Ohio St.3d 151, 2012-Ohio-5479, 985 N.E.2d 432, ¶ 11, and trial courts retain jurisdiction to
+ 
+waive, suspend, or modify the payment of costs at sentencing or at any time thereafter, R.C. 2947.23(C). If at any time
+ 
+the court finds that an amount owed to the court is due and uncollectible, in whole or in part, the court may direct the
+ 
+clerk of court to cancel all or part of the claim. See R.C. 1901.263; R.C. 1905.38; R.C. 1907.251; R.C. 1925.151; R.C.
+ 
+2101.165; R.C. 2151.542; R.C. 2303.23.
+ 
+●
+In addition to judges taking these steps individually, courts collectively should reduce or waive costs and fees on a
+ 
+broader basis (or set up procedures for doing so) by amending their local rules or issuing emergency administrative
+ 
+orders.
+ 
+●
+Grant motions to mitigate (whether from defendants themselves or from the prosecution) fines and other penalties
+ 
+wherever reasonable and do so without converting those obligations to community service, as we do not know when
+ 
+community service can be safely completed.
+  
+4. Meanwhile, if any court-ordered debt, community service, or similar sanction must remain, 
+​
+courts should postpone
+ 
+collection, performance, and any driver’s-license suspensions for at least 6 months
+​
+. Courts should direct local clerk of
+ 
+court’s offices to do the same, and to waive as many costs as possible. Drivers’ license suspensions should not be issued for at
+ 
+least 6 months, based on unpaid fines, fees, or costs, incomplete community service, or incomplete drivers’ intervention
+ 
+programs.
+ 
+5. Reduce incarceration by mitigating or remitting jail sentences and granting judicial release from prison
+​
+. Much as they
+ 
+should seek to reduce the jail population by incarcerating fewer defendants pretrial, courts should also look to make sure that
+ 
+people are incarcerated only when strictly necessary. For example:
+ 
+●
+For people serving jail sentences, judges should grant “motions to mitigate” from defendants and issue orders resetting
+ 
+sentences.
+ 
+●
+Working together, local judges should issue emergency local rules or administrative orders facilitating this strategy on
+ 
+a court-wide level.
+ 
+●
+As discussed above for pretrial defendants, courts should also authorize sheriffs to release people whose jail sentences
+ 
+are ending soon (e.g. within 90 days), meet COVID-19-risk criteria (e.g., age, health conditions), or who the sheriff
+ 
+believes should be released to maintain health and safety during the crisis.
+ 
+●
+Sentencing judges should limit the use of incarceration as a response to pending probation violations. For individuals
+ 
+who remain incarcerated, courts and community corrections should work to resolve the violations and allow release as
+ 
+soon as possible with least restrictive means.
+ 
+●
+Similarly, wherever possible, courts should grant motions for judicial release from prison under R.C. 2929.20.
+ 
+6. Cancel, modify, or postpone probation, parole, and pretrial meetings, court-ordered classes, and in-person drug testing
+​
+.
+ 
+Courts should modify conditions of supervision, whether at the discretion of individual judges or, ideally, on behalf of the court
+ 
+as a whole. Most importantly, courts should modify all reporting conditions to phone- or video-reporting, keeping in mind that
+ 
+not all people will be able to access or use all possible technologies. It is possible to ensure access to justice and speedy closure
+ 
+of cases, remove requirements that are impractical or unwise during a health crisis, and refrain from in-person meetings – all at
+ 
+once.
+ 
+7. Work to resolve cases without physical appearances as much as possible.
+​
+ During this time of social distancing, it is
+ 
+important that people be in the courthouse only when strictly necessary. Meanwhile, continuances are not always ideal: in
+ 
+addition to piling up work for the courts, they also keep pending matters that can hold people back from employment, housing,
+ 
+and other opportunities, all of which may be especially urgent in this time of upheaval. Accordingly, courts should:
+ 
+●
+Allow for speedy trials through technology, authorizing audiovisual devices for all proceedings. For open criminal
+ 
+cases, judges should allow defendants to voluntarily waive in-person hearings and continue the process through phone
+ 
+or video options. If parties do no have access to the necessary audiovisual technology, and with the consent of the
+ 
+defendant, courts should allow counsel to appear in person or via phone on behalf of a defendant. Courts should also
+ 
+waive appearances for status conferences and updates (for people both in and out of custody).
+ 
+●
+Resolve issues that do not require an appearance at all. For example, if a person is eligible for record-sealing, courts
+ 
+should grant the application without any appearance, or with an appearance by phone if necessary.
+ 
+8. Continue non-essential pending criminal cases
+​
+. Where matters cannot be resolved more quickly or through audiovisual
+ 
+technology, courts should continue all but the most time-sensitive prosecutions while protecting defendants’ rights to a speedy
+  
+trial. As Chief Justice O’Connor noted in her press conference yesterday, courts may extend the time for a hearing or trial for “the
+ 
+period of any reasonable continuance granted other than upon the accused’s own motion.” R.C. 2945.72(H).
+ 
+9. Defer sentences where possible
+​
+. Subject to R.C. 2949.01-.05 and on application, courts should suspend sentences wherever
+ 
+possible for any potential appeals.
+ 
+What should LAW ENFORCEMENT (police & prosecutors) do?
+ 
+1. Police should exercise discretion to reduce arrests and citations, and they should cite-and-release
+​
+, rather than arrest,
+ 
+wherever possible. As with personal-recognizance bonds, people accused of traffic offenses, misdemeanors, and fourth- or
+ 
+fifth-degree felonies should be presumptively cited rather than arrested. For other cases, police should use their discretion,
+ 
+preferring citation wherever doing so would not unreasonably endanger the public safety.
+ 
+2. Prosecutors should exercise discretion to limit the number of pending cases and people held in jails
+​
+ (whether pretrial and
+ 
+or after a conviction). Prosecutors should work with courts and jails to ensure health, safety, and justice by ensuring that the
+ 
+court, jail, and prison system is being used only when justice and public safety demand it. Accordingly, we recommend that
+ 
+prosecutors:
+ 
+●
+Set up a process to review all incoming, pending, and recently closed cases and ask courts to take many of the actions
+ 
+listed above (such as mitigating bonds, jail sentences, or financial obligations).
+ 
+●
+Decline to prosecute and request that courts dismiss criminal charges whenever possible. Where that is not an option,
+ 
+prosecutors should seek community-based alternatives to incarceration wherever possible.
+ 
+What should JAILS do?
+ 
+1. Wherever authorized and reasonable, release people held in jails (whether pretrial or serving a sentence)
+​
+. Jails in
+ 
+general are overcrowded, undersanitized places, which makes them a particular risk to public health in the midst of this crisis. For
+ 
+that reason, jails should do whatever they can to keep their populations as low as reasonably possible while this crisis continues.
+ 
+For example:
+ 
+●
+As noted above, sheriffs can work with courts and prosecutors to release inmates in the interest of public health and
+ 
+safety. Jails should also release people wherever over-crowding conditions threaten public health and safety, seeking
+ 
+emergency authorizations where necessary.
+ 
+●
+Release people in jails who are within three months of completing their sentences. Early release is already common
+ 
+practice in some of Ohio’s largest counties, where people are released to keep the jail under a certain capacity. As
+ 
+above, jails should work with prosecutors and courts where needed.
+ 
+2. Limit admission of new inmates and create a process to screen for COVID-19
+​
+. Sheriffs should ensure that they are
+ 
+following best practices and work with public-health experts to ensure that they are regularly screening guards, new admits, and
+ 
+existing inmates for symptoms of COVID-19 (such as fevers). Where anyone shows symptoms, jail staff should involve
+ 
+public-health authorities as soon as possible.
+ 
+3. Provide safe conditions and healthcare to prisoners at no charge and with no medical co-pays
+​
+. Preventative healthcare in
+ 
+jails can save many lives, especially under current conditions. Jails should provide hand sanitizer, soap, tissues, cleaning
+ 
+products, and hygiene items in abundance. To the extent needed during this health crisis, jails should change policies that limit
+ 
+such products. They should also ensure that there is adequate space, processes, and resources to care for anyone who is
+  
+incarcerated who begins to exhibit symptoms, in light of the “the government’s obligation to provide medical care for those
+ 
+whom it is punishing by incarceration.” Estelle v. Gamble, 429 U.S. 97, 103, 97 S.Ct. 285, 50 L.Ed.2d 251 (1976).
+ 
+4. Create opportunities for safe communication with people outside the jail
+​
+. Understandably and commendably, jails have
+ 
+limited in-person visitation. At the same time, connection to one’s children, parents, family, and community is key, especially
+ 
+during a crisis. Jails must therefore find other means to facilitate this communication safely. For example, jails should
+ 
+temporarily make calls free, increase capacity for telecommunication, and modify rules about telecommunication
+ 
+times/hours/access.
+ 
+* * *
+ 
+We emphasize that these recommendations focus only on the criminal legal system, which is OJPC’s organizational focus. There
+ 
+are many other ways that the legal system should also respond to the crisis to ensure that the needs of vulnerable people are
+ 
+protected (for example, ensuring housing stability).
+ 
+We also note that we are encouraged to see state and local leaders modeling many of these recommendations already. We offer
+ 
+these suggestions in the hope that they will become more uniform across the state, and quickly. After all, our core message is
+ 
+simple: if leaders wait until guards or inmates test positive for COVID-19 before taking action, they are too late.
+ 
+ 
+ 
