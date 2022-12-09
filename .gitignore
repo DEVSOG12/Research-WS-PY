@@ -4,6 +4,8 @@
 src/client_secrets.json
 # Remove ./liwc/ directory and all files in it
 
+output/
+outputs/
 liwc/
 liwc_fixed.zip
 liwc_fixed/
